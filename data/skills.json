@@ -1,5 +1,68 @@
 [
   {
+    "name": "android-release-emulator-qa-skill",
+    "nameWithOwner": "Harzva/android-release-emulator-qa-skill",
+    "url": "https://github.com/Harzva/android-release-emulator-qa-skill",
+    "description": "Codex skill for Android release APK QA with emulator, adb, screenshots, UI XML, logcat, SHA256, and GitHub Release artifact checks.",
+    "isPrivate": false,
+    "isArchived": false,
+    "isFork": false,
+    "primaryLanguage": {
+      "name": "Python"
+    },
+    "pushedAt": "2026-05-14T09:52:00Z",
+    "updatedAt": "2026-05-14T09:52:16Z",
+    "createdAt": "2026-05-14T09:51:56Z",
+    "defaultBranchRef": {
+      "name": "main"
+    },
+    "homepageUrl": "",
+    "stargazerCount": 0,
+    "forkCount": 0,
+    "repositoryTopics": [
+      "adb",
+      "android",
+      "apk",
+      "codex-skill",
+      "emulator",
+      "github-release",
+      "mumu",
+      "qa"
+    ],
+    "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/android-release-emulator-qa-skill",
+    "pages": {
+      "enabled": false
+    },
+    "latestRelease": null
+  },
+  {
+    "name": "build-your-meta-repo-skill",
+    "nameWithOwner": "Harzva/build-your-meta-repo-skill",
+    "url": "https://github.com/Harzva/build-your-meta-repo-skill",
+    "description": "Codex skill for building auto-updating GitHub meta repositories: project atlas, release hub, pages hub, and skills hub.",
+    "isPrivate": false,
+    "isArchived": false,
+    "isFork": false,
+    "primaryLanguage": {
+      "name": "Python"
+    },
+    "pushedAt": "2026-05-14T09:39:39Z",
+    "updatedAt": "2026-05-14T09:39:43Z",
+    "createdAt": "2026-05-14T09:29:50Z",
+    "defaultBranchRef": {
+      "name": "main"
+    },
+    "homepageUrl": "",
+    "stargazerCount": 0,
+    "forkCount": 0,
+    "repositoryTopics": [],
+    "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/build-your-meta-repo-skill",
+    "pages": {
+      "enabled": false
+    },
+    "latestRelease": null
+  },
+  {
     "name": "CampusAgent-QA",
     "nameWithOwner": "Harzva/CampusAgent-QA",
     "url": "https://github.com/Harzva/CampusAgent-QA",
@@ -26,7 +89,7 @@
       "spring-boot",
       "vue"
     ],
-    "openGraphImageUrl": "https://opengraph.githubassets.com/meta/Harzva/CampusAgent-QA",
+    "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/CampusAgent-QA",
     "pages": {
       "enabled": true,
       "url": "https://harzva.github.io/CampusAgent-QA/",
@@ -60,9 +123,50 @@
     "stargazerCount": 0,
     "forkCount": 0,
     "repositoryTopics": [],
-    "openGraphImageUrl": "https://opengraph.githubassets.com/meta/Harzva/copilot-plugin-cc",
+    "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/copilot-plugin-cc",
     "pages": {
       "enabled": false
+    },
+    "latestRelease": null
+  },
+  {
+    "name": "design-md-flow",
+    "nameWithOwner": "Harzva/design-md-flow",
+    "url": "https://github.com/Harzva/design-md-flow",
+    "description": "Portable DESIGN.md workflow skill for agent-driven frontend design",
+    "isPrivate": false,
+    "isArchived": false,
+    "isFork": false,
+    "primaryLanguage": {
+      "name": "Python"
+    },
+    "pushedAt": "2026-05-14T14:33:35Z",
+    "updatedAt": "2026-05-14T14:35:54Z",
+    "createdAt": "2026-05-14T09:13:53Z",
+    "defaultBranchRef": {
+      "name": "main"
+    },
+    "homepageUrl": "https://harzva.github.io/design-md-flow/",
+    "stargazerCount": 0,
+    "forkCount": 0,
+    "repositoryTopics": [
+      "agent-skills",
+      "ai-agents",
+      "codex",
+      "design-md",
+      "design-systems",
+      "frontend"
+    ],
+    "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/design-md-flow",
+    "pages": {
+      "enabled": true,
+      "url": "https://harzva.github.io/design-md-flow/",
+      "status": null,
+      "source": {
+        "branch": "main",
+        "path": "/"
+      },
+      "httpsEnforced": true
     },
     "latestRelease": null
   },
@@ -87,7 +191,7 @@
     "stargazerCount": 0,
     "forkCount": 0,
     "repositoryTopics": [],
-    "openGraphImageUrl": "https://opengraph.githubassets.com/meta/Harzva/everything-agent-cli-to-claude-code",
+    "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/everything-agent-cli-to-claude-code",
     "pages": {
       "enabled": false
     },
@@ -112,7 +216,7 @@
     "stargazerCount": 0,
     "forkCount": 0,
     "repositoryTopics": [],
-    "openGraphImageUrl": "https://opengraph.githubassets.com/meta/Harzva/gen-zhihu-article-skill",
+    "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/gen-zhihu-article-skill",
     "pages": {
       "enabled": false
     },
@@ -139,7 +243,7 @@
     "stargazerCount": 0,
     "forkCount": 0,
     "repositoryTopics": [],
-    "openGraphImageUrl": "https://opengraph.githubassets.com/meta/Harzva/gh-account-router",
+    "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/gh-account-router",
     "pages": {
       "enabled": false
     },
@@ -164,7 +268,40 @@
     "stargazerCount": 0,
     "forkCount": 0,
     "repositoryTopics": [],
-    "openGraphImageUrl": "https://opengraph.githubassets.com/meta/Harzva/gh-actions-release-builder",
+    "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/gh-actions-release-builder",
+    "pages": {
+      "enabled": false
+    },
+    "latestRelease": null
+  },
+  {
+    "name": "gh-repo-cartographer",
+    "nameWithOwner": "Harzva/gh-repo-cartographer",
+    "url": "https://github.com/Harzva/gh-repo-cartographer",
+    "description": "Codex skill and CLI for mapping GitHub repositories to local checkouts and sync status.",
+    "isPrivate": false,
+    "isArchived": false,
+    "isFork": false,
+    "primaryLanguage": {
+      "name": "Python"
+    },
+    "pushedAt": "2026-05-14T10:47:46Z",
+    "updatedAt": "2026-05-14T10:47:50Z",
+    "createdAt": "2026-05-14T10:34:15Z",
+    "defaultBranchRef": {
+      "name": "main"
+    },
+    "homepageUrl": "",
+    "stargazerCount": 0,
+    "forkCount": 0,
+    "repositoryTopics": [
+      "automation",
+      "codex-skill",
+      "github-cli",
+      "python",
+      "repository-management"
+    ],
+    "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/gh-repo-cartographer",
     "pages": {
       "enabled": false
     },
@@ -181,8 +318,8 @@
     "primaryLanguage": {
       "name": "Python"
     },
-    "pushedAt": "2026-05-14T00:18:10Z",
-    "updatedAt": "2026-05-14T00:17:54Z",
+    "pushedAt": "2026-05-14T09:19:05Z",
+    "updatedAt": "2026-05-14T09:19:10Z",
     "createdAt": "2026-05-13T16:47:57Z",
     "defaultBranchRef": {
       "name": "main"
@@ -200,7 +337,7 @@
       "release-automation",
       "workflow-automation"
     ],
-    "openGraphImageUrl": "https://opengraph.githubassets.com/meta/Harzva/github-management-suite",
+    "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/github-management-suite",
     "pages": {
       "enabled": false
     },
@@ -210,8 +347,70 @@
       "url": "https://github.com/Harzva/github-management-suite/releases/tag/v0.2.0",
       "publishedAt": "2026-05-14T00:18:11Z",
       "prerelease": false,
-      "draft": false
+      "draft": false,
+      "assets": []
     }
+  },
+  {
+    "name": "harzva-project-atlas",
+    "nameWithOwner": "Harzva/harzva-project-atlas",
+    "url": "https://github.com/Harzva/harzva-project-atlas",
+    "description": "Harzva project atlas: auto-updating classified index of public repositories, hubs, pages, releases, skills, and forks.",
+    "isPrivate": false,
+    "isArchived": false,
+    "isFork": false,
+    "primaryLanguage": {
+      "name": "Python"
+    },
+    "pushedAt": "2026-05-14T09:39:21Z",
+    "updatedAt": "2026-05-14T09:39:25Z",
+    "createdAt": "2026-05-14T09:27:13Z",
+    "defaultBranchRef": {
+      "name": "main"
+    },
+    "homepageUrl": "https://harzva.github.io/harzva-project-atlas/",
+    "stargazerCount": 0,
+    "forkCount": 0,
+    "repositoryTopics": [],
+    "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/harzva-project-atlas",
+    "pages": {
+      "enabled": true,
+      "url": "https://harzva.github.io/harzva-project-atlas/",
+      "status": null,
+      "source": {
+        "branch": "main",
+        "path": "/"
+      },
+      "httpsEnforced": true
+    },
+    "latestRelease": null
+  },
+  {
+    "name": "harzva-skills-hub",
+    "nameWithOwner": "Harzva/harzva-skills-hub",
+    "url": "https://github.com/Harzva/harzva-skills-hub",
+    "description": "Auto-updating registry of Harzva Codex skills, workflow skills, and agent recipes.",
+    "isPrivate": false,
+    "isArchived": false,
+    "isFork": false,
+    "primaryLanguage": {
+      "name": "Python"
+    },
+    "pushedAt": "2026-05-14T09:39:28Z",
+    "updatedAt": "2026-05-14T09:39:32Z",
+    "createdAt": "2026-05-14T09:29:45Z",
+    "defaultBranchRef": {
+      "name": "main"
+    },
+    "homepageUrl": "",
+    "stargazerCount": 0,
+    "forkCount": 0,
+    "repositoryTopics": [],
+    "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/harzva-skills-hub",
+    "pages": {
+      "enabled": false
+    },
+    "latestRelease": null
   },
   {
     "name": "loloop-skill",
@@ -232,7 +431,7 @@
     "stargazerCount": 0,
     "forkCount": 0,
     "repositoryTopics": [],
-    "openGraphImageUrl": "https://opengraph.githubassets.com/meta/Harzva/loloop-skill",
+    "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/loloop-skill",
     "pages": {
       "enabled": false
     },
@@ -249,8 +448,8 @@
     "primaryLanguage": {
       "name": "JavaScript"
     },
-    "pushedAt": "2026-05-14T08:01:25Z",
-    "updatedAt": "2026-05-14T08:02:24Z",
+    "pushedAt": "2026-05-14T09:14:57Z",
+    "updatedAt": "2026-05-14T09:15:02Z",
     "createdAt": "2026-05-14T08:01:16Z",
     "defaultBranchRef": {
       "name": "main"
@@ -266,7 +465,7 @@
       "readme",
       "screenshot"
     ],
-    "openGraphImageUrl": "https://opengraph.githubassets.com/meta/Harzva/ReadmeShowcaseScreenshot-Skill",
+    "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/ReadmeShowcaseScreenshot-Skill",
     "pages": {
       "enabled": false
     },
@@ -293,7 +492,7 @@
     "stargazerCount": 0,
     "forkCount": 0,
     "repositoryTopics": [],
-    "openGraphImageUrl": "https://opengraph.githubassets.com/meta/Harzva/webpage-screenshot-md-skill",
+    "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/webpage-screenshot-md-skill",
     "pages": {
       "enabled": false
     },
@@ -318,7 +517,7 @@
     "stargazerCount": 0,
     "forkCount": 0,
     "repositoryTopics": [],
-    "openGraphImageUrl": "https://opengraph.githubassets.com/meta/Harzva/zhihu-publish-skill",
+    "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/zhihu-publish-skill",
     "pages": {
       "enabled": false
     },
@@ -343,7 +542,7 @@
     "stargazerCount": 0,
     "forkCount": 0,
     "repositoryTopics": [],
-    "openGraphImageUrl": "https://opengraph.githubassets.com/meta/Harzva/image2_UI_skill",
+    "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/image2_UI_skill",
     "pages": {
       "enabled": false
     },
@@ -368,7 +567,7 @@
     "stargazerCount": 0,
     "forkCount": 0,
     "repositoryTopics": [],
-    "openGraphImageUrl": "https://opengraph.githubassets.com/meta/Harzva/Oh-Reflective-loop-skills",
+    "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/Oh-Reflective-loop-skills",
     "pages": {
       "enabled": false
     },

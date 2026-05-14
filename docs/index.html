@@ -1,0 +1,246 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Harzva Skills Hub</title>
+  <style>
+    :root {
+      --ink: #161613;
+      --paper: #f6f3ea;
+      --panel: #fffdf6;
+      --line: #22221d;
+      --acid: #d7ff48;
+      --coral: #ff6542;
+      --cyan: #6bd8c7;
+      --violet: #6f5cff;
+      --muted: #5c5b53;
+    }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      color: var(--ink);
+      background:
+        linear-gradient(90deg, rgba(22,22,19,.055) 1px, transparent 1px) 0 0 / 42px 42px,
+        linear-gradient(rgba(22,22,19,.045) 1px, transparent 1px) 0 0 / 42px 42px,
+        var(--paper);
+      font-family: ui-serif, Georgia, "Times New Roman", serif;
+    }
+    a { color: inherit; }
+    .hero {
+      min-height: 76vh;
+      display: grid;
+      align-items: end;
+      padding: 7vw 5vw 4vw;
+      border-bottom: 2px solid var(--line);
+      background: linear-gradient(112deg, transparent 0 62%, var(--acid) 62% 100%);
+    }
+    .eyebrow {
+      display: inline-flex;
+      width: fit-content;
+      border: 2px solid var(--line);
+      background: var(--cyan);
+      box-shadow: 5px 5px 0 var(--line);
+      padding: 8px 10px;
+      font: 800 13px/1.2 ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+      text-transform: uppercase;
+    }
+    h1 {
+      margin: 28px 0 16px;
+      max-width: 1100px;
+      font-size: clamp(50px, 11vw, 154px);
+      line-height: .84;
+      letter-spacing: 0;
+    }
+    .lead { max-width: 860px; margin: 0; font-size: clamp(19px, 2.2vw, 30px); line-height: 1.18; }
+    .stats { display: flex; flex-wrap: wrap; gap: 12px; margin-top: 34px; }
+    .stats span {
+      min-width: 126px;
+      border: 2px solid var(--line);
+      background: var(--panel);
+      box-shadow: 4px 4px 0 var(--line);
+      padding: 12px 14px;
+      font: 750 13px/1.1 ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+      text-transform: uppercase;
+    }
+    .stats strong { display: block; font-size: 28px; font-family: Georgia, "Times New Roman", serif; }
+    main { padding: 38px 5vw 70px; }
+    .section-title { font-size: clamp(32px, 5vw, 76px); line-height: .92; margin: 24px 0 18px; letter-spacing: 0; }
+    .grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 18px; }
+    .card {
+      border: 2px solid var(--line);
+      background: var(--panel);
+      box-shadow: 7px 7px 0 var(--line);
+      padding: 18px;
+      min-height: 100%;
+      transition: transform .18s ease, box-shadow .18s ease;
+    }
+    .card:hover { transform: translate(-3px, -3px); box-shadow: 10px 10px 0 var(--coral); }
+    .shot { display: block; margin: -18px -18px 16px; border-bottom: 2px solid var(--line); aspect-ratio: 1200 / 630; overflow: hidden; background: #e9e6d9; }
+    .shot img { width: 100%; height: 100%; object-fit: cover; display: block; }
+    .kicker { margin: 0 0 8px; color: var(--muted); font: 800 12px/1.2 ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; text-transform: uppercase; }
+    h2 { margin: 0 0 10px; font-size: 25px; line-height: 1.05; letter-spacing: 0; }
+    p { line-height: 1.42; }
+    .links { display: flex; flex-wrap: wrap; gap: 10px; margin-top: 14px; }
+    .links a {
+      text-decoration: none;
+      border-bottom: 2px solid var(--line);
+      font: 800 13px/1 ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+    }
+    .lane { margin-bottom: 34px; }
+    footer { padding: 24px 5vw 44px; font: 650 13px/1.5 ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; color: var(--muted); }
+    @media (max-width: 720px) {
+      .hero { min-height: 68vh; padding-top: 78px; }
+      .grid { grid-template-columns: 1fr; }
+    }
+  </style>
+</head>
+<body>
+  <section class="hero">
+    <div>
+      <div class="eyebrow">Codex skills / workflows</div>
+      <h1>Harzva Skills Hub</h1>
+      <p class="lead">A registry for Harzva skills, workflow skills, and reusable agent operating recipes.</p>
+      <div class="stats"><span><strong>88</strong>repositories</span>
+<span><strong>11</strong>artifacts</span>
+<span><strong>15</strong>pages</span>
+<span><strong>6</strong>releases</span>
+<span><strong>19</strong>skills</span></div>
+    </div>
+  </section>
+  <main><section class="lane"><h2 class="section-title">Skill Registry</h2><div class="grid"><article class="card">
+  <a class="shot" href="https://github.com/Harzva/design-md-flow"><img src="https://opengraph.githubassets.com/metarepo/Harzva/design-md-flow" alt="design-md-flow preview" loading="lazy"></a>
+  <p class="kicker">Skill / Python</p>
+  <h2>design-md-flow</h2>
+  <p>Portable DESIGN.md workflow skill for agent-driven frontend design</p>
+  <div class="links"><a href="https://github.com/Harzva/design-md-flow">Skill</a><a href="https://github.com/Harzva/design-md-flow">Code</a></div>
+</article>
+<article class="card">
+  <a class="shot" href="https://github.com/Harzva/gh-repo-cartographer"><img src="https://opengraph.githubassets.com/metarepo/Harzva/gh-repo-cartographer" alt="gh-repo-cartographer preview" loading="lazy"></a>
+  <p class="kicker">Skill / Python</p>
+  <h2>gh-repo-cartographer</h2>
+  <p>Codex skill and CLI for mapping GitHub repositories to local checkouts and sync status.</p>
+  <div class="links"><a href="https://github.com/Harzva/gh-repo-cartographer">Skill</a><a href="https://github.com/Harzva/gh-repo-cartographer">Code</a></div>
+</article>
+<article class="card">
+  <a class="shot" href="https://github.com/Harzva/android-release-emulator-qa-skill"><img src="https://opengraph.githubassets.com/metarepo/Harzva/android-release-emulator-qa-skill" alt="android-release-emulator-qa-skill preview" loading="lazy"></a>
+  <p class="kicker">Skill / Python</p>
+  <h2>android-release-emulator-qa-skill</h2>
+  <p>Codex skill for Android release APK QA with emulator, adb, screenshots, UI XML, logcat, SHA256, and GitHub Release artifact checks.</p>
+  <div class="links"><a href="https://github.com/Harzva/android-release-emulator-qa-skill">Skill</a><a href="https://github.com/Harzva/android-release-emulator-qa-skill">Code</a></div>
+</article>
+<article class="card">
+  <a class="shot" href="https://github.com/Harzva/build-your-meta-repo-skill"><img src="https://opengraph.githubassets.com/metarepo/Harzva/build-your-meta-repo-skill" alt="build-your-meta-repo-skill preview" loading="lazy"></a>
+  <p class="kicker">Skill / Python</p>
+  <h2>build-your-meta-repo-skill</h2>
+  <p>Codex skill for building auto-updating GitHub meta repositories: project atlas, release hub, pages hub, and skills hub.</p>
+  <div class="links"><a href="https://github.com/Harzva/build-your-meta-repo-skill">Skill</a><a href="https://github.com/Harzva/build-your-meta-repo-skill">Code</a></div>
+</article>
+<article class="card">
+  <a class="shot" href="https://github.com/Harzva/harzva-skills-hub"><img src="https://opengraph.githubassets.com/metarepo/Harzva/harzva-skills-hub" alt="harzva-skills-hub preview" loading="lazy"></a>
+  <p class="kicker">Skill / Python</p>
+  <h2>harzva-skills-hub</h2>
+  <p>Auto-updating registry of Harzva Codex skills, workflow skills, and agent recipes.</p>
+  <div class="links"><a href="https://github.com/Harzva/harzva-skills-hub">Skill</a><a href="https://github.com/Harzva/harzva-skills-hub">Code</a></div>
+</article>
+<article class="card">
+  <a class="shot" href="https://github.com/Harzva/harzva-project-atlas"><img src="https://opengraph.githubassets.com/metarepo/Harzva/harzva-project-atlas" alt="harzva-project-atlas preview" loading="lazy"></a>
+  <p class="kicker">Skill / Python</p>
+  <h2>harzva-project-atlas</h2>
+  <p>Harzva project atlas: auto-updating classified index of public repositories, hubs, pages, releases, skills, and forks.</p>
+  <div class="links"><a href="https://github.com/Harzva/harzva-project-atlas">Skill</a><a href="https://github.com/Harzva/harzva-project-atlas">Code</a></div>
+</article>
+<article class="card">
+  <a class="shot" href="https://github.com/Harzva/github-management-suite"><img src="https://opengraph.githubassets.com/metarepo/Harzva/github-management-suite" alt="github-management-suite preview" loading="lazy"></a>
+  <p class="kicker">Skill / Python</p>
+  <h2>github-management-suite</h2>
+  <p>Cross-platform Codex skill for full GitHub repository lifecycle management</p>
+  <div class="links"><a href="https://github.com/Harzva/github-management-suite">Skill</a><a href="https://github.com/Harzva/github-management-suite">Code</a></div>
+</article>
+<article class="card">
+  <a class="shot" href="https://github.com/Harzva/ReadmeShowcaseScreenshot-Skill"><img src="https://opengraph.githubassets.com/metarepo/Harzva/ReadmeShowcaseScreenshot-Skill" alt="ReadmeShowcaseScreenshot-Skill preview" loading="lazy"></a>
+  <p class="kicker">Skill / JavaScript</p>
+  <h2>ReadmeShowcaseScreenshot-Skill</h2>
+  <p>Codex skill for README-ready screenshots, GIFs, videos, hero images, and preview galleries.</p>
+  <div class="links"><a href="https://github.com/Harzva/ReadmeShowcaseScreenshot-Skill">Skill</a><a href="https://github.com/Harzva/ReadmeShowcaseScreenshot-Skill">Code</a></div>
+</article>
+<article class="card">
+  <a class="shot" href="https://github.com/Harzva/gh-actions-release-builder"><img src="https://opengraph.githubassets.com/metarepo/Harzva/gh-actions-release-builder" alt="gh-actions-release-builder preview" loading="lazy"></a>
+  <p class="kicker">Skill / Mixed</p>
+  <h2>gh-actions-release-builder</h2>
+  <p>Codex skill for professional GitHub Actions build, package, artifact, and release workflows</p>
+  <div class="links"><a href="https://github.com/Harzva/gh-actions-release-builder">Skill</a><a href="https://github.com/Harzva/gh-actions-release-builder">Code</a></div>
+</article>
+<article class="card">
+  <a class="shot" href="https://github.com/Harzva/CampusAgent-QA"><img src="https://opengraph.githubassets.com/metarepo/Harzva/CampusAgent-QA" alt="CampusAgent-QA preview" loading="lazy"></a>
+  <p class="kicker">Skill / Java</p>
+  <h2>CampusAgent-QA</h2>
+  <p>Agentic campus QA system with RAG retrieval, LLM Wiki memory, and GBrain skills</p>
+  <div class="links"><a href="https://github.com/Harzva/CampusAgent-QA">Skill</a><a href="https://github.com/Harzva/CampusAgent-QA">Code</a></div>
+</article>
+<article class="card">
+  <a class="shot" href="https://github.com/Harzva/gh-account-router"><img src="https://opengraph.githubassets.com/metarepo/Harzva/gh-account-router" alt="gh-account-router preview" loading="lazy"></a>
+  <p class="kicker">Skill / Python</p>
+  <h2>gh-account-router</h2>
+  <p>Codex skill and CLI helper for routing gh commands across GitHub accounts</p>
+  <div class="links"><a href="https://github.com/Harzva/gh-account-router">Skill</a><a href="https://github.com/Harzva/gh-account-router">Code</a></div>
+</article>
+<article class="card">
+  <a class="shot" href="https://github.com/Harzva/image2_UI_skill"><img src="https://opengraph.githubassets.com/metarepo/Harzva/image2_UI_skill" alt="image2_UI_skill preview" loading="lazy"></a>
+  <p class="kicker">Skill / Mixed</p>
+  <h2>image2_UI_skill</h2>
+  <p>No description yet.</p>
+  <div class="links"><a href="https://github.com/Harzva/image2_UI_skill">Skill</a><a href="https://github.com/Harzva/image2_UI_skill">Code</a></div>
+</article>
+<article class="card">
+  <a class="shot" href="https://github.com/Harzva/everything-agent-cli-to-claude-code"><img src="https://opengraph.githubassets.com/metarepo/Harzva/everything-agent-cli-to-claude-code" alt="everything-agent-cli-to-claude-code preview" loading="lazy"></a>
+  <p class="kicker">Skill / Shell</p>
+  <h2>everything-agent-cli-to-claude-code</h2>
+  <p>Umbrella repo for agent CLI to Claude Code adapters, templates, and plugin registry.</p>
+  <div class="links"><a href="https://github.com/Harzva/everything-agent-cli-to-claude-code">Skill</a><a href="https://github.com/Harzva/everything-agent-cli-to-claude-code">Code</a></div>
+</article>
+<article class="card">
+  <a class="shot" href="https://github.com/Harzva/Oh-Reflective-loop-skills"><img src="https://opengraph.githubassets.com/metarepo/Harzva/Oh-Reflective-loop-skills" alt="Oh-Reflective-loop-skills preview" loading="lazy"></a>
+  <p class="kicker">Skill / Mixed</p>
+  <h2>Oh-Reflective-loop-skills</h2>
+  <p>No description yet.</p>
+  <div class="links"><a href="https://github.com/Harzva/Oh-Reflective-loop-skills">Skill</a><a href="https://github.com/Harzva/Oh-Reflective-loop-skills">Code</a></div>
+</article>
+<article class="card">
+  <a class="shot" href="https://github.com/Harzva/gen-zhihu-article-skill"><img src="https://opengraph.githubassets.com/metarepo/Harzva/gen-zhihu-article-skill" alt="gen-zhihu-article-skill preview" loading="lazy"></a>
+  <p class="kicker">Skill / Mixed</p>
+  <h2>gen-zhihu-article-skill</h2>
+  <p>No description yet.</p>
+  <div class="links"><a href="https://github.com/Harzva/gen-zhihu-article-skill">Skill</a><a href="https://github.com/Harzva/gen-zhihu-article-skill">Code</a></div>
+</article>
+<article class="card">
+  <a class="shot" href="https://github.com/Harzva/zhihu-publish-skill"><img src="https://opengraph.githubassets.com/metarepo/Harzva/zhihu-publish-skill" alt="zhihu-publish-skill preview" loading="lazy"></a>
+  <p class="kicker">Skill / Mixed</p>
+  <h2>zhihu-publish-skill</h2>
+  <p>No description yet.</p>
+  <div class="links"><a href="https://github.com/Harzva/zhihu-publish-skill">Skill</a><a href="https://github.com/Harzva/zhihu-publish-skill">Code</a></div>
+</article>
+<article class="card">
+  <a class="shot" href="https://github.com/Harzva/webpage-screenshot-md-skill"><img src="https://opengraph.githubassets.com/metarepo/Harzva/webpage-screenshot-md-skill" alt="webpage-screenshot-md-skill preview" loading="lazy"></a>
+  <p class="kicker">Skill / JavaScript</p>
+  <h2>webpage-screenshot-md-skill</h2>
+  <p>No description yet.</p>
+  <div class="links"><a href="https://github.com/Harzva/webpage-screenshot-md-skill">Skill</a><a href="https://github.com/Harzva/webpage-screenshot-md-skill">Code</a></div>
+</article>
+<article class="card">
+  <a class="shot" href="https://github.com/Harzva/loloop-skill"><img src="https://opengraph.githubassets.com/metarepo/Harzva/loloop-skill" alt="loloop-skill preview" loading="lazy"></a>
+  <p class="kicker">Skill / Mixed</p>
+  <h2>loloop-skill</h2>
+  <p>No description yet.</p>
+  <div class="links"><a href="https://github.com/Harzva/loloop-skill">Skill</a><a href="https://github.com/Harzva/loloop-skill">Code</a></div>
+</article>
+<article class="card">
+  <a class="shot" href="https://github.com/Harzva/copilot-plugin-cc"><img src="https://opengraph.githubassets.com/metarepo/Harzva/copilot-plugin-cc" alt="copilot-plugin-cc preview" loading="lazy"></a>
+  <p class="kicker">Skill / Shell</p>
+  <h2>copilot-plugin-cc</h2>
+  <p>copilot-plugin-cc placeholder repository for Claude Code adapter work.</p>
+  <div class="links"><a href="https://github.com/Harzva/copilot-plugin-cc">Skill</a><a href="https://github.com/Harzva/copilot-plugin-cc">Code</a></div>
+</article></div></section></main>
+  <footer>Generated 2026-05-14T14:47:24.295923+00:00.</footer>
+</body>
+</html>

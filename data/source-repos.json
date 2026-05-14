@@ -1,105 +1,105 @@
 [
   {
-    "createdAt": "2021-01-14T05:36:08Z",
-    "defaultBranchRef": {
-      "name": "master"
-    },
-    "description": null,
-    "forkCount": 0,
-    "homepageUrl": null,
-    "isArchived": false,
-    "isFork": false,
-    "isPrivate": false,
     "name": "ActiveLearning",
     "nameWithOwner": "Harzva/ActiveLearning",
-    "openGraphImageUrl": null,
+    "url": "https://github.com/Harzva/ActiveLearning",
+    "description": null,
+    "isPrivate": false,
+    "isArchived": false,
+    "isFork": false,
     "primaryLanguage": {
       "name": "Python"
     },
     "pushedAt": "2021-01-20T02:47:30Z",
-    "repositoryTopics": [],
-    "stargazerCount": 0,
     "updatedAt": "2021-01-20T02:47:33Z",
-    "url": "https://github.com/Harzva/ActiveLearning",
+    "createdAt": "2021-01-14T05:36:08Z",
+    "defaultBranchRef": {
+      "name": "master"
+    },
+    "homepageUrl": null,
+    "stargazerCount": 0,
+    "forkCount": 0,
+    "openGraphImageUrl": null,
+    "repositoryTopics": [],
     "pages": {
       "enabled": false
     },
     "latestRelease": null
   },
   {
+    "name": "agent-control-plane",
+    "nameWithOwner": "Harzva/agent-control-plane",
+    "url": "https://github.com/Harzva/agent-control-plane",
+    "description": "Reserved placeholder repository under the Harzva account.",
+    "isPrivate": false,
+    "isArchived": false,
+    "isFork": false,
+    "primaryLanguage": null,
+    "pushedAt": "2026-04-09T04:39:22Z",
+    "updatedAt": "2026-04-09T04:39:27Z",
     "createdAt": "2026-04-09T04:33:41Z",
     "defaultBranchRef": {
       "name": "main"
     },
-    "description": "Reserved placeholder repository under the Harzva account.",
-    "forkCount": 0,
     "homepageUrl": null,
-    "isArchived": false,
-    "isFork": false,
-    "isPrivate": false,
-    "name": "agent-control-plane",
-    "nameWithOwner": "Harzva/agent-control-plane",
-    "openGraphImageUrl": null,
-    "primaryLanguage": null,
-    "pushedAt": "2026-04-09T04:39:22Z",
-    "repositoryTopics": [],
     "stargazerCount": 0,
-    "updatedAt": "2026-04-09T04:39:27Z",
-    "url": "https://github.com/Harzva/agent-control-plane",
+    "forkCount": 0,
+    "openGraphImageUrl": null,
+    "repositoryTopics": [],
     "pages": {
       "enabled": false
     },
     "latestRelease": null
   },
   {
-    "createdAt": "2026-04-20T02:55:21Z",
-    "defaultBranchRef": {
-      "name": "main"
-    },
-    "description": null,
-    "forkCount": 0,
-    "homepageUrl": null,
-    "isArchived": false,
-    "isFork": false,
-    "isPrivate": false,
     "name": "agent-hud",
     "nameWithOwner": "Harzva/agent-hud",
-    "openGraphImageUrl": null,
+    "url": "https://github.com/Harzva/agent-hud",
+    "description": null,
+    "isPrivate": false,
+    "isArchived": false,
+    "isFork": false,
     "primaryLanguage": {
       "name": "JavaScript"
     },
     "pushedAt": "2026-04-20T06:38:27Z",
-    "repositoryTopics": [],
-    "stargazerCount": 1,
     "updatedAt": "2026-04-21T15:44:51Z",
-    "url": "https://github.com/Harzva/agent-hud",
+    "createdAt": "2026-04-20T02:55:21Z",
+    "defaultBranchRef": {
+      "name": "main"
+    },
+    "homepageUrl": null,
+    "stargazerCount": 1,
+    "forkCount": 0,
+    "openGraphImageUrl": null,
+    "repositoryTopics": [],
     "pages": {
       "enabled": false
     },
     "latestRelease": null
   },
   {
-    "createdAt": "2026-05-12T09:49:47Z",
-    "defaultBranchRef": {
-      "name": "main"
-    },
-    "description": "Agent job interview roadmap and practice training suite.",
-    "forkCount": 0,
-    "homepageUrl": "https://harzva.github.io/Agent-Job-Interview/",
-    "isArchived": false,
-    "isFork": false,
-    "isPrivate": false,
     "name": "Agent-Job-Interview",
     "nameWithOwner": "Harzva/Agent-Job-Interview",
-    "openGraphImageUrl": null,
+    "url": "https://github.com/Harzva/Agent-Job-Interview",
+    "description": "Agent job interview roadmap and practice training suite.",
+    "isPrivate": false,
+    "isArchived": false,
+    "isFork": false,
     "primaryLanguage": {
       "name": "TypeScript"
     },
     "pushedAt": "2026-05-14T00:36:37Z",
-    "repositoryTopics": [],
-    "stargazerCount": 0,
     "updatedAt": "2026-05-14T00:36:40Z",
-    "url": "https://github.com/Harzva/Agent-Job-Interview",
+    "createdAt": "2026-05-12T09:49:47Z",
+    "defaultBranchRef": {
+      "name": "main"
+    },
+    "homepageUrl": "https://harzva.github.io/Agent-Job-Interview/",
+    "stargazerCount": 0,
+    "forkCount": 0,
+    "openGraphImageUrl": null,
+    "repositoryTopics": [],
     "pages": {
       "enabled": true,
       "url": "https://harzva.github.io/Agent-Job-Interview/",
@@ -113,75 +113,141 @@
     "latestRelease": null
   },
   {
-    "createdAt": "2026-05-08T08:48:14Z",
-    "defaultBranchRef": {
-      "name": "main"
-    },
-    "description": "A simple VS Code extension scaffold for Agent Lens preview harness.",
-    "forkCount": 0,
-    "homepageUrl": null,
-    "isArchived": false,
-    "isFork": false,
-    "isPrivate": false,
     "name": "agent-lens-vscode-extension",
     "nameWithOwner": "Harzva/agent-lens-vscode-extension",
-    "openGraphImageUrl": null,
+    "url": "https://github.com/Harzva/agent-lens-vscode-extension",
+    "description": "A simple VS Code extension scaffold for Agent Lens preview harness.",
+    "isPrivate": false,
+    "isArchived": false,
+    "isFork": false,
     "primaryLanguage": {
       "name": "JavaScript"
     },
     "pushedAt": "2026-05-08T09:16:47Z",
-    "repositoryTopics": [],
-    "stargazerCount": 0,
     "updatedAt": "2026-05-08T09:16:51Z",
-    "url": "https://github.com/Harzva/agent-lens-vscode-extension",
+    "createdAt": "2026-05-08T08:48:14Z",
+    "defaultBranchRef": {
+      "name": "main"
+    },
+    "homepageUrl": null,
+    "stargazerCount": 0,
+    "forkCount": 0,
+    "openGraphImageUrl": null,
+    "repositoryTopics": [],
     "pages": {
       "enabled": false
     },
     "latestRelease": null
   },
   {
+    "name": "android-release-emulator-qa-skill",
+    "nameWithOwner": "Harzva/android-release-emulator-qa-skill",
+    "url": "https://github.com/Harzva/android-release-emulator-qa-skill",
+    "description": "Codex skill for Android release APK QA with emulator, adb, screenshots, UI XML, logcat, SHA256, and GitHub Release artifact checks.",
+    "isPrivate": false,
+    "isArchived": false,
+    "isFork": false,
+    "primaryLanguage": {
+      "name": "Python"
+    },
+    "pushedAt": "2026-05-14T09:52:00Z",
+    "updatedAt": "2026-05-14T09:52:16Z",
+    "createdAt": "2026-05-14T09:51:56Z",
+    "defaultBranchRef": {
+      "name": "main"
+    },
+    "homepageUrl": null,
+    "stargazerCount": 0,
+    "forkCount": 0,
+    "openGraphImageUrl": null,
+    "repositoryTopics": [
+      "adb",
+      "android",
+      "apk",
+      "codex-skill",
+      "emulator",
+      "github-release",
+      "mumu",
+      "qa"
+    ],
+    "pages": {
+      "enabled": false
+    },
+    "latestRelease": null
+  },
+  {
+    "name": "Awesome-Bayesian-Meta-learning",
+    "nameWithOwner": "Harzva/Awesome-Bayesian-Meta-learning",
+    "url": "https://github.com/Harzva/Awesome-Bayesian-Meta-learning",
+    "description": "Meta-learning about Bayesian",
+    "isPrivate": false,
+    "isArchived": false,
+    "isFork": false,
+    "primaryLanguage": null,
+    "pushedAt": "2020-10-31T08:32:33Z",
+    "updatedAt": "2022-06-09T07:12:18Z",
     "createdAt": "2020-10-31T07:31:13Z",
     "defaultBranchRef": {
       "name": "main"
     },
-    "description": "Meta-learning about Bayesian",
-    "forkCount": 0,
     "homepageUrl": null,
-    "isArchived": false,
-    "isFork": false,
-    "isPrivate": false,
-    "name": "Awesome-Bayesian-Meta-learning",
-    "nameWithOwner": "Harzva/Awesome-Bayesian-Meta-learning",
-    "openGraphImageUrl": null,
-    "primaryLanguage": null,
-    "pushedAt": "2020-10-31T08:32:33Z",
-    "repositoryTopics": [],
     "stargazerCount": 1,
-    "updatedAt": "2022-06-09T07:12:18Z",
-    "url": "https://github.com/Harzva/Awesome-Bayesian-Meta-learning",
+    "forkCount": 0,
+    "openGraphImageUrl": null,
+    "repositoryTopics": [],
     "pages": {
       "enabled": false
     },
     "latestRelease": null
   },
   {
-    "createdAt": "2026-05-11T08:22:16Z",
+    "name": "build-your-meta-repo-skill",
+    "nameWithOwner": "Harzva/build-your-meta-repo-skill",
+    "url": "https://github.com/Harzva/build-your-meta-repo-skill",
+    "description": "Codex skill for building auto-updating GitHub meta repositories: project atlas, release hub, pages hub, and skills hub.",
+    "isPrivate": false,
+    "isArchived": false,
+    "isFork": false,
+    "primaryLanguage": {
+      "name": "Python"
+    },
+    "pushedAt": "2026-05-14T09:39:39Z",
+    "updatedAt": "2026-05-14T09:39:43Z",
+    "createdAt": "2026-05-14T09:29:50Z",
     "defaultBranchRef": {
       "name": "main"
     },
-    "description": "Agentic campus QA system with RAG retrieval, LLM Wiki memory, and GBrain skills",
+    "homepageUrl": null,
+    "stargazerCount": 0,
     "forkCount": 0,
-    "homepageUrl": "https://harzva.github.io/CampusAgent-QA/",
-    "isArchived": false,
-    "isFork": false,
-    "isPrivate": false,
+    "openGraphImageUrl": null,
+    "repositoryTopics": [],
+    "pages": {
+      "enabled": false
+    },
+    "latestRelease": null
+  },
+  {
     "name": "CampusAgent-QA",
     "nameWithOwner": "Harzva/CampusAgent-QA",
-    "openGraphImageUrl": null,
+    "url": "https://github.com/Harzva/CampusAgent-QA",
+    "description": "Agentic campus QA system with RAG retrieval, LLM Wiki memory, and GBrain skills",
+    "isPrivate": false,
+    "isArchived": false,
+    "isFork": false,
     "primaryLanguage": {
       "name": "Java"
     },
     "pushedAt": "2026-05-12T15:19:32Z",
+    "updatedAt": "2026-05-12T16:36:53Z",
+    "createdAt": "2026-05-11T08:22:16Z",
+    "defaultBranchRef": {
+      "name": "main"
+    },
+    "homepageUrl": "https://harzva.github.io/CampusAgent-QA/",
+    "stargazerCount": 0,
+    "forkCount": 0,
+    "openGraphImageUrl": null,
     "repositoryTopics": [
       "agent",
       "campus-qa",
@@ -189,9 +255,6 @@
       "spring-boot",
       "vue"
     ],
-    "stargazerCount": 0,
-    "updatedAt": "2026-05-12T16:36:53Z",
-    "url": "https://github.com/Harzva/CampusAgent-QA",
     "pages": {
       "enabled": true,
       "url": "https://harzva.github.io/CampusAgent-QA/",
@@ -205,23 +268,26 @@
     "latestRelease": null
   },
   {
-    "createdAt": "2026-05-09T10:52:36Z",
-    "defaultBranchRef": {
-      "name": "main"
-    },
-    "description": "Campus knowledge QA baseline with switchable RAG and Wiki modes",
-    "forkCount": 0,
-    "homepageUrl": null,
-    "isArchived": false,
-    "isFork": false,
-    "isPrivate": false,
     "name": "CampusRAG-QA",
     "nameWithOwner": "Harzva/CampusRAG-QA",
-    "openGraphImageUrl": null,
+    "url": "https://github.com/Harzva/CampusRAG-QA",
+    "description": "Campus knowledge QA baseline with switchable RAG and Wiki modes",
+    "isPrivate": false,
+    "isArchived": false,
+    "isFork": false,
     "primaryLanguage": {
       "name": "Java"
     },
     "pushedAt": "2026-05-12T15:19:13Z",
+    "updatedAt": "2026-05-12T16:24:08Z",
+    "createdAt": "2026-05-09T10:52:36Z",
+    "defaultBranchRef": {
+      "name": "main"
+    },
+    "homepageUrl": null,
+    "stargazerCount": 0,
+    "forkCount": 0,
+    "openGraphImageUrl": null,
     "repositoryTopics": [
       "campus-qa",
       "milvus",
@@ -229,59 +295,59 @@
       "spring-boot",
       "vue"
     ],
-    "stargazerCount": 0,
-    "updatedAt": "2026-05-12T16:24:08Z",
-    "url": "https://github.com/Harzva/CampusRAG-QA",
     "pages": {
       "enabled": false
     },
     "latestRelease": null
   },
   {
-    "createdAt": "2019-09-16T16:30:52Z",
-    "defaultBranchRef": {
-      "name": "master"
-    },
-    "description": "test",
-    "forkCount": 0,
-    "homepageUrl": null,
-    "isArchived": false,
-    "isFork": false,
-    "isPrivate": false,
     "name": "cangku2",
     "nameWithOwner": "Harzva/cangku2",
-    "openGraphImageUrl": null,
+    "url": "https://github.com/Harzva/cangku2",
+    "description": "test",
+    "isPrivate": false,
+    "isArchived": false,
+    "isFork": false,
     "primaryLanguage": {
       "name": "Python"
     },
     "pushedAt": "2019-09-17T02:07:26Z",
-    "repositoryTopics": [],
-    "stargazerCount": 0,
     "updatedAt": "2019-09-17T02:07:28Z",
-    "url": "https://github.com/Harzva/cangku2",
+    "createdAt": "2019-09-16T16:30:52Z",
+    "defaultBranchRef": {
+      "name": "master"
+    },
+    "homepageUrl": null,
+    "stargazerCount": 0,
+    "forkCount": 0,
+    "openGraphImageUrl": null,
+    "repositoryTopics": [],
     "pages": {
       "enabled": false
     },
     "latestRelease": null
   },
   {
-    "createdAt": "2026-05-14T07:11:57Z",
-    "defaultBranchRef": {
-      "name": "main"
-    },
-    "description": "A top-like terminal monitor for LLM cache hits, cached tokens, and estimated dollars saved.",
-    "forkCount": 0,
-    "homepageUrl": null,
-    "isArchived": false,
-    "isFork": false,
-    "isPrivate": false,
     "name": "catop-cachehit",
     "nameWithOwner": "Harzva/catop-cachehit",
-    "openGraphImageUrl": null,
+    "url": "https://github.com/Harzva/catop-cachehit",
+    "description": "A top-like terminal monitor for LLM cache hits, cached tokens, and estimated dollars saved.",
+    "isPrivate": false,
+    "isArchived": false,
+    "isFork": false,
     "primaryLanguage": {
       "name": "Python"
     },
     "pushedAt": "2026-05-14T08:29:49Z",
+    "updatedAt": "2026-05-14T08:29:53Z",
+    "createdAt": "2026-05-14T07:11:57Z",
+    "defaultBranchRef": {
+      "name": "main"
+    },
+    "homepageUrl": null,
+    "stargazerCount": 0,
+    "forkCount": 0,
+    "openGraphImageUrl": null,
     "repositoryTopics": [
       "ai-agents",
       "cache-hit",
@@ -293,9 +359,6 @@
       "prompt-cache",
       "tui"
     ],
-    "stargazerCount": 0,
-    "updatedAt": "2026-05-14T08:29:53Z",
-    "url": "https://github.com/Harzva/catop-cachehit",
     "pages": {
       "enabled": true,
       "url": "https://harzva.github.io/catop-cachehit/",
@@ -309,23 +372,26 @@
     "latestRelease": null
   },
   {
-    "createdAt": "2026-05-11T08:19:22Z",
-    "defaultBranchRef": {
-      "name": "main"
-    },
-    "description": "Technical roadmaps for China's open and open-weight LLM companies: GLM, Kimi, DeepSeek, MiniMax",
-    "forkCount": 0,
-    "homepageUrl": "https://harzva.github.io/ChinaAI-Roadmaps/",
-    "isArchived": false,
-    "isFork": false,
-    "isPrivate": false,
     "name": "ChinaAI-Roadmaps",
     "nameWithOwner": "Harzva/ChinaAI-Roadmaps",
-    "openGraphImageUrl": null,
+    "url": "https://github.com/Harzva/ChinaAI-Roadmaps",
+    "description": "Technical roadmaps for China's open and open-weight LLM companies: GLM, Kimi, DeepSeek, MiniMax",
+    "isPrivate": false,
+    "isArchived": false,
+    "isFork": false,
     "primaryLanguage": {
       "name": "TypeScript"
     },
     "pushedAt": "2026-05-12T10:54:22Z",
+    "updatedAt": "2026-05-12T10:54:26Z",
+    "createdAt": "2026-05-11T08:19:22Z",
+    "defaultBranchRef": {
+      "name": "main"
+    },
+    "homepageUrl": "https://harzva.github.io/ChinaAI-Roadmaps/",
+    "stargazerCount": 0,
+    "forkCount": 0,
+    "openGraphImageUrl": null,
     "repositoryTopics": [
       "agentic-ai",
       "ai",
@@ -341,9 +407,6 @@
       "roadmap",
       "svg"
     ],
-    "stargazerCount": 0,
-    "updatedAt": "2026-05-12T10:54:26Z",
-    "url": "https://github.com/Harzva/ChinaAI-Roadmaps",
     "pages": {
       "enabled": true,
       "url": "https://harzva.github.io/ChinaAI-Roadmaps/",
@@ -357,160 +420,298 @@
     "latestRelease": null
   },
   {
+    "name": "CMCW",
+    "nameWithOwner": "Harzva/CMCW",
+    "url": "https://github.com/Harzva/CMCW",
+    "description": null,
+    "isPrivate": true,
+    "isArchived": false,
+    "isFork": false,
+    "primaryLanguage": {
+      "name": "Python"
+    },
+    "pushedAt": "2025-12-02T07:51:42Z",
+    "updatedAt": "2025-12-02T07:51:47Z",
+    "createdAt": "2025-12-02T07:07:43Z",
+    "defaultBranchRef": {
+      "name": "main"
+    },
+    "homepageUrl": null,
+    "stargazerCount": 0,
+    "forkCount": 0,
+    "openGraphImageUrl": null,
+    "repositoryTopics": [],
+    "pages": {
+      "enabled": false
+    },
+    "latestRelease": null
+  },
+  {
+    "name": "coae",
+    "nameWithOwner": "Harzva/coae",
+    "url": "https://github.com/Harzva/coae",
+    "description": null,
+    "isPrivate": false,
+    "isArchived": false,
+    "isFork": false,
+    "primaryLanguage": null,
+    "pushedAt": "2022-08-17T07:55:35Z",
+    "updatedAt": "2022-08-17T07:55:34Z",
     "createdAt": "2022-08-17T07:55:34Z",
     "defaultBranchRef": {
       "name": "main"
     },
-    "description": null,
-    "forkCount": 0,
     "homepageUrl": null,
-    "isArchived": false,
-    "isFork": false,
-    "isPrivate": false,
-    "name": "coae",
-    "nameWithOwner": "Harzva/coae",
-    "openGraphImageUrl": null,
-    "primaryLanguage": null,
-    "pushedAt": "2022-08-17T07:55:35Z",
-    "repositoryTopics": [],
     "stargazerCount": 0,
-    "updatedAt": "2022-08-17T07:55:34Z",
-    "url": "https://github.com/Harzva/coae",
+    "forkCount": 0,
+    "openGraphImageUrl": null,
+    "repositoryTopics": [],
     "pages": {
       "enabled": false
     },
     "latestRelease": null
   },
   {
-    "createdAt": "2026-04-13T14:39:15Z",
+    "name": "codex-loop-skill",
+    "nameWithOwner": "Harzva/codex-loop-skill",
+    "url": "https://github.com/Harzva/codex-loop-skill",
+    "description": null,
+    "isPrivate": true,
+    "isArchived": false,
+    "isFork": false,
+    "primaryLanguage": {
+      "name": "Python"
+    },
+    "pushedAt": "2026-04-13T14:08:12Z",
+    "updatedAt": "2026-04-23T16:08:02Z",
+    "createdAt": "2026-04-10T12:11:10Z",
     "defaultBranchRef": {
       "name": "main"
     },
-    "description": null,
-    "forkCount": 24,
     "homepageUrl": null,
-    "isArchived": false,
-    "isFork": false,
-    "isPrivate": false,
+    "stargazerCount": 1,
+    "forkCount": 0,
+    "openGraphImageUrl": null,
+    "repositoryTopics": [],
+    "pages": {
+      "enabled": false
+    },
+    "latestRelease": null
+  },
+  {
     "name": "codex-managed-agent",
     "nameWithOwner": "Harzva/codex-managed-agent",
-    "openGraphImageUrl": null,
+    "url": "https://github.com/Harzva/codex-managed-agent",
+    "description": null,
+    "isPrivate": false,
+    "isArchived": false,
+    "isFork": false,
     "primaryLanguage": {
       "name": "JavaScript"
     },
     "pushedAt": "2026-04-17T01:26:44Z",
-    "repositoryTopics": [],
-    "stargazerCount": 102,
     "updatedAt": "2026-04-22T17:25:12Z",
-    "url": "https://github.com/Harzva/codex-managed-agent",
-    "pages": {
-      "enabled": false
-    },
-    "latestRelease": null
-  },
-  {
-    "createdAt": "2026-04-06T15:43:35Z",
+    "createdAt": "2026-04-13T14:39:15Z",
     "defaultBranchRef": {
       "name": "main"
     },
-    "description": "copilot-plugin-cc placeholder repository for Claude Code adapter work.",
-    "forkCount": 0,
     "homepageUrl": null,
-    "isArchived": false,
-    "isFork": false,
-    "isPrivate": false,
+    "stargazerCount": 102,
+    "forkCount": 24,
+    "openGraphImageUrl": null,
+    "repositoryTopics": [],
+    "pages": {
+      "enabled": false
+    },
+    "latestRelease": {
+      "name": "Codex-Managed-Agent v1.0.3",
+      "tagName": "v1.0.3",
+      "url": "https://github.com/Harzva/codex-managed-agent/releases/tag/v1.0.3",
+      "publishedAt": "2026-04-16T14:25:37Z",
+      "prerelease": false,
+      "draft": false,
+      "assets": [
+        {
+          "name": "codex-managed-agent-1.0.3.vsix",
+          "url": "https://github.com/Harzva/codex-managed-agent/releases/download/v1.0.3/codex-managed-agent-1.0.3.vsix",
+          "size": 468736,
+          "downloadCount": 1,
+          "contentType": "application/octet-stream"
+        }
+      ]
+    }
+  },
+  {
     "name": "copilot-plugin-cc",
     "nameWithOwner": "Harzva/copilot-plugin-cc",
-    "openGraphImageUrl": null,
+    "url": "https://github.com/Harzva/copilot-plugin-cc",
+    "description": "copilot-plugin-cc placeholder repository for Claude Code adapter work.",
+    "isPrivate": false,
+    "isArchived": false,
+    "isFork": false,
     "primaryLanguage": {
       "name": "Shell"
     },
     "pushedAt": "2026-04-07T02:04:34Z",
-    "repositoryTopics": [],
-    "stargazerCount": 0,
     "updatedAt": "2026-04-07T02:04:38Z",
-    "url": "https://github.com/Harzva/copilot-plugin-cc",
+    "createdAt": "2026-04-06T15:43:35Z",
+    "defaultBranchRef": {
+      "name": "main"
+    },
+    "homepageUrl": null,
+    "stargazerCount": 0,
+    "forkCount": 0,
+    "openGraphImageUrl": null,
+    "repositoryTopics": [],
     "pages": {
       "enabled": false
     },
     "latestRelease": null
   },
   {
-    "createdAt": "2025-12-02T16:56:48Z",
+    "name": "design-md-flow",
+    "nameWithOwner": "Harzva/design-md-flow",
+    "url": "https://github.com/Harzva/design-md-flow",
+    "description": "Portable DESIGN.md workflow skill for agent-driven frontend design",
+    "isPrivate": false,
+    "isArchived": false,
+    "isFork": false,
+    "primaryLanguage": {
+      "name": "Python"
+    },
+    "pushedAt": "2026-05-14T14:33:35Z",
+    "updatedAt": "2026-05-14T14:35:54Z",
+    "createdAt": "2026-05-14T09:13:53Z",
     "defaultBranchRef": {
       "name": "main"
     },
-    "description": null,
+    "homepageUrl": "https://harzva.github.io/design-md-flow/",
+    "stargazerCount": 0,
     "forkCount": 0,
-    "homepageUrl": null,
-    "isArchived": false,
-    "isFork": false,
-    "isPrivate": false,
+    "openGraphImageUrl": null,
+    "repositoryTopics": [
+      "agent-skills",
+      "ai-agents",
+      "codex",
+      "design-md",
+      "design-systems",
+      "frontend"
+    ],
+    "pages": {
+      "enabled": true,
+      "url": "https://harzva.github.io/design-md-flow/",
+      "status": null,
+      "source": {
+        "branch": "main",
+        "path": "/"
+      },
+      "httpsEnforced": true
+    },
+    "latestRelease": null
+  },
+  {
     "name": "DistFilter",
     "nameWithOwner": "Harzva/DistFilter",
-    "openGraphImageUrl": null,
+    "url": "https://github.com/Harzva/DistFilter",
+    "description": null,
+    "isPrivate": false,
+    "isArchived": false,
+    "isFork": false,
     "primaryLanguage": {
       "name": "Python"
     },
     "pushedAt": "2025-12-02T17:35:11Z",
-    "repositoryTopics": [],
-    "stargazerCount": 0,
     "updatedAt": "2025-12-02T17:35:14Z",
-    "url": "https://github.com/Harzva/DistFilter",
+    "createdAt": "2025-12-02T16:56:48Z",
+    "defaultBranchRef": {
+      "name": "main"
+    },
+    "homepageUrl": null,
+    "stargazerCount": 0,
+    "forkCount": 0,
+    "openGraphImageUrl": null,
+    "repositoryTopics": [],
     "pages": {
       "enabled": false
     },
     "latestRelease": null
   },
   {
-    "createdAt": "2026-04-06T15:43:14Z",
+    "name": "enclip",
+    "nameWithOwner": "Harzva/enclip",
+    "url": "https://github.com/Harzva/enclip",
+    "description": null,
+    "isPrivate": true,
+    "isArchived": false,
+    "isFork": false,
+    "primaryLanguage": {
+      "name": "TeX"
+    },
+    "pushedAt": "2025-12-24T09:25:09Z",
+    "updatedAt": "2025-12-24T09:25:13Z",
+    "createdAt": "2025-12-24T09:18:11Z",
     "defaultBranchRef": {
       "name": "main"
     },
-    "description": "Umbrella repo for agent CLI to Claude Code adapters, templates, and plugin registry.",
-    "forkCount": 0,
     "homepageUrl": null,
-    "isArchived": false,
-    "isFork": false,
-    "isPrivate": false,
+    "stargazerCount": 0,
+    "forkCount": 0,
+    "openGraphImageUrl": null,
+    "repositoryTopics": [],
+    "pages": {
+      "enabled": false
+    },
+    "latestRelease": null
+  },
+  {
     "name": "everything-agent-cli-to-claude-code",
     "nameWithOwner": "Harzva/everything-agent-cli-to-claude-code",
-    "openGraphImageUrl": null,
+    "url": "https://github.com/Harzva/everything-agent-cli-to-claude-code",
+    "description": "Umbrella repo for agent CLI to Claude Code adapters, templates, and plugin registry.",
+    "isPrivate": false,
+    "isArchived": false,
+    "isFork": false,
     "primaryLanguage": {
       "name": "Shell"
     },
     "pushedAt": "2026-04-23T16:28:13Z",
-    "repositoryTopics": [],
-    "stargazerCount": 0,
     "updatedAt": "2026-04-23T16:28:17Z",
-    "url": "https://github.com/Harzva/everything-agent-cli-to-claude-code",
+    "createdAt": "2026-04-06T15:43:14Z",
+    "defaultBranchRef": {
+      "name": "main"
+    },
+    "homepageUrl": null,
+    "stargazerCount": 0,
+    "forkCount": 0,
+    "openGraphImageUrl": null,
+    "repositoryTopics": [],
     "pages": {
       "enabled": false
     },
     "latestRelease": null
   },
   {
-    "createdAt": "2026-05-09T03:45:36Z",
-    "defaultBranchRef": {
-      "name": "main"
-    },
-    "description": "综合 GitHub 资源收集仓库 - 成就徽章、个人资料工具、自动化工作流、社区活动、数据可视化",
-    "forkCount": 0,
-    "homepageUrl": "https://harzva.github.io/everything-in-github",
-    "isArchived": false,
-    "isFork": false,
-    "isPrivate": false,
     "name": "everything-in-github",
     "nameWithOwner": "Harzva/everything-in-github",
-    "openGraphImageUrl": null,
+    "url": "https://github.com/Harzva/everything-in-github",
+    "description": "综合 GitHub 资源收集仓库 - 成就徽章、个人资料工具、自动化工作流、社区活动、数据可视化",
+    "isPrivate": false,
+    "isArchived": false,
+    "isFork": false,
     "primaryLanguage": {
       "name": "TypeScript"
     },
     "pushedAt": "2026-05-13T08:16:51Z",
-    "repositoryTopics": [],
-    "stargazerCount": 0,
     "updatedAt": "2026-05-13T08:17:03Z",
-    "url": "https://github.com/Harzva/everything-in-github",
+    "createdAt": "2026-05-09T03:45:36Z",
+    "defaultBranchRef": {
+      "name": "main"
+    },
+    "homepageUrl": "https://harzva.github.io/everything-in-github",
+    "stargazerCount": 0,
+    "forkCount": 0,
+    "openGraphImageUrl": null,
+    "repositoryTopics": [],
     "pages": {
       "enabled": true,
       "url": "https://harzva.github.io/everything-in-github/",
@@ -524,152 +725,242 @@
     "latestRelease": null
   },
   {
+    "name": "FindWork",
+    "nameWithOwner": "Harzva/FindWork",
+    "url": "https://github.com/Harzva/FindWork",
+    "description": null,
+    "isPrivate": false,
+    "isArchived": false,
+    "isFork": false,
+    "primaryLanguage": null,
+    "pushedAt": "2022-07-16T10:35:09Z",
+    "updatedAt": "2022-07-16T10:21:08Z",
     "createdAt": "2022-07-16T10:33:44Z",
     "defaultBranchRef": {
       "name": "main"
     },
-    "description": null,
-    "forkCount": 0,
     "homepageUrl": null,
-    "isArchived": false,
-    "isFork": false,
-    "isPrivate": false,
-    "name": "FindWork",
-    "nameWithOwner": "Harzva/FindWork",
-    "openGraphImageUrl": null,
-    "primaryLanguage": null,
-    "pushedAt": "2022-07-16T10:35:09Z",
-    "repositoryTopics": [],
     "stargazerCount": 0,
-    "updatedAt": "2022-07-16T10:21:08Z",
-    "url": "https://github.com/Harzva/FindWork",
+    "forkCount": 0,
+    "openGraphImageUrl": null,
+    "repositoryTopics": [],
     "pages": {
       "enabled": false
     },
     "latestRelease": null
   },
   {
+    "name": "g2d-core",
+    "nameWithOwner": "Harzva/g2d-core",
+    "url": "https://github.com/Harzva/g2d-core",
+    "description": null,
+    "isPrivate": true,
+    "isArchived": false,
+    "isFork": false,
+    "primaryLanguage": {
+      "name": "Python"
+    },
+    "pushedAt": "2026-04-03T06:21:07Z",
+    "updatedAt": "2026-04-03T06:21:11Z",
+    "createdAt": "2026-04-03T06:05:33Z",
+    "defaultBranchRef": {
+      "name": "main"
+    },
+    "homepageUrl": null,
+    "stargazerCount": 0,
+    "forkCount": 0,
+    "openGraphImageUrl": null,
+    "repositoryTopics": [],
+    "pages": {
+      "enabled": false
+    },
+    "latestRelease": null
+  },
+  {
+    "name": "gemini-loop-skill",
+    "nameWithOwner": "Harzva/gemini-loop-skill",
+    "url": "https://github.com/Harzva/gemini-loop-skill",
+    "description": null,
+    "isPrivate": true,
+    "isArchived": false,
+    "isFork": false,
+    "primaryLanguage": {
+      "name": "Shell"
+    },
+    "pushedAt": "2026-04-22T02:25:15Z",
+    "updatedAt": "2026-04-23T16:06:54Z",
+    "createdAt": "2026-04-20T03:10:25Z",
+    "defaultBranchRef": {
+      "name": "main"
+    },
+    "homepageUrl": null,
+    "stargazerCount": 0,
+    "forkCount": 0,
+    "openGraphImageUrl": null,
+    "repositoryTopics": [],
+    "pages": {
+      "enabled": false
+    },
+    "latestRelease": null
+  },
+  {
+    "name": "gen-zhihu-article-skill",
+    "nameWithOwner": "Harzva/gen-zhihu-article-skill",
+    "url": "https://github.com/Harzva/gen-zhihu-article-skill",
+    "description": null,
+    "isPrivate": false,
+    "isArchived": false,
+    "isFork": false,
+    "primaryLanguage": null,
+    "pushedAt": "2026-04-11T16:58:23Z",
+    "updatedAt": "2026-04-11T16:58:31Z",
     "createdAt": "2026-04-10T13:46:07Z",
     "defaultBranchRef": {
       "name": "main"
     },
-    "description": null,
-    "forkCount": 0,
     "homepageUrl": null,
-    "isArchived": false,
-    "isFork": false,
-    "isPrivate": false,
-    "name": "gen-zhihu-article-skill",
-    "nameWithOwner": "Harzva/gen-zhihu-article-skill",
-    "openGraphImageUrl": null,
-    "primaryLanguage": null,
-    "pushedAt": "2026-04-11T16:58:23Z",
-    "repositoryTopics": [],
     "stargazerCount": 0,
-    "updatedAt": "2026-04-11T16:58:31Z",
-    "url": "https://github.com/Harzva/gen-zhihu-article-skill",
+    "forkCount": 0,
+    "openGraphImageUrl": null,
+    "repositoryTopics": [],
     "pages": {
       "enabled": false
     },
     "latestRelease": null
   },
   {
-    "createdAt": "2026-05-11T16:06:40Z",
-    "defaultBranchRef": {
-      "name": "main"
-    },
-    "description": "Codex skill and CLI helper for routing gh commands across GitHub accounts",
-    "forkCount": 0,
-    "homepageUrl": null,
-    "isArchived": false,
-    "isFork": false,
-    "isPrivate": false,
     "name": "gh-account-router",
     "nameWithOwner": "Harzva/gh-account-router",
-    "openGraphImageUrl": null,
+    "url": "https://github.com/Harzva/gh-account-router",
+    "description": "Codex skill and CLI helper for routing gh commands across GitHub accounts",
+    "isPrivate": false,
+    "isArchived": false,
+    "isFork": false,
     "primaryLanguage": {
       "name": "Python"
     },
     "pushedAt": "2026-05-12T11:16:10Z",
-    "repositoryTopics": [],
-    "stargazerCount": 0,
     "updatedAt": "2026-05-12T11:16:29Z",
-    "url": "https://github.com/Harzva/gh-account-router",
+    "createdAt": "2026-05-11T16:06:40Z",
+    "defaultBranchRef": {
+      "name": "main"
+    },
+    "homepageUrl": null,
+    "stargazerCount": 0,
+    "forkCount": 0,
+    "openGraphImageUrl": null,
+    "repositoryTopics": [],
     "pages": {
       "enabled": false
     },
     "latestRelease": null
   },
   {
+    "name": "gh-actions-release-builder",
+    "nameWithOwner": "Harzva/gh-actions-release-builder",
+    "url": "https://github.com/Harzva/gh-actions-release-builder",
+    "description": "Codex skill for professional GitHub Actions build, package, artifact, and release workflows",
+    "isPrivate": false,
+    "isArchived": false,
+    "isFork": false,
+    "primaryLanguage": null,
+    "pushedAt": "2026-05-13T14:56:36Z",
+    "updatedAt": "2026-05-13T15:31:04Z",
     "createdAt": "2026-05-13T14:54:22Z",
     "defaultBranchRef": {
       "name": "main"
     },
-    "description": "Codex skill for professional GitHub Actions build, package, artifact, and release workflows",
-    "forkCount": 0,
     "homepageUrl": null,
-    "isArchived": false,
-    "isFork": false,
-    "isPrivate": false,
-    "name": "gh-actions-release-builder",
-    "nameWithOwner": "Harzva/gh-actions-release-builder",
-    "openGraphImageUrl": null,
-    "primaryLanguage": null,
-    "pushedAt": "2026-05-13T14:56:36Z",
-    "repositoryTopics": [],
     "stargazerCount": 0,
-    "updatedAt": "2026-05-13T15:31:04Z",
-    "url": "https://github.com/Harzva/gh-actions-release-builder",
+    "forkCount": 0,
+    "openGraphImageUrl": null,
+    "repositoryTopics": [],
     "pages": {
       "enabled": false
     },
     "latestRelease": null
   },
   {
-    "createdAt": "2021-01-24T10:07:24Z",
-    "defaultBranchRef": {
-      "name": "master"
-    },
-    "description": null,
-    "forkCount": 2,
-    "homepageUrl": null,
+    "name": "gh-repo-cartographer",
+    "nameWithOwner": "Harzva/gh-repo-cartographer",
+    "url": "https://github.com/Harzva/gh-repo-cartographer",
+    "description": "Codex skill and CLI for mapping GitHub repositories to local checkouts and sync status.",
+    "isPrivate": false,
     "isArchived": false,
     "isFork": false,
-    "isPrivate": false,
+    "primaryLanguage": {
+      "name": "Python"
+    },
+    "pushedAt": "2026-05-14T10:47:46Z",
+    "updatedAt": "2026-05-14T10:47:50Z",
+    "createdAt": "2026-05-14T10:34:15Z",
+    "defaultBranchRef": {
+      "name": "main"
+    },
+    "homepageUrl": null,
+    "stargazerCount": 0,
+    "forkCount": 0,
+    "openGraphImageUrl": null,
+    "repositoryTopics": [
+      "automation",
+      "codex-skill",
+      "github-cli",
+      "python",
+      "repository-management"
+    ],
+    "pages": {
+      "enabled": false
+    },
+    "latestRelease": null
+  },
+  {
     "name": "gigavision",
     "nameWithOwner": "Harzva/gigavision",
-    "openGraphImageUrl": null,
+    "url": "https://github.com/Harzva/gigavision",
+    "description": null,
+    "isPrivate": false,
+    "isArchived": false,
+    "isFork": false,
     "primaryLanguage": {
       "name": "Python"
     },
     "pushedAt": "2021-01-24T10:07:48Z",
-    "repositoryTopics": [],
-    "stargazerCount": 3,
     "updatedAt": "2023-01-16T15:00:59Z",
-    "url": "https://github.com/Harzva/gigavision",
+    "createdAt": "2021-01-24T10:07:24Z",
+    "defaultBranchRef": {
+      "name": "master"
+    },
+    "homepageUrl": null,
+    "stargazerCount": 3,
+    "forkCount": 2,
+    "openGraphImageUrl": null,
+    "repositoryTopics": [],
     "pages": {
       "enabled": false
     },
     "latestRelease": null
   },
   {
+    "name": "github-management-suite",
+    "nameWithOwner": "Harzva/github-management-suite",
+    "url": "https://github.com/Harzva/github-management-suite",
+    "description": "Cross-platform Codex skill for full GitHub repository lifecycle management",
+    "isPrivate": false,
+    "isArchived": false,
+    "isFork": false,
+    "primaryLanguage": {
+      "name": "Python"
+    },
+    "pushedAt": "2026-05-14T09:19:05Z",
+    "updatedAt": "2026-05-14T09:19:10Z",
     "createdAt": "2026-05-13T16:47:57Z",
     "defaultBranchRef": {
       "name": "main"
     },
-    "description": "Cross-platform Codex skill for full GitHub repository lifecycle management",
-    "forkCount": 0,
     "homepageUrl": null,
-    "isArchived": false,
-    "isFork": false,
-    "isPrivate": false,
-    "name": "github-management-suite",
-    "nameWithOwner": "Harzva/github-management-suite",
+    "stargazerCount": 0,
+    "forkCount": 0,
     "openGraphImageUrl": null,
-    "primaryLanguage": {
-      "name": "Python"
-    },
-    "pushedAt": "2026-05-14T00:18:10Z",
     "repositoryTopics": [
       "codex-skill",
       "devops",
@@ -680,9 +971,6 @@
       "release-automation",
       "workflow-automation"
     ],
-    "stargazerCount": 0,
-    "updatedAt": "2026-05-14T00:17:54Z",
-    "url": "https://github.com/Harzva/github-management-suite",
     "pages": {
       "enabled": false
     },
@@ -692,31 +980,100 @@
       "url": "https://github.com/Harzva/github-management-suite/releases/tag/v0.2.0",
       "publishedAt": "2026-05-14T00:18:11Z",
       "prerelease": false,
-      "draft": false
+      "draft": false,
+      "assets": []
     }
   },
   {
+    "name": "github-official-svg-icons",
+    "nameWithOwner": "Harzva/github-official-svg-icons",
+    "url": "https://github.com/Harzva/github-official-svg-icons",
+    "description": "Official GitHub-related SVG icons, brand assets, and profile badge SVGs.",
+    "isPrivate": true,
+    "isArchived": false,
+    "isFork": false,
+    "primaryLanguage": {
+      "name": "HTML"
+    },
+    "pushedAt": "2026-05-12T08:46:35Z",
+    "updatedAt": "2026-05-12T08:46:39Z",
+    "createdAt": "2026-05-09T11:37:42Z",
+    "defaultBranchRef": {
+      "name": "main"
+    },
+    "homepageUrl": null,
+    "stargazerCount": 0,
+    "forkCount": 0,
+    "openGraphImageUrl": null,
+    "repositoryTopics": [],
+    "pages": {
+      "enabled": false
+    },
+    "latestRelease": null
+  },
+  {
+    "name": "github-upload-methods-probe",
+    "nameWithOwner": "Harzva/github-upload-methods-probe",
+    "url": "https://github.com/Harzva/github-upload-methods-probe",
+    "description": "Probe repository for testing GitHub upload methods from local Codex environment",
+    "isPrivate": true,
+    "isArchived": false,
+    "isFork": false,
+    "primaryLanguage": null,
+    "pushedAt": "2026-05-14T00:14:41Z",
+    "updatedAt": "2026-05-14T00:14:45Z",
+    "createdAt": "2026-05-13T16:02:31Z",
+    "defaultBranchRef": {
+      "name": "main"
+    },
+    "homepageUrl": null,
+    "stargazerCount": 0,
+    "forkCount": 0,
+    "openGraphImageUrl": null,
+    "repositoryTopics": [],
+    "pages": {
+      "enabled": false
+    },
+    "latestRelease": {
+      "name": "Probe 20260514-000339",
+      "tagName": "probe-20260514-000339",
+      "url": "https://github.com/Harzva/github-upload-methods-probe/releases/tag/probe-20260514-000339",
+      "publishedAt": "2026-05-13T16:03:44Z",
+      "prerelease": false,
+      "draft": false,
+      "assets": [
+        {
+          "name": "release-probe-20260514-000339.txt",
+          "url": "https://github.com/Harzva/github-upload-methods-probe/releases/download/probe-20260514-000339/release-probe-20260514-000339.txt",
+          "size": 44,
+          "downloadCount": 0,
+          "contentType": "text/plain; charset=utf-8"
+        }
+      ]
+    }
+  },
+  {
+    "name": "GitReleaseMarket",
+    "nameWithOwner": "Harzva/GitReleaseMarket",
+    "url": "https://github.com/Harzva/GitReleaseMarket",
+    "description": "GitHub/Gitee APK discovery and release download tool",
+    "isPrivate": false,
+    "isArchived": false,
+    "isFork": false,
+    "primaryLanguage": {
+      "name": "Rust"
+    },
+    "pushedAt": "2026-05-14T09:33:14Z",
+    "updatedAt": "2026-05-14T09:33:18Z",
     "createdAt": "2026-05-12T07:58:44Z",
     "defaultBranchRef": {
       "name": "main"
     },
-    "description": "GitHub/Gitee APK discovery and release download tool",
-    "forkCount": 0,
     "homepageUrl": "https://harzva.github.io/GitReleaseMarket/",
-    "isArchived": false,
-    "isFork": false,
-    "isPrivate": false,
-    "name": "GitReleaseMarket",
-    "nameWithOwner": "Harzva/GitReleaseMarket",
-    "openGraphImageUrl": null,
-    "primaryLanguage": {
-      "name": "Rust"
-    },
-    "pushedAt": "2026-05-14T08:48:47Z",
-    "repositoryTopics": [],
     "stargazerCount": 0,
-    "updatedAt": "2026-05-14T08:48:36Z",
-    "url": "https://github.com/Harzva/GitReleaseMarket",
+    "forkCount": 0,
+    "openGraphImageUrl": null,
+    "repositoryTopics": [],
     "pages": {
       "enabled": true,
       "url": "https://harzva.github.io/GitReleaseMarket/",
@@ -728,64 +1085,101 @@
       "httpsEnforced": true
     },
     "latestRelease": {
-      "name": "v0.1.7",
-      "tagName": "v0.1.7",
-      "url": "https://github.com/Harzva/GitReleaseMarket/releases/tag/v0.1.7",
-      "publishedAt": "2026-05-14T08:54:17Z",
+      "name": "v0.1.9",
+      "tagName": "v0.1.9",
+      "url": "https://github.com/Harzva/GitReleaseMarket/releases/tag/v0.1.9",
+      "publishedAt": "2026-05-14T09:40:36Z",
       "prerelease": false,
-      "draft": false
+      "draft": false,
+      "assets": [
+        {
+          "name": "gitmarket-android-experimental.apk",
+          "url": "https://github.com/Harzva/GitReleaseMarket/releases/download/v0.1.9/gitmarket-android-experimental.apk",
+          "size": 4252911,
+          "downloadCount": 1,
+          "contentType": "application/vnd.android.package-archive"
+        },
+        {
+          "name": "gitmarket-ios-simulator.zip",
+          "url": "https://github.com/Harzva/GitReleaseMarket/releases/download/v0.1.9/gitmarket-ios-simulator.zip",
+          "size": 210051,
+          "downloadCount": 0,
+          "contentType": "application/zip"
+        },
+        {
+          "name": "gitmarket-linux-x86_64.tar.gz",
+          "url": "https://github.com/Harzva/GitReleaseMarket/releases/download/v0.1.9/gitmarket-linux-x86_64.tar.gz",
+          "size": 5512912,
+          "downloadCount": 0,
+          "contentType": "application/gzip"
+        },
+        {
+          "name": "gitmarket-macos-aarch64.tar.gz",
+          "url": "https://github.com/Harzva/GitReleaseMarket/releases/download/v0.1.9/gitmarket-macos-aarch64.tar.gz",
+          "size": 3987245,
+          "downloadCount": 0,
+          "contentType": "application/gzip"
+        },
+        {
+          "name": "gitmarket-windows-x86_64.zip",
+          "url": "https://github.com/Harzva/GitReleaseMarket/releases/download/v0.1.9/gitmarket-windows-x86_64.zip",
+          "size": 3743691,
+          "downloadCount": 1,
+          "contentType": "application/zip"
+        }
+      ]
     }
   },
   {
+    "name": "Harzva",
+    "nameWithOwner": "Harzva/Harzva",
+    "url": "https://github.com/Harzva/Harzva",
+    "description": "GitHub profile entrance for Harzva: making coding agents cheaper, AI Agent infrastructure, vision-language research, papers, and portfolio.",
+    "isPrivate": false,
+    "isArchived": false,
+    "isFork": false,
+    "primaryLanguage": null,
+    "pushedAt": "2026-05-11T14:13:03Z",
+    "updatedAt": "2026-05-11T14:14:28Z",
     "createdAt": "2022-10-24T08:08:46Z",
     "defaultBranchRef": {
       "name": "main"
     },
-    "description": "GitHub profile entrance for Harzva: making coding agents cheaper, AI Agent infrastructure, vision-language research, papers, and portfolio.",
-    "forkCount": 0,
     "homepageUrl": "https://harzva.github.io/",
-    "isArchived": false,
-    "isFork": false,
-    "isPrivate": false,
-    "name": "Harzva",
-    "nameWithOwner": "Harzva/Harzva",
+    "stargazerCount": 0,
+    "forkCount": 0,
     "openGraphImageUrl": null,
-    "primaryLanguage": null,
-    "pushedAt": "2026-05-11T14:13:03Z",
     "repositoryTopics": [
       "config",
       "github-config"
     ],
-    "stargazerCount": 0,
-    "updatedAt": "2026-05-11T14:14:28Z",
-    "url": "https://github.com/Harzva/Harzva",
     "pages": {
       "enabled": false
     },
     "latestRelease": null
   },
   {
-    "createdAt": "2021-01-16T04:48:01Z",
-    "defaultBranchRef": {
-      "name": "main"
-    },
-    "description": "harzva's personal Personal Homepage",
-    "forkCount": 0,
-    "homepageUrl": null,
-    "isArchived": false,
-    "isFork": false,
-    "isPrivate": false,
     "name": "Harzva--personal",
     "nameWithOwner": "Harzva/Harzva--personal",
-    "openGraphImageUrl": null,
+    "url": "https://github.com/Harzva/Harzva--personal",
+    "description": "harzva's personal Personal Homepage",
+    "isPrivate": false,
+    "isArchived": false,
+    "isFork": false,
     "primaryLanguage": {
       "name": "HTML"
     },
     "pushedAt": "2021-01-16T09:35:32Z",
-    "repositoryTopics": [],
-    "stargazerCount": 0,
     "updatedAt": "2022-10-29T09:09:51Z",
-    "url": "https://github.com/Harzva/Harzva--personal",
+    "createdAt": "2021-01-16T04:48:01Z",
+    "defaultBranchRef": {
+      "name": "main"
+    },
+    "homepageUrl": null,
+    "stargazerCount": 0,
+    "forkCount": 0,
+    "openGraphImageUrl": null,
+    "repositoryTopics": [],
     "pages": {
       "enabled": true,
       "url": "https://harzva.github.io/Harzva--personal/",
@@ -799,27 +1193,149 @@
     "latestRelease": null
   },
   {
-    "createdAt": "2022-10-29T13:10:46Z",
-    "defaultBranchRef": {
-      "name": "master"
-    },
-    "description": "Personal portfolio, papers, Agent projects, and article collections.",
-    "forkCount": 0,
-    "homepageUrl": "https://harzva.github.io/",
+    "name": "harzva-pages-hub",
+    "nameWithOwner": "Harzva/harzva-pages-hub",
+    "url": "https://github.com/Harzva/harzva-pages-hub",
+    "description": "Visual GitHub Pages hub for Harzva sites, demos, docs, and live project surfaces.",
+    "isPrivate": false,
     "isArchived": false,
     "isFork": false,
+    "primaryLanguage": {
+      "name": "Python"
+    },
+    "pushedAt": "2026-05-14T09:39:26Z",
+    "updatedAt": "2026-05-14T09:39:29Z",
+    "createdAt": "2026-05-14T09:29:39Z",
+    "defaultBranchRef": {
+      "name": "main"
+    },
+    "homepageUrl": "https://harzva.github.io/harzva-pages-hub/",
+    "stargazerCount": 0,
+    "forkCount": 0,
+    "openGraphImageUrl": null,
+    "repositoryTopics": [],
+    "pages": {
+      "enabled": true,
+      "url": "https://harzva.github.io/harzva-pages-hub/",
+      "status": null,
+      "source": {
+        "branch": "main",
+        "path": "/"
+      },
+      "httpsEnforced": true
+    },
+    "latestRelease": null
+  },
+  {
+    "name": "harzva-project-atlas",
+    "nameWithOwner": "Harzva/harzva-project-atlas",
+    "url": "https://github.com/Harzva/harzva-project-atlas",
+    "description": "Harzva project atlas: auto-updating classified index of public repositories, hubs, pages, releases, skills, and forks.",
     "isPrivate": false,
+    "isArchived": false,
+    "isFork": false,
+    "primaryLanguage": {
+      "name": "Python"
+    },
+    "pushedAt": "2026-05-14T09:39:21Z",
+    "updatedAt": "2026-05-14T09:39:25Z",
+    "createdAt": "2026-05-14T09:27:13Z",
+    "defaultBranchRef": {
+      "name": "main"
+    },
+    "homepageUrl": "https://harzva.github.io/harzva-project-atlas/",
+    "stargazerCount": 0,
+    "forkCount": 0,
+    "openGraphImageUrl": null,
+    "repositoryTopics": [],
+    "pages": {
+      "enabled": true,
+      "url": "https://harzva.github.io/harzva-project-atlas/",
+      "status": null,
+      "source": {
+        "branch": "main",
+        "path": "/"
+      },
+      "httpsEnforced": true
+    },
+    "latestRelease": null
+  },
+  {
+    "name": "harzva-release-hub",
+    "nameWithOwner": "Harzva/harzva-release-hub",
+    "url": "https://github.com/Harzva/harzva-release-hub",
+    "description": "Auto-updating release hub for Harzva repositories with published GitHub releases.",
+    "isPrivate": false,
+    "isArchived": false,
+    "isFork": false,
+    "primaryLanguage": {
+      "name": "Python"
+    },
+    "pushedAt": "2026-05-14T09:39:23Z",
+    "updatedAt": "2026-05-14T09:39:27Z",
+    "createdAt": "2026-05-14T09:29:34Z",
+    "defaultBranchRef": {
+      "name": "main"
+    },
+    "homepageUrl": null,
+    "stargazerCount": 0,
+    "forkCount": 0,
+    "openGraphImageUrl": null,
+    "repositoryTopics": [],
+    "pages": {
+      "enabled": false
+    },
+    "latestRelease": null
+  },
+  {
+    "name": "harzva-skills-hub",
+    "nameWithOwner": "Harzva/harzva-skills-hub",
+    "url": "https://github.com/Harzva/harzva-skills-hub",
+    "description": "Auto-updating registry of Harzva Codex skills, workflow skills, and agent recipes.",
+    "isPrivate": false,
+    "isArchived": false,
+    "isFork": false,
+    "primaryLanguage": {
+      "name": "Python"
+    },
+    "pushedAt": "2026-05-14T09:39:28Z",
+    "updatedAt": "2026-05-14T09:39:32Z",
+    "createdAt": "2026-05-14T09:29:45Z",
+    "defaultBranchRef": {
+      "name": "main"
+    },
+    "homepageUrl": null,
+    "stargazerCount": 0,
+    "forkCount": 0,
+    "openGraphImageUrl": null,
+    "repositoryTopics": [],
+    "pages": {
+      "enabled": false
+    },
+    "latestRelease": null
+  },
+  {
     "name": "Harzva.github.io",
     "nameWithOwner": "Harzva/Harzva.github.io",
-    "openGraphImageUrl": null,
+    "url": "https://github.com/Harzva/Harzva.github.io",
+    "description": "Personal portfolio, papers, Agent projects, and article collections.",
+    "isPrivate": false,
+    "isArchived": false,
+    "isFork": false,
     "primaryLanguage": {
       "name": "JavaScript"
     },
     "pushedAt": "2026-05-11T11:07:01Z",
-    "repositoryTopics": [],
-    "stargazerCount": 0,
     "updatedAt": "2026-05-11T11:07:29Z",
-    "url": "https://github.com/Harzva/Harzva.github.io",
+    "createdAt": "2022-10-29T13:10:46Z",
+    "defaultBranchRef": {
+      "name": "master"
+    },
+    "homepageUrl": "https://harzva.github.io/",
+    "stargazerCount": 0,
+    "forkCount": 0,
+    "openGraphImageUrl": null,
+    "repositoryTopics": [],
     "pages": {
       "enabled": true,
       "url": "https://harzva.github.io/",
@@ -833,23 +1349,69 @@
     "latestRelease": null
   },
   {
-    "createdAt": "2026-05-11T08:22:16Z",
+    "name": "harzvatool",
+    "nameWithOwner": "Harzva/harzvatool",
+    "url": "https://github.com/Harzva/harzvatool",
+    "description": null,
+    "isPrivate": true,
+    "isArchived": false,
+    "isFork": false,
+    "primaryLanguage": {
+      "name": "Python"
+    },
+    "pushedAt": "2022-03-23T16:30:35Z",
+    "updatedAt": "2021-04-06T03:40:26Z",
+    "createdAt": "2021-04-04T05:42:42Z",
     "defaultBranchRef": {
       "name": "main"
     },
-    "description": "Memory-enhanced AI knowledge system with RAG, Agent, Wiki, GBrain, hierarchy memory, and hyper memory",
-    "forkCount": 0,
     "homepageUrl": null,
-    "isArchived": false,
-    "isFork": false,
-    "isPrivate": false,
+    "stargazerCount": 0,
+    "forkCount": 0,
+    "openGraphImageUrl": null,
+    "repositoryTopics": [],
+    "pages": {
+      "enabled": false
+    },
+    "latestRelease": {
+      "name": "demo2",
+      "tagName": "demo2",
+      "url": "https://github.com/Harzva/harzvatool/releases/tag/demo2",
+      "publishedAt": "2022-03-23T16:30:35Z",
+      "prerelease": false,
+      "draft": false,
+      "assets": [
+        {
+          "name": "v2rayNG_1.6.28_arm64-v8a.apk",
+          "url": "https://github.com/Harzva/harzvatool/releases/download/demo2/v2rayNG_1.6.28_arm64-v8a.apk",
+          "size": 15417894,
+          "downloadCount": 0,
+          "contentType": "application/vnd.android.package-archive"
+        }
+      ]
+    }
+  },
+  {
     "name": "HyperMemory",
     "nameWithOwner": "Harzva/HyperMemory",
-    "openGraphImageUrl": null,
+    "url": "https://github.com/Harzva/HyperMemory",
+    "description": "Memory-enhanced AI knowledge system with RAG, Agent, Wiki, GBrain, hierarchy memory, and hyper memory",
+    "isPrivate": false,
+    "isArchived": false,
+    "isFork": false,
     "primaryLanguage": {
       "name": "Java"
     },
     "pushedAt": "2026-05-12T15:20:07Z",
+    "updatedAt": "2026-05-12T16:26:46Z",
+    "createdAt": "2026-05-11T08:22:16Z",
+    "defaultBranchRef": {
+      "name": "main"
+    },
+    "homepageUrl": null,
+    "stargazerCount": 0,
+    "forkCount": 0,
+    "openGraphImageUrl": null,
     "repositoryTopics": [
       "agent",
       "memory",
@@ -857,57 +1419,84 @@
       "spring-boot",
       "vue"
     ],
-    "stargazerCount": 0,
-    "updatedAt": "2026-05-12T16:26:46Z",
-    "url": "https://github.com/Harzva/HyperMemory",
     "pages": {
       "enabled": false
     },
     "latestRelease": null
   },
   {
+    "name": "keep-claude-cheaper",
+    "nameWithOwner": "Harzva/keep-claude-cheaper",
+    "url": "https://github.com/Harzva/keep-claude-cheaper",
+    "description": null,
+    "isPrivate": false,
+    "isArchived": false,
+    "isFork": false,
+    "primaryLanguage": null,
+    "pushedAt": "2026-05-08T18:18:23Z",
+    "updatedAt": "2026-05-08T18:18:23Z",
     "createdAt": "2026-05-08T18:18:23Z",
     "defaultBranchRef": {
       "name": "main"
     },
-    "description": null,
-    "forkCount": 0,
     "homepageUrl": null,
-    "isArchived": false,
-    "isFork": false,
-    "isPrivate": false,
-    "name": "keep-claude-cheaper",
-    "nameWithOwner": "Harzva/keep-claude-cheaper",
-    "openGraphImageUrl": null,
-    "primaryLanguage": null,
-    "pushedAt": "2026-05-08T18:18:23Z",
-    "repositoryTopics": [],
     "stargazerCount": 0,
-    "updatedAt": "2026-05-08T18:18:23Z",
-    "url": "https://github.com/Harzva/keep-claude-cheaper",
+    "forkCount": 0,
+    "openGraphImageUrl": null,
+    "repositoryTopics": [],
     "pages": {
       "enabled": false
     },
     "latestRelease": null
   },
   {
-    "createdAt": "2026-04-01T03:55:26Z",
+    "name": "L2ID",
+    "nameWithOwner": "Harzva/L2ID",
+    "url": "https://github.com/Harzva/L2ID",
+    "description": null,
+    "isPrivate": true,
+    "isArchived": false,
+    "isFork": false,
+    "primaryLanguage": {
+      "name": "Python"
+    },
+    "pushedAt": "2021-04-02T09:07:25Z",
+    "updatedAt": "2021-04-02T09:07:28Z",
+    "createdAt": "2021-04-02T08:53:58Z",
     "defaultBranchRef": {
       "name": "main"
     },
-    "description": "Claude Code 源码逆向恢复项目 | Source Map 逆向 · 架构分析 · 可运行版本 | 1900+ 文件 · 51万行代码 · 12章节课程",
-    "forkCount": 38,
     "homepageUrl": null,
-    "isArchived": false,
-    "isFork": false,
-    "isPrivate": false,
+    "stargazerCount": 0,
+    "forkCount": 0,
+    "openGraphImageUrl": null,
+    "repositoryTopics": [],
+    "pages": {
+      "enabled": false
+    },
+    "latestRelease": null
+  },
+  {
     "name": "learn-likecc",
     "nameWithOwner": "Harzva/learn-likecc",
-    "openGraphImageUrl": null,
+    "url": "https://github.com/Harzva/learn-likecc",
+    "description": "Claude Code 源码逆向恢复项目 | Source Map 逆向 · 架构分析 · 可运行版本 | 1900+ 文件 · 51万行代码 · 12章节课程",
+    "isPrivate": false,
+    "isArchived": false,
+    "isFork": false,
     "primaryLanguage": {
       "name": "TypeScript"
     },
     "pushedAt": "2026-05-14T06:54:23Z",
+    "updatedAt": "2026-05-14T06:54:27Z",
+    "createdAt": "2026-04-01T03:55:26Z",
+    "defaultBranchRef": {
+      "name": "main"
+    },
+    "homepageUrl": null,
+    "stargazerCount": 180,
+    "forkCount": 38,
+    "openGraphImageUrl": null,
     "repositoryTopics": [
       "agent-loop",
       "ai-coding",
@@ -920,9 +1509,6 @@
       "source-map",
       "typescript"
     ],
-    "stargazerCount": 180,
-    "updatedAt": "2026-05-14T06:54:27Z",
-    "url": "https://github.com/Harzva/learn-likecc",
     "pages": {
       "enabled": true,
       "url": "https://harzva.github.io/learn-likecc/",
@@ -939,131 +1525,132 @@
       "url": "https://github.com/Harzva/learn-likecc/releases/tag/v1.0.2-likecode",
       "publishedAt": "2026-04-07T12:27:48Z",
       "prerelease": false,
-      "draft": false
+      "draft": false,
+      "assets": []
     }
   },
   {
+    "name": "loloop-skill",
+    "nameWithOwner": "Harzva/loloop-skill",
+    "url": "https://github.com/Harzva/loloop-skill",
+    "description": null,
+    "isPrivate": false,
+    "isArchived": false,
+    "isFork": false,
+    "primaryLanguage": null,
+    "pushedAt": "2026-04-10T12:06:05Z",
+    "updatedAt": "2026-04-10T12:06:09Z",
     "createdAt": "2026-04-10T11:55:05Z",
     "defaultBranchRef": {
       "name": "main"
     },
-    "description": null,
-    "forkCount": 0,
     "homepageUrl": null,
-    "isArchived": false,
-    "isFork": false,
-    "isPrivate": false,
-    "name": "loloop-skill",
-    "nameWithOwner": "Harzva/loloop-skill",
-    "openGraphImageUrl": null,
-    "primaryLanguage": null,
-    "pushedAt": "2026-04-10T12:06:05Z",
-    "repositoryTopics": [],
     "stargazerCount": 0,
-    "updatedAt": "2026-04-10T12:06:09Z",
-    "url": "https://github.com/Harzva/loloop-skill",
+    "forkCount": 0,
+    "openGraphImageUrl": null,
+    "repositoryTopics": [],
     "pages": {
       "enabled": false
     },
     "latestRelease": null
   },
   {
+    "name": "meta-agent",
+    "nameWithOwner": "Harzva/meta-agent",
+    "url": "https://github.com/Harzva/meta-agent",
+    "description": "Reserved placeholder repository under the Harzva account.",
+    "isPrivate": false,
+    "isArchived": false,
+    "isFork": false,
+    "primaryLanguage": null,
+    "pushedAt": "2026-04-09T04:39:34Z",
+    "updatedAt": "2026-04-09T04:39:37Z",
     "createdAt": "2026-04-09T04:33:46Z",
     "defaultBranchRef": {
       "name": "main"
     },
-    "description": "Reserved placeholder repository under the Harzva account.",
-    "forkCount": 0,
     "homepageUrl": null,
-    "isArchived": false,
-    "isFork": false,
-    "isPrivate": false,
-    "name": "meta-agent",
-    "nameWithOwner": "Harzva/meta-agent",
-    "openGraphImageUrl": null,
-    "primaryLanguage": null,
-    "pushedAt": "2026-04-09T04:39:34Z",
-    "repositoryTopics": [],
     "stargazerCount": 0,
-    "updatedAt": "2026-04-09T04:39:37Z",
-    "url": "https://github.com/Harzva/meta-agent",
+    "forkCount": 0,
+    "openGraphImageUrl": null,
+    "repositoryTopics": [],
     "pages": {
       "enabled": false
     },
     "latestRelease": null
   },
   {
+    "name": "metaagent",
+    "nameWithOwner": "Harzva/metaagent",
+    "url": "https://github.com/Harzva/metaagent",
+    "description": "Reserved placeholder repository under the Harzva account.",
+    "isPrivate": false,
+    "isArchived": false,
+    "isFork": false,
+    "primaryLanguage": null,
+    "pushedAt": "2026-04-09T04:39:29Z",
+    "updatedAt": "2026-04-09T04:39:34Z",
     "createdAt": "2026-04-09T04:33:43Z",
     "defaultBranchRef": {
       "name": "main"
     },
-    "description": "Reserved placeholder repository under the Harzva account.",
-    "forkCount": 0,
     "homepageUrl": null,
-    "isArchived": false,
-    "isFork": false,
-    "isPrivate": false,
-    "name": "metaagent",
-    "nameWithOwner": "Harzva/metaagent",
-    "openGraphImageUrl": null,
-    "primaryLanguage": null,
-    "pushedAt": "2026-04-09T04:39:29Z",
-    "repositoryTopics": [],
     "stargazerCount": 0,
-    "updatedAt": "2026-04-09T04:39:34Z",
-    "url": "https://github.com/Harzva/metaagent",
+    "forkCount": 0,
+    "openGraphImageUrl": null,
+    "repositoryTopics": [],
     "pages": {
       "enabled": false
     },
     "latestRelease": null
   },
   {
+    "name": "ml",
+    "nameWithOwner": "Harzva/ml",
+    "url": "https://github.com/Harzva/ml",
+    "description": "ml_tutorial",
+    "isPrivate": false,
+    "isArchived": false,
+    "isFork": false,
+    "primaryLanguage": null,
+    "pushedAt": "2022-10-24T14:42:56Z",
+    "updatedAt": "2022-10-24T14:41:36Z",
     "createdAt": "2019-09-16T16:21:59Z",
     "defaultBranchRef": {
       "name": "master"
     },
-    "description": "ml_tutorial",
-    "forkCount": 0,
     "homepageUrl": null,
-    "isArchived": false,
-    "isFork": false,
-    "isPrivate": false,
-    "name": "ml",
-    "nameWithOwner": "Harzva/ml",
-    "openGraphImageUrl": null,
-    "primaryLanguage": null,
-    "pushedAt": "2022-10-24T14:42:56Z",
-    "repositoryTopics": [],
     "stargazerCount": 0,
-    "updatedAt": "2022-10-24T14:41:36Z",
-    "url": "https://github.com/Harzva/ml",
+    "forkCount": 0,
+    "openGraphImageUrl": null,
+    "repositoryTopics": [],
     "pages": {
       "enabled": false
     },
     "latestRelease": null
   },
   {
+    "name": "mobilecode",
+    "nameWithOwner": "Harzva/mobilecode",
+    "url": "https://github.com/Harzva/mobilecode",
+    "description": "MobileCode - AI coding workspace for mobile devices",
+    "isPrivate": false,
+    "isArchived": false,
+    "isFork": false,
+    "primaryLanguage": {
+      "name": "Dart"
+    },
+    "pushedAt": "2026-05-14T14:36:13Z",
+    "updatedAt": "2026-05-14T14:36:17Z",
     "createdAt": "2026-05-12T08:19:17Z",
     "defaultBranchRef": {
       "name": "main"
     },
-    "description": "MobileCode - AI coding workspace for mobile devices",
-    "forkCount": 0,
     "homepageUrl": null,
-    "isArchived": false,
-    "isFork": false,
-    "isPrivate": false,
-    "name": "mobilecode",
-    "nameWithOwner": "Harzva/mobilecode",
-    "openGraphImageUrl": null,
-    "primaryLanguage": {
-      "name": "Dart"
-    },
-    "pushedAt": "2026-05-14T09:06:28Z",
-    "repositoryTopics": [],
     "stargazerCount": 0,
-    "updatedAt": "2026-05-14T09:06:32Z",
-    "url": "https://github.com/Harzva/mobilecode",
+    "forkCount": 0,
+    "openGraphImageUrl": null,
+    "repositoryTopics": [],
     "pages": {
       "enabled": true,
       "url": "https://harzva.github.io/mobilecode/",
@@ -1080,133 +1667,238 @@
       "url": "https://github.com/Harzva/mobilecode/releases/tag/v0.1.0",
       "publishedAt": "2026-05-12T08:19:46Z",
       "prerelease": false,
-      "draft": false
+      "draft": false,
+      "assets": [
+        {
+          "name": "mobilecode-ios-simulator-v0.1.0.zip",
+          "url": "https://github.com/Harzva/mobilecode/releases/download/v0.1.0/mobilecode-ios-simulator-v0.1.0.zip",
+          "size": 52146213,
+          "downloadCount": 0,
+          "contentType": "application/zip"
+        },
+        {
+          "name": "mobilecode-site-v0.1.0.zip",
+          "url": "https://github.com/Harzva/mobilecode/releases/download/v0.1.0/mobilecode-site-v0.1.0.zip",
+          "size": 224820,
+          "downloadCount": 0,
+          "contentType": "application/zip"
+        },
+        {
+          "name": "mobilecode-v0.1.0.apk",
+          "url": "https://github.com/Harzva/mobilecode/releases/download/v0.1.0/mobilecode-v0.1.0.apk",
+          "size": 51392061,
+          "downloadCount": 0,
+          "contentType": "application/vnd.android.package-archive"
+        }
+      ]
     }
   },
   {
-    "createdAt": "2021-04-03T16:06:15Z",
-    "defaultBranchRef": {
-      "name": "master"
-    },
-    "description": null,
-    "forkCount": 0,
-    "homepageUrl": null,
-    "isArchived": false,
-    "isFork": false,
-    "isPrivate": false,
     "name": "my_INSTALL",
     "nameWithOwner": "Harzva/my_INSTALL",
-    "openGraphImageUrl": null,
+    "url": "https://github.com/Harzva/my_INSTALL",
+    "description": null,
+    "isPrivate": false,
+    "isArchived": false,
+    "isFork": false,
     "primaryLanguage": {
       "name": "Python"
     },
     "pushedAt": "2022-08-23T03:30:19Z",
-    "repositoryTopics": [],
-    "stargazerCount": 1,
     "updatedAt": "2022-05-27T06:38:12Z",
-    "url": "https://github.com/Harzva/my_INSTALL",
+    "createdAt": "2021-04-03T16:06:15Z",
+    "defaultBranchRef": {
+      "name": "master"
+    },
+    "homepageUrl": null,
+    "stargazerCount": 1,
+    "forkCount": 0,
+    "openGraphImageUrl": null,
+    "repositoryTopics": [],
     "pages": {
       "enabled": false
     },
     "latestRelease": null
   },
   {
-    "createdAt": "2022-05-27T08:00:44Z",
-    "defaultBranchRef": {
-      "name": "main"
-    },
-    "description": null,
-    "forkCount": 0,
-    "homepageUrl": null,
-    "isArchived": false,
-    "isFork": false,
-    "isPrivate": false,
     "name": "One-Shot-Object-Detection",
     "nameWithOwner": "Harzva/One-Shot-Object-Detection",
-    "openGraphImageUrl": null,
+    "url": "https://github.com/Harzva/One-Shot-Object-Detection",
+    "description": null,
+    "isPrivate": false,
+    "isArchived": false,
+    "isFork": false,
     "primaryLanguage": {
       "name": "Python"
     },
     "pushedAt": "2022-05-27T08:04:19Z",
-    "repositoryTopics": [],
-    "stargazerCount": 1,
     "updatedAt": "2024-01-16T13:13:10Z",
-    "url": "https://github.com/Harzva/One-Shot-Object-Detection",
+    "createdAt": "2022-05-27T08:00:44Z",
+    "defaultBranchRef": {
+      "name": "main"
+    },
+    "homepageUrl": null,
+    "stargazerCount": 1,
+    "forkCount": 0,
+    "openGraphImageUrl": null,
+    "repositoryTopics": [],
     "pages": {
       "enabled": false
     },
     "latestRelease": null
   },
   {
+    "name": "One-Shot-Object-Detection-back",
+    "nameWithOwner": "Harzva/One-Shot-Object-Detection-back",
+    "url": "https://github.com/Harzva/One-Shot-Object-Detection-back",
+    "description": null,
+    "isPrivate": true,
+    "isArchived": false,
+    "isFork": false,
+    "primaryLanguage": {
+      "name": "Python"
+    },
+    "pushedAt": "2022-03-02T04:28:22Z",
+    "updatedAt": "2022-05-27T08:00:00Z",
+    "createdAt": "2021-12-27T06:24:45Z",
+    "defaultBranchRef": {
+      "name": "main"
+    },
+    "homepageUrl": null,
+    "stargazerCount": 0,
+    "forkCount": 0,
+    "openGraphImageUrl": null,
+    "repositoryTopics": [],
+    "pages": {
+      "enabled": false
+    },
+    "latestRelease": null
+  },
+  {
+    "name": "paper",
+    "nameWithOwner": "Harzva/paper",
+    "url": "https://github.com/Harzva/paper",
+    "description": null,
+    "isPrivate": true,
+    "isArchived": false,
+    "isFork": false,
+    "primaryLanguage": {
+      "name": "TeX"
+    },
+    "pushedAt": "2025-12-02T10:39:08Z",
+    "updatedAt": "2025-12-02T10:39:11Z",
+    "createdAt": "2025-12-02T07:18:07Z",
+    "defaultBranchRef": {
+      "name": "main"
+    },
+    "homepageUrl": null,
+    "stargazerCount": 0,
+    "forkCount": 0,
+    "openGraphImageUrl": null,
+    "repositoryTopics": [],
+    "pages": {
+      "enabled": false
+    },
+    "latestRelease": null
+  },
+  {
+    "name": "pocket",
+    "nameWithOwner": "Harzva/pocket",
+    "url": "https://github.com/Harzva/pocket",
+    "description": null,
+    "isPrivate": false,
+    "isArchived": false,
+    "isFork": false,
+    "primaryLanguage": null,
+    "pushedAt": "2019-04-22T10:32:17Z",
+    "updatedAt": "2019-04-22T10:32:16Z",
     "createdAt": "2019-04-22T10:32:16Z",
     "defaultBranchRef": {
       "name": "master"
     },
-    "description": null,
-    "forkCount": 0,
     "homepageUrl": null,
-    "isArchived": false,
-    "isFork": false,
-    "isPrivate": false,
-    "name": "pocket",
-    "nameWithOwner": "Harzva/pocket",
-    "openGraphImageUrl": null,
-    "primaryLanguage": null,
-    "pushedAt": "2019-04-22T10:32:17Z",
-    "repositoryTopics": [],
     "stargazerCount": 0,
-    "updatedAt": "2019-04-22T10:32:16Z",
-    "url": "https://github.com/Harzva/pocket",
+    "forkCount": 0,
+    "openGraphImageUrl": null,
+    "repositoryTopics": [],
     "pages": {
       "enabled": false
     },
     "latestRelease": null
   },
   {
-    "createdAt": "2022-08-17T09:07:13Z",
-    "defaultBranchRef": {
-      "name": "master"
-    },
-    "description": null,
-    "forkCount": 0,
-    "homepageUrl": null,
-    "isArchived": false,
-    "isFork": false,
-    "isPrivate": false,
     "name": "police_car",
     "nameWithOwner": "Harzva/police_car",
-    "openGraphImageUrl": null,
+    "url": "https://github.com/Harzva/police_car",
+    "description": null,
+    "isPrivate": false,
+    "isArchived": false,
+    "isFork": false,
     "primaryLanguage": {
       "name": "MATLAB"
     },
     "pushedAt": "2022-08-17T09:07:22Z",
-    "repositoryTopics": [],
-    "stargazerCount": 0,
     "updatedAt": "2022-08-17T09:07:25Z",
-    "url": "https://github.com/Harzva/police_car",
+    "createdAt": "2022-08-17T09:07:13Z",
+    "defaultBranchRef": {
+      "name": "master"
+    },
+    "homepageUrl": null,
+    "stargazerCount": 0,
+    "forkCount": 0,
+    "openGraphImageUrl": null,
+    "repositoryTopics": [],
     "pages": {
       "enabled": false
     },
     "latestRelease": null
   },
   {
+    "name": "ppt",
+    "nameWithOwner": "Harzva/ppt",
+    "url": "https://github.com/Harzva/ppt",
+    "description": null,
+    "isPrivate": true,
+    "isArchived": false,
+    "isFork": false,
+    "primaryLanguage": null,
+    "pushedAt": "2022-08-23T03:07:42Z",
+    "updatedAt": "2022-08-23T03:07:42Z",
+    "createdAt": "2022-08-23T03:07:42Z",
+    "defaultBranchRef": {
+      "name": "main"
+    },
+    "homepageUrl": null,
+    "stargazerCount": 0,
+    "forkCount": 0,
+    "openGraphImageUrl": null,
+    "repositoryTopics": [],
+    "pages": {
+      "enabled": false
+    },
+    "latestRelease": null
+  },
+  {
+    "name": "ReadmeShowcaseScreenshot-Skill",
+    "nameWithOwner": "Harzva/ReadmeShowcaseScreenshot-Skill",
+    "url": "https://github.com/Harzva/ReadmeShowcaseScreenshot-Skill",
+    "description": "Codex skill for README-ready screenshots, GIFs, videos, hero images, and preview galleries.",
+    "isPrivate": false,
+    "isArchived": false,
+    "isFork": false,
+    "primaryLanguage": {
+      "name": "JavaScript"
+    },
+    "pushedAt": "2026-05-14T09:14:57Z",
+    "updatedAt": "2026-05-14T09:15:02Z",
     "createdAt": "2026-05-14T08:01:16Z",
     "defaultBranchRef": {
       "name": "main"
     },
-    "description": "Codex skill for README-ready screenshots, GIFs, videos, hero images, and preview galleries.",
-    "forkCount": 0,
     "homepageUrl": null,
-    "isArchived": false,
-    "isFork": false,
-    "isPrivate": false,
-    "name": "ReadmeShowcaseScreenshot-Skill",
-    "nameWithOwner": "Harzva/ReadmeShowcaseScreenshot-Skill",
+    "stargazerCount": 0,
+    "forkCount": 0,
     "openGraphImageUrl": null,
-    "primaryLanguage": {
-      "name": "JavaScript"
-    },
-    "pushedAt": "2026-05-14T08:01:25Z",
     "repositoryTopics": [
       "codex-skill",
       "gif",
@@ -1215,36 +1907,33 @@
       "readme",
       "screenshot"
     ],
-    "stargazerCount": 0,
-    "updatedAt": "2026-05-14T08:02:24Z",
-    "url": "https://github.com/Harzva/ReadmeShowcaseScreenshot-Skill",
     "pages": {
       "enabled": false
     },
     "latestRelease": null
   },
   {
-    "createdAt": "2026-05-12T15:53:11Z",
-    "defaultBranchRef": {
-      "name": "main"
-    },
-    "description": "RepoAtlas maps multiple GitHub accounts to local Git checkouts, context categories, sync drift, and desktop folder actions.",
-    "forkCount": 0,
-    "homepageUrl": "https://harzva.github.io/RepoAtlas/",
-    "isArchived": false,
-    "isFork": false,
-    "isPrivate": false,
     "name": "RepoAtlas",
     "nameWithOwner": "Harzva/RepoAtlas",
-    "openGraphImageUrl": null,
+    "url": "https://github.com/Harzva/RepoAtlas",
+    "description": "RepoAtlas maps multiple GitHub accounts to local Git checkouts, context categories, sync drift, and desktop folder actions.",
+    "isPrivate": false,
+    "isArchived": false,
+    "isFork": false,
     "primaryLanguage": {
       "name": "Rust"
     },
     "pushedAt": "2026-05-13T14:54:48Z",
-    "repositoryTopics": [],
-    "stargazerCount": 0,
     "updatedAt": "2026-05-13T15:21:21Z",
-    "url": "https://github.com/Harzva/RepoAtlas",
+    "createdAt": "2026-05-12T15:53:11Z",
+    "defaultBranchRef": {
+      "name": "main"
+    },
+    "homepageUrl": "https://harzva.github.io/RepoAtlas/",
+    "stargazerCount": 0,
+    "forkCount": 0,
+    "openGraphImageUrl": null,
+    "repositoryTopics": [],
     "pages": {
       "enabled": true,
       "url": "https://harzva.github.io/RepoAtlas/",
@@ -1261,58 +1950,101 @@
       "url": "https://github.com/Harzva/RepoAtlas/releases/tag/v0.5.0",
       "publishedAt": "2026-05-13T14:49:50Z",
       "prerelease": false,
-      "draft": false
+      "draft": false,
+      "assets": [
+        {
+          "name": "RepoAtlas-v0.5.0-macos-ARM64.tar.gz",
+          "url": "https://github.com/Harzva/RepoAtlas/releases/download/v0.5.0/RepoAtlas-v0.5.0-macos-ARM64.tar.gz",
+          "size": 695734,
+          "downloadCount": 0,
+          "contentType": "application/gzip"
+        },
+        {
+          "name": "RepoAtlas-v0.5.0-windows-x64.exe",
+          "url": "https://github.com/Harzva/RepoAtlas/releases/download/v0.5.0/RepoAtlas-v0.5.0-windows-x64.exe",
+          "size": 1594368,
+          "downloadCount": 0,
+          "contentType": "application/x-msdos-program"
+        }
+      ]
     }
   },
   {
-    "createdAt": "2026-04-10T13:46:08Z",
+    "name": "ViNA",
+    "nameWithOwner": "Harzva/ViNA",
+    "url": "https://github.com/Harzva/ViNA",
+    "description": null,
+    "isPrivate": true,
+    "isArchived": false,
+    "isFork": false,
+    "primaryLanguage": {
+      "name": "Python"
+    },
+    "pushedAt": "2025-12-20T02:46:30Z",
+    "updatedAt": "2025-12-20T02:46:33Z",
+    "createdAt": "2025-12-20T02:41:21Z",
     "defaultBranchRef": {
       "name": "main"
     },
-    "description": null,
-    "forkCount": 0,
     "homepageUrl": null,
-    "isArchived": false,
-    "isFork": false,
-    "isPrivate": false,
-    "name": "webpage-screenshot-md-skill",
-    "nameWithOwner": "Harzva/webpage-screenshot-md-skill",
-    "openGraphImageUrl": null,
-    "primaryLanguage": {
-      "name": "JavaScript"
-    },
-    "pushedAt": "2026-04-10T13:46:11Z",
-    "repositoryTopics": [],
     "stargazerCount": 0,
-    "updatedAt": "2026-04-10T13:46:20Z",
-    "url": "https://github.com/Harzva/webpage-screenshot-md-skill",
+    "forkCount": 0,
+    "openGraphImageUrl": null,
+    "repositoryTopics": [],
     "pages": {
       "enabled": false
     },
     "latestRelease": null
   },
   {
-    "createdAt": "2026-05-13T09:05:00Z",
+    "name": "webpage-screenshot-md-skill",
+    "nameWithOwner": "Harzva/webpage-screenshot-md-skill",
+    "url": "https://github.com/Harzva/webpage-screenshot-md-skill",
+    "description": null,
+    "isPrivate": false,
+    "isArchived": false,
+    "isFork": false,
+    "primaryLanguage": {
+      "name": "JavaScript"
+    },
+    "pushedAt": "2026-04-10T13:46:11Z",
+    "updatedAt": "2026-04-10T13:46:20Z",
+    "createdAt": "2026-04-10T13:46:08Z",
     "defaultBranchRef": {
       "name": "main"
     },
-    "description": "Unofficial Claude and Agent pet SVG gallery with GitHub Pages wall",
-    "forkCount": 0,
     "homepageUrl": null,
-    "isArchived": false,
-    "isFork": false,
-    "isPrivate": false,
+    "stargazerCount": 0,
+    "forkCount": 0,
+    "openGraphImageUrl": null,
+    "repositoryTopics": [],
+    "pages": {
+      "enabled": false
+    },
+    "latestRelease": null
+  },
+  {
     "name": "WellAgentPets",
     "nameWithOwner": "Harzva/WellAgentPets",
-    "openGraphImageUrl": null,
+    "url": "https://github.com/Harzva/WellAgentPets",
+    "description": "Unofficial Claude and Agent pet SVG gallery with GitHub Pages wall",
+    "isPrivate": false,
+    "isArchived": false,
+    "isFork": false,
     "primaryLanguage": {
       "name": "CSS"
     },
     "pushedAt": "2026-05-14T00:53:44Z",
-    "repositoryTopics": [],
-    "stargazerCount": 0,
     "updatedAt": "2026-05-14T00:53:49Z",
-    "url": "https://github.com/Harzva/WellAgentPets",
+    "createdAt": "2026-05-13T09:05:00Z",
+    "defaultBranchRef": {
+      "name": "main"
+    },
+    "homepageUrl": null,
+    "stargazerCount": 0,
+    "forkCount": 0,
+    "openGraphImageUrl": null,
+    "repositoryTopics": [],
     "pages": {
       "enabled": true,
       "url": "https://harzva.github.io/WellAgentPets/",
@@ -1326,931 +2058,931 @@
     "latestRelease": null
   },
   {
-    "createdAt": "2026-04-08T13:09:47Z",
-    "defaultBranchRef": {
-      "name": "main"
-    },
-    "description": "Sanitized automation toolkit for Zhihu and WeChat publishing workflows",
-    "forkCount": 0,
-    "homepageUrl": null,
-    "isArchived": false,
-    "isFork": false,
-    "isPrivate": false,
     "name": "wemedia",
     "nameWithOwner": "Harzva/wemedia",
-    "openGraphImageUrl": null,
+    "url": "https://github.com/Harzva/wemedia",
+    "description": "Sanitized automation toolkit for Zhihu and WeChat publishing workflows",
+    "isPrivate": false,
+    "isArchived": false,
+    "isFork": false,
     "primaryLanguage": {
       "name": "JavaScript"
     },
     "pushedAt": "2026-04-08T13:09:51Z",
-    "repositoryTopics": [],
-    "stargazerCount": 0,
     "updatedAt": "2026-04-08T13:09:55Z",
-    "url": "https://github.com/Harzva/wemedia",
+    "createdAt": "2026-04-08T13:09:47Z",
+    "defaultBranchRef": {
+      "name": "main"
+    },
+    "homepageUrl": null,
+    "stargazerCount": 0,
+    "forkCount": 0,
+    "openGraphImageUrl": null,
+    "repositoryTopics": [],
     "pages": {
       "enabled": false
     },
     "latestRelease": null
   },
   {
+    "name": "zhihu-publish-skill",
+    "nameWithOwner": "Harzva/zhihu-publish-skill",
+    "url": "https://github.com/Harzva/zhihu-publish-skill",
+    "description": null,
+    "isPrivate": false,
+    "isArchived": false,
+    "isFork": false,
+    "primaryLanguage": null,
+    "pushedAt": "2026-04-11T16:46:17Z",
+    "updatedAt": "2026-04-11T16:46:23Z",
     "createdAt": "2026-04-10T13:46:08Z",
     "defaultBranchRef": {
       "name": "main"
     },
-    "description": null,
-    "forkCount": 0,
     "homepageUrl": null,
-    "isArchived": false,
-    "isFork": false,
-    "isPrivate": false,
-    "name": "zhihu-publish-skill",
-    "nameWithOwner": "Harzva/zhihu-publish-skill",
-    "openGraphImageUrl": null,
-    "primaryLanguage": null,
-    "pushedAt": "2026-04-11T16:46:17Z",
-    "repositoryTopics": [],
     "stargazerCount": 0,
-    "updatedAt": "2026-04-11T16:46:23Z",
-    "url": "https://github.com/Harzva/zhihu-publish-skill",
+    "forkCount": 0,
+    "openGraphImageUrl": null,
+    "repositoryTopics": [],
     "pages": {
       "enabled": false
     },
     "latestRelease": null
   },
   {
+    "name": "awesome-obsidian",
+    "nameWithOwner": "Harzva/awesome-obsidian",
+    "url": "https://github.com/Harzva/awesome-obsidian",
+    "description": "🕶️ Awesome stuff for Obsidian",
+    "isPrivate": false,
+    "isArchived": false,
+    "isFork": true,
+    "primaryLanguage": null,
+    "pushedAt": "2022-03-29T20:02:07Z",
+    "updatedAt": "2022-10-25T13:13:55Z",
     "createdAt": "2022-10-26T03:30:29Z",
     "defaultBranchRef": {
       "name": "master"
     },
-    "description": "🕶️ Awesome stuff for Obsidian",
-    "forkCount": 0,
     "homepageUrl": "",
-    "isArchived": false,
-    "isFork": true,
-    "isPrivate": false,
-    "name": "awesome-obsidian",
-    "nameWithOwner": "Harzva/awesome-obsidian",
-    "openGraphImageUrl": null,
-    "primaryLanguage": null,
-    "pushedAt": "2022-03-29T20:02:07Z",
-    "repositoryTopics": [],
     "stargazerCount": 0,
-    "updatedAt": "2022-10-25T13:13:55Z",
-    "url": "https://github.com/Harzva/awesome-obsidian",
+    "forkCount": 0,
+    "openGraphImageUrl": null,
+    "repositoryTopics": [],
     "pages": {
       "enabled": false
     },
     "latestRelease": null
   },
   {
+    "name": "Awesome-pytorch-list-CNVersion",
+    "nameWithOwner": "Harzva/Awesome-pytorch-list-CNVersion",
+    "url": "https://github.com/Harzva/Awesome-pytorch-list-CNVersion",
+    "description": "Awesome-pytorch-list 翻译工作进行中......",
+    "isPrivate": false,
+    "isArchived": false,
+    "isFork": true,
+    "primaryLanguage": null,
+    "pushedAt": "2020-12-22T03:53:48Z",
+    "updatedAt": "2020-12-24T03:15:48Z",
     "createdAt": "2020-12-24T03:15:47Z",
     "defaultBranchRef": {
       "name": "master"
     },
-    "description": "Awesome-pytorch-list 翻译工作进行中......",
-    "forkCount": 0,
     "homepageUrl": "https://github.com/bharathgs/Awesome-pytorch-list",
-    "isArchived": false,
-    "isFork": true,
-    "isPrivate": false,
-    "name": "Awesome-pytorch-list-CNVersion",
-    "nameWithOwner": "Harzva/Awesome-pytorch-list-CNVersion",
-    "openGraphImageUrl": null,
-    "primaryLanguage": null,
-    "pushedAt": "2020-12-22T03:53:48Z",
-    "repositoryTopics": [],
     "stargazerCount": 0,
-    "updatedAt": "2020-12-24T03:15:48Z",
-    "url": "https://github.com/Harzva/Awesome-pytorch-list-CNVersion",
+    "forkCount": 0,
+    "openGraphImageUrl": null,
+    "repositoryTopics": [],
     "pages": {
       "enabled": false
     },
     "latestRelease": null
   },
   {
+    "name": "BNUGraduateThesis",
+    "nameWithOwner": "Harzva/BNUGraduateThesis",
+    "url": "https://github.com/Harzva/BNUGraduateThesis",
+    "description": "My graduation thesis",
+    "isPrivate": false,
+    "isArchived": false,
+    "isFork": true,
+    "primaryLanguage": null,
+    "pushedAt": "2014-06-06T02:06:00Z",
+    "updatedAt": "2021-08-23T06:46:54Z",
     "createdAt": "2021-08-23T06:46:53Z",
     "defaultBranchRef": {
       "name": "master"
     },
-    "description": "My graduation thesis",
-    "forkCount": 0,
     "homepageUrl": null,
-    "isArchived": false,
-    "isFork": true,
-    "isPrivate": false,
-    "name": "BNUGraduateThesis",
-    "nameWithOwner": "Harzva/BNUGraduateThesis",
-    "openGraphImageUrl": null,
-    "primaryLanguage": null,
-    "pushedAt": "2014-06-06T02:06:00Z",
-    "repositoryTopics": [],
     "stargazerCount": 0,
-    "updatedAt": "2021-08-23T06:46:54Z",
-    "url": "https://github.com/Harzva/BNUGraduateThesis",
+    "forkCount": 0,
+    "openGraphImageUrl": null,
+    "repositoryTopics": [],
     "pages": {
       "enabled": false
     },
     "latestRelease": null
   },
   {
+    "name": "CMeKG_labelingPlatform",
+    "nameWithOwner": "Harzva/CMeKG_labelingPlatform",
+    "url": "https://github.com/Harzva/CMeKG_labelingPlatform",
+    "description": null,
+    "isPrivate": false,
+    "isArchived": false,
+    "isFork": true,
+    "primaryLanguage": null,
+    "pushedAt": "2021-12-21T03:44:20Z",
+    "updatedAt": "2022-10-21T09:47:03Z",
     "createdAt": "2022-10-24T08:11:28Z",
     "defaultBranchRef": {
       "name": "main"
     },
-    "description": null,
-    "forkCount": 0,
     "homepageUrl": null,
-    "isArchived": false,
-    "isFork": true,
-    "isPrivate": false,
-    "name": "CMeKG_labelingPlatform",
-    "nameWithOwner": "Harzva/CMeKG_labelingPlatform",
-    "openGraphImageUrl": null,
-    "primaryLanguage": null,
-    "pushedAt": "2021-12-21T03:44:20Z",
-    "repositoryTopics": [],
     "stargazerCount": 0,
-    "updatedAt": "2022-10-21T09:47:03Z",
-    "url": "https://github.com/Harzva/CMeKG_labelingPlatform",
+    "forkCount": 0,
+    "openGraphImageUrl": null,
+    "repositoryTopics": [],
     "pages": {
       "enabled": false
     },
     "latestRelease": null
   },
   {
+    "name": "CMeKG_tools",
+    "nameWithOwner": "Harzva/CMeKG_tools",
+    "url": "https://github.com/Harzva/CMeKG_tools",
+    "description": null,
+    "isPrivate": false,
+    "isArchived": false,
+    "isFork": true,
+    "primaryLanguage": null,
+    "pushedAt": "2021-10-20T12:10:10Z",
+    "updatedAt": "2022-10-23T14:10:19Z",
     "createdAt": "2022-10-24T08:11:58Z",
     "defaultBranchRef": {
       "name": "main"
     },
-    "description": null,
-    "forkCount": 0,
     "homepageUrl": null,
-    "isArchived": false,
-    "isFork": true,
-    "isPrivate": false,
-    "name": "CMeKG_tools",
-    "nameWithOwner": "Harzva/CMeKG_tools",
-    "openGraphImageUrl": null,
-    "primaryLanguage": null,
-    "pushedAt": "2021-10-20T12:10:10Z",
-    "repositoryTopics": [],
     "stargazerCount": 0,
-    "updatedAt": "2022-10-23T14:10:19Z",
-    "url": "https://github.com/Harzva/CMeKG_tools",
+    "forkCount": 0,
+    "openGraphImageUrl": null,
+    "repositoryTopics": [],
     "pages": {
       "enabled": false
     },
     "latestRelease": null
   },
   {
+    "name": "CMeKGCrawler",
+    "nameWithOwner": "Harzva/CMeKGCrawler",
+    "url": "https://github.com/Harzva/CMeKGCrawler",
+    "description": "Medical Graph for Neo4j",
+    "isPrivate": false,
+    "isArchived": false,
+    "isFork": true,
+    "primaryLanguage": null,
+    "pushedAt": "2022-06-29T01:08:10Z",
+    "updatedAt": "2022-10-23T14:30:21Z",
     "createdAt": "2022-10-24T08:11:37Z",
     "defaultBranchRef": {
       "name": "master"
     },
-    "description": "Medical Graph for Neo4j",
-    "forkCount": 0,
     "homepageUrl": "",
-    "isArchived": false,
-    "isFork": true,
-    "isPrivate": false,
-    "name": "CMeKGCrawler",
-    "nameWithOwner": "Harzva/CMeKGCrawler",
-    "openGraphImageUrl": null,
-    "primaryLanguage": null,
-    "pushedAt": "2022-06-29T01:08:10Z",
-    "repositoryTopics": [],
     "stargazerCount": 0,
-    "updatedAt": "2022-10-23T14:30:21Z",
-    "url": "https://github.com/Harzva/CMeKGCrawler",
+    "forkCount": 0,
+    "openGraphImageUrl": null,
+    "repositoryTopics": [],
     "pages": {
       "enabled": false
     },
     "latestRelease": null
   },
   {
+    "name": "Dive-into-DL-PyTorch",
+    "nameWithOwner": "Harzva/Dive-into-DL-PyTorch",
+    "url": "https://github.com/Harzva/Dive-into-DL-PyTorch",
+    "description": "本项目将《动手学深度学习》(Dive into Deep Learning)原书中的MXNet实现改为PyTorch实现。",
+    "isPrivate": false,
+    "isArchived": false,
+    "isFork": true,
+    "primaryLanguage": null,
+    "pushedAt": "2020-09-03T07:32:50Z",
+    "updatedAt": "2020-12-24T03:19:38Z",
     "createdAt": "2020-12-24T03:19:36Z",
     "defaultBranchRef": {
       "name": "master"
     },
-    "description": "本项目将《动手学深度学习》(Dive into Deep Learning)原书中的MXNet实现改为PyTorch实现。",
-    "forkCount": 0,
     "homepageUrl": "http://tangshusen.me/Dive-into-DL-PyTorch",
-    "isArchived": false,
-    "isFork": true,
-    "isPrivate": false,
-    "name": "Dive-into-DL-PyTorch",
-    "nameWithOwner": "Harzva/Dive-into-DL-PyTorch",
-    "openGraphImageUrl": null,
-    "primaryLanguage": null,
-    "pushedAt": "2020-09-03T07:32:50Z",
-    "repositoryTopics": [],
     "stargazerCount": 0,
-    "updatedAt": "2020-12-24T03:19:38Z",
-    "url": "https://github.com/Harzva/Dive-into-DL-PyTorch",
+    "forkCount": 0,
+    "openGraphImageUrl": null,
+    "repositoryTopics": [],
     "pages": {
       "enabled": false
     },
     "latestRelease": null
   },
   {
+    "name": "floccus",
+    "nameWithOwner": "Harzva/floccus",
+    "url": "https://github.com/Harzva/floccus",
+    "description": ":cloud: Sync your bookmarks across browsers via Nextcloud, WebDAV or a local file (and thus any file sync solution)",
+    "isPrivate": false,
+    "isArchived": false,
+    "isFork": true,
+    "primaryLanguage": null,
+    "pushedAt": "2020-12-23T04:22:35Z",
+    "updatedAt": "2021-02-15T17:32:22Z",
     "createdAt": "2020-12-24T03:22:04Z",
     "defaultBranchRef": {
       "name": "develop"
     },
-    "description": ":cloud: Sync your bookmarks across browsers via Nextcloud, WebDAV or a local file (and thus any file sync solution)",
-    "forkCount": 0,
     "homepageUrl": "https://floccus.org",
-    "isArchived": false,
-    "isFork": true,
-    "isPrivate": false,
-    "name": "floccus",
-    "nameWithOwner": "Harzva/floccus",
-    "openGraphImageUrl": null,
-    "primaryLanguage": null,
-    "pushedAt": "2020-12-23T04:22:35Z",
-    "repositoryTopics": [],
     "stargazerCount": 0,
-    "updatedAt": "2021-02-15T17:32:22Z",
-    "url": "https://github.com/Harzva/floccus",
+    "forkCount": 0,
+    "openGraphImageUrl": null,
+    "repositoryTopics": [],
     "pages": {
       "enabled": false
     },
     "latestRelease": null
   },
   {
+    "name": "Focal-Loss-Pytorch",
+    "nameWithOwner": "Harzva/Focal-Loss-Pytorch",
+    "url": "https://github.com/Harzva/Focal-Loss-Pytorch",
+    "description": "全中文注释.(The loss function of retinanet  based on pytorch).(You can use it on one-stage detection task or classifical task, to solve  data imbalance influence).用于one-stage目标检测算法,提升检测效果.你也可以在分类任务中使用该损失函数,解决数据不平衡问题.",
+    "isPrivate": false,
+    "isArchived": false,
+    "isFork": true,
+    "primaryLanguage": null,
+    "pushedAt": "2022-06-08T09:29:50Z",
+    "updatedAt": "2023-04-27T01:45:15Z",
     "createdAt": "2023-04-27T01:45:15Z",
     "defaultBranchRef": {
       "name": "master"
     },
-    "description": "全中文注释.(The loss function of retinanet  based on pytorch).(You can use it on one-stage detection task or classifical task, to solve  data imbalance influence).用于one-stage目标检测算法,提升检测效果.你也可以在分类任务中使用该损失函数,解决数据不平衡问题.",
-    "forkCount": 0,
     "homepageUrl": "https://ptorch.com/news/253.html",
-    "isArchived": false,
-    "isFork": true,
-    "isPrivate": false,
-    "name": "Focal-Loss-Pytorch",
-    "nameWithOwner": "Harzva/Focal-Loss-Pytorch",
-    "openGraphImageUrl": null,
-    "primaryLanguage": null,
-    "pushedAt": "2022-06-08T09:29:50Z",
-    "repositoryTopics": [],
     "stargazerCount": 0,
-    "updatedAt": "2023-04-27T01:45:15Z",
-    "url": "https://github.com/Harzva/Focal-Loss-Pytorch",
+    "forkCount": 0,
+    "openGraphImageUrl": null,
+    "repositoryTopics": [],
     "pages": {
       "enabled": false
     },
     "latestRelease": null
   },
   {
+    "name": "free",
+    "nameWithOwner": "Harzva/free",
+    "url": "https://github.com/Harzva/free",
+    "description": "免费科学上网,免费节点,免费ssr,免费v2ray,免费vmess节点,免费trojan节点,蓝灯,谷歌商店,免费翻墙",
+    "isPrivate": false,
+    "isArchived": false,
+    "isFork": true,
+    "primaryLanguage": null,
+    "pushedAt": "2021-01-24T12:47:39Z",
+    "updatedAt": "2021-01-24T13:12:05Z",
     "createdAt": "2021-01-24T13:12:03Z",
     "defaultBranchRef": {
       "name": "master"
     },
-    "description": "免费科学上网,免费节点,免费ssr,免费v2ray,免费vmess节点,免费trojan节点,蓝灯,谷歌商店,免费翻墙",
-    "forkCount": 0,
     "homepageUrl": "",
-    "isArchived": false,
-    "isFork": true,
-    "isPrivate": false,
-    "name": "free",
-    "nameWithOwner": "Harzva/free",
-    "openGraphImageUrl": null,
-    "primaryLanguage": null,
-    "pushedAt": "2021-01-24T12:47:39Z",
-    "repositoryTopics": [],
     "stargazerCount": 0,
-    "updatedAt": "2021-01-24T13:12:05Z",
-    "url": "https://github.com/Harzva/free",
+    "forkCount": 0,
+    "openGraphImageUrl": null,
+    "repositoryTopics": [],
     "pages": {
       "enabled": false
     },
     "latestRelease": null
   },
   {
-    "createdAt": "2020-12-23T08:57:29Z",
-    "defaultBranchRef": {
-      "name": "master"
-    },
-    "description": "[NeurIPS 2020] Released code for Interventional Few-Shot Learning",
-    "forkCount": 0,
-    "homepageUrl": "",
-    "isArchived": false,
-    "isFork": true,
-    "isPrivate": false,
     "name": "ifsl",
     "nameWithOwner": "Harzva/ifsl",
-    "openGraphImageUrl": null,
+    "url": "https://github.com/Harzva/ifsl",
+    "description": "[NeurIPS 2020] Released code for Interventional Few-Shot Learning",
+    "isPrivate": false,
+    "isArchived": false,
+    "isFork": true,
     "primaryLanguage": {
       "name": "Python"
     },
     "pushedAt": "2021-01-15T03:13:43Z",
-    "repositoryTopics": [],
-    "stargazerCount": 0,
     "updatedAt": "2021-01-15T03:13:46Z",
-    "url": "https://github.com/Harzva/ifsl",
+    "createdAt": "2020-12-23T08:57:29Z",
+    "defaultBranchRef": {
+      "name": "master"
+    },
+    "homepageUrl": "",
+    "stargazerCount": 0,
+    "forkCount": 0,
+    "openGraphImageUrl": null,
+    "repositoryTopics": [],
     "pages": {
       "enabled": false
     },
     "latestRelease": null
   },
   {
+    "name": "image2_UI_skill",
+    "nameWithOwner": "Harzva/image2_UI_skill",
+    "url": "https://github.com/Harzva/image2_UI_skill",
+    "description": null,
+    "isPrivate": false,
+    "isArchived": false,
+    "isFork": true,
+    "primaryLanguage": null,
+    "pushedAt": "2026-05-12T07:37:59Z",
+    "updatedAt": "2026-05-13T02:44:50Z",
     "createdAt": "2026-05-13T02:44:50Z",
     "defaultBranchRef": {
       "name": "main"
     },
-    "description": null,
-    "forkCount": 0,
     "homepageUrl": null,
-    "isArchived": false,
-    "isFork": true,
-    "isPrivate": false,
-    "name": "image2_UI_skill",
-    "nameWithOwner": "Harzva/image2_UI_skill",
-    "openGraphImageUrl": null,
-    "primaryLanguage": null,
-    "pushedAt": "2026-05-12T07:37:59Z",
-    "repositoryTopics": [],
     "stargazerCount": 0,
-    "updatedAt": "2026-05-13T02:44:50Z",
-    "url": "https://github.com/Harzva/image2_UI_skill",
+    "forkCount": 0,
+    "openGraphImageUrl": null,
+    "repositoryTopics": [],
     "pages": {
       "enabled": false
     },
     "latestRelease": null
   },
   {
+    "name": "Installation",
+    "nameWithOwner": "Harzva/Installation",
+    "url": "https://github.com/Harzva/Installation",
+    "description": "安装遇到的软件或者框架",
+    "isPrivate": false,
+    "isArchived": false,
+    "isFork": true,
+    "primaryLanguage": null,
+    "pushedAt": "2021-04-03T16:01:35Z",
+    "updatedAt": "2021-04-03T16:05:08Z",
     "createdAt": "2021-04-03T11:28:21Z",
     "defaultBranchRef": {
       "name": "master"
     },
-    "description": "安装遇到的软件或者框架",
-    "forkCount": 0,
     "homepageUrl": null,
-    "isArchived": false,
-    "isFork": true,
-    "isPrivate": false,
-    "name": "Installation",
-    "nameWithOwner": "Harzva/Installation",
-    "openGraphImageUrl": null,
-    "primaryLanguage": null,
-    "pushedAt": "2021-04-03T16:01:35Z",
-    "repositoryTopics": [],
     "stargazerCount": 0,
-    "updatedAt": "2021-04-03T16:05:08Z",
-    "url": "https://github.com/Harzva/Installation",
+    "forkCount": 0,
+    "openGraphImageUrl": null,
+    "repositoryTopics": [],
     "pages": {
       "enabled": false
     },
     "latestRelease": null
   },
   {
+    "name": "jekyll-blog",
+    "nameWithOwner": "Harzva/jekyll-blog",
+    "url": "https://github.com/Harzva/jekyll-blog",
+    "description": null,
+    "isPrivate": false,
+    "isArchived": false,
+    "isFork": true,
+    "primaryLanguage": null,
+    "pushedAt": "2018-10-08T23:51:26Z",
+    "updatedAt": "2022-02-13T06:53:47Z",
     "createdAt": "2021-01-16T05:01:18Z",
     "defaultBranchRef": {
       "name": "master"
     },
-    "description": null,
-    "forkCount": 0,
     "homepageUrl": null,
-    "isArchived": false,
-    "isFork": true,
-    "isPrivate": false,
-    "name": "jekyll-blog",
-    "nameWithOwner": "Harzva/jekyll-blog",
-    "openGraphImageUrl": null,
-    "primaryLanguage": null,
-    "pushedAt": "2018-10-08T23:51:26Z",
-    "repositoryTopics": [],
     "stargazerCount": 0,
-    "updatedAt": "2022-02-13T06:53:47Z",
-    "url": "https://github.com/Harzva/jekyll-blog",
+    "forkCount": 0,
+    "openGraphImageUrl": null,
+    "repositoryTopics": [],
     "pages": {
       "enabled": false
     },
     "latestRelease": null
   },
   {
+    "name": "LDC",
+    "nameWithOwner": "Harzva/LDC",
+    "url": "https://github.com/Harzva/LDC",
+    "description": "The code of \"Logits DeConfusion with CLIP for Few-Shot Learning\" (CVPR 2025)",
+    "isPrivate": false,
+    "isArchived": false,
+    "isFork": true,
+    "primaryLanguage": null,
+    "pushedAt": "2025-03-16T14:23:38Z",
+    "updatedAt": "2025-03-19T07:41:28Z",
     "createdAt": "2025-03-19T07:41:28Z",
     "defaultBranchRef": {
       "name": "main"
     },
-    "description": "The code of \"Logits DeConfusion with CLIP for Few-Shot Learning\" (CVPR 2025)",
-    "forkCount": 0,
     "homepageUrl": "",
-    "isArchived": false,
-    "isFork": true,
-    "isPrivate": false,
-    "name": "LDC",
-    "nameWithOwner": "Harzva/LDC",
-    "openGraphImageUrl": null,
-    "primaryLanguage": null,
-    "pushedAt": "2025-03-16T14:23:38Z",
-    "repositoryTopics": [],
     "stargazerCount": 0,
-    "updatedAt": "2025-03-19T07:41:28Z",
-    "url": "https://github.com/Harzva/LDC",
+    "forkCount": 0,
+    "openGraphImageUrl": null,
+    "repositoryTopics": [],
     "pages": {
       "enabled": false
     },
     "latestRelease": null
   },
   {
+    "name": "LearningToCompare_FSL",
+    "nameWithOwner": "Harzva/LearningToCompare_FSL",
+    "url": "https://github.com/Harzva/LearningToCompare_FSL",
+    "description": "PyTorch code for CVPR 2018 paper: Learning to Compare: Relation Network for Few-Shot Learning (Few-Shot Learning part)",
+    "isPrivate": false,
+    "isArchived": false,
+    "isFork": true,
+    "primaryLanguage": null,
+    "pushedAt": "2019-10-22T03:19:44Z",
+    "updatedAt": "2020-12-26T08:09:41Z",
     "createdAt": "2020-12-26T08:09:40Z",
     "defaultBranchRef": {
       "name": "master"
     },
-    "description": "PyTorch code for CVPR 2018 paper: Learning to Compare: Relation Network for Few-Shot Learning (Few-Shot Learning part)",
-    "forkCount": 0,
     "homepageUrl": null,
-    "isArchived": false,
-    "isFork": true,
-    "isPrivate": false,
-    "name": "LearningToCompare_FSL",
-    "nameWithOwner": "Harzva/LearningToCompare_FSL",
-    "openGraphImageUrl": null,
-    "primaryLanguage": null,
-    "pushedAt": "2019-10-22T03:19:44Z",
-    "repositoryTopics": [],
     "stargazerCount": 0,
-    "updatedAt": "2020-12-26T08:09:41Z",
-    "url": "https://github.com/Harzva/LearningToCompare_FSL",
+    "forkCount": 0,
+    "openGraphImageUrl": null,
+    "repositoryTopics": [],
     "pages": {
       "enabled": false
     },
     "latestRelease": null
   },
   {
+    "name": "LIDChallenge2020-NoPeopleAllowed",
+    "nameWithOwner": "Harzva/LIDChallenge2020-NoPeopleAllowed",
+    "url": "https://github.com/Harzva/LIDChallenge2020-NoPeopleAllowed",
+    "description": "A 3rd place solution for LID Challenge at CVPR 2020 on Weakly Supervised Semantic Segmentation",
+    "isPrivate": false,
+    "isArchived": false,
+    "isFork": true,
+    "primaryLanguage": null,
+    "pushedAt": "2021-04-02T08:19:17Z",
+    "updatedAt": "2021-04-02T08:34:05Z",
     "createdAt": "2021-04-02T08:34:04Z",
     "defaultBranchRef": {
       "name": "master"
     },
-    "description": "A 3rd place solution for LID Challenge at CVPR 2020 on Weakly Supervised Semantic Segmentation",
-    "forkCount": 0,
     "homepageUrl": null,
-    "isArchived": false,
-    "isFork": true,
-    "isPrivate": false,
-    "name": "LIDChallenge2020-NoPeopleAllowed",
-    "nameWithOwner": "Harzva/LIDChallenge2020-NoPeopleAllowed",
-    "openGraphImageUrl": null,
-    "primaryLanguage": null,
-    "pushedAt": "2021-04-02T08:19:17Z",
-    "repositoryTopics": [],
     "stargazerCount": 0,
-    "updatedAt": "2021-04-02T08:34:05Z",
-    "url": "https://github.com/Harzva/LIDChallenge2020-NoPeopleAllowed",
+    "forkCount": 0,
+    "openGraphImageUrl": null,
+    "repositoryTopics": [],
     "pages": {
       "enabled": false
     },
     "latestRelease": null
   },
   {
-    "createdAt": "2026-04-23T16:05:31Z",
-    "defaultBranchRef": {
-      "name": "main"
-    },
-    "description": "A customized Claude Code fork for routed models, multi-agent orchestration, and dense terminal control.",
-    "forkCount": 0,
-    "homepageUrl": "https://github.com/3873225350/like-code#readme",
-    "isArchived": false,
-    "isFork": true,
-    "isPrivate": false,
     "name": "like-code",
     "nameWithOwner": "Harzva/like-code",
-    "openGraphImageUrl": null,
+    "url": "https://github.com/Harzva/like-code",
+    "description": "A customized Claude Code fork for routed models, multi-agent orchestration, and dense terminal control.",
+    "isPrivate": false,
+    "isArchived": false,
+    "isFork": true,
     "primaryLanguage": {
       "name": "TypeScript"
     },
     "pushedAt": "2026-05-12T01:45:30Z",
-    "repositoryTopics": [],
-    "stargazerCount": 0,
     "updatedAt": "2026-05-12T01:46:07Z",
-    "url": "https://github.com/Harzva/like-code",
+    "createdAt": "2026-04-23T16:05:31Z",
+    "defaultBranchRef": {
+      "name": "main"
+    },
+    "homepageUrl": "https://github.com/3873225350/like-code#readme",
+    "stargazerCount": 0,
+    "forkCount": 0,
+    "openGraphImageUrl": null,
+    "repositoryTopics": [],
     "pages": {
       "enabled": false
     },
     "latestRelease": null
   },
   {
+    "name": "make-agents-cheaper",
+    "nameWithOwner": "Harzva/make-agents-cheaper",
+    "url": "https://github.com/Harzva/make-agents-cheaper",
+    "description": "Rust CLI for improving prompt cache hit rate in coding-agent workflows",
+    "isPrivate": false,
+    "isArchived": false,
+    "isFork": true,
+    "primaryLanguage": null,
+    "pushedAt": "2026-05-11T13:52:37Z",
+    "updatedAt": "2026-05-12T01:46:16Z",
     "createdAt": "2026-05-12T01:46:16Z",
     "defaultBranchRef": {
       "name": "main"
     },
-    "description": "Rust CLI for improving prompt cache hit rate in coding-agent workflows",
-    "forkCount": 0,
     "homepageUrl": null,
-    "isArchived": false,
-    "isFork": true,
-    "isPrivate": false,
-    "name": "make-agents-cheaper",
-    "nameWithOwner": "Harzva/make-agents-cheaper",
-    "openGraphImageUrl": null,
-    "primaryLanguage": null,
-    "pushedAt": "2026-05-11T13:52:37Z",
-    "repositoryTopics": [],
     "stargazerCount": 0,
-    "updatedAt": "2026-05-12T01:46:16Z",
-    "url": "https://github.com/Harzva/make-agents-cheaper",
+    "forkCount": 0,
+    "openGraphImageUrl": null,
+    "repositoryTopics": [],
     "pages": {
       "enabled": false
     },
     "latestRelease": null
   },
   {
+    "name": "MatchingNetworks",
+    "nameWithOwner": "Harzva/MatchingNetworks",
+    "url": "https://github.com/Harzva/MatchingNetworks",
+    "description": "This repo provides pytorch code which replicates the results of the Matching Networks for One Shot Learning paper on the Omniglot and MiniImageNet dataset",
+    "isPrivate": false,
+    "isArchived": false,
+    "isFork": true,
+    "primaryLanguage": null,
+    "pushedAt": "2017-10-19T06:37:32Z",
+    "updatedAt": "2020-12-22T15:40:44Z",
     "createdAt": "2020-12-22T15:40:42Z",
     "defaultBranchRef": {
       "name": "master"
     },
-    "description": "This repo provides pytorch code which replicates the results of the Matching Networks for One Shot Learning paper on the Omniglot and MiniImageNet dataset",
-    "forkCount": 0,
     "homepageUrl": "",
-    "isArchived": false,
-    "isFork": true,
-    "isPrivate": false,
-    "name": "MatchingNetworks",
-    "nameWithOwner": "Harzva/MatchingNetworks",
-    "openGraphImageUrl": null,
-    "primaryLanguage": null,
-    "pushedAt": "2017-10-19T06:37:32Z",
-    "repositoryTopics": [],
     "stargazerCount": 0,
-    "updatedAt": "2020-12-22T15:40:44Z",
-    "url": "https://github.com/Harzva/MatchingNetworks",
+    "forkCount": 0,
+    "openGraphImageUrl": null,
+    "repositoryTopics": [],
     "pages": {
       "enabled": false
     },
     "latestRelease": null
   },
   {
+    "name": "mmdetection",
+    "nameWithOwner": "Harzva/mmdetection",
+    "url": "https://github.com/Harzva/mmdetection",
+    "description": "OpenMMLab Detection Toolbox and Benchmark",
+    "isPrivate": false,
+    "isArchived": false,
+    "isFork": true,
+    "primaryLanguage": null,
+    "pushedAt": "2020-12-25T13:52:17Z",
+    "updatedAt": "2020-12-26T08:44:11Z",
     "createdAt": "2020-12-26T08:44:10Z",
     "defaultBranchRef": {
       "name": "master"
     },
-    "description": "OpenMMLab Detection Toolbox and Benchmark",
-    "forkCount": 0,
     "homepageUrl": "https://mmdetection.readthedocs.io",
-    "isArchived": false,
-    "isFork": true,
-    "isPrivate": false,
-    "name": "mmdetection",
-    "nameWithOwner": "Harzva/mmdetection",
-    "openGraphImageUrl": null,
-    "primaryLanguage": null,
-    "pushedAt": "2020-12-25T13:52:17Z",
-    "repositoryTopics": [],
     "stargazerCount": 0,
-    "updatedAt": "2020-12-26T08:44:11Z",
-    "url": "https://github.com/Harzva/mmdetection",
+    "forkCount": 0,
+    "openGraphImageUrl": null,
+    "repositoryTopics": [],
     "pages": {
       "enabled": false
     },
     "latestRelease": null
   },
   {
+    "name": "NlpPractice",
+    "nameWithOwner": "Harzva/NlpPractice",
+    "url": "https://github.com/Harzva/NlpPractice",
+    "description": null,
+    "isPrivate": false,
+    "isArchived": false,
+    "isFork": true,
+    "primaryLanguage": null,
+    "pushedAt": "2022-04-06T11:23:25Z",
+    "updatedAt": "2022-10-19T07:30:11Z",
     "createdAt": "2022-10-24T15:57:21Z",
     "defaultBranchRef": {
       "name": "main"
     },
-    "description": null,
-    "forkCount": 0,
     "homepageUrl": null,
-    "isArchived": false,
-    "isFork": true,
-    "isPrivate": false,
-    "name": "NlpPractice",
-    "nameWithOwner": "Harzva/NlpPractice",
-    "openGraphImageUrl": null,
-    "primaryLanguage": null,
-    "pushedAt": "2022-04-06T11:23:25Z",
-    "repositoryTopics": [],
     "stargazerCount": 0,
-    "updatedAt": "2022-10-19T07:30:11Z",
-    "url": "https://github.com/Harzva/NlpPractice",
+    "forkCount": 0,
+    "openGraphImageUrl": null,
+    "repositoryTopics": [],
     "pages": {
       "enabled": false
     },
     "latestRelease": null
   },
   {
+    "name": "numerical-computation-method",
+    "nameWithOwner": "Harzva/numerical-computation-method",
+    "url": "https://github.com/Harzva/numerical-computation-method",
+    "description": "数值计算方法",
+    "isPrivate": false,
+    "isArchived": false,
+    "isFork": true,
+    "primaryLanguage": null,
+    "pushedAt": "2018-01-03T03:03:13Z",
+    "updatedAt": "2022-05-08T03:31:12Z",
     "createdAt": "2022-05-08T03:31:20Z",
     "defaultBranchRef": {
       "name": "master"
     },
-    "description": "数值计算方法",
-    "forkCount": 0,
     "homepageUrl": "",
-    "isArchived": false,
-    "isFork": true,
-    "isPrivate": false,
-    "name": "numerical-computation-method",
-    "nameWithOwner": "Harzva/numerical-computation-method",
-    "openGraphImageUrl": null,
-    "primaryLanguage": null,
-    "pushedAt": "2018-01-03T03:03:13Z",
-    "repositoryTopics": [],
     "stargazerCount": 0,
-    "updatedAt": "2022-05-08T03:31:12Z",
-    "url": "https://github.com/Harzva/numerical-computation-method",
+    "forkCount": 0,
+    "openGraphImageUrl": null,
+    "repositoryTopics": [],
     "pages": {
       "enabled": false
     },
     "latestRelease": null
   },
   {
+    "name": "Oh-Reflective-loop-skills",
+    "nameWithOwner": "Harzva/Oh-Reflective-loop-skills",
+    "url": "https://github.com/Harzva/Oh-Reflective-loop-skills",
+    "description": null,
+    "isPrivate": false,
+    "isArchived": false,
+    "isFork": true,
+    "primaryLanguage": null,
+    "pushedAt": "2026-04-23T01:57:58Z",
+    "updatedAt": "2026-04-23T16:04:11Z",
     "createdAt": "2026-04-23T16:04:11Z",
     "defaultBranchRef": {
       "name": "main"
     },
-    "description": null,
-    "forkCount": 0,
     "homepageUrl": null,
-    "isArchived": false,
-    "isFork": true,
-    "isPrivate": false,
-    "name": "Oh-Reflective-loop-skills",
-    "nameWithOwner": "Harzva/Oh-Reflective-loop-skills",
-    "openGraphImageUrl": null,
-    "primaryLanguage": null,
-    "pushedAt": "2026-04-23T01:57:58Z",
-    "repositoryTopics": [],
     "stargazerCount": 0,
-    "updatedAt": "2026-04-23T16:04:11Z",
-    "url": "https://github.com/Harzva/Oh-Reflective-loop-skills",
+    "forkCount": 0,
+    "openGraphImageUrl": null,
+    "repositoryTopics": [],
     "pages": {
       "enabled": false
     },
     "latestRelease": null
   },
   {
+    "name": "One-Shot-Object-Detection-1",
+    "nameWithOwner": "Harzva/One-Shot-Object-Detection-1",
+    "url": "https://github.com/Harzva/One-Shot-Object-Detection-1",
+    "description": "Implementation of One-Shot Object Detection with Co-Attention and Co-Excitation in Pytorch",
+    "isPrivate": false,
+    "isArchived": false,
+    "isFork": true,
+    "primaryLanguage": null,
+    "pushedAt": "2021-09-08T01:40:08Z",
+    "updatedAt": "2022-01-03T17:11:22Z",
     "createdAt": "2022-01-03T17:11:20Z",
     "defaultBranchRef": {
       "name": "master"
     },
-    "description": "Implementation of One-Shot Object Detection with Co-Attention and Co-Excitation in Pytorch",
-    "forkCount": 0,
     "homepageUrl": "",
-    "isArchived": false,
-    "isFork": true,
-    "isPrivate": false,
-    "name": "One-Shot-Object-Detection-1",
-    "nameWithOwner": "Harzva/One-Shot-Object-Detection-1",
-    "openGraphImageUrl": null,
-    "primaryLanguage": null,
-    "pushedAt": "2021-09-08T01:40:08Z",
-    "repositoryTopics": [],
     "stargazerCount": 0,
-    "updatedAt": "2022-01-03T17:11:22Z",
-    "url": "https://github.com/Harzva/One-Shot-Object-Detection-1",
+    "forkCount": 0,
+    "openGraphImageUrl": null,
+    "repositoryTopics": [],
     "pages": {
       "enabled": false
     },
     "latestRelease": null
   },
   {
+    "name": "openbayes-serving-examples",
+    "nameWithOwner": "Harzva/openbayes-serving-examples",
+    "url": "https://github.com/Harzva/openbayes-serving-examples",
+    "description": "OpenBayes Serving examples using PyTorch and ONNX",
+    "isPrivate": false,
+    "isArchived": false,
+    "isFork": true,
+    "primaryLanguage": null,
+    "pushedAt": "2021-01-12T08:21:54Z",
+    "updatedAt": "2021-01-19T03:05:26Z",
     "createdAt": "2021-01-19T03:05:25Z",
     "defaultBranchRef": {
       "name": "master"
     },
-    "description": "OpenBayes Serving examples using PyTorch and ONNX",
-    "forkCount": 0,
     "homepageUrl": "",
-    "isArchived": false,
-    "isFork": true,
-    "isPrivate": false,
-    "name": "openbayes-serving-examples",
-    "nameWithOwner": "Harzva/openbayes-serving-examples",
-    "openGraphImageUrl": null,
-    "primaryLanguage": null,
-    "pushedAt": "2021-01-12T08:21:54Z",
-    "repositoryTopics": [],
     "stargazerCount": 0,
-    "updatedAt": "2021-01-19T03:05:26Z",
-    "url": "https://github.com/Harzva/openbayes-serving-examples",
+    "forkCount": 0,
+    "openGraphImageUrl": null,
+    "repositoryTopics": [],
     "pages": {
       "enabled": false
     },
     "latestRelease": null
   },
   {
+    "name": "Paper-Reading---follow-by-GOD-Mu",
+    "nameWithOwner": "Harzva/Paper-Reading---follow-by-GOD-Mu",
+    "url": "https://github.com/Harzva/Paper-Reading---follow-by-GOD-Mu",
+    "description": null,
+    "isPrivate": false,
+    "isArchived": false,
+    "isFork": true,
+    "primaryLanguage": null,
+    "pushedAt": "2021-12-19T05:57:45Z",
+    "updatedAt": "2021-12-19T05:57:49Z",
     "createdAt": "2022-08-25T09:29:06Z",
     "defaultBranchRef": {
       "name": "gh-pages"
     },
-    "description": null,
-    "forkCount": 0,
     "homepageUrl": null,
-    "isArchived": false,
-    "isFork": true,
-    "isPrivate": false,
-    "name": "Paper-Reading---follow-by-GOD-Mu",
-    "nameWithOwner": "Harzva/Paper-Reading---follow-by-GOD-Mu",
-    "openGraphImageUrl": null,
-    "primaryLanguage": null,
-    "pushedAt": "2021-12-19T05:57:45Z",
-    "repositoryTopics": [],
     "stargazerCount": 0,
-    "updatedAt": "2021-12-19T05:57:49Z",
-    "url": "https://github.com/Harzva/Paper-Reading---follow-by-GOD-Mu",
+    "forkCount": 0,
+    "openGraphImageUrl": null,
+    "repositoryTopics": [],
     "pages": {
       "enabled": false
     },
     "latestRelease": null
   },
   {
+    "name": "prototypical-networks",
+    "nameWithOwner": "Harzva/prototypical-networks",
+    "url": "https://github.com/Harzva/prototypical-networks",
+    "description": "Code for the NIPS 2017 Paper \"Prototypical Networks for Few-shot Learning\"",
+    "isPrivate": false,
+    "isArchived": false,
+    "isFork": true,
+    "primaryLanguage": null,
+    "pushedAt": "2018-06-22T15:10:38Z",
+    "updatedAt": "2022-02-13T06:53:48Z",
     "createdAt": "2020-12-22T15:40:22Z",
     "defaultBranchRef": {
       "name": "master"
     },
-    "description": "Code for the NIPS 2017 Paper \"Prototypical Networks for Few-shot Learning\"",
-    "forkCount": 0,
     "homepageUrl": null,
-    "isArchived": false,
-    "isFork": true,
-    "isPrivate": false,
-    "name": "prototypical-networks",
-    "nameWithOwner": "Harzva/prototypical-networks",
-    "openGraphImageUrl": null,
-    "primaryLanguage": null,
-    "pushedAt": "2018-06-22T15:10:38Z",
-    "repositoryTopics": [],
     "stargazerCount": 0,
-    "updatedAt": "2022-02-13T06:53:48Z",
-    "url": "https://github.com/Harzva/prototypical-networks",
+    "forkCount": 0,
+    "openGraphImageUrl": null,
+    "repositoryTopics": [],
     "pages": {
       "enabled": false
     },
     "latestRelease": null
   },
   {
+    "name": "reinforce",
+    "nameWithOwner": "Harzva/reinforce",
+    "url": "https://github.com/Harzva/reinforce",
+    "description": "reinforcement learning ",
+    "isPrivate": false,
+    "isArchived": false,
+    "isFork": true,
+    "primaryLanguage": null,
+    "pushedAt": "2019-02-21T00:23:56Z",
+    "updatedAt": "2019-11-16T04:25:40Z",
     "createdAt": "2019-11-16T04:25:38Z",
     "defaultBranchRef": {
       "name": "master"
     },
-    "description": "reinforcement learning ",
-    "forkCount": 0,
     "homepageUrl": null,
-    "isArchived": false,
-    "isFork": true,
-    "isPrivate": false,
-    "name": "reinforce",
-    "nameWithOwner": "Harzva/reinforce",
-    "openGraphImageUrl": null,
-    "primaryLanguage": null,
-    "pushedAt": "2019-02-21T00:23:56Z",
-    "repositoryTopics": [],
     "stargazerCount": 0,
-    "updatedAt": "2019-11-16T04:25:40Z",
-    "url": "https://github.com/Harzva/reinforce",
+    "forkCount": 0,
+    "openGraphImageUrl": null,
+    "repositoryTopics": [],
     "pages": {
       "enabled": false
     },
     "latestRelease": null
   },
   {
+    "name": "rfs",
+    "nameWithOwner": "Harzva/rfs",
+    "url": "https://github.com/Harzva/rfs",
+    "description": null,
+    "isPrivate": false,
+    "isArchived": false,
+    "isFork": true,
+    "primaryLanguage": null,
+    "pushedAt": "2020-09-02T18:37:54Z",
+    "updatedAt": "2020-12-23T15:02:11Z",
     "createdAt": "2020-12-23T15:02:09Z",
     "defaultBranchRef": {
       "name": "master"
     },
-    "description": null,
-    "forkCount": 0,
     "homepageUrl": null,
-    "isArchived": false,
-    "isFork": true,
-    "isPrivate": false,
-    "name": "rfs",
-    "nameWithOwner": "Harzva/rfs",
-    "openGraphImageUrl": null,
-    "primaryLanguage": null,
-    "pushedAt": "2020-09-02T18:37:54Z",
-    "repositoryTopics": [],
     "stargazerCount": 0,
-    "updatedAt": "2020-12-23T15:02:11Z",
-    "url": "https://github.com/Harzva/rfs",
+    "forkCount": 0,
+    "openGraphImageUrl": null,
+    "repositoryTopics": [],
     "pages": {
       "enabled": false
     },
     "latestRelease": null
   },
   {
+    "name": "tic-tac-toe",
+    "nameWithOwner": "Harzva/tic-tac-toe",
+    "url": "https://github.com/Harzva/tic-tac-toe",
+    "description": "Tic-tac-toe AI using minimax",
+    "isPrivate": false,
+    "isArchived": false,
+    "isFork": true,
+    "primaryLanguage": null,
+    "pushedAt": "2021-05-24T21:32:51Z",
+    "updatedAt": "2021-11-28T16:03:44Z",
     "createdAt": "2021-11-28T16:03:43Z",
     "defaultBranchRef": {
       "name": "master"
     },
-    "description": "Tic-tac-toe AI using minimax",
-    "forkCount": 0,
     "homepageUrl": "",
-    "isArchived": false,
-    "isFork": true,
-    "isPrivate": false,
-    "name": "tic-tac-toe",
-    "nameWithOwner": "Harzva/tic-tac-toe",
-    "openGraphImageUrl": null,
-    "primaryLanguage": null,
-    "pushedAt": "2021-05-24T21:32:51Z",
-    "repositoryTopics": [],
     "stargazerCount": 0,
-    "updatedAt": "2021-11-28T16:03:44Z",
-    "url": "https://github.com/Harzva/tic-tac-toe",
+    "forkCount": 0,
+    "openGraphImageUrl": null,
+    "repositoryTopics": [],
     "pages": {
       "enabled": false
     },
     "latestRelease": null
   },
   {
+    "name": "tic-tac-toe-1",
+    "nameWithOwner": "Harzva/tic-tac-toe-1",
+    "url": "https://github.com/Harzva/tic-tac-toe-1",
+    "description": "基于极小极大值搜索算法，采用α-β剪枝策略实现的井字棋",
+    "isPrivate": false,
+    "isArchived": false,
+    "isFork": true,
+    "primaryLanguage": null,
+    "pushedAt": "2020-05-25T14:23:56Z",
+    "updatedAt": "2021-11-28T16:13:02Z",
     "createdAt": "2021-11-28T16:13:01Z",
     "defaultBranchRef": {
       "name": "master"
     },
-    "description": "基于极小极大值搜索算法，采用α-β剪枝策略实现的井字棋",
-    "forkCount": 0,
     "homepageUrl": "",
-    "isArchived": false,
-    "isFork": true,
-    "isPrivate": false,
-    "name": "tic-tac-toe-1",
-    "nameWithOwner": "Harzva/tic-tac-toe-1",
-    "openGraphImageUrl": null,
-    "primaryLanguage": null,
-    "pushedAt": "2020-05-25T14:23:56Z",
-    "repositoryTopics": [],
     "stargazerCount": 0,
-    "updatedAt": "2021-11-28T16:13:02Z",
-    "url": "https://github.com/Harzva/tic-tac-toe-1",
+    "forkCount": 0,
+    "openGraphImageUrl": null,
+    "repositoryTopics": [],
     "pages": {
       "enabled": false
     },
     "latestRelease": null
   },
   {
+    "name": "Tic-Tac-Toe-2",
+    "nameWithOwner": "Harzva/Tic-Tac-Toe-2",
+    "url": "https://github.com/Harzva/Tic-Tac-Toe-2",
+    "description": "α-β pruning minimax TTT AI + client application for TTT server protocol",
+    "isPrivate": false,
+    "isArchived": false,
+    "isFork": true,
+    "primaryLanguage": null,
+    "pushedAt": "2019-05-14T08:25:28Z",
+    "updatedAt": "2021-11-28T16:16:03Z",
     "createdAt": "2021-11-28T16:16:03Z",
     "defaultBranchRef": {
       "name": "master"
     },
-    "description": "α-β pruning minimax TTT AI + client application for TTT server protocol",
-    "forkCount": 0,
     "homepageUrl": "",
-    "isArchived": false,
-    "isFork": true,
-    "isPrivate": false,
-    "name": "Tic-Tac-Toe-2",
-    "nameWithOwner": "Harzva/Tic-Tac-Toe-2",
-    "openGraphImageUrl": null,
-    "primaryLanguage": null,
-    "pushedAt": "2019-05-14T08:25:28Z",
-    "repositoryTopics": [],
     "stargazerCount": 0,
-    "updatedAt": "2021-11-28T16:16:03Z",
-    "url": "https://github.com/Harzva/Tic-Tac-Toe-2",
+    "forkCount": 0,
+    "openGraphImageUrl": null,
+    "repositoryTopics": [],
     "pages": {
       "enabled": false
     },
     "latestRelease": null
   },
   {
+    "name": "tic-tac-toe-minimax",
+    "nameWithOwner": "Harzva/tic-tac-toe-minimax",
+    "url": "https://github.com/Harzva/tic-tac-toe-minimax",
+    "description": "Minimax is a AI algorithm.",
+    "isPrivate": false,
+    "isArchived": false,
+    "isFork": true,
+    "primaryLanguage": null,
+    "pushedAt": "2021-11-16T14:04:47Z",
+    "updatedAt": "2021-11-28T16:02:21Z",
     "createdAt": "2021-11-28T16:02:20Z",
     "defaultBranchRef": {
       "name": "master"
     },
-    "description": "Minimax is a AI algorithm.",
-    "forkCount": 0,
     "homepageUrl": null,
-    "isArchived": false,
-    "isFork": true,
-    "isPrivate": false,
-    "name": "tic-tac-toe-minimax",
-    "nameWithOwner": "Harzva/tic-tac-toe-minimax",
-    "openGraphImageUrl": null,
-    "primaryLanguage": null,
-    "pushedAt": "2021-11-16T14:04:47Z",
-    "repositoryTopics": [],
     "stargazerCount": 0,
-    "updatedAt": "2021-11-28T16:02:21Z",
-    "url": "https://github.com/Harzva/tic-tac-toe-minimax",
+    "forkCount": 0,
+    "openGraphImageUrl": null,
+    "repositoryTopics": [],
     "pages": {
       "enabled": false
     },
     "latestRelease": null
   },
   {
+    "name": "vscode-remote-release",
+    "nameWithOwner": "Harzva/vscode-remote-release",
+    "url": "https://github.com/Harzva/vscode-remote-release",
+    "description": "Visual Studio Code Remote Development: Open any folder in WSL, in a Docker container, or on a remote machine using SSH and take advantage of VS Code's full feature set.",
+    "isPrivate": false,
+    "isArchived": false,
+    "isFork": true,
+    "primaryLanguage": null,
+    "pushedAt": "2021-03-08T16:57:23Z",
+    "updatedAt": "2021-03-28T11:52:15Z",
     "createdAt": "2021-03-28T11:52:14Z",
     "defaultBranchRef": {
       "name": "master"
     },
-    "description": "Visual Studio Code Remote Development: Open any folder in WSL, in a Docker container, or on a remote machine using SSH and take advantage of VS Code's full feature set.",
-    "forkCount": 0,
     "homepageUrl": "https://aka.ms/vscode-remote",
-    "isArchived": false,
-    "isFork": true,
-    "isPrivate": false,
-    "name": "vscode-remote-release",
-    "nameWithOwner": "Harzva/vscode-remote-release",
-    "openGraphImageUrl": null,
-    "primaryLanguage": null,
-    "pushedAt": "2021-03-08T16:57:23Z",
-    "repositoryTopics": [],
     "stargazerCount": 0,
-    "updatedAt": "2021-03-28T11:52:15Z",
-    "url": "https://github.com/Harzva/vscode-remote-release",
+    "forkCount": 0,
+    "openGraphImageUrl": null,
+    "repositoryTopics": [],
     "pages": {
       "enabled": false
     },

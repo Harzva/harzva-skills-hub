@@ -20,7 +20,7 @@
     "stargazerCount": 0,
     "forkCount": 0,
     "repositoryTopics": [],
-    "openGraphImageUrl": "https://opengraph.githubassets.com/meta/Harzva/ActiveLearning",
+    "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/ActiveLearning",
     "pages": {
       "enabled": false
     },
@@ -45,7 +45,7 @@
     "stargazerCount": 0,
     "forkCount": 0,
     "repositoryTopics": [],
-    "openGraphImageUrl": "https://opengraph.githubassets.com/meta/Harzva/agent-control-plane",
+    "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/agent-control-plane",
     "pages": {
       "enabled": false
     },
@@ -72,7 +72,7 @@
     "stargazerCount": 1,
     "forkCount": 0,
     "repositoryTopics": [],
-    "openGraphImageUrl": "https://opengraph.githubassets.com/meta/Harzva/agent-hud",
+    "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/agent-hud",
     "pages": {
       "enabled": false
     },
@@ -99,7 +99,7 @@
     "stargazerCount": 0,
     "forkCount": 0,
     "repositoryTopics": [],
-    "openGraphImageUrl": "https://opengraph.githubassets.com/meta/Harzva/Agent-Job-Interview",
+    "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/Agent-Job-Interview",
     "pages": {
       "enabled": true,
       "url": "https://harzva.github.io/Agent-Job-Interview/",
@@ -133,7 +133,43 @@
     "stargazerCount": 0,
     "forkCount": 0,
     "repositoryTopics": [],
-    "openGraphImageUrl": "https://opengraph.githubassets.com/meta/Harzva/agent-lens-vscode-extension",
+    "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/agent-lens-vscode-extension",
+    "pages": {
+      "enabled": false
+    },
+    "latestRelease": null
+  },
+  {
+    "name": "android-release-emulator-qa-skill",
+    "nameWithOwner": "Harzva/android-release-emulator-qa-skill",
+    "url": "https://github.com/Harzva/android-release-emulator-qa-skill",
+    "description": "Codex skill for Android release APK QA with emulator, adb, screenshots, UI XML, logcat, SHA256, and GitHub Release artifact checks.",
+    "isPrivate": false,
+    "isArchived": false,
+    "isFork": false,
+    "primaryLanguage": {
+      "name": "Python"
+    },
+    "pushedAt": "2026-05-14T09:52:00Z",
+    "updatedAt": "2026-05-14T09:52:16Z",
+    "createdAt": "2026-05-14T09:51:56Z",
+    "defaultBranchRef": {
+      "name": "main"
+    },
+    "homepageUrl": "",
+    "stargazerCount": 0,
+    "forkCount": 0,
+    "repositoryTopics": [
+      "adb",
+      "android",
+      "apk",
+      "codex-skill",
+      "emulator",
+      "github-release",
+      "mumu",
+      "qa"
+    ],
+    "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/android-release-emulator-qa-skill",
     "pages": {
       "enabled": false
     },
@@ -158,7 +194,34 @@
     "stargazerCount": 1,
     "forkCount": 0,
     "repositoryTopics": [],
-    "openGraphImageUrl": "https://opengraph.githubassets.com/meta/Harzva/Awesome-Bayesian-Meta-learning",
+    "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/Awesome-Bayesian-Meta-learning",
+    "pages": {
+      "enabled": false
+    },
+    "latestRelease": null
+  },
+  {
+    "name": "build-your-meta-repo-skill",
+    "nameWithOwner": "Harzva/build-your-meta-repo-skill",
+    "url": "https://github.com/Harzva/build-your-meta-repo-skill",
+    "description": "Codex skill for building auto-updating GitHub meta repositories: project atlas, release hub, pages hub, and skills hub.",
+    "isPrivate": false,
+    "isArchived": false,
+    "isFork": false,
+    "primaryLanguage": {
+      "name": "Python"
+    },
+    "pushedAt": "2026-05-14T09:39:39Z",
+    "updatedAt": "2026-05-14T09:39:43Z",
+    "createdAt": "2026-05-14T09:29:50Z",
+    "defaultBranchRef": {
+      "name": "main"
+    },
+    "homepageUrl": "",
+    "stargazerCount": 0,
+    "forkCount": 0,
+    "repositoryTopics": [],
+    "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/build-your-meta-repo-skill",
     "pages": {
       "enabled": false
     },
@@ -191,7 +254,7 @@
       "spring-boot",
       "vue"
     ],
-    "openGraphImageUrl": "https://opengraph.githubassets.com/meta/Harzva/CampusAgent-QA",
+    "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/CampusAgent-QA",
     "pages": {
       "enabled": true,
       "url": "https://harzva.github.io/CampusAgent-QA/",
@@ -231,7 +294,7 @@
       "spring-boot",
       "vue"
     ],
-    "openGraphImageUrl": "https://opengraph.githubassets.com/meta/Harzva/CampusRAG-QA",
+    "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/CampusRAG-QA",
     "pages": {
       "enabled": false
     },
@@ -258,7 +321,7 @@
     "stargazerCount": 0,
     "forkCount": 0,
     "repositoryTopics": [],
-    "openGraphImageUrl": "https://opengraph.githubassets.com/meta/Harzva/cangku2",
+    "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/cangku2",
     "pages": {
       "enabled": false
     },
@@ -295,7 +358,7 @@
       "prompt-cache",
       "tui"
     ],
-    "openGraphImageUrl": "https://opengraph.githubassets.com/meta/Harzva/catop-cachehit",
+    "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/catop-cachehit",
     "pages": {
       "enabled": true,
       "url": "https://harzva.github.io/catop-cachehit/",
@@ -343,7 +406,7 @@
       "roadmap",
       "svg"
     ],
-    "openGraphImageUrl": "https://opengraph.githubassets.com/meta/Harzva/ChinaAI-Roadmaps",
+    "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/ChinaAI-Roadmaps",
     "pages": {
       "enabled": true,
       "url": "https://harzva.github.io/ChinaAI-Roadmaps/",
@@ -375,7 +438,7 @@
     "stargazerCount": 0,
     "forkCount": 0,
     "repositoryTopics": [],
-    "openGraphImageUrl": "https://opengraph.githubassets.com/meta/Harzva/coae",
+    "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/coae",
     "pages": {
       "enabled": false
     },
@@ -402,11 +465,27 @@
     "stargazerCount": 102,
     "forkCount": 24,
     "repositoryTopics": [],
-    "openGraphImageUrl": "https://opengraph.githubassets.com/meta/Harzva/codex-managed-agent",
+    "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/codex-managed-agent",
     "pages": {
       "enabled": false
     },
-    "latestRelease": null
+    "latestRelease": {
+      "name": "Codex-Managed-Agent v1.0.3",
+      "tagName": "v1.0.3",
+      "url": "https://github.com/Harzva/codex-managed-agent/releases/tag/v1.0.3",
+      "publishedAt": "2026-04-16T14:25:37Z",
+      "prerelease": false,
+      "draft": false,
+      "assets": [
+        {
+          "name": "codex-managed-agent-1.0.3.vsix",
+          "url": "https://github.com/Harzva/codex-managed-agent/releases/download/v1.0.3/codex-managed-agent-1.0.3.vsix",
+          "size": 468736,
+          "downloadCount": 1,
+          "contentType": "application/octet-stream"
+        }
+      ]
+    }
   },
   {
     "name": "copilot-plugin-cc",
@@ -429,9 +508,50 @@
     "stargazerCount": 0,
     "forkCount": 0,
     "repositoryTopics": [],
-    "openGraphImageUrl": "https://opengraph.githubassets.com/meta/Harzva/copilot-plugin-cc",
+    "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/copilot-plugin-cc",
     "pages": {
       "enabled": false
+    },
+    "latestRelease": null
+  },
+  {
+    "name": "design-md-flow",
+    "nameWithOwner": "Harzva/design-md-flow",
+    "url": "https://github.com/Harzva/design-md-flow",
+    "description": "Portable DESIGN.md workflow skill for agent-driven frontend design",
+    "isPrivate": false,
+    "isArchived": false,
+    "isFork": false,
+    "primaryLanguage": {
+      "name": "Python"
+    },
+    "pushedAt": "2026-05-14T14:33:35Z",
+    "updatedAt": "2026-05-14T14:35:54Z",
+    "createdAt": "2026-05-14T09:13:53Z",
+    "defaultBranchRef": {
+      "name": "main"
+    },
+    "homepageUrl": "https://harzva.github.io/design-md-flow/",
+    "stargazerCount": 0,
+    "forkCount": 0,
+    "repositoryTopics": [
+      "agent-skills",
+      "ai-agents",
+      "codex",
+      "design-md",
+      "design-systems",
+      "frontend"
+    ],
+    "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/design-md-flow",
+    "pages": {
+      "enabled": true,
+      "url": "https://harzva.github.io/design-md-flow/",
+      "status": null,
+      "source": {
+        "branch": "main",
+        "path": "/"
+      },
+      "httpsEnforced": true
     },
     "latestRelease": null
   },
@@ -456,7 +576,7 @@
     "stargazerCount": 0,
     "forkCount": 0,
     "repositoryTopics": [],
-    "openGraphImageUrl": "https://opengraph.githubassets.com/meta/Harzva/DistFilter",
+    "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/DistFilter",
     "pages": {
       "enabled": false
     },
@@ -483,7 +603,7 @@
     "stargazerCount": 0,
     "forkCount": 0,
     "repositoryTopics": [],
-    "openGraphImageUrl": "https://opengraph.githubassets.com/meta/Harzva/everything-agent-cli-to-claude-code",
+    "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/everything-agent-cli-to-claude-code",
     "pages": {
       "enabled": false
     },
@@ -510,7 +630,7 @@
     "stargazerCount": 0,
     "forkCount": 0,
     "repositoryTopics": [],
-    "openGraphImageUrl": "https://opengraph.githubassets.com/meta/Harzva/everything-in-github",
+    "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/everything-in-github",
     "pages": {
       "enabled": true,
       "url": "https://harzva.github.io/everything-in-github/",
@@ -542,7 +662,7 @@
     "stargazerCount": 0,
     "forkCount": 0,
     "repositoryTopics": [],
-    "openGraphImageUrl": "https://opengraph.githubassets.com/meta/Harzva/FindWork",
+    "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/FindWork",
     "pages": {
       "enabled": false
     },
@@ -567,7 +687,7 @@
     "stargazerCount": 0,
     "forkCount": 0,
     "repositoryTopics": [],
-    "openGraphImageUrl": "https://opengraph.githubassets.com/meta/Harzva/gen-zhihu-article-skill",
+    "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/gen-zhihu-article-skill",
     "pages": {
       "enabled": false
     },
@@ -594,7 +714,7 @@
     "stargazerCount": 0,
     "forkCount": 0,
     "repositoryTopics": [],
-    "openGraphImageUrl": "https://opengraph.githubassets.com/meta/Harzva/gh-account-router",
+    "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/gh-account-router",
     "pages": {
       "enabled": false
     },
@@ -619,7 +739,40 @@
     "stargazerCount": 0,
     "forkCount": 0,
     "repositoryTopics": [],
-    "openGraphImageUrl": "https://opengraph.githubassets.com/meta/Harzva/gh-actions-release-builder",
+    "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/gh-actions-release-builder",
+    "pages": {
+      "enabled": false
+    },
+    "latestRelease": null
+  },
+  {
+    "name": "gh-repo-cartographer",
+    "nameWithOwner": "Harzva/gh-repo-cartographer",
+    "url": "https://github.com/Harzva/gh-repo-cartographer",
+    "description": "Codex skill and CLI for mapping GitHub repositories to local checkouts and sync status.",
+    "isPrivate": false,
+    "isArchived": false,
+    "isFork": false,
+    "primaryLanguage": {
+      "name": "Python"
+    },
+    "pushedAt": "2026-05-14T10:47:46Z",
+    "updatedAt": "2026-05-14T10:47:50Z",
+    "createdAt": "2026-05-14T10:34:15Z",
+    "defaultBranchRef": {
+      "name": "main"
+    },
+    "homepageUrl": "",
+    "stargazerCount": 0,
+    "forkCount": 0,
+    "repositoryTopics": [
+      "automation",
+      "codex-skill",
+      "github-cli",
+      "python",
+      "repository-management"
+    ],
+    "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/gh-repo-cartographer",
     "pages": {
       "enabled": false
     },
@@ -646,7 +799,7 @@
     "stargazerCount": 3,
     "forkCount": 2,
     "repositoryTopics": [],
-    "openGraphImageUrl": "https://opengraph.githubassets.com/meta/Harzva/gigavision",
+    "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/gigavision",
     "pages": {
       "enabled": false
     },
@@ -663,8 +816,8 @@
     "primaryLanguage": {
       "name": "Python"
     },
-    "pushedAt": "2026-05-14T00:18:10Z",
-    "updatedAt": "2026-05-14T00:17:54Z",
+    "pushedAt": "2026-05-14T09:19:05Z",
+    "updatedAt": "2026-05-14T09:19:10Z",
     "createdAt": "2026-05-13T16:47:57Z",
     "defaultBranchRef": {
       "name": "main"
@@ -682,7 +835,7 @@
       "release-automation",
       "workflow-automation"
     ],
-    "openGraphImageUrl": "https://opengraph.githubassets.com/meta/Harzva/github-management-suite",
+    "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/github-management-suite",
     "pages": {
       "enabled": false
     },
@@ -692,7 +845,8 @@
       "url": "https://github.com/Harzva/github-management-suite/releases/tag/v0.2.0",
       "publishedAt": "2026-05-14T00:18:11Z",
       "prerelease": false,
-      "draft": false
+      "draft": false,
+      "assets": []
     }
   },
   {
@@ -706,8 +860,8 @@
     "primaryLanguage": {
       "name": "Rust"
     },
-    "pushedAt": "2026-05-14T08:48:47Z",
-    "updatedAt": "2026-05-14T08:48:36Z",
+    "pushedAt": "2026-05-14T09:33:14Z",
+    "updatedAt": "2026-05-14T09:33:18Z",
     "createdAt": "2026-05-12T07:58:44Z",
     "defaultBranchRef": {
       "name": "main"
@@ -716,7 +870,7 @@
     "stargazerCount": 0,
     "forkCount": 0,
     "repositoryTopics": [],
-    "openGraphImageUrl": "https://opengraph.githubassets.com/meta/Harzva/GitReleaseMarket",
+    "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/GitReleaseMarket",
     "pages": {
       "enabled": true,
       "url": "https://harzva.github.io/GitReleaseMarket/",
@@ -728,12 +882,49 @@
       "httpsEnforced": true
     },
     "latestRelease": {
-      "name": "v0.1.7",
-      "tagName": "v0.1.7",
-      "url": "https://github.com/Harzva/GitReleaseMarket/releases/tag/v0.1.7",
-      "publishedAt": "2026-05-14T08:54:17Z",
+      "name": "v0.1.9",
+      "tagName": "v0.1.9",
+      "url": "https://github.com/Harzva/GitReleaseMarket/releases/tag/v0.1.9",
+      "publishedAt": "2026-05-14T09:40:36Z",
       "prerelease": false,
-      "draft": false
+      "draft": false,
+      "assets": [
+        {
+          "name": "gitmarket-android-experimental.apk",
+          "url": "https://github.com/Harzva/GitReleaseMarket/releases/download/v0.1.9/gitmarket-android-experimental.apk",
+          "size": 4252911,
+          "downloadCount": 1,
+          "contentType": "application/vnd.android.package-archive"
+        },
+        {
+          "name": "gitmarket-ios-simulator.zip",
+          "url": "https://github.com/Harzva/GitReleaseMarket/releases/download/v0.1.9/gitmarket-ios-simulator.zip",
+          "size": 210051,
+          "downloadCount": 0,
+          "contentType": "application/zip"
+        },
+        {
+          "name": "gitmarket-linux-x86_64.tar.gz",
+          "url": "https://github.com/Harzva/GitReleaseMarket/releases/download/v0.1.9/gitmarket-linux-x86_64.tar.gz",
+          "size": 5512912,
+          "downloadCount": 0,
+          "contentType": "application/gzip"
+        },
+        {
+          "name": "gitmarket-macos-aarch64.tar.gz",
+          "url": "https://github.com/Harzva/GitReleaseMarket/releases/download/v0.1.9/gitmarket-macos-aarch64.tar.gz",
+          "size": 3987245,
+          "downloadCount": 0,
+          "contentType": "application/gzip"
+        },
+        {
+          "name": "gitmarket-windows-x86_64.zip",
+          "url": "https://github.com/Harzva/GitReleaseMarket/releases/download/v0.1.9/gitmarket-windows-x86_64.zip",
+          "size": 3743691,
+          "downloadCount": 1,
+          "contentType": "application/zip"
+        }
+      ]
     }
   },
   {
@@ -758,7 +949,7 @@
       "config",
       "github-config"
     ],
-    "openGraphImageUrl": "https://opengraph.githubassets.com/meta/Harzva/Harzva",
+    "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/Harzva",
     "pages": {
       "enabled": false
     },
@@ -785,7 +976,7 @@
     "stargazerCount": 0,
     "forkCount": 0,
     "repositoryTopics": [],
-    "openGraphImageUrl": "https://opengraph.githubassets.com/meta/Harzva/Harzva--personal",
+    "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/Harzva--personal",
     "pages": {
       "enabled": true,
       "url": "https://harzva.github.io/Harzva--personal/",
@@ -795,6 +986,128 @@
         "path": "/"
       },
       "httpsEnforced": true
+    },
+    "latestRelease": null
+  },
+  {
+    "name": "harzva-pages-hub",
+    "nameWithOwner": "Harzva/harzva-pages-hub",
+    "url": "https://github.com/Harzva/harzva-pages-hub",
+    "description": "Visual GitHub Pages hub for Harzva sites, demos, docs, and live project surfaces.",
+    "isPrivate": false,
+    "isArchived": false,
+    "isFork": false,
+    "primaryLanguage": {
+      "name": "Python"
+    },
+    "pushedAt": "2026-05-14T09:39:26Z",
+    "updatedAt": "2026-05-14T09:39:29Z",
+    "createdAt": "2026-05-14T09:29:39Z",
+    "defaultBranchRef": {
+      "name": "main"
+    },
+    "homepageUrl": "https://harzva.github.io/harzva-pages-hub/",
+    "stargazerCount": 0,
+    "forkCount": 0,
+    "repositoryTopics": [],
+    "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/harzva-pages-hub",
+    "pages": {
+      "enabled": true,
+      "url": "https://harzva.github.io/harzva-pages-hub/",
+      "status": null,
+      "source": {
+        "branch": "main",
+        "path": "/"
+      },
+      "httpsEnforced": true
+    },
+    "latestRelease": null
+  },
+  {
+    "name": "harzva-project-atlas",
+    "nameWithOwner": "Harzva/harzva-project-atlas",
+    "url": "https://github.com/Harzva/harzva-project-atlas",
+    "description": "Harzva project atlas: auto-updating classified index of public repositories, hubs, pages, releases, skills, and forks.",
+    "isPrivate": false,
+    "isArchived": false,
+    "isFork": false,
+    "primaryLanguage": {
+      "name": "Python"
+    },
+    "pushedAt": "2026-05-14T09:39:21Z",
+    "updatedAt": "2026-05-14T09:39:25Z",
+    "createdAt": "2026-05-14T09:27:13Z",
+    "defaultBranchRef": {
+      "name": "main"
+    },
+    "homepageUrl": "https://harzva.github.io/harzva-project-atlas/",
+    "stargazerCount": 0,
+    "forkCount": 0,
+    "repositoryTopics": [],
+    "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/harzva-project-atlas",
+    "pages": {
+      "enabled": true,
+      "url": "https://harzva.github.io/harzva-project-atlas/",
+      "status": null,
+      "source": {
+        "branch": "main",
+        "path": "/"
+      },
+      "httpsEnforced": true
+    },
+    "latestRelease": null
+  },
+  {
+    "name": "harzva-release-hub",
+    "nameWithOwner": "Harzva/harzva-release-hub",
+    "url": "https://github.com/Harzva/harzva-release-hub",
+    "description": "Auto-updating release hub for Harzva repositories with published GitHub releases.",
+    "isPrivate": false,
+    "isArchived": false,
+    "isFork": false,
+    "primaryLanguage": {
+      "name": "Python"
+    },
+    "pushedAt": "2026-05-14T09:39:23Z",
+    "updatedAt": "2026-05-14T09:39:27Z",
+    "createdAt": "2026-05-14T09:29:34Z",
+    "defaultBranchRef": {
+      "name": "main"
+    },
+    "homepageUrl": "",
+    "stargazerCount": 0,
+    "forkCount": 0,
+    "repositoryTopics": [],
+    "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/harzva-release-hub",
+    "pages": {
+      "enabled": false
+    },
+    "latestRelease": null
+  },
+  {
+    "name": "harzva-skills-hub",
+    "nameWithOwner": "Harzva/harzva-skills-hub",
+    "url": "https://github.com/Harzva/harzva-skills-hub",
+    "description": "Auto-updating registry of Harzva Codex skills, workflow skills, and agent recipes.",
+    "isPrivate": false,
+    "isArchived": false,
+    "isFork": false,
+    "primaryLanguage": {
+      "name": "Python"
+    },
+    "pushedAt": "2026-05-14T09:39:28Z",
+    "updatedAt": "2026-05-14T09:39:32Z",
+    "createdAt": "2026-05-14T09:29:45Z",
+    "defaultBranchRef": {
+      "name": "main"
+    },
+    "homepageUrl": "",
+    "stargazerCount": 0,
+    "forkCount": 0,
+    "repositoryTopics": [],
+    "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/harzva-skills-hub",
+    "pages": {
+      "enabled": false
     },
     "latestRelease": null
   },
@@ -819,7 +1132,7 @@
     "stargazerCount": 0,
     "forkCount": 0,
     "repositoryTopics": [],
-    "openGraphImageUrl": "https://opengraph.githubassets.com/meta/Harzva/Harzva.github.io",
+    "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/Harzva.github.io",
     "pages": {
       "enabled": true,
       "url": "https://harzva.github.io/",
@@ -859,7 +1172,7 @@
       "spring-boot",
       "vue"
     ],
-    "openGraphImageUrl": "https://opengraph.githubassets.com/meta/Harzva/HyperMemory",
+    "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/HyperMemory",
     "pages": {
       "enabled": false
     },
@@ -884,7 +1197,7 @@
     "stargazerCount": 0,
     "forkCount": 0,
     "repositoryTopics": [],
-    "openGraphImageUrl": "https://opengraph.githubassets.com/meta/Harzva/keep-claude-cheaper",
+    "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/keep-claude-cheaper",
     "pages": {
       "enabled": false
     },
@@ -922,7 +1235,7 @@
       "source-map",
       "typescript"
     ],
-    "openGraphImageUrl": "https://opengraph.githubassets.com/meta/Harzva/learn-likecc",
+    "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/learn-likecc",
     "pages": {
       "enabled": true,
       "url": "https://harzva.github.io/learn-likecc/",
@@ -939,7 +1252,8 @@
       "url": "https://github.com/Harzva/learn-likecc/releases/tag/v1.0.2-likecode",
       "publishedAt": "2026-04-07T12:27:48Z",
       "prerelease": false,
-      "draft": false
+      "draft": false,
+      "assets": []
     }
   },
   {
@@ -961,7 +1275,7 @@
     "stargazerCount": 0,
     "forkCount": 0,
     "repositoryTopics": [],
-    "openGraphImageUrl": "https://opengraph.githubassets.com/meta/Harzva/loloop-skill",
+    "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/loloop-skill",
     "pages": {
       "enabled": false
     },
@@ -986,7 +1300,7 @@
     "stargazerCount": 0,
     "forkCount": 0,
     "repositoryTopics": [],
-    "openGraphImageUrl": "https://opengraph.githubassets.com/meta/Harzva/meta-agent",
+    "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/meta-agent",
     "pages": {
       "enabled": false
     },
@@ -1011,7 +1325,7 @@
     "stargazerCount": 0,
     "forkCount": 0,
     "repositoryTopics": [],
-    "openGraphImageUrl": "https://opengraph.githubassets.com/meta/Harzva/metaagent",
+    "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/metaagent",
     "pages": {
       "enabled": false
     },
@@ -1036,7 +1350,7 @@
     "stargazerCount": 0,
     "forkCount": 0,
     "repositoryTopics": [],
-    "openGraphImageUrl": "https://opengraph.githubassets.com/meta/Harzva/ml",
+    "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/ml",
     "pages": {
       "enabled": false
     },
@@ -1053,8 +1367,8 @@
     "primaryLanguage": {
       "name": "Dart"
     },
-    "pushedAt": "2026-05-14T09:06:28Z",
-    "updatedAt": "2026-05-14T09:06:32Z",
+    "pushedAt": "2026-05-14T14:36:13Z",
+    "updatedAt": "2026-05-14T14:36:17Z",
     "createdAt": "2026-05-12T08:19:17Z",
     "defaultBranchRef": {
       "name": "main"
@@ -1063,7 +1377,7 @@
     "stargazerCount": 0,
     "forkCount": 0,
     "repositoryTopics": [],
-    "openGraphImageUrl": "https://opengraph.githubassets.com/meta/Harzva/mobilecode",
+    "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/mobilecode",
     "pages": {
       "enabled": true,
       "url": "https://harzva.github.io/mobilecode/",
@@ -1080,7 +1394,30 @@
       "url": "https://github.com/Harzva/mobilecode/releases/tag/v0.1.0",
       "publishedAt": "2026-05-12T08:19:46Z",
       "prerelease": false,
-      "draft": false
+      "draft": false,
+      "assets": [
+        {
+          "name": "mobilecode-ios-simulator-v0.1.0.zip",
+          "url": "https://github.com/Harzva/mobilecode/releases/download/v0.1.0/mobilecode-ios-simulator-v0.1.0.zip",
+          "size": 52146213,
+          "downloadCount": 0,
+          "contentType": "application/zip"
+        },
+        {
+          "name": "mobilecode-site-v0.1.0.zip",
+          "url": "https://github.com/Harzva/mobilecode/releases/download/v0.1.0/mobilecode-site-v0.1.0.zip",
+          "size": 224820,
+          "downloadCount": 0,
+          "contentType": "application/zip"
+        },
+        {
+          "name": "mobilecode-v0.1.0.apk",
+          "url": "https://github.com/Harzva/mobilecode/releases/download/v0.1.0/mobilecode-v0.1.0.apk",
+          "size": 51392061,
+          "downloadCount": 0,
+          "contentType": "application/vnd.android.package-archive"
+        }
+      ]
     }
   },
   {
@@ -1104,7 +1441,7 @@
     "stargazerCount": 1,
     "forkCount": 0,
     "repositoryTopics": [],
-    "openGraphImageUrl": "https://opengraph.githubassets.com/meta/Harzva/my_INSTALL",
+    "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/my_INSTALL",
     "pages": {
       "enabled": false
     },
@@ -1131,7 +1468,7 @@
     "stargazerCount": 1,
     "forkCount": 0,
     "repositoryTopics": [],
-    "openGraphImageUrl": "https://opengraph.githubassets.com/meta/Harzva/One-Shot-Object-Detection",
+    "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/One-Shot-Object-Detection",
     "pages": {
       "enabled": false
     },
@@ -1156,7 +1493,7 @@
     "stargazerCount": 0,
     "forkCount": 0,
     "repositoryTopics": [],
-    "openGraphImageUrl": "https://opengraph.githubassets.com/meta/Harzva/pocket",
+    "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/pocket",
     "pages": {
       "enabled": false
     },
@@ -1183,7 +1520,7 @@
     "stargazerCount": 0,
     "forkCount": 0,
     "repositoryTopics": [],
-    "openGraphImageUrl": "https://opengraph.githubassets.com/meta/Harzva/police_car",
+    "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/police_car",
     "pages": {
       "enabled": false
     },
@@ -1200,8 +1537,8 @@
     "primaryLanguage": {
       "name": "JavaScript"
     },
-    "pushedAt": "2026-05-14T08:01:25Z",
-    "updatedAt": "2026-05-14T08:02:24Z",
+    "pushedAt": "2026-05-14T09:14:57Z",
+    "updatedAt": "2026-05-14T09:15:02Z",
     "createdAt": "2026-05-14T08:01:16Z",
     "defaultBranchRef": {
       "name": "main"
@@ -1217,7 +1554,7 @@
       "readme",
       "screenshot"
     ],
-    "openGraphImageUrl": "https://opengraph.githubassets.com/meta/Harzva/ReadmeShowcaseScreenshot-Skill",
+    "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/ReadmeShowcaseScreenshot-Skill",
     "pages": {
       "enabled": false
     },
@@ -1244,7 +1581,7 @@
     "stargazerCount": 0,
     "forkCount": 0,
     "repositoryTopics": [],
-    "openGraphImageUrl": "https://opengraph.githubassets.com/meta/Harzva/RepoAtlas",
+    "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/RepoAtlas",
     "pages": {
       "enabled": true,
       "url": "https://harzva.github.io/RepoAtlas/",
@@ -1261,7 +1598,23 @@
       "url": "https://github.com/Harzva/RepoAtlas/releases/tag/v0.5.0",
       "publishedAt": "2026-05-13T14:49:50Z",
       "prerelease": false,
-      "draft": false
+      "draft": false,
+      "assets": [
+        {
+          "name": "RepoAtlas-v0.5.0-macos-ARM64.tar.gz",
+          "url": "https://github.com/Harzva/RepoAtlas/releases/download/v0.5.0/RepoAtlas-v0.5.0-macos-ARM64.tar.gz",
+          "size": 695734,
+          "downloadCount": 0,
+          "contentType": "application/gzip"
+        },
+        {
+          "name": "RepoAtlas-v0.5.0-windows-x64.exe",
+          "url": "https://github.com/Harzva/RepoAtlas/releases/download/v0.5.0/RepoAtlas-v0.5.0-windows-x64.exe",
+          "size": 1594368,
+          "downloadCount": 0,
+          "contentType": "application/x-msdos-program"
+        }
+      ]
     }
   },
   {
@@ -1285,7 +1638,7 @@
     "stargazerCount": 0,
     "forkCount": 0,
     "repositoryTopics": [],
-    "openGraphImageUrl": "https://opengraph.githubassets.com/meta/Harzva/webpage-screenshot-md-skill",
+    "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/webpage-screenshot-md-skill",
     "pages": {
       "enabled": false
     },
@@ -1312,7 +1665,7 @@
     "stargazerCount": 0,
     "forkCount": 0,
     "repositoryTopics": [],
-    "openGraphImageUrl": "https://opengraph.githubassets.com/meta/Harzva/WellAgentPets",
+    "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/WellAgentPets",
     "pages": {
       "enabled": true,
       "url": "https://harzva.github.io/WellAgentPets/",
@@ -1346,7 +1699,7 @@
     "stargazerCount": 0,
     "forkCount": 0,
     "repositoryTopics": [],
-    "openGraphImageUrl": "https://opengraph.githubassets.com/meta/Harzva/wemedia",
+    "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/wemedia",
     "pages": {
       "enabled": false
     },
@@ -1371,7 +1724,7 @@
     "stargazerCount": 0,
     "forkCount": 0,
     "repositoryTopics": [],
-    "openGraphImageUrl": "https://opengraph.githubassets.com/meta/Harzva/zhihu-publish-skill",
+    "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/zhihu-publish-skill",
     "pages": {
       "enabled": false
     },
@@ -1396,7 +1749,7 @@
     "stargazerCount": 0,
     "forkCount": 0,
     "repositoryTopics": [],
-    "openGraphImageUrl": "https://opengraph.githubassets.com/meta/Harzva/awesome-obsidian",
+    "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/awesome-obsidian",
     "pages": {
       "enabled": false
     },
@@ -1421,7 +1774,7 @@
     "stargazerCount": 0,
     "forkCount": 0,
     "repositoryTopics": [],
-    "openGraphImageUrl": "https://opengraph.githubassets.com/meta/Harzva/Awesome-pytorch-list-CNVersion",
+    "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/Awesome-pytorch-list-CNVersion",
     "pages": {
       "enabled": false
     },
@@ -1446,7 +1799,7 @@
     "stargazerCount": 0,
     "forkCount": 0,
     "repositoryTopics": [],
-    "openGraphImageUrl": "https://opengraph.githubassets.com/meta/Harzva/BNUGraduateThesis",
+    "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/BNUGraduateThesis",
     "pages": {
       "enabled": false
     },
@@ -1471,7 +1824,7 @@
     "stargazerCount": 0,
     "forkCount": 0,
     "repositoryTopics": [],
-    "openGraphImageUrl": "https://opengraph.githubassets.com/meta/Harzva/CMeKG_labelingPlatform",
+    "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/CMeKG_labelingPlatform",
     "pages": {
       "enabled": false
     },
@@ -1496,7 +1849,7 @@
     "stargazerCount": 0,
     "forkCount": 0,
     "repositoryTopics": [],
-    "openGraphImageUrl": "https://opengraph.githubassets.com/meta/Harzva/CMeKG_tools",
+    "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/CMeKG_tools",
     "pages": {
       "enabled": false
     },
@@ -1521,7 +1874,7 @@
     "stargazerCount": 0,
     "forkCount": 0,
     "repositoryTopics": [],
-    "openGraphImageUrl": "https://opengraph.githubassets.com/meta/Harzva/CMeKGCrawler",
+    "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/CMeKGCrawler",
     "pages": {
       "enabled": false
     },
@@ -1546,7 +1899,7 @@
     "stargazerCount": 0,
     "forkCount": 0,
     "repositoryTopics": [],
-    "openGraphImageUrl": "https://opengraph.githubassets.com/meta/Harzva/Dive-into-DL-PyTorch",
+    "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/Dive-into-DL-PyTorch",
     "pages": {
       "enabled": false
     },
@@ -1571,7 +1924,7 @@
     "stargazerCount": 0,
     "forkCount": 0,
     "repositoryTopics": [],
-    "openGraphImageUrl": "https://opengraph.githubassets.com/meta/Harzva/floccus",
+    "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/floccus",
     "pages": {
       "enabled": false
     },
@@ -1596,7 +1949,7 @@
     "stargazerCount": 0,
     "forkCount": 0,
     "repositoryTopics": [],
-    "openGraphImageUrl": "https://opengraph.githubassets.com/meta/Harzva/Focal-Loss-Pytorch",
+    "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/Focal-Loss-Pytorch",
     "pages": {
       "enabled": false
     },
@@ -1621,7 +1974,7 @@
     "stargazerCount": 0,
     "forkCount": 0,
     "repositoryTopics": [],
-    "openGraphImageUrl": "https://opengraph.githubassets.com/meta/Harzva/free",
+    "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/free",
     "pages": {
       "enabled": false
     },
@@ -1648,7 +2001,7 @@
     "stargazerCount": 0,
     "forkCount": 0,
     "repositoryTopics": [],
-    "openGraphImageUrl": "https://opengraph.githubassets.com/meta/Harzva/ifsl",
+    "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/ifsl",
     "pages": {
       "enabled": false
     },
@@ -1673,7 +2026,7 @@
     "stargazerCount": 0,
     "forkCount": 0,
     "repositoryTopics": [],
-    "openGraphImageUrl": "https://opengraph.githubassets.com/meta/Harzva/image2_UI_skill",
+    "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/image2_UI_skill",
     "pages": {
       "enabled": false
     },
@@ -1698,7 +2051,7 @@
     "stargazerCount": 0,
     "forkCount": 0,
     "repositoryTopics": [],
-    "openGraphImageUrl": "https://opengraph.githubassets.com/meta/Harzva/Installation",
+    "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/Installation",
     "pages": {
       "enabled": false
     },
@@ -1723,7 +2076,7 @@
     "stargazerCount": 0,
     "forkCount": 0,
     "repositoryTopics": [],
-    "openGraphImageUrl": "https://opengraph.githubassets.com/meta/Harzva/jekyll-blog",
+    "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/jekyll-blog",
     "pages": {
       "enabled": false
     },
@@ -1748,7 +2101,7 @@
     "stargazerCount": 0,
     "forkCount": 0,
     "repositoryTopics": [],
-    "openGraphImageUrl": "https://opengraph.githubassets.com/meta/Harzva/LDC",
+    "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/LDC",
     "pages": {
       "enabled": false
     },
@@ -1773,7 +2126,7 @@
     "stargazerCount": 0,
     "forkCount": 0,
     "repositoryTopics": [],
-    "openGraphImageUrl": "https://opengraph.githubassets.com/meta/Harzva/LearningToCompare_FSL",
+    "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/LearningToCompare_FSL",
     "pages": {
       "enabled": false
     },
@@ -1798,7 +2151,7 @@
     "stargazerCount": 0,
     "forkCount": 0,
     "repositoryTopics": [],
-    "openGraphImageUrl": "https://opengraph.githubassets.com/meta/Harzva/LIDChallenge2020-NoPeopleAllowed",
+    "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/LIDChallenge2020-NoPeopleAllowed",
     "pages": {
       "enabled": false
     },
@@ -1825,7 +2178,7 @@
     "stargazerCount": 0,
     "forkCount": 0,
     "repositoryTopics": [],
-    "openGraphImageUrl": "https://opengraph.githubassets.com/meta/Harzva/like-code",
+    "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/like-code",
     "pages": {
       "enabled": false
     },
@@ -1850,7 +2203,7 @@
     "stargazerCount": 0,
     "forkCount": 0,
     "repositoryTopics": [],
-    "openGraphImageUrl": "https://opengraph.githubassets.com/meta/Harzva/make-agents-cheaper",
+    "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/make-agents-cheaper",
     "pages": {
       "enabled": false
     },
@@ -1875,7 +2228,7 @@
     "stargazerCount": 0,
     "forkCount": 0,
     "repositoryTopics": [],
-    "openGraphImageUrl": "https://opengraph.githubassets.com/meta/Harzva/MatchingNetworks",
+    "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/MatchingNetworks",
     "pages": {
       "enabled": false
     },
@@ -1900,7 +2253,7 @@
     "stargazerCount": 0,
     "forkCount": 0,
     "repositoryTopics": [],
-    "openGraphImageUrl": "https://opengraph.githubassets.com/meta/Harzva/mmdetection",
+    "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/mmdetection",
     "pages": {
       "enabled": false
     },
@@ -1925,7 +2278,7 @@
     "stargazerCount": 0,
     "forkCount": 0,
     "repositoryTopics": [],
-    "openGraphImageUrl": "https://opengraph.githubassets.com/meta/Harzva/NlpPractice",
+    "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/NlpPractice",
     "pages": {
       "enabled": false
     },
@@ -1950,7 +2303,7 @@
     "stargazerCount": 0,
     "forkCount": 0,
     "repositoryTopics": [],
-    "openGraphImageUrl": "https://opengraph.githubassets.com/meta/Harzva/numerical-computation-method",
+    "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/numerical-computation-method",
     "pages": {
       "enabled": false
     },
@@ -1975,7 +2328,7 @@
     "stargazerCount": 0,
     "forkCount": 0,
     "repositoryTopics": [],
-    "openGraphImageUrl": "https://opengraph.githubassets.com/meta/Harzva/Oh-Reflective-loop-skills",
+    "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/Oh-Reflective-loop-skills",
     "pages": {
       "enabled": false
     },
@@ -2000,7 +2353,7 @@
     "stargazerCount": 0,
     "forkCount": 0,
     "repositoryTopics": [],
-    "openGraphImageUrl": "https://opengraph.githubassets.com/meta/Harzva/One-Shot-Object-Detection-1",
+    "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/One-Shot-Object-Detection-1",
     "pages": {
       "enabled": false
     },
@@ -2025,7 +2378,7 @@
     "stargazerCount": 0,
     "forkCount": 0,
     "repositoryTopics": [],
-    "openGraphImageUrl": "https://opengraph.githubassets.com/meta/Harzva/openbayes-serving-examples",
+    "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/openbayes-serving-examples",
     "pages": {
       "enabled": false
     },
@@ -2050,7 +2403,7 @@
     "stargazerCount": 0,
     "forkCount": 0,
     "repositoryTopics": [],
-    "openGraphImageUrl": "https://opengraph.githubassets.com/meta/Harzva/Paper-Reading---follow-by-GOD-Mu",
+    "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/Paper-Reading---follow-by-GOD-Mu",
     "pages": {
       "enabled": false
     },
@@ -2075,7 +2428,7 @@
     "stargazerCount": 0,
     "forkCount": 0,
     "repositoryTopics": [],
-    "openGraphImageUrl": "https://opengraph.githubassets.com/meta/Harzva/prototypical-networks",
+    "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/prototypical-networks",
     "pages": {
       "enabled": false
     },
@@ -2100,7 +2453,7 @@
     "stargazerCount": 0,
     "forkCount": 0,
     "repositoryTopics": [],
-    "openGraphImageUrl": "https://opengraph.githubassets.com/meta/Harzva/reinforce",
+    "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/reinforce",
     "pages": {
       "enabled": false
     },
@@ -2125,7 +2478,7 @@
     "stargazerCount": 0,
     "forkCount": 0,
     "repositoryTopics": [],
-    "openGraphImageUrl": "https://opengraph.githubassets.com/meta/Harzva/rfs",
+    "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/rfs",
     "pages": {
       "enabled": false
     },
@@ -2150,7 +2503,7 @@
     "stargazerCount": 0,
     "forkCount": 0,
     "repositoryTopics": [],
-    "openGraphImageUrl": "https://opengraph.githubassets.com/meta/Harzva/tic-tac-toe",
+    "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/tic-tac-toe",
     "pages": {
       "enabled": false
     },
@@ -2175,7 +2528,7 @@
     "stargazerCount": 0,
     "forkCount": 0,
     "repositoryTopics": [],
-    "openGraphImageUrl": "https://opengraph.githubassets.com/meta/Harzva/tic-tac-toe-1",
+    "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/tic-tac-toe-1",
     "pages": {
       "enabled": false
     },
@@ -2200,7 +2553,7 @@
     "stargazerCount": 0,
     "forkCount": 0,
     "repositoryTopics": [],
-    "openGraphImageUrl": "https://opengraph.githubassets.com/meta/Harzva/Tic-Tac-Toe-2",
+    "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/Tic-Tac-Toe-2",
     "pages": {
       "enabled": false
     },
@@ -2225,7 +2578,7 @@
     "stargazerCount": 0,
     "forkCount": 0,
     "repositoryTopics": [],
-    "openGraphImageUrl": "https://opengraph.githubassets.com/meta/Harzva/tic-tac-toe-minimax",
+    "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/tic-tac-toe-minimax",
     "pages": {
       "enabled": false
     },
@@ -2250,7 +2603,7 @@
     "stargazerCount": 0,
     "forkCount": 0,
     "repositoryTopics": [],
-    "openGraphImageUrl": "https://opengraph.githubassets.com/meta/Harzva/vscode-remote-release",
+    "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/vscode-remote-release",
     "pages": {
       "enabled": false
     },
