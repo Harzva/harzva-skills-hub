@@ -1,0 +1,377 @@
+[
+  {
+    "name": "CampusAgent-QA",
+    "nameWithOwner": "Harzva/CampusAgent-QA",
+    "url": "https://github.com/Harzva/CampusAgent-QA",
+    "description": "Agentic campus QA system with RAG retrieval, LLM Wiki memory, and GBrain skills",
+    "isPrivate": false,
+    "isArchived": false,
+    "isFork": false,
+    "primaryLanguage": {
+      "name": "Java"
+    },
+    "pushedAt": "2026-05-12T15:19:32Z",
+    "updatedAt": "2026-05-12T16:36:53Z",
+    "createdAt": "2026-05-11T08:22:16Z",
+    "defaultBranchRef": {
+      "name": "main"
+    },
+    "homepageUrl": "https://harzva.github.io/CampusAgent-QA/",
+    "stargazerCount": 0,
+    "forkCount": 0,
+    "repositoryTopics": [
+      "agent",
+      "campus-qa",
+      "rag",
+      "spring-boot",
+      "vue"
+    ],
+    "openGraphImageUrl": "https://opengraph.githubassets.com/meta/Harzva/CampusAgent-QA",
+    "pages": {
+      "enabled": true,
+      "url": "https://harzva.github.io/CampusAgent-QA/",
+      "status": null,
+      "source": {
+        "branch": "main",
+        "path": "/"
+      },
+      "httpsEnforced": true
+    },
+    "latestRelease": null
+  },
+  {
+    "name": "copilot-plugin-cc",
+    "nameWithOwner": "Harzva/copilot-plugin-cc",
+    "url": "https://github.com/Harzva/copilot-plugin-cc",
+    "description": "copilot-plugin-cc placeholder repository for Claude Code adapter work.",
+    "isPrivate": false,
+    "isArchived": false,
+    "isFork": false,
+    "primaryLanguage": {
+      "name": "Shell"
+    },
+    "pushedAt": "2026-04-07T02:04:34Z",
+    "updatedAt": "2026-04-07T02:04:38Z",
+    "createdAt": "2026-04-06T15:43:35Z",
+    "defaultBranchRef": {
+      "name": "main"
+    },
+    "homepageUrl": "",
+    "stargazerCount": 0,
+    "forkCount": 0,
+    "repositoryTopics": [],
+    "openGraphImageUrl": "https://opengraph.githubassets.com/meta/Harzva/copilot-plugin-cc",
+    "pages": {
+      "enabled": false
+    },
+    "latestRelease": null
+  },
+  {
+    "name": "everything-agent-cli-to-claude-code",
+    "nameWithOwner": "Harzva/everything-agent-cli-to-claude-code",
+    "url": "https://github.com/Harzva/everything-agent-cli-to-claude-code",
+    "description": "Umbrella repo for agent CLI to Claude Code adapters, templates, and plugin registry.",
+    "isPrivate": false,
+    "isArchived": false,
+    "isFork": false,
+    "primaryLanguage": {
+      "name": "Shell"
+    },
+    "pushedAt": "2026-04-23T16:28:13Z",
+    "updatedAt": "2026-04-23T16:28:17Z",
+    "createdAt": "2026-04-06T15:43:14Z",
+    "defaultBranchRef": {
+      "name": "main"
+    },
+    "homepageUrl": "",
+    "stargazerCount": 0,
+    "forkCount": 0,
+    "repositoryTopics": [],
+    "openGraphImageUrl": "https://opengraph.githubassets.com/meta/Harzva/everything-agent-cli-to-claude-code",
+    "pages": {
+      "enabled": false
+    },
+    "latestRelease": null
+  },
+  {
+    "name": "gen-zhihu-article-skill",
+    "nameWithOwner": "Harzva/gen-zhihu-article-skill",
+    "url": "https://github.com/Harzva/gen-zhihu-article-skill",
+    "description": null,
+    "isPrivate": false,
+    "isArchived": false,
+    "isFork": false,
+    "primaryLanguage": null,
+    "pushedAt": "2026-04-11T16:58:23Z",
+    "updatedAt": "2026-04-11T16:58:31Z",
+    "createdAt": "2026-04-10T13:46:07Z",
+    "defaultBranchRef": {
+      "name": "main"
+    },
+    "homepageUrl": "",
+    "stargazerCount": 0,
+    "forkCount": 0,
+    "repositoryTopics": [],
+    "openGraphImageUrl": "https://opengraph.githubassets.com/meta/Harzva/gen-zhihu-article-skill",
+    "pages": {
+      "enabled": false
+    },
+    "latestRelease": null
+  },
+  {
+    "name": "gh-account-router",
+    "nameWithOwner": "Harzva/gh-account-router",
+    "url": "https://github.com/Harzva/gh-account-router",
+    "description": "Codex skill and CLI helper for routing gh commands across GitHub accounts",
+    "isPrivate": false,
+    "isArchived": false,
+    "isFork": false,
+    "primaryLanguage": {
+      "name": "Python"
+    },
+    "pushedAt": "2026-05-12T11:16:10Z",
+    "updatedAt": "2026-05-12T11:16:29Z",
+    "createdAt": "2026-05-11T16:06:40Z",
+    "defaultBranchRef": {
+      "name": "main"
+    },
+    "homepageUrl": "",
+    "stargazerCount": 0,
+    "forkCount": 0,
+    "repositoryTopics": [],
+    "openGraphImageUrl": "https://opengraph.githubassets.com/meta/Harzva/gh-account-router",
+    "pages": {
+      "enabled": false
+    },
+    "latestRelease": null
+  },
+  {
+    "name": "gh-actions-release-builder",
+    "nameWithOwner": "Harzva/gh-actions-release-builder",
+    "url": "https://github.com/Harzva/gh-actions-release-builder",
+    "description": "Codex skill for professional GitHub Actions build, package, artifact, and release workflows",
+    "isPrivate": false,
+    "isArchived": false,
+    "isFork": false,
+    "primaryLanguage": null,
+    "pushedAt": "2026-05-13T14:56:36Z",
+    "updatedAt": "2026-05-13T15:31:04Z",
+    "createdAt": "2026-05-13T14:54:22Z",
+    "defaultBranchRef": {
+      "name": "main"
+    },
+    "homepageUrl": "",
+    "stargazerCount": 0,
+    "forkCount": 0,
+    "repositoryTopics": [],
+    "openGraphImageUrl": "https://opengraph.githubassets.com/meta/Harzva/gh-actions-release-builder",
+    "pages": {
+      "enabled": false
+    },
+    "latestRelease": null
+  },
+  {
+    "name": "github-management-suite",
+    "nameWithOwner": "Harzva/github-management-suite",
+    "url": "https://github.com/Harzva/github-management-suite",
+    "description": "Cross-platform Codex skill for full GitHub repository lifecycle management",
+    "isPrivate": false,
+    "isArchived": false,
+    "isFork": false,
+    "primaryLanguage": {
+      "name": "Python"
+    },
+    "pushedAt": "2026-05-14T00:18:10Z",
+    "updatedAt": "2026-05-14T00:17:54Z",
+    "createdAt": "2026-05-13T16:47:57Z",
+    "defaultBranchRef": {
+      "name": "main"
+    },
+    "homepageUrl": "",
+    "stargazerCount": 0,
+    "forkCount": 0,
+    "repositoryTopics": [
+      "codex-skill",
+      "devops",
+      "github",
+      "github-actions",
+      "github-pages",
+      "readme",
+      "release-automation",
+      "workflow-automation"
+    ],
+    "openGraphImageUrl": "https://opengraph.githubassets.com/meta/Harzva/github-management-suite",
+    "pages": {
+      "enabled": false
+    },
+    "latestRelease": {
+      "name": "v0.2.0 Subscriber usability upgrade",
+      "tagName": "v0.2.0",
+      "url": "https://github.com/Harzva/github-management-suite/releases/tag/v0.2.0",
+      "publishedAt": "2026-05-14T00:18:11Z",
+      "prerelease": false,
+      "draft": false
+    }
+  },
+  {
+    "name": "loloop-skill",
+    "nameWithOwner": "Harzva/loloop-skill",
+    "url": "https://github.com/Harzva/loloop-skill",
+    "description": null,
+    "isPrivate": false,
+    "isArchived": false,
+    "isFork": false,
+    "primaryLanguage": null,
+    "pushedAt": "2026-04-10T12:06:05Z",
+    "updatedAt": "2026-04-10T12:06:09Z",
+    "createdAt": "2026-04-10T11:55:05Z",
+    "defaultBranchRef": {
+      "name": "main"
+    },
+    "homepageUrl": "",
+    "stargazerCount": 0,
+    "forkCount": 0,
+    "repositoryTopics": [],
+    "openGraphImageUrl": "https://opengraph.githubassets.com/meta/Harzva/loloop-skill",
+    "pages": {
+      "enabled": false
+    },
+    "latestRelease": null
+  },
+  {
+    "name": "ReadmeShowcaseScreenshot-Skill",
+    "nameWithOwner": "Harzva/ReadmeShowcaseScreenshot-Skill",
+    "url": "https://github.com/Harzva/ReadmeShowcaseScreenshot-Skill",
+    "description": "Codex skill for README-ready screenshots, GIFs, videos, hero images, and preview galleries.",
+    "isPrivate": false,
+    "isArchived": false,
+    "isFork": false,
+    "primaryLanguage": {
+      "name": "JavaScript"
+    },
+    "pushedAt": "2026-05-14T08:01:25Z",
+    "updatedAt": "2026-05-14T08:02:24Z",
+    "createdAt": "2026-05-14T08:01:16Z",
+    "defaultBranchRef": {
+      "name": "main"
+    },
+    "homepageUrl": "",
+    "stargazerCount": 0,
+    "forkCount": 0,
+    "repositoryTopics": [
+      "codex-skill",
+      "gif",
+      "playwright",
+      "preview-gallery",
+      "readme",
+      "screenshot"
+    ],
+    "openGraphImageUrl": "https://opengraph.githubassets.com/meta/Harzva/ReadmeShowcaseScreenshot-Skill",
+    "pages": {
+      "enabled": false
+    },
+    "latestRelease": null
+  },
+  {
+    "name": "webpage-screenshot-md-skill",
+    "nameWithOwner": "Harzva/webpage-screenshot-md-skill",
+    "url": "https://github.com/Harzva/webpage-screenshot-md-skill",
+    "description": null,
+    "isPrivate": false,
+    "isArchived": false,
+    "isFork": false,
+    "primaryLanguage": {
+      "name": "JavaScript"
+    },
+    "pushedAt": "2026-04-10T13:46:11Z",
+    "updatedAt": "2026-04-10T13:46:20Z",
+    "createdAt": "2026-04-10T13:46:08Z",
+    "defaultBranchRef": {
+      "name": "main"
+    },
+    "homepageUrl": "",
+    "stargazerCount": 0,
+    "forkCount": 0,
+    "repositoryTopics": [],
+    "openGraphImageUrl": "https://opengraph.githubassets.com/meta/Harzva/webpage-screenshot-md-skill",
+    "pages": {
+      "enabled": false
+    },
+    "latestRelease": null
+  },
+  {
+    "name": "zhihu-publish-skill",
+    "nameWithOwner": "Harzva/zhihu-publish-skill",
+    "url": "https://github.com/Harzva/zhihu-publish-skill",
+    "description": null,
+    "isPrivate": false,
+    "isArchived": false,
+    "isFork": false,
+    "primaryLanguage": null,
+    "pushedAt": "2026-04-11T16:46:17Z",
+    "updatedAt": "2026-04-11T16:46:23Z",
+    "createdAt": "2026-04-10T13:46:08Z",
+    "defaultBranchRef": {
+      "name": "main"
+    },
+    "homepageUrl": "",
+    "stargazerCount": 0,
+    "forkCount": 0,
+    "repositoryTopics": [],
+    "openGraphImageUrl": "https://opengraph.githubassets.com/meta/Harzva/zhihu-publish-skill",
+    "pages": {
+      "enabled": false
+    },
+    "latestRelease": null
+  },
+  {
+    "name": "image2_UI_skill",
+    "nameWithOwner": "Harzva/image2_UI_skill",
+    "url": "https://github.com/Harzva/image2_UI_skill",
+    "description": null,
+    "isPrivate": false,
+    "isArchived": false,
+    "isFork": true,
+    "primaryLanguage": null,
+    "pushedAt": "2026-05-12T07:37:59Z",
+    "updatedAt": "2026-05-13T02:44:50Z",
+    "createdAt": "2026-05-13T02:44:50Z",
+    "defaultBranchRef": {
+      "name": "main"
+    },
+    "homepageUrl": "",
+    "stargazerCount": 0,
+    "forkCount": 0,
+    "repositoryTopics": [],
+    "openGraphImageUrl": "https://opengraph.githubassets.com/meta/Harzva/image2_UI_skill",
+    "pages": {
+      "enabled": false
+    },
+    "latestRelease": null
+  },
+  {
+    "name": "Oh-Reflective-loop-skills",
+    "nameWithOwner": "Harzva/Oh-Reflective-loop-skills",
+    "url": "https://github.com/Harzva/Oh-Reflective-loop-skills",
+    "description": null,
+    "isPrivate": false,
+    "isArchived": false,
+    "isFork": true,
+    "primaryLanguage": null,
+    "pushedAt": "2026-04-23T01:57:58Z",
+    "updatedAt": "2026-04-23T16:04:11Z",
+    "createdAt": "2026-04-23T16:04:11Z",
+    "defaultBranchRef": {
+      "name": "main"
+    },
+    "homepageUrl": "",
+    "stargazerCount": 0,
+    "forkCount": 0,
+    "repositoryTopics": [],
+    "openGraphImageUrl": "https://opengraph.githubassets.com/meta/Harzva/Oh-Reflective-loop-skills",
+    "pages": {
+      "enabled": false
+    },
+    "latestRelease": null
+  }
+]

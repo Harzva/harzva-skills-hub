@@ -1,0 +1,14 @@
+{
+  "owner": "Harzva",
+  "mode": "skills",
+  "title": "harzva-skills-hub",
+  "description": "Auto-updating registry of Harzva Codex skills, workflow skills, and agent recipes.",
+  "includePrivate": false,
+  "privateOmitted": 13,
+  "hubLinks": {
+    "atlas": "https://github.com/Harzva/harzva-project-atlas",
+    "release": "https://github.com/Harzva/harzva-release-hub",
+    "pages": "https://github.com/Harzva/harzva-pages-hub",
+    "skills": "https://github.com/Harzva/harzva-skills-hub"
+  }
+}
