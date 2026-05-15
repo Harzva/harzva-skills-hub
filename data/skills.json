@@ -39,15 +39,15 @@
     "name": "build-your-meta-repo-skill",
     "nameWithOwner": "Harzva/build-your-meta-repo-skill",
     "url": "https://github.com/Harzva/build-your-meta-repo-skill",
-    "description": "Codex skill for building auto-updating GitHub meta repositories: project atlas, release hub, pages hub, and skills hub.",
+    "description": "Codex skill for building auto-updating GitHub MetaRepos: artifact atlas, release hub, Pages hub, and skills hub.",
     "isPrivate": false,
     "isArchived": false,
     "isFork": false,
     "primaryLanguage": {
       "name": "Python"
     },
-    "pushedAt": "2026-05-14T09:39:39Z",
-    "updatedAt": "2026-05-14T09:39:43Z",
+    "pushedAt": "2026-05-14T14:50:20Z",
+    "updatedAt": "2026-05-14T14:51:24Z",
     "createdAt": "2026-05-14T09:29:50Z",
     "defaultBranchRef": {
       "name": "main"
@@ -352,53 +352,19 @@
     }
   },
   {
-    "name": "harzva-project-atlas",
-    "nameWithOwner": "Harzva/harzva-project-atlas",
-    "url": "https://github.com/Harzva/harzva-project-atlas",
-    "description": "Harzva project atlas: auto-updating classified index of public repositories, hubs, pages, releases, skills, and forks.",
+    "name": "github-repo-scout",
+    "nameWithOwner": "Harzva/github-repo-scout",
+    "url": "https://github.com/Harzva/github-repo-scout",
+    "description": "Codex skill for searching GitHub repos and archiving useful repo cards",
     "isPrivate": false,
     "isArchived": false,
     "isFork": false,
     "primaryLanguage": {
-      "name": "Python"
+      "name": "PowerShell"
     },
-    "pushedAt": "2026-05-14T09:39:21Z",
-    "updatedAt": "2026-05-14T09:39:25Z",
-    "createdAt": "2026-05-14T09:27:13Z",
-    "defaultBranchRef": {
-      "name": "main"
-    },
-    "homepageUrl": "https://harzva.github.io/harzva-project-atlas/",
-    "stargazerCount": 0,
-    "forkCount": 0,
-    "repositoryTopics": [],
-    "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/harzva-project-atlas",
-    "pages": {
-      "enabled": true,
-      "url": "https://harzva.github.io/harzva-project-atlas/",
-      "status": null,
-      "source": {
-        "branch": "main",
-        "path": "/"
-      },
-      "httpsEnforced": true
-    },
-    "latestRelease": null
-  },
-  {
-    "name": "harzva-skills-hub",
-    "nameWithOwner": "Harzva/harzva-skills-hub",
-    "url": "https://github.com/Harzva/harzva-skills-hub",
-    "description": "Auto-updating registry of Harzva Codex skills, workflow skills, and agent recipes.",
-    "isPrivate": false,
-    "isArchived": false,
-    "isFork": false,
-    "primaryLanguage": {
-      "name": "Python"
-    },
-    "pushedAt": "2026-05-14T09:39:28Z",
-    "updatedAt": "2026-05-14T09:39:32Z",
-    "createdAt": "2026-05-14T09:29:45Z",
+    "pushedAt": "2026-05-14T16:58:33Z",
+    "updatedAt": "2026-05-14T16:58:37Z",
+    "createdAt": "2026-05-14T15:47:44Z",
     "defaultBranchRef": {
       "name": "main"
     },
@@ -406,9 +372,43 @@
     "stargazerCount": 0,
     "forkCount": 0,
     "repositoryTopics": [],
-    "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/harzva-skills-hub",
+    "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/github-repo-scout",
     "pages": {
       "enabled": false
+    },
+    "latestRelease": null
+  },
+  {
+    "name": "harzva-skills-hub",
+    "nameWithOwner": "Harzva/harzva-skills-hub",
+    "url": "https://github.com/Harzva/harzva-skills-hub",
+    "description": "Auto-updating GitHub Pages registry of Harzva Codex skills, workflow skills, and agent recipes.",
+    "isPrivate": false,
+    "isArchived": false,
+    "isFork": false,
+    "primaryLanguage": {
+      "name": "Python"
+    },
+    "pushedAt": "2026-05-14T14:50:17Z",
+    "updatedAt": "2026-05-14T14:51:24Z",
+    "createdAt": "2026-05-14T09:29:45Z",
+    "defaultBranchRef": {
+      "name": "main"
+    },
+    "homepageUrl": "https://harzva.github.io/harzva-skills-hub/",
+    "stargazerCount": 0,
+    "forkCount": 0,
+    "repositoryTopics": [],
+    "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/harzva-skills-hub",
+    "pages": {
+      "enabled": true,
+      "url": "https://harzva.github.io/harzva-skills-hub/",
+      "status": null,
+      "source": {
+        "branch": "main",
+        "path": "/"
+      },
+      "httpsEnforced": true
     },
     "latestRelease": null
   },
@@ -432,6 +432,44 @@
     "forkCount": 0,
     "repositoryTopics": [],
     "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/loloop-skill",
+    "pages": {
+      "enabled": false
+    },
+    "latestRelease": null
+  },
+  {
+    "name": "Project2AgentWorkOS",
+    "nameWithOwner": "Harzva/Project2AgentWorkOS",
+    "url": "https://github.com/Harzva/Project2AgentWorkOS",
+    "description": "Transfer all projects, Codex threads, failure reviews, and half-finished ideas into AgentWorkOS: Agents, Memory, Skills, MCP, Workflow, and Rules.",
+    "isPrivate": false,
+    "isArchived": false,
+    "isFork": false,
+    "primaryLanguage": {
+      "name": "HTML"
+    },
+    "pushedAt": "2026-05-15T03:30:37Z",
+    "updatedAt": "2026-05-15T03:30:41Z",
+    "createdAt": "2026-05-14T15:01:05Z",
+    "defaultBranchRef": {
+      "name": "main"
+    },
+    "homepageUrl": "",
+    "stargazerCount": 0,
+    "forkCount": 0,
+    "repositoryTopics": [
+      "agentworkos",
+      "ai-agents",
+      "codex",
+      "mcp",
+      "memory",
+      "operating-system",
+      "personal-ai",
+      "project-review",
+      "skills",
+      "workflow"
+    ],
+    "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/Project2AgentWorkOS",
     "pages": {
       "enabled": false
     },

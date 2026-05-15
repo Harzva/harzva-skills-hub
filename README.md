@@ -6,7 +6,7 @@ A registry of Harzva Codex skills, workflow skills, and agent operating recipes.
 
 [Live Skill Board](https://harzva.github.io/harzva-skills-hub/) | [Project Atlas](https://github.com/Harzva/harzva-project-atlas)
 
-![Skills](https://img.shields.io/badge/skills-19-6B8E23?style=for-the-badge) ![Auto Update](https://img.shields.io/badge/update-daily-111111?style=for-the-badge)
+![Skills](https://img.shields.io/badge/skills-20-6B8E23?style=for-the-badge) ![Auto Update](https://img.shields.io/badge/update-daily-111111?style=for-the-badge)
 
 </div>
 
@@ -14,12 +14,13 @@ A registry of Harzva Codex skills, workflow skills, and agent operating recipes.
 
 | Skill Repository | Language | Updated | Description |
 |---|---:|---:|---|
+| [Project2AgentWorkOS](https://github.com/Harzva/Project2AgentWorkOS) | HTML | 2026-05-15 | Transfer all projects, Codex threads, failure reviews, and half-finished ideas into AgentWorkOS: Agents, Memory, Skills, MCP, Workflow, and Rules. |
+| [github-repo-scout](https://github.com/Harzva/github-repo-scout) | PowerShell | 2026-05-14 | Codex skill for searching GitHub repos and archiving useful repo cards |
+| [build-your-meta-repo-skill](https://github.com/Harzva/build-your-meta-repo-skill) | Python | 2026-05-14 | Codex skill for building auto-updating GitHub MetaRepos: artifact atlas, release hub, Pages hub, and skills hub. |
+| [harzva-skills-hub](https://github.com/Harzva/harzva-skills-hub) | Python | 2026-05-14 | Auto-updating GitHub Pages registry of Harzva Codex skills, workflow skills, and agent recipes. |
 | [design-md-flow](https://github.com/Harzva/design-md-flow) | Python | 2026-05-14 | Portable DESIGN.md workflow skill for agent-driven frontend design |
 | [gh-repo-cartographer](https://github.com/Harzva/gh-repo-cartographer) | Python | 2026-05-14 | Codex skill and CLI for mapping GitHub repositories to local checkouts and sync status. |
 | [android-release-emulator-qa-skill](https://github.com/Harzva/android-release-emulator-qa-skill) | Python | 2026-05-14 | Codex skill for Android release APK QA with emulator, adb, screenshots, UI XML, logcat, SHA256, and GitHub Release artifact checks. |
-| [build-your-meta-repo-skill](https://github.com/Harzva/build-your-meta-repo-skill) | Python | 2026-05-14 | Codex skill for building auto-updating GitHub meta repositories: project atlas, release hub, pages hub, and skills hub. |
-| [harzva-skills-hub](https://github.com/Harzva/harzva-skills-hub) | Python | 2026-05-14 | Auto-updating registry of Harzva Codex skills, workflow skills, and agent recipes. |
-| [harzva-project-atlas](https://github.com/Harzva/harzva-project-atlas) | Python | 2026-05-14 | Harzva project atlas: auto-updating classified index of public repositories, hubs, pages, releases, skills, and forks. |
 | [github-management-suite](https://github.com/Harzva/github-management-suite) | Python | 2026-05-14 | Cross-platform Codex skill for full GitHub repository lifecycle management |
 | [ReadmeShowcaseScreenshot-Skill](https://github.com/Harzva/ReadmeShowcaseScreenshot-Skill) | JavaScript | 2026-05-14 | Codex skill for README-ready screenshots, GIFs, videos, hero images, and preview galleries. |
 | [gh-actions-release-builder](https://github.com/Harzva/gh-actions-release-builder) | Mixed | 2026-05-13 | Codex skill for professional GitHub Actions build, package, artifact, and release workflows |
@@ -50,5 +51,5 @@ This MetaRepo refreshes itself with GitHub Actions.
 - Data source: GitHub REST API.
 - Privacy default: public repositories only.
 - Private mode: set `META_INCLUDE_PRIVATE=true` and provide `META_GITHUB_TOKEN` only when the meta repository is private.
-- Generated at: `2026-05-14T14:47:24.295923+00:00`.
+- Generated at: `2026-05-15T06:42:31.971182+00:00`.
 - Private repositories omitted from this public output: `13`.

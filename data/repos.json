@@ -204,15 +204,15 @@
     "name": "build-your-meta-repo-skill",
     "nameWithOwner": "Harzva/build-your-meta-repo-skill",
     "url": "https://github.com/Harzva/build-your-meta-repo-skill",
-    "description": "Codex skill for building auto-updating GitHub meta repositories: project atlas, release hub, pages hub, and skills hub.",
+    "description": "Codex skill for building auto-updating GitHub MetaRepos: artifact atlas, release hub, Pages hub, and skills hub.",
     "isPrivate": false,
     "isArchived": false,
     "isFork": false,
     "primaryLanguage": {
       "name": "Python"
     },
-    "pushedAt": "2026-05-14T09:39:39Z",
-    "updatedAt": "2026-05-14T09:39:43Z",
+    "pushedAt": "2026-05-14T14:50:20Z",
+    "updatedAt": "2026-05-14T14:51:24Z",
     "createdAt": "2026-05-14T09:29:50Z",
     "defaultBranchRef": {
       "name": "main"
@@ -439,6 +439,33 @@
     "forkCount": 0,
     "repositoryTopics": [],
     "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/coae",
+    "pages": {
+      "enabled": false
+    },
+    "latestRelease": null
+  },
+  {
+    "name": "codex-hooks",
+    "nameWithOwner": "Harzva/codex-hooks",
+    "url": "https://github.com/Harzva/codex-hooks",
+    "description": "Reusable local hooks for Codex",
+    "isPrivate": false,
+    "isArchived": false,
+    "isFork": false,
+    "primaryLanguage": {
+      "name": "PowerShell"
+    },
+    "pushedAt": "2026-05-15T02:24:14Z",
+    "updatedAt": "2026-05-15T02:24:17Z",
+    "createdAt": "2026-05-14T18:22:16Z",
+    "defaultBranchRef": {
+      "name": "main"
+    },
+    "homepageUrl": "",
+    "stargazerCount": 0,
+    "forkCount": 0,
+    "repositoryTopics": [],
+    "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/codex-hooks",
     "pages": {
       "enabled": false
     },
@@ -850,6 +877,33 @@
     }
   },
   {
+    "name": "github-repo-scout",
+    "nameWithOwner": "Harzva/github-repo-scout",
+    "url": "https://github.com/Harzva/github-repo-scout",
+    "description": "Codex skill for searching GitHub repos and archiving useful repo cards",
+    "isPrivate": false,
+    "isArchived": false,
+    "isFork": false,
+    "primaryLanguage": {
+      "name": "PowerShell"
+    },
+    "pushedAt": "2026-05-14T16:58:33Z",
+    "updatedAt": "2026-05-14T16:58:37Z",
+    "createdAt": "2026-05-14T15:47:44Z",
+    "defaultBranchRef": {
+      "name": "main"
+    },
+    "homepageUrl": "",
+    "stargazerCount": 0,
+    "forkCount": 0,
+    "repositoryTopics": [],
+    "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/github-repo-scout",
+    "pages": {
+      "enabled": false
+    },
+    "latestRelease": null
+  },
+  {
     "name": "GitReleaseMarket",
     "nameWithOwner": "Harzva/GitReleaseMarket",
     "url": "https://github.com/Harzva/GitReleaseMarket",
@@ -900,7 +954,7 @@
           "name": "gitmarket-ios-simulator.zip",
           "url": "https://github.com/Harzva/GitReleaseMarket/releases/download/v0.1.9/gitmarket-ios-simulator.zip",
           "size": 210051,
-          "downloadCount": 0,
+          "downloadCount": 1,
           "contentType": "application/zip"
         },
         {
@@ -921,7 +975,7 @@
           "name": "gitmarket-windows-x86_64.zip",
           "url": "https://github.com/Harzva/GitReleaseMarket/releases/download/v0.1.9/gitmarket-windows-x86_64.zip",
           "size": 3743691,
-          "downloadCount": 1,
+          "downloadCount": 2,
           "contentType": "application/zip"
         }
       ]
@@ -1000,8 +1054,8 @@
     "primaryLanguage": {
       "name": "Python"
     },
-    "pushedAt": "2026-05-14T09:39:26Z",
-    "updatedAt": "2026-05-14T09:39:29Z",
+    "pushedAt": "2026-05-14T14:50:14Z",
+    "updatedAt": "2026-05-14T14:50:19Z",
     "createdAt": "2026-05-14T09:29:39Z",
     "defaultBranchRef": {
       "name": "main"
@@ -1027,15 +1081,15 @@
     "name": "harzva-project-atlas",
     "nameWithOwner": "Harzva/harzva-project-atlas",
     "url": "https://github.com/Harzva/harzva-project-atlas",
-    "description": "Harzva project atlas: auto-updating classified index of public repositories, hubs, pages, releases, skills, and forks.",
+    "description": "Download-first MetaRepo atlas for Harzva APK, EXE, package, archive, and release asset links.",
     "isPrivate": false,
     "isArchived": false,
     "isFork": false,
     "primaryLanguage": {
       "name": "Python"
     },
-    "pushedAt": "2026-05-14T09:39:21Z",
-    "updatedAt": "2026-05-14T09:39:25Z",
+    "pushedAt": "2026-05-14T14:50:09Z",
+    "updatedAt": "2026-05-14T14:51:24Z",
     "createdAt": "2026-05-14T09:27:13Z",
     "defaultBranchRef": {
       "name": "main"
@@ -1061,26 +1115,33 @@
     "name": "harzva-release-hub",
     "nameWithOwner": "Harzva/harzva-release-hub",
     "url": "https://github.com/Harzva/harzva-release-hub",
-    "description": "Auto-updating release hub for Harzva repositories with published GitHub releases.",
+    "description": "Auto-updating release hub for Harzva repositories with direct download assets and GitHub Pages.",
     "isPrivate": false,
     "isArchived": false,
     "isFork": false,
     "primaryLanguage": {
       "name": "Python"
     },
-    "pushedAt": "2026-05-14T09:39:23Z",
-    "updatedAt": "2026-05-14T09:39:27Z",
+    "pushedAt": "2026-05-14T14:50:12Z",
+    "updatedAt": "2026-05-14T14:51:24Z",
     "createdAt": "2026-05-14T09:29:34Z",
     "defaultBranchRef": {
       "name": "main"
     },
-    "homepageUrl": "",
+    "homepageUrl": "https://harzva.github.io/harzva-release-hub/",
     "stargazerCount": 0,
     "forkCount": 0,
     "repositoryTopics": [],
     "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/harzva-release-hub",
     "pages": {
-      "enabled": false
+      "enabled": true,
+      "url": "https://harzva.github.io/harzva-release-hub/",
+      "status": null,
+      "source": {
+        "branch": "main",
+        "path": "/"
+      },
+      "httpsEnforced": true
     },
     "latestRelease": null
   },
@@ -1088,26 +1149,33 @@
     "name": "harzva-skills-hub",
     "nameWithOwner": "Harzva/harzva-skills-hub",
     "url": "https://github.com/Harzva/harzva-skills-hub",
-    "description": "Auto-updating registry of Harzva Codex skills, workflow skills, and agent recipes.",
+    "description": "Auto-updating GitHub Pages registry of Harzva Codex skills, workflow skills, and agent recipes.",
     "isPrivate": false,
     "isArchived": false,
     "isFork": false,
     "primaryLanguage": {
       "name": "Python"
     },
-    "pushedAt": "2026-05-14T09:39:28Z",
-    "updatedAt": "2026-05-14T09:39:32Z",
+    "pushedAt": "2026-05-14T14:50:17Z",
+    "updatedAt": "2026-05-14T14:51:24Z",
     "createdAt": "2026-05-14T09:29:45Z",
     "defaultBranchRef": {
       "name": "main"
     },
-    "homepageUrl": "",
+    "homepageUrl": "https://harzva.github.io/harzva-skills-hub/",
     "stargazerCount": 0,
     "forkCount": 0,
     "repositoryTopics": [],
     "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/harzva-skills-hub",
     "pages": {
-      "enabled": false
+      "enabled": true,
+      "url": "https://harzva.github.io/harzva-skills-hub/",
+      "status": null,
+      "source": {
+        "branch": "main",
+        "path": "/"
+      },
+      "httpsEnforced": true
     },
     "latestRelease": null
   },
@@ -1214,8 +1282,8 @@
     "primaryLanguage": {
       "name": "TypeScript"
     },
-    "pushedAt": "2026-05-14T06:54:23Z",
-    "updatedAt": "2026-05-14T06:54:27Z",
+    "pushedAt": "2026-05-15T04:33:38Z",
+    "updatedAt": "2026-05-15T04:33:42Z",
     "createdAt": "2026-04-01T03:55:26Z",
     "defaultBranchRef": {
       "name": "main"
@@ -1367,8 +1435,8 @@
     "primaryLanguage": {
       "name": "Dart"
     },
-    "pushedAt": "2026-05-14T14:36:13Z",
-    "updatedAt": "2026-05-14T14:36:17Z",
+    "pushedAt": "2026-05-15T06:22:22Z",
+    "updatedAt": "2026-05-15T06:22:26Z",
     "createdAt": "2026-05-12T08:19:17Z",
     "defaultBranchRef": {
       "name": "main"
@@ -1399,7 +1467,7 @@
         {
           "name": "mobilecode-ios-simulator-v0.1.0.zip",
           "url": "https://github.com/Harzva/mobilecode/releases/download/v0.1.0/mobilecode-ios-simulator-v0.1.0.zip",
-          "size": 52146213,
+          "size": 52882447,
           "downloadCount": 0,
           "contentType": "application/zip"
         },
@@ -1407,13 +1475,13 @@
           "name": "mobilecode-site-v0.1.0.zip",
           "url": "https://github.com/Harzva/mobilecode/releases/download/v0.1.0/mobilecode-site-v0.1.0.zip",
           "size": 224820,
-          "downloadCount": 0,
+          "downloadCount": 1,
           "contentType": "application/zip"
         },
         {
           "name": "mobilecode-v0.1.0.apk",
           "url": "https://github.com/Harzva/mobilecode/releases/download/v0.1.0/mobilecode-v0.1.0.apk",
-          "size": 51392061,
+          "size": 51903061,
           "downloadCount": 0,
           "contentType": "application/vnd.android.package-archive"
         }
@@ -1527,6 +1595,44 @@
     "latestRelease": null
   },
   {
+    "name": "Project2AgentWorkOS",
+    "nameWithOwner": "Harzva/Project2AgentWorkOS",
+    "url": "https://github.com/Harzva/Project2AgentWorkOS",
+    "description": "Transfer all projects, Codex threads, failure reviews, and half-finished ideas into AgentWorkOS: Agents, Memory, Skills, MCP, Workflow, and Rules.",
+    "isPrivate": false,
+    "isArchived": false,
+    "isFork": false,
+    "primaryLanguage": {
+      "name": "HTML"
+    },
+    "pushedAt": "2026-05-15T03:30:37Z",
+    "updatedAt": "2026-05-15T03:30:41Z",
+    "createdAt": "2026-05-14T15:01:05Z",
+    "defaultBranchRef": {
+      "name": "main"
+    },
+    "homepageUrl": "",
+    "stargazerCount": 0,
+    "forkCount": 0,
+    "repositoryTopics": [
+      "agentworkos",
+      "ai-agents",
+      "codex",
+      "mcp",
+      "memory",
+      "operating-system",
+      "personal-ai",
+      "project-review",
+      "skills",
+      "workflow"
+    ],
+    "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/Project2AgentWorkOS",
+    "pages": {
+      "enabled": false
+    },
+    "latestRelease": null
+  },
+  {
     "name": "ReadmeShowcaseScreenshot-Skill",
     "nameWithOwner": "Harzva/ReadmeShowcaseScreenshot-Skill",
     "url": "https://github.com/Harzva/ReadmeShowcaseScreenshot-Skill",
@@ -1571,8 +1677,8 @@
     "primaryLanguage": {
       "name": "Rust"
     },
-    "pushedAt": "2026-05-13T14:54:48Z",
-    "updatedAt": "2026-05-13T15:21:21Z",
+    "pushedAt": "2026-05-14T18:45:34Z",
+    "updatedAt": "2026-05-14T18:38:38Z",
     "createdAt": "2026-05-12T15:53:11Z",
     "defaultBranchRef": {
       "name": "main"
@@ -1593,24 +1699,24 @@
       "httpsEnforced": true
     },
     "latestRelease": {
-      "name": "v0.5.0",
-      "tagName": "v0.5.0",
-      "url": "https://github.com/Harzva/RepoAtlas/releases/tag/v0.5.0",
-      "publishedAt": "2026-05-13T14:49:50Z",
+      "name": "v0.5.1",
+      "tagName": "v0.5.1",
+      "url": "https://github.com/Harzva/RepoAtlas/releases/tag/v0.5.1",
+      "publishedAt": "2026-05-14T18:48:32Z",
       "prerelease": false,
       "draft": false,
       "assets": [
         {
-          "name": "RepoAtlas-v0.5.0-macos-ARM64.tar.gz",
-          "url": "https://github.com/Harzva/RepoAtlas/releases/download/v0.5.0/RepoAtlas-v0.5.0-macos-ARM64.tar.gz",
-          "size": 695734,
+          "name": "RepoAtlas-v0.5.1-macos-ARM64.tar.gz",
+          "url": "https://github.com/Harzva/RepoAtlas/releases/download/v0.5.1/RepoAtlas-v0.5.1-macos-ARM64.tar.gz",
+          "size": 714812,
           "downloadCount": 0,
           "contentType": "application/gzip"
         },
         {
-          "name": "RepoAtlas-v0.5.0-windows-x64.exe",
-          "url": "https://github.com/Harzva/RepoAtlas/releases/download/v0.5.0/RepoAtlas-v0.5.0-windows-x64.exe",
-          "size": 1594368,
+          "name": "RepoAtlas-v0.5.1-windows-x64.exe",
+          "url": "https://github.com/Harzva/RepoAtlas/releases/download/v0.5.1/RepoAtlas-v0.5.1-windows-x64.exe",
+          "size": 1674240,
           "downloadCount": 0,
           "contentType": "application/x-msdos-program"
         }
