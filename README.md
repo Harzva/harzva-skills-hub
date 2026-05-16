@@ -14,17 +14,17 @@ A registry of Harzva Codex skills, workflow skills, and agent operating recipes.
 
 | Skill Repository | Language | Updated | Description |
 |---|---:|---:|---|
+| [CampusAgent-QA](https://github.com/Harzva/CampusAgent-QA) | Java | 2026-05-16 | Agentic campus QA system with RAG retrieval, LLM Wiki memory, and GBrain skills |
+| [harzva-skills-hub](https://github.com/Harzva/harzva-skills-hub) | Python | 2026-05-15 | Auto-updating GitHub Pages registry of Harzva Codex skills, workflow skills, and agent recipes. |
 | [Project2AgentWorkOS](https://github.com/Harzva/Project2AgentWorkOS) | HTML | 2026-05-15 | Transfer all projects, Codex threads, failure reviews, and half-finished ideas into AgentWorkOS: Agents, Memory, Skills, MCP, Workflow, and Rules. |
 | [github-repo-scout](https://github.com/Harzva/github-repo-scout) | PowerShell | 2026-05-14 | Codex skill for searching GitHub repos and archiving useful repo cards |
 | [build-your-meta-repo-skill](https://github.com/Harzva/build-your-meta-repo-skill) | Python | 2026-05-14 | Codex skill for building auto-updating GitHub MetaRepos: artifact atlas, release hub, Pages hub, and skills hub. |
-| [harzva-skills-hub](https://github.com/Harzva/harzva-skills-hub) | Python | 2026-05-14 | Auto-updating GitHub Pages registry of Harzva Codex skills, workflow skills, and agent recipes. |
 | [design-md-flow](https://github.com/Harzva/design-md-flow) | Python | 2026-05-14 | Portable DESIGN.md workflow skill for agent-driven frontend design |
 | [gh-repo-cartographer](https://github.com/Harzva/gh-repo-cartographer) | Python | 2026-05-14 | Codex skill and CLI for mapping GitHub repositories to local checkouts and sync status. |
 | [android-release-emulator-qa-skill](https://github.com/Harzva/android-release-emulator-qa-skill) | Python | 2026-05-14 | Codex skill for Android release APK QA with emulator, adb, screenshots, UI XML, logcat, SHA256, and GitHub Release artifact checks. |
 | [github-management-suite](https://github.com/Harzva/github-management-suite) | Python | 2026-05-14 | Cross-platform Codex skill for full GitHub repository lifecycle management |
 | [ReadmeShowcaseScreenshot-Skill](https://github.com/Harzva/ReadmeShowcaseScreenshot-Skill) | JavaScript | 2026-05-14 | Codex skill for README-ready screenshots, GIFs, videos, hero images, and preview galleries. |
 | [gh-actions-release-builder](https://github.com/Harzva/gh-actions-release-builder) | Mixed | 2026-05-13 | Codex skill for professional GitHub Actions build, package, artifact, and release workflows |
-| [CampusAgent-QA](https://github.com/Harzva/CampusAgent-QA) | Java | 2026-05-12 | Agentic campus QA system with RAG retrieval, LLM Wiki memory, and GBrain skills |
 | [gh-account-router](https://github.com/Harzva/gh-account-router) | Python | 2026-05-12 | Codex skill and CLI helper for routing gh commands across GitHub accounts |
 | [image2_UI_skill](https://github.com/Harzva/image2_UI_skill) | Mixed | 2026-05-12 |  |
 | [everything-agent-cli-to-claude-code](https://github.com/Harzva/everything-agent-cli-to-claude-code) | Shell | 2026-04-23 | Umbrella repo for agent CLI to Claude Code adapters, templates, and plugin registry. |
@@ -51,5 +51,5 @@ This MetaRepo refreshes itself with GitHub Actions.
 - Data source: GitHub REST API.
 - Privacy default: public repositories only.
 - Private mode: set `META_INCLUDE_PRIVATE=true` and provide `META_GITHUB_TOKEN` only when the meta repository is private.
-- Generated at: `2026-05-15T06:42:31.971182+00:00`.
+- Generated at: `2026-05-16T06:07:55.244669+00:00`.
 - Private repositories omitted from this public output: `13`.

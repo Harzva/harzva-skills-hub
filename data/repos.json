@@ -238,8 +238,8 @@
     "primaryLanguage": {
       "name": "Java"
     },
-    "pushedAt": "2026-05-12T15:19:32Z",
-    "updatedAt": "2026-05-12T16:36:53Z",
+    "pushedAt": "2026-05-16T05:36:27Z",
+    "updatedAt": "2026-05-16T05:36:31Z",
     "createdAt": "2026-05-11T08:22:16Z",
     "defaultBranchRef": {
       "name": "main"
@@ -278,8 +278,8 @@
     "primaryLanguage": {
       "name": "Java"
     },
-    "pushedAt": "2026-05-12T15:19:13Z",
-    "updatedAt": "2026-05-12T16:24:08Z",
+    "pushedAt": "2026-05-16T05:36:09Z",
+    "updatedAt": "2026-05-16T05:36:12Z",
     "createdAt": "2026-05-09T10:52:36Z",
     "defaultBranchRef": {
       "name": "main"
@@ -455,8 +455,8 @@
     "primaryLanguage": {
       "name": "PowerShell"
     },
-    "pushedAt": "2026-05-15T02:24:14Z",
-    "updatedAt": "2026-05-15T02:24:17Z",
+    "pushedAt": "2026-05-15T08:46:20Z",
+    "updatedAt": "2026-05-15T08:46:25Z",
     "createdAt": "2026-05-14T18:22:16Z",
     "defaultBranchRef": {
       "name": "main"
@@ -914,8 +914,8 @@
     "primaryLanguage": {
       "name": "Rust"
     },
-    "pushedAt": "2026-05-14T09:33:14Z",
-    "updatedAt": "2026-05-14T09:33:18Z",
+    "pushedAt": "2026-05-15T08:29:31Z",
+    "updatedAt": "2026-05-15T08:29:33Z",
     "createdAt": "2026-05-12T07:58:44Z",
     "defaultBranchRef": {
       "name": "main"
@@ -936,46 +936,46 @@
       "httpsEnforced": true
     },
     "latestRelease": {
-      "name": "v0.1.9",
-      "tagName": "v0.1.9",
-      "url": "https://github.com/Harzva/GitReleaseMarket/releases/tag/v0.1.9",
-      "publishedAt": "2026-05-14T09:40:36Z",
+      "name": "v0.2.0",
+      "tagName": "v0.2.0",
+      "url": "https://github.com/Harzva/GitReleaseMarket/releases/tag/v0.2.0",
+      "publishedAt": "2026-05-15T08:36:05Z",
       "prerelease": false,
       "draft": false,
       "assets": [
         {
           "name": "gitmarket-android-experimental.apk",
-          "url": "https://github.com/Harzva/GitReleaseMarket/releases/download/v0.1.9/gitmarket-android-experimental.apk",
-          "size": 4252911,
+          "url": "https://github.com/Harzva/GitReleaseMarket/releases/download/v0.2.0/gitmarket-android-experimental.apk",
+          "size": 4265199,
           "downloadCount": 1,
           "contentType": "application/vnd.android.package-archive"
         },
         {
           "name": "gitmarket-ios-simulator.zip",
-          "url": "https://github.com/Harzva/GitReleaseMarket/releases/download/v0.1.9/gitmarket-ios-simulator.zip",
-          "size": 210051,
-          "downloadCount": 1,
+          "url": "https://github.com/Harzva/GitReleaseMarket/releases/download/v0.2.0/gitmarket-ios-simulator.zip",
+          "size": 210047,
+          "downloadCount": 0,
           "contentType": "application/zip"
         },
         {
           "name": "gitmarket-linux-x86_64.tar.gz",
-          "url": "https://github.com/Harzva/GitReleaseMarket/releases/download/v0.1.9/gitmarket-linux-x86_64.tar.gz",
-          "size": 5512912,
+          "url": "https://github.com/Harzva/GitReleaseMarket/releases/download/v0.2.0/gitmarket-linux-x86_64.tar.gz",
+          "size": 5522712,
           "downloadCount": 0,
           "contentType": "application/gzip"
         },
         {
           "name": "gitmarket-macos-aarch64.tar.gz",
-          "url": "https://github.com/Harzva/GitReleaseMarket/releases/download/v0.1.9/gitmarket-macos-aarch64.tar.gz",
-          "size": 3987245,
+          "url": "https://github.com/Harzva/GitReleaseMarket/releases/download/v0.2.0/gitmarket-macos-aarch64.tar.gz",
+          "size": 3993600,
           "downloadCount": 0,
           "contentType": "application/gzip"
         },
         {
           "name": "gitmarket-windows-x86_64.zip",
-          "url": "https://github.com/Harzva/GitReleaseMarket/releases/download/v0.1.9/gitmarket-windows-x86_64.zip",
-          "size": 3743691,
-          "downloadCount": 2,
+          "url": "https://github.com/Harzva/GitReleaseMarket/releases/download/v0.2.0/gitmarket-windows-x86_64.zip",
+          "size": 3754994,
+          "downloadCount": 1,
           "contentType": "application/zip"
         }
       ]
@@ -990,8 +990,8 @@
     "isArchived": false,
     "isFork": false,
     "primaryLanguage": null,
-    "pushedAt": "2026-05-11T14:13:03Z",
-    "updatedAt": "2026-05-11T14:14:28Z",
+    "pushedAt": "2026-05-15T16:32:06Z",
+    "updatedAt": "2026-05-15T16:32:11Z",
     "createdAt": "2022-10-24T08:08:46Z",
     "defaultBranchRef": {
       "name": "main"
@@ -1054,8 +1054,8 @@
     "primaryLanguage": {
       "name": "Python"
     },
-    "pushedAt": "2026-05-14T14:50:14Z",
-    "updatedAt": "2026-05-14T14:50:19Z",
+    "pushedAt": "2026-05-15T06:43:36Z",
+    "updatedAt": "2026-05-15T06:43:40Z",
     "createdAt": "2026-05-14T09:29:39Z",
     "defaultBranchRef": {
       "name": "main"
@@ -1088,8 +1088,8 @@
     "primaryLanguage": {
       "name": "Python"
     },
-    "pushedAt": "2026-05-14T14:50:09Z",
-    "updatedAt": "2026-05-14T14:51:24Z",
+    "pushedAt": "2026-05-15T06:42:30Z",
+    "updatedAt": "2026-05-15T06:42:33Z",
     "createdAt": "2026-05-14T09:27:13Z",
     "defaultBranchRef": {
       "name": "main"
@@ -1122,8 +1122,8 @@
     "primaryLanguage": {
       "name": "Python"
     },
-    "pushedAt": "2026-05-14T14:50:12Z",
-    "updatedAt": "2026-05-14T14:51:24Z",
+    "pushedAt": "2026-05-15T06:44:05Z",
+    "updatedAt": "2026-05-15T06:44:09Z",
     "createdAt": "2026-05-14T09:29:34Z",
     "defaultBranchRef": {
       "name": "main"
@@ -1156,8 +1156,8 @@
     "primaryLanguage": {
       "name": "Python"
     },
-    "pushedAt": "2026-05-14T14:50:17Z",
-    "updatedAt": "2026-05-14T14:51:24Z",
+    "pushedAt": "2026-05-15T06:42:32Z",
+    "updatedAt": "2026-05-15T06:42:36Z",
     "createdAt": "2026-05-14T09:29:45Z",
     "defaultBranchRef": {
       "name": "main"
@@ -1190,8 +1190,8 @@
     "primaryLanguage": {
       "name": "JavaScript"
     },
-    "pushedAt": "2026-05-11T11:07:01Z",
-    "updatedAt": "2026-05-11T11:07:29Z",
+    "pushedAt": "2026-05-15T16:31:10Z",
+    "updatedAt": "2026-05-15T16:31:15Z",
     "createdAt": "2022-10-29T13:10:46Z",
     "defaultBranchRef": {
       "name": "master"
@@ -1224,8 +1224,8 @@
     "primaryLanguage": {
       "name": "Java"
     },
-    "pushedAt": "2026-05-12T15:20:07Z",
-    "updatedAt": "2026-05-12T16:26:46Z",
+    "pushedAt": "2026-05-16T05:36:41Z",
+    "updatedAt": "2026-05-16T05:36:44Z",
     "createdAt": "2026-05-11T08:22:16Z",
     "defaultBranchRef": {
       "name": "main"
@@ -1282,14 +1282,14 @@
     "primaryLanguage": {
       "name": "TypeScript"
     },
-    "pushedAt": "2026-05-15T04:33:38Z",
-    "updatedAt": "2026-05-15T04:33:42Z",
+    "pushedAt": "2026-05-16T04:07:45Z",
+    "updatedAt": "2026-05-16T04:07:49Z",
     "createdAt": "2026-04-01T03:55:26Z",
     "defaultBranchRef": {
       "name": "main"
     },
     "homepageUrl": "",
-    "stargazerCount": 180,
+    "stargazerCount": 179,
     "forkCount": 38,
     "repositoryTopics": [
       "agent-loop",
@@ -1435,8 +1435,8 @@
     "primaryLanguage": {
       "name": "Dart"
     },
-    "pushedAt": "2026-05-15T06:22:22Z",
-    "updatedAt": "2026-05-15T06:22:26Z",
+    "pushedAt": "2026-05-16T05:18:01Z",
+    "updatedAt": "2026-05-15T06:51:31Z",
     "createdAt": "2026-05-12T08:19:17Z",
     "defaultBranchRef": {
       "name": "main"
@@ -1482,7 +1482,7 @@
           "name": "mobilecode-v0.1.0.apk",
           "url": "https://github.com/Harzva/mobilecode/releases/download/v0.1.0/mobilecode-v0.1.0.apk",
           "size": 51903061,
-          "downloadCount": 0,
+          "downloadCount": 1,
           "contentType": "application/vnd.android.package-archive"
         }
       ]
@@ -1677,8 +1677,8 @@
     "primaryLanguage": {
       "name": "Rust"
     },
-    "pushedAt": "2026-05-14T18:45:34Z",
-    "updatedAt": "2026-05-14T18:38:38Z",
+    "pushedAt": "2026-05-15T09:46:44Z",
+    "updatedAt": "2026-05-15T09:45:55Z",
     "createdAt": "2026-05-12T15:53:11Z",
     "defaultBranchRef": {
       "name": "main"
@@ -1699,24 +1699,24 @@
       "httpsEnforced": true
     },
     "latestRelease": {
-      "name": "v0.5.1",
-      "tagName": "v0.5.1",
-      "url": "https://github.com/Harzva/RepoAtlas/releases/tag/v0.5.1",
-      "publishedAt": "2026-05-14T18:48:32Z",
+      "name": "v0.6.1",
+      "tagName": "v0.6.1",
+      "url": "https://github.com/Harzva/RepoAtlas/releases/tag/v0.6.1",
+      "publishedAt": "2026-05-15T09:49:29Z",
       "prerelease": false,
       "draft": false,
       "assets": [
         {
-          "name": "RepoAtlas-v0.5.1-macos-ARM64.tar.gz",
-          "url": "https://github.com/Harzva/RepoAtlas/releases/download/v0.5.1/RepoAtlas-v0.5.1-macos-ARM64.tar.gz",
-          "size": 714812,
+          "name": "RepoAtlas-v0.6.1-macos-ARM64.tar.gz",
+          "url": "https://github.com/Harzva/RepoAtlas/releases/download/v0.6.1/RepoAtlas-v0.6.1-macos-ARM64.tar.gz",
+          "size": 735687,
           "downloadCount": 0,
           "contentType": "application/gzip"
         },
         {
-          "name": "RepoAtlas-v0.5.1-windows-x64.exe",
-          "url": "https://github.com/Harzva/RepoAtlas/releases/download/v0.5.1/RepoAtlas-v0.5.1-windows-x64.exe",
-          "size": 1674240,
+          "name": "RepoAtlas-v0.6.1-windows-x64.exe",
+          "url": "https://github.com/Harzva/RepoAtlas/releases/download/v0.6.1/RepoAtlas-v0.6.1-windows-x64.exe",
+          "size": 1788416,
           "downloadCount": 0,
           "contentType": "application/x-msdos-program"
         }
