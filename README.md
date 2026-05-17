@@ -15,8 +15,8 @@ A registry of Harzva Codex skills, workflow skills, and agent operating recipes.
 | Skill Repository | Language | Updated | Description |
 |---|---:|---:|---|
 | [CampusAgent-QA](https://github.com/Harzva/CampusAgent-QA) | Java | 2026-05-16 | Agentic campus QA system with RAG retrieval, LLM Wiki memory, and GBrain skills |
-| [harzva-skills-hub](https://github.com/Harzva/harzva-skills-hub) | Python | 2026-05-15 | Auto-updating GitHub Pages registry of Harzva Codex skills, workflow skills, and agent recipes. |
-| [Project2AgentWorkOS](https://github.com/Harzva/Project2AgentWorkOS) | HTML | 2026-05-15 | Transfer all projects, Codex threads, failure reviews, and half-finished ideas into AgentWorkOS: Agents, Memory, Skills, MCP, Workflow, and Rules. |
+| [Project2AgentWorkOS](https://github.com/Harzva/Project2AgentWorkOS) | HTML | 2026-05-16 | Transfer all projects, Codex threads, failure reviews, and half-finished ideas into AgentWorkOS: Agents, Memory, Skills, MCP, Workflow, and Rules. |
+| [harzva-skills-hub](https://github.com/Harzva/harzva-skills-hub) | Python | 2026-05-16 | Auto-updating GitHub Pages registry of Harzva Codex skills, workflow skills, and agent recipes. |
 | [github-repo-scout](https://github.com/Harzva/github-repo-scout) | PowerShell | 2026-05-14 | Codex skill for searching GitHub repos and archiving useful repo cards |
 | [build-your-meta-repo-skill](https://github.com/Harzva/build-your-meta-repo-skill) | Python | 2026-05-14 | Codex skill for building auto-updating GitHub MetaRepos: artifact atlas, release hub, Pages hub, and skills hub. |
 | [design-md-flow](https://github.com/Harzva/design-md-flow) | Python | 2026-05-14 | Portable DESIGN.md workflow skill for agent-driven frontend design |
@@ -51,5 +51,5 @@ This MetaRepo refreshes itself with GitHub Actions.
 - Data source: GitHub REST API.
 - Privacy default: public repositories only.
 - Private mode: set `META_INCLUDE_PRIVATE=true` and provide `META_GITHUB_TOKEN` only when the meta repository is private.
-- Generated at: `2026-05-16T06:07:55.244669+00:00`.
+- Generated at: `2026-05-17T06:30:38.588128+00:00`.
 - Private repositories omitted from this public output: `13`.
