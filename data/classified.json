@@ -1,6 +1,6 @@
 {
   "summary": {
-    "generatedAt": "2026-05-17T06:30:38.588128+00:00",
+    "generatedAt": "2026-05-18T07:06:25.536957+00:00",
     "owner": "Harzva",
     "mode": "skills",
     "publicRepositories": 91,
@@ -8,7 +8,7 @@
     "pages": 17,
     "releases": 6,
     "skills": 20,
-    "artifacts": 11,
+    "artifacts": 12,
     "privateOmitted": 13
   },
   "categories": {
@@ -301,7 +301,7 @@
         "primaryLanguage": {
           "name": "Dart"
         },
-        "pushedAt": "2026-05-17T06:26:48Z",
+        "pushedAt": "2026-05-18T05:54:31Z",
         "updatedAt": "2026-05-15T06:51:31Z",
         "createdAt": "2026-05-12T08:19:17Z",
         "defaultBranchRef": {
@@ -365,14 +365,14 @@
         "primaryLanguage": {
           "name": "TypeScript"
         },
-        "pushedAt": "2026-05-17T04:36:51Z",
-        "updatedAt": "2026-05-17T04:36:54Z",
+        "pushedAt": "2026-05-18T04:49:03Z",
+        "updatedAt": "2026-05-18T04:49:06Z",
         "createdAt": "2026-04-01T03:55:26Z",
         "defaultBranchRef": {
           "name": "main"
         },
         "homepageUrl": "",
-        "stargazerCount": 179,
+        "stargazerCount": 172,
         "forkCount": 38,
         "repositoryTopics": [
           "agent-loop",
@@ -406,6 +406,193 @@
           "draft": false,
           "assets": []
         }
+      },
+      {
+        "name": "GitReleaseMarket",
+        "nameWithOwner": "Harzva/GitReleaseMarket",
+        "url": "https://github.com/Harzva/GitReleaseMarket",
+        "description": "GitHub/Gitee APK discovery and release download tool",
+        "isPrivate": false,
+        "isArchived": false,
+        "isFork": false,
+        "primaryLanguage": {
+          "name": "Rust"
+        },
+        "pushedAt": "2026-05-17T13:43:38Z",
+        "updatedAt": "2026-05-17T13:43:40Z",
+        "createdAt": "2026-05-12T07:58:44Z",
+        "defaultBranchRef": {
+          "name": "main"
+        },
+        "homepageUrl": "https://harzva.github.io/GitReleaseMarket/",
+        "stargazerCount": 0,
+        "forkCount": 0,
+        "repositoryTopics": [],
+        "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/GitReleaseMarket",
+        "pages": {
+          "enabled": true,
+          "url": "https://harzva.github.io/GitReleaseMarket/",
+          "status": null,
+          "source": {
+            "branch": "main",
+            "path": "/"
+          },
+          "httpsEnforced": true
+        },
+        "latestRelease": {
+          "name": "v0.3.3",
+          "tagName": "v0.3.3",
+          "url": "https://github.com/Harzva/GitReleaseMarket/releases/tag/v0.3.3",
+          "publishedAt": "2026-05-17T13:49:12Z",
+          "prerelease": false,
+          "draft": false,
+          "assets": [
+            {
+              "name": "gitmarket-android-experimental.apk",
+              "url": "https://github.com/Harzva/GitReleaseMarket/releases/download/v0.3.3/gitmarket-android-experimental.apk",
+              "size": 4293871,
+              "downloadCount": 1,
+              "contentType": "application/vnd.android.package-archive"
+            },
+            {
+              "name": "gitmarket-ios-simulator.zip",
+              "url": "https://github.com/Harzva/GitReleaseMarket/releases/download/v0.3.3/gitmarket-ios-simulator.zip",
+              "size": 211629,
+              "downloadCount": 0,
+              "contentType": "application/zip"
+            },
+            {
+              "name": "gitmarket-linux-x86_64.tar.gz",
+              "url": "https://github.com/Harzva/GitReleaseMarket/releases/download/v0.3.3/gitmarket-linux-x86_64.tar.gz",
+              "size": 5547114,
+              "downloadCount": 0,
+              "contentType": "application/gzip"
+            },
+            {
+              "name": "gitmarket-macos-aarch64.tar.gz",
+              "url": "https://github.com/Harzva/GitReleaseMarket/releases/download/v0.3.3/gitmarket-macos-aarch64.tar.gz",
+              "size": 4018931,
+              "downloadCount": 0,
+              "contentType": "application/gzip"
+            },
+            {
+              "name": "gitmarket-macos-x86_64.tar.gz",
+              "url": "https://github.com/Harzva/GitReleaseMarket/releases/download/v0.3.3/gitmarket-macos-x86_64.tar.gz",
+              "size": 4139698,
+              "downloadCount": 0,
+              "contentType": "application/gzip"
+            },
+            {
+              "name": "gitmarket-windows-x86_64.zip",
+              "url": "https://github.com/Harzva/GitReleaseMarket/releases/download/v0.3.3/gitmarket-windows-x86_64.zip",
+              "size": 3780562,
+              "downloadCount": 0,
+              "contentType": "application/zip"
+            }
+          ]
+        }
+      },
+      {
+        "name": "harzva-release-hub",
+        "nameWithOwner": "Harzva/harzva-release-hub",
+        "url": "https://github.com/Harzva/harzva-release-hub",
+        "description": "Auto-updating release hub for Harzva repositories with direct download assets and GitHub Pages.",
+        "isPrivate": false,
+        "isArchived": false,
+        "isFork": false,
+        "primaryLanguage": {
+          "name": "Python"
+        },
+        "pushedAt": "2026-05-17T06:31:47Z",
+        "updatedAt": "2026-05-17T06:31:51Z",
+        "createdAt": "2026-05-14T09:29:34Z",
+        "defaultBranchRef": {
+          "name": "main"
+        },
+        "homepageUrl": "https://harzva.github.io/harzva-release-hub/",
+        "stargazerCount": 0,
+        "forkCount": 0,
+        "repositoryTopics": [],
+        "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/harzva-release-hub",
+        "pages": {
+          "enabled": true,
+          "url": "https://harzva.github.io/harzva-release-hub/",
+          "status": null,
+          "source": {
+            "branch": "main",
+            "path": "/"
+          },
+          "httpsEnforced": true
+        },
+        "latestRelease": null
+      },
+      {
+        "name": "harzva-pages-hub",
+        "nameWithOwner": "Harzva/harzva-pages-hub",
+        "url": "https://github.com/Harzva/harzva-pages-hub",
+        "description": "Visual GitHub Pages hub for Harzva sites, demos, docs, and live project surfaces.",
+        "isPrivate": false,
+        "isArchived": false,
+        "isFork": false,
+        "primaryLanguage": {
+          "name": "Python"
+        },
+        "pushedAt": "2026-05-17T06:31:13Z",
+        "updatedAt": "2026-05-17T06:31:16Z",
+        "createdAt": "2026-05-14T09:29:39Z",
+        "defaultBranchRef": {
+          "name": "main"
+        },
+        "homepageUrl": "https://harzva.github.io/harzva-pages-hub/",
+        "stargazerCount": 0,
+        "forkCount": 0,
+        "repositoryTopics": [],
+        "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/harzva-pages-hub",
+        "pages": {
+          "enabled": true,
+          "url": "https://harzva.github.io/harzva-pages-hub/",
+          "status": null,
+          "source": {
+            "branch": "main",
+            "path": "/"
+          },
+          "httpsEnforced": true
+        },
+        "latestRelease": null
+      },
+      {
+        "name": "harzva-project-atlas",
+        "nameWithOwner": "Harzva/harzva-project-atlas",
+        "url": "https://github.com/Harzva/harzva-project-atlas",
+        "description": "Download-first MetaRepo atlas for Harzva APK, EXE, package, archive, and release asset links.",
+        "isPrivate": false,
+        "isArchived": false,
+        "isFork": false,
+        "primaryLanguage": {
+          "name": "Python"
+        },
+        "pushedAt": "2026-05-17T06:30:36Z",
+        "updatedAt": "2026-05-17T06:30:40Z",
+        "createdAt": "2026-05-14T09:27:13Z",
+        "defaultBranchRef": {
+          "name": "main"
+        },
+        "homepageUrl": "https://harzva.github.io/harzva-project-atlas/",
+        "stargazerCount": 0,
+        "forkCount": 0,
+        "repositoryTopics": [],
+        "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/harzva-project-atlas",
+        "pages": {
+          "enabled": true,
+          "url": "https://harzva.github.io/harzva-project-atlas/",
+          "status": null,
+          "source": {
+            "branch": "main",
+            "path": "/"
+          },
+          "httpsEnforced": true
+        },
+        "latestRelease": null
       },
       {
         "name": "everything-in-github",
@@ -485,120 +672,18 @@
               "name": "RepoAtlas-v0.6.5-macos-ARM64.tar.gz",
               "url": "https://github.com/Harzva/RepoAtlas/releases/download/v0.6.5/RepoAtlas-v0.6.5-macos-ARM64.tar.gz",
               "size": 775693,
-              "downloadCount": 0,
+              "downloadCount": 1,
               "contentType": "application/gzip"
             },
             {
               "name": "RepoAtlas-v0.6.5-windows-x64.exe",
               "url": "https://github.com/Harzva/RepoAtlas/releases/download/v0.6.5/RepoAtlas-v0.6.5-windows-x64.exe",
               "size": 1945088,
-              "downloadCount": 0,
+              "downloadCount": 1,
               "contentType": "application/x-msdos-program"
             }
           ]
         }
-      },
-      {
-        "name": "harzva-release-hub",
-        "nameWithOwner": "Harzva/harzva-release-hub",
-        "url": "https://github.com/Harzva/harzva-release-hub",
-        "description": "Auto-updating release hub for Harzva repositories with direct download assets and GitHub Pages.",
-        "isPrivate": false,
-        "isArchived": false,
-        "isFork": false,
-        "primaryLanguage": {
-          "name": "Python"
-        },
-        "pushedAt": "2026-05-16T06:09:11Z",
-        "updatedAt": "2026-05-16T06:09:14Z",
-        "createdAt": "2026-05-14T09:29:34Z",
-        "defaultBranchRef": {
-          "name": "main"
-        },
-        "homepageUrl": "https://harzva.github.io/harzva-release-hub/",
-        "stargazerCount": 0,
-        "forkCount": 0,
-        "repositoryTopics": [],
-        "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/harzva-release-hub",
-        "pages": {
-          "enabled": true,
-          "url": "https://harzva.github.io/harzva-release-hub/",
-          "status": null,
-          "source": {
-            "branch": "main",
-            "path": "/"
-          },
-          "httpsEnforced": true
-        },
-        "latestRelease": null
-      },
-      {
-        "name": "harzva-pages-hub",
-        "nameWithOwner": "Harzva/harzva-pages-hub",
-        "url": "https://github.com/Harzva/harzva-pages-hub",
-        "description": "Visual GitHub Pages hub for Harzva sites, demos, docs, and live project surfaces.",
-        "isPrivate": false,
-        "isArchived": false,
-        "isFork": false,
-        "primaryLanguage": {
-          "name": "Python"
-        },
-        "pushedAt": "2026-05-16T06:08:21Z",
-        "updatedAt": "2026-05-16T06:08:25Z",
-        "createdAt": "2026-05-14T09:29:39Z",
-        "defaultBranchRef": {
-          "name": "main"
-        },
-        "homepageUrl": "https://harzva.github.io/harzva-pages-hub/",
-        "stargazerCount": 0,
-        "forkCount": 0,
-        "repositoryTopics": [],
-        "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/harzva-pages-hub",
-        "pages": {
-          "enabled": true,
-          "url": "https://harzva.github.io/harzva-pages-hub/",
-          "status": null,
-          "source": {
-            "branch": "main",
-            "path": "/"
-          },
-          "httpsEnforced": true
-        },
-        "latestRelease": null
-      },
-      {
-        "name": "harzva-project-atlas",
-        "nameWithOwner": "Harzva/harzva-project-atlas",
-        "url": "https://github.com/Harzva/harzva-project-atlas",
-        "description": "Download-first MetaRepo atlas for Harzva APK, EXE, package, archive, and release asset links.",
-        "isPrivate": false,
-        "isArchived": false,
-        "isFork": false,
-        "primaryLanguage": {
-          "name": "Python"
-        },
-        "pushedAt": "2026-05-16T06:07:57Z",
-        "updatedAt": "2026-05-16T06:08:01Z",
-        "createdAt": "2026-05-14T09:27:13Z",
-        "defaultBranchRef": {
-          "name": "main"
-        },
-        "homepageUrl": "https://harzva.github.io/harzva-project-atlas/",
-        "stargazerCount": 0,
-        "forkCount": 0,
-        "repositoryTopics": [],
-        "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/harzva-project-atlas",
-        "pages": {
-          "enabled": true,
-          "url": "https://harzva.github.io/harzva-project-atlas/",
-          "status": null,
-          "source": {
-            "branch": "main",
-            "path": "/"
-          },
-          "httpsEnforced": true
-        },
-        "latestRelease": null
       },
       {
         "name": "Harzva.github.io",
@@ -633,84 +718,6 @@
           "httpsEnforced": true
         },
         "latestRelease": null
-      },
-      {
-        "name": "GitReleaseMarket",
-        "nameWithOwner": "Harzva/GitReleaseMarket",
-        "url": "https://github.com/Harzva/GitReleaseMarket",
-        "description": "GitHub/Gitee APK discovery and release download tool",
-        "isPrivate": false,
-        "isArchived": false,
-        "isFork": false,
-        "primaryLanguage": {
-          "name": "Rust"
-        },
-        "pushedAt": "2026-05-15T08:29:31Z",
-        "updatedAt": "2026-05-15T08:29:33Z",
-        "createdAt": "2026-05-12T07:58:44Z",
-        "defaultBranchRef": {
-          "name": "main"
-        },
-        "homepageUrl": "https://harzva.github.io/GitReleaseMarket/",
-        "stargazerCount": 0,
-        "forkCount": 0,
-        "repositoryTopics": [],
-        "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/GitReleaseMarket",
-        "pages": {
-          "enabled": true,
-          "url": "https://harzva.github.io/GitReleaseMarket/",
-          "status": null,
-          "source": {
-            "branch": "main",
-            "path": "/"
-          },
-          "httpsEnforced": true
-        },
-        "latestRelease": {
-          "name": "v0.2.0",
-          "tagName": "v0.2.0",
-          "url": "https://github.com/Harzva/GitReleaseMarket/releases/tag/v0.2.0",
-          "publishedAt": "2026-05-15T08:36:05Z",
-          "prerelease": false,
-          "draft": false,
-          "assets": [
-            {
-              "name": "gitmarket-android-experimental.apk",
-              "url": "https://github.com/Harzva/GitReleaseMarket/releases/download/v0.2.0/gitmarket-android-experimental.apk",
-              "size": 4265199,
-              "downloadCount": 1,
-              "contentType": "application/vnd.android.package-archive"
-            },
-            {
-              "name": "gitmarket-ios-simulator.zip",
-              "url": "https://github.com/Harzva/GitReleaseMarket/releases/download/v0.2.0/gitmarket-ios-simulator.zip",
-              "size": 210047,
-              "downloadCount": 0,
-              "contentType": "application/zip"
-            },
-            {
-              "name": "gitmarket-linux-x86_64.tar.gz",
-              "url": "https://github.com/Harzva/GitReleaseMarket/releases/download/v0.2.0/gitmarket-linux-x86_64.tar.gz",
-              "size": 5522712,
-              "downloadCount": 0,
-              "contentType": "application/gzip"
-            },
-            {
-              "name": "gitmarket-macos-aarch64.tar.gz",
-              "url": "https://github.com/Harzva/GitReleaseMarket/releases/download/v0.2.0/gitmarket-macos-aarch64.tar.gz",
-              "size": 3993600,
-              "downloadCount": 0,
-              "contentType": "application/gzip"
-            },
-            {
-              "name": "gitmarket-windows-x86_64.zip",
-              "url": "https://github.com/Harzva/GitReleaseMarket/releases/download/v0.2.0/gitmarket-windows-x86_64.zip",
-              "size": 3754994,
-              "downloadCount": 1,
-              "contentType": "application/zip"
-            }
-          ]
-        }
       },
       {
         "name": "catop-cachehit",
@@ -919,15 +926,15 @@
         "primaryLanguage": {
           "name": "JavaScript"
         },
-        "pushedAt": "2026-04-17T01:26:44Z",
-        "updatedAt": "2026-04-22T17:25:12Z",
+        "pushedAt": "2026-05-17T14:34:20Z",
+        "updatedAt": "2026-05-17T22:54:05Z",
         "createdAt": "2026-04-13T14:39:15Z",
         "defaultBranchRef": {
           "name": "main"
         },
         "homepageUrl": "",
-        "stargazerCount": 102,
-        "forkCount": 24,
+        "stargazerCount": 96,
+        "forkCount": 23,
         "repositoryTopics": [],
         "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/codex-managed-agent",
         "pages": {
@@ -953,6 +960,40 @@
       }
     ],
     "Skills and Agent Workflows": [
+      {
+        "name": "harzva-skills-hub",
+        "nameWithOwner": "Harzva/harzva-skills-hub",
+        "url": "https://github.com/Harzva/harzva-skills-hub",
+        "description": "Auto-updating GitHub Pages registry of Harzva Codex skills, workflow skills, and agent recipes.",
+        "isPrivate": false,
+        "isArchived": false,
+        "isFork": false,
+        "primaryLanguage": {
+          "name": "Python"
+        },
+        "pushedAt": "2026-05-17T06:30:39Z",
+        "updatedAt": "2026-05-17T06:30:42Z",
+        "createdAt": "2026-05-14T09:29:45Z",
+        "defaultBranchRef": {
+          "name": "main"
+        },
+        "homepageUrl": "https://harzva.github.io/harzva-skills-hub/",
+        "stargazerCount": 0,
+        "forkCount": 0,
+        "repositoryTopics": [],
+        "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/harzva-skills-hub",
+        "pages": {
+          "enabled": true,
+          "url": "https://harzva.github.io/harzva-skills-hub/",
+          "status": null,
+          "source": {
+            "branch": "main",
+            "path": "/"
+          },
+          "httpsEnforced": true
+        },
+        "latestRelease": null
+      },
       {
         "name": "CampusAgent-QA",
         "nameWithOwner": "Harzva/CampusAgent-QA",
@@ -1028,40 +1069,6 @@
         "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/Project2AgentWorkOS",
         "pages": {
           "enabled": false
-        },
-        "latestRelease": null
-      },
-      {
-        "name": "harzva-skills-hub",
-        "nameWithOwner": "Harzva/harzva-skills-hub",
-        "url": "https://github.com/Harzva/harzva-skills-hub",
-        "description": "Auto-updating GitHub Pages registry of Harzva Codex skills, workflow skills, and agent recipes.",
-        "isPrivate": false,
-        "isArchived": false,
-        "isFork": false,
-        "primaryLanguage": {
-          "name": "Python"
-        },
-        "pushedAt": "2026-05-16T06:07:56Z",
-        "updatedAt": "2026-05-16T06:08:00Z",
-        "createdAt": "2026-05-14T09:29:45Z",
-        "defaultBranchRef": {
-          "name": "main"
-        },
-        "homepageUrl": "https://harzva.github.io/harzva-skills-hub/",
-        "stargazerCount": 0,
-        "forkCount": 0,
-        "repositoryTopics": [],
-        "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/harzva-skills-hub",
-        "pages": {
-          "enabled": true,
-          "url": "https://harzva.github.io/harzva-skills-hub/",
-          "status": null,
-          "source": {
-            "branch": "main",
-            "path": "/"
-          },
-          "httpsEnforced": true
         },
         "latestRelease": null
       },
@@ -2773,15 +2780,15 @@
       "description": "GitHub/Gitee APK discovery and release download tool",
       "language": "Rust",
       "assetName": "gitmarket-linux-x86_64.tar.gz",
-      "assetUrl": "https://github.com/Harzva/GitReleaseMarket/releases/download/v0.2.0/gitmarket-linux-x86_64.tar.gz",
-      "size": 5522712,
+      "assetUrl": "https://github.com/Harzva/GitReleaseMarket/releases/download/v0.3.3/gitmarket-linux-x86_64.tar.gz",
+      "size": 5547114,
       "downloadCount": 0,
       "kind": "Archive",
       "functionCategory": "CLI and Infrastructure",
-      "releaseName": "v0.2.0",
-      "tagName": "v0.2.0",
-      "releaseUrl": "https://github.com/Harzva/GitReleaseMarket/releases/tag/v0.2.0",
-      "publishedAt": "2026-05-15T08:36:05Z",
+      "releaseName": "v0.3.3",
+      "tagName": "v0.3.3",
+      "releaseUrl": "https://github.com/Harzva/GitReleaseMarket/releases/tag/v0.3.3",
+      "publishedAt": "2026-05-17T13:49:12Z",
       "isFork": false
     },
     {
@@ -2791,15 +2798,33 @@
       "description": "GitHub/Gitee APK discovery and release download tool",
       "language": "Rust",
       "assetName": "gitmarket-macos-aarch64.tar.gz",
-      "assetUrl": "https://github.com/Harzva/GitReleaseMarket/releases/download/v0.2.0/gitmarket-macos-aarch64.tar.gz",
-      "size": 3993600,
+      "assetUrl": "https://github.com/Harzva/GitReleaseMarket/releases/download/v0.3.3/gitmarket-macos-aarch64.tar.gz",
+      "size": 4018931,
       "downloadCount": 0,
       "kind": "Archive",
       "functionCategory": "Desktop Apps",
-      "releaseName": "v0.2.0",
-      "tagName": "v0.2.0",
-      "releaseUrl": "https://github.com/Harzva/GitReleaseMarket/releases/tag/v0.2.0",
-      "publishedAt": "2026-05-15T08:36:05Z",
+      "releaseName": "v0.3.3",
+      "tagName": "v0.3.3",
+      "releaseUrl": "https://github.com/Harzva/GitReleaseMarket/releases/tag/v0.3.3",
+      "publishedAt": "2026-05-17T13:49:12Z",
+      "isFork": false
+    },
+    {
+      "repo": "Harzva/GitReleaseMarket",
+      "repoName": "GitReleaseMarket",
+      "repoUrl": "https://github.com/Harzva/GitReleaseMarket",
+      "description": "GitHub/Gitee APK discovery and release download tool",
+      "language": "Rust",
+      "assetName": "gitmarket-macos-x86_64.tar.gz",
+      "assetUrl": "https://github.com/Harzva/GitReleaseMarket/releases/download/v0.3.3/gitmarket-macos-x86_64.tar.gz",
+      "size": 4139698,
+      "downloadCount": 0,
+      "kind": "Archive",
+      "functionCategory": "Desktop Apps",
+      "releaseName": "v0.3.3",
+      "tagName": "v0.3.3",
+      "releaseUrl": "https://github.com/Harzva/GitReleaseMarket/releases/tag/v0.3.3",
+      "publishedAt": "2026-05-17T13:49:12Z",
       "isFork": false
     },
     {
@@ -2809,15 +2834,15 @@
       "description": "GitHub/Gitee APK discovery and release download tool",
       "language": "Rust",
       "assetName": "gitmarket-windows-x86_64.zip",
-      "assetUrl": "https://github.com/Harzva/GitReleaseMarket/releases/download/v0.2.0/gitmarket-windows-x86_64.zip",
-      "size": 3754994,
-      "downloadCount": 1,
+      "assetUrl": "https://github.com/Harzva/GitReleaseMarket/releases/download/v0.3.3/gitmarket-windows-x86_64.zip",
+      "size": 3780562,
+      "downloadCount": 0,
       "kind": "Archive",
       "functionCategory": "Desktop Apps",
-      "releaseName": "v0.2.0",
-      "tagName": "v0.2.0",
-      "releaseUrl": "https://github.com/Harzva/GitReleaseMarket/releases/tag/v0.2.0",
-      "publishedAt": "2026-05-15T08:36:05Z",
+      "releaseName": "v0.3.3",
+      "tagName": "v0.3.3",
+      "releaseUrl": "https://github.com/Harzva/GitReleaseMarket/releases/tag/v0.3.3",
+      "publishedAt": "2026-05-17T13:49:12Z",
       "isFork": false
     },
     {
@@ -2829,7 +2854,7 @@
       "assetName": "RepoAtlas-v0.6.5-macos-ARM64.tar.gz",
       "assetUrl": "https://github.com/Harzva/RepoAtlas/releases/download/v0.6.5/RepoAtlas-v0.6.5-macos-ARM64.tar.gz",
       "size": 775693,
-      "downloadCount": 0,
+      "downloadCount": 1,
       "kind": "Archive",
       "functionCategory": "Desktop Apps",
       "releaseName": "v0.6.5",
@@ -2847,7 +2872,7 @@
       "assetName": "RepoAtlas-v0.6.5-windows-x64.exe",
       "assetUrl": "https://github.com/Harzva/RepoAtlas/releases/download/v0.6.5/RepoAtlas-v0.6.5-windows-x64.exe",
       "size": 1945088,
-      "downloadCount": 0,
+      "downloadCount": 1,
       "kind": "Windows",
       "functionCategory": "Desktop Apps",
       "releaseName": "v0.6.5",
@@ -2863,15 +2888,15 @@
       "description": "GitHub/Gitee APK discovery and release download tool",
       "language": "Rust",
       "assetName": "gitmarket-android-experimental.apk",
-      "assetUrl": "https://github.com/Harzva/GitReleaseMarket/releases/download/v0.2.0/gitmarket-android-experimental.apk",
-      "size": 4265199,
+      "assetUrl": "https://github.com/Harzva/GitReleaseMarket/releases/download/v0.3.3/gitmarket-android-experimental.apk",
+      "size": 4293871,
       "downloadCount": 1,
       "kind": "Android APK",
       "functionCategory": "Mobile Apps",
-      "releaseName": "v0.2.0",
-      "tagName": "v0.2.0",
-      "releaseUrl": "https://github.com/Harzva/GitReleaseMarket/releases/tag/v0.2.0",
-      "publishedAt": "2026-05-15T08:36:05Z",
+      "releaseName": "v0.3.3",
+      "tagName": "v0.3.3",
+      "releaseUrl": "https://github.com/Harzva/GitReleaseMarket/releases/tag/v0.3.3",
+      "publishedAt": "2026-05-17T13:49:12Z",
       "isFork": false
     },
     {
@@ -2881,15 +2906,15 @@
       "description": "GitHub/Gitee APK discovery and release download tool",
       "language": "Rust",
       "assetName": "gitmarket-ios-simulator.zip",
-      "assetUrl": "https://github.com/Harzva/GitReleaseMarket/releases/download/v0.2.0/gitmarket-ios-simulator.zip",
-      "size": 210047,
+      "assetUrl": "https://github.com/Harzva/GitReleaseMarket/releases/download/v0.3.3/gitmarket-ios-simulator.zip",
+      "size": 211629,
       "downloadCount": 0,
       "kind": "Archive",
       "functionCategory": "Mobile Apps",
-      "releaseName": "v0.2.0",
-      "tagName": "v0.2.0",
-      "releaseUrl": "https://github.com/Harzva/GitReleaseMarket/releases/tag/v0.2.0",
-      "publishedAt": "2026-05-15T08:36:05Z",
+      "releaseName": "v0.3.3",
+      "tagName": "v0.3.3",
+      "releaseUrl": "https://github.com/Harzva/GitReleaseMarket/releases/tag/v0.3.3",
+      "publishedAt": "2026-05-17T13:49:12Z",
       "isFork": false
     },
     {
@@ -2956,15 +2981,15 @@
         "description": "GitHub/Gitee APK discovery and release download tool",
         "language": "Rust",
         "assetName": "gitmarket-android-experimental.apk",
-        "assetUrl": "https://github.com/Harzva/GitReleaseMarket/releases/download/v0.2.0/gitmarket-android-experimental.apk",
-        "size": 4265199,
+        "assetUrl": "https://github.com/Harzva/GitReleaseMarket/releases/download/v0.3.3/gitmarket-android-experimental.apk",
+        "size": 4293871,
         "downloadCount": 1,
         "kind": "Android APK",
         "functionCategory": "Mobile Apps",
-        "releaseName": "v0.2.0",
-        "tagName": "v0.2.0",
-        "releaseUrl": "https://github.com/Harzva/GitReleaseMarket/releases/tag/v0.2.0",
-        "publishedAt": "2026-05-15T08:36:05Z",
+        "releaseName": "v0.3.3",
+        "tagName": "v0.3.3",
+        "releaseUrl": "https://github.com/Harzva/GitReleaseMarket/releases/tag/v0.3.3",
+        "publishedAt": "2026-05-17T13:49:12Z",
         "isFork": false
       },
       {
@@ -2974,15 +2999,15 @@
         "description": "GitHub/Gitee APK discovery and release download tool",
         "language": "Rust",
         "assetName": "gitmarket-ios-simulator.zip",
-        "assetUrl": "https://github.com/Harzva/GitReleaseMarket/releases/download/v0.2.0/gitmarket-ios-simulator.zip",
-        "size": 210047,
+        "assetUrl": "https://github.com/Harzva/GitReleaseMarket/releases/download/v0.3.3/gitmarket-ios-simulator.zip",
+        "size": 211629,
         "downloadCount": 0,
         "kind": "Archive",
         "functionCategory": "Mobile Apps",
-        "releaseName": "v0.2.0",
-        "tagName": "v0.2.0",
-        "releaseUrl": "https://github.com/Harzva/GitReleaseMarket/releases/tag/v0.2.0",
-        "publishedAt": "2026-05-15T08:36:05Z",
+        "releaseName": "v0.3.3",
+        "tagName": "v0.3.3",
+        "releaseUrl": "https://github.com/Harzva/GitReleaseMarket/releases/tag/v0.3.3",
+        "publishedAt": "2026-05-17T13:49:12Z",
         "isFork": false
       },
       {
@@ -3042,6 +3067,60 @@
     ],
     "Desktop Apps": [
       {
+        "repo": "Harzva/GitReleaseMarket",
+        "repoName": "GitReleaseMarket",
+        "repoUrl": "https://github.com/Harzva/GitReleaseMarket",
+        "description": "GitHub/Gitee APK discovery and release download tool",
+        "language": "Rust",
+        "assetName": "gitmarket-macos-aarch64.tar.gz",
+        "assetUrl": "https://github.com/Harzva/GitReleaseMarket/releases/download/v0.3.3/gitmarket-macos-aarch64.tar.gz",
+        "size": 4018931,
+        "downloadCount": 0,
+        "kind": "Archive",
+        "functionCategory": "Desktop Apps",
+        "releaseName": "v0.3.3",
+        "tagName": "v0.3.3",
+        "releaseUrl": "https://github.com/Harzva/GitReleaseMarket/releases/tag/v0.3.3",
+        "publishedAt": "2026-05-17T13:49:12Z",
+        "isFork": false
+      },
+      {
+        "repo": "Harzva/GitReleaseMarket",
+        "repoName": "GitReleaseMarket",
+        "repoUrl": "https://github.com/Harzva/GitReleaseMarket",
+        "description": "GitHub/Gitee APK discovery and release download tool",
+        "language": "Rust",
+        "assetName": "gitmarket-macos-x86_64.tar.gz",
+        "assetUrl": "https://github.com/Harzva/GitReleaseMarket/releases/download/v0.3.3/gitmarket-macos-x86_64.tar.gz",
+        "size": 4139698,
+        "downloadCount": 0,
+        "kind": "Archive",
+        "functionCategory": "Desktop Apps",
+        "releaseName": "v0.3.3",
+        "tagName": "v0.3.3",
+        "releaseUrl": "https://github.com/Harzva/GitReleaseMarket/releases/tag/v0.3.3",
+        "publishedAt": "2026-05-17T13:49:12Z",
+        "isFork": false
+      },
+      {
+        "repo": "Harzva/GitReleaseMarket",
+        "repoName": "GitReleaseMarket",
+        "repoUrl": "https://github.com/Harzva/GitReleaseMarket",
+        "description": "GitHub/Gitee APK discovery and release download tool",
+        "language": "Rust",
+        "assetName": "gitmarket-windows-x86_64.zip",
+        "assetUrl": "https://github.com/Harzva/GitReleaseMarket/releases/download/v0.3.3/gitmarket-windows-x86_64.zip",
+        "size": 3780562,
+        "downloadCount": 0,
+        "kind": "Archive",
+        "functionCategory": "Desktop Apps",
+        "releaseName": "v0.3.3",
+        "tagName": "v0.3.3",
+        "releaseUrl": "https://github.com/Harzva/GitReleaseMarket/releases/tag/v0.3.3",
+        "publishedAt": "2026-05-17T13:49:12Z",
+        "isFork": false
+      },
+      {
         "repo": "Harzva/RepoAtlas",
         "repoName": "RepoAtlas",
         "repoUrl": "https://github.com/Harzva/RepoAtlas",
@@ -3050,7 +3129,7 @@
         "assetName": "RepoAtlas-v0.6.5-macos-ARM64.tar.gz",
         "assetUrl": "https://github.com/Harzva/RepoAtlas/releases/download/v0.6.5/RepoAtlas-v0.6.5-macos-ARM64.tar.gz",
         "size": 775693,
-        "downloadCount": 0,
+        "downloadCount": 1,
         "kind": "Archive",
         "functionCategory": "Desktop Apps",
         "releaseName": "v0.6.5",
@@ -3068,49 +3147,13 @@
         "assetName": "RepoAtlas-v0.6.5-windows-x64.exe",
         "assetUrl": "https://github.com/Harzva/RepoAtlas/releases/download/v0.6.5/RepoAtlas-v0.6.5-windows-x64.exe",
         "size": 1945088,
-        "downloadCount": 0,
+        "downloadCount": 1,
         "kind": "Windows",
         "functionCategory": "Desktop Apps",
         "releaseName": "v0.6.5",
         "tagName": "v0.6.5",
         "releaseUrl": "https://github.com/Harzva/RepoAtlas/releases/tag/v0.6.5",
         "publishedAt": "2026-05-16T10:01:25Z",
-        "isFork": false
-      },
-      {
-        "repo": "Harzva/GitReleaseMarket",
-        "repoName": "GitReleaseMarket",
-        "repoUrl": "https://github.com/Harzva/GitReleaseMarket",
-        "description": "GitHub/Gitee APK discovery and release download tool",
-        "language": "Rust",
-        "assetName": "gitmarket-macos-aarch64.tar.gz",
-        "assetUrl": "https://github.com/Harzva/GitReleaseMarket/releases/download/v0.2.0/gitmarket-macos-aarch64.tar.gz",
-        "size": 3993600,
-        "downloadCount": 0,
-        "kind": "Archive",
-        "functionCategory": "Desktop Apps",
-        "releaseName": "v0.2.0",
-        "tagName": "v0.2.0",
-        "releaseUrl": "https://github.com/Harzva/GitReleaseMarket/releases/tag/v0.2.0",
-        "publishedAt": "2026-05-15T08:36:05Z",
-        "isFork": false
-      },
-      {
-        "repo": "Harzva/GitReleaseMarket",
-        "repoName": "GitReleaseMarket",
-        "repoUrl": "https://github.com/Harzva/GitReleaseMarket",
-        "description": "GitHub/Gitee APK discovery and release download tool",
-        "language": "Rust",
-        "assetName": "gitmarket-windows-x86_64.zip",
-        "assetUrl": "https://github.com/Harzva/GitReleaseMarket/releases/download/v0.2.0/gitmarket-windows-x86_64.zip",
-        "size": 3754994,
-        "downloadCount": 1,
-        "kind": "Archive",
-        "functionCategory": "Desktop Apps",
-        "releaseName": "v0.2.0",
-        "tagName": "v0.2.0",
-        "releaseUrl": "https://github.com/Harzva/GitReleaseMarket/releases/tag/v0.2.0",
-        "publishedAt": "2026-05-15T08:36:05Z",
         "isFork": false
       }
     ],
@@ -3122,15 +3165,15 @@
         "description": "GitHub/Gitee APK discovery and release download tool",
         "language": "Rust",
         "assetName": "gitmarket-linux-x86_64.tar.gz",
-        "assetUrl": "https://github.com/Harzva/GitReleaseMarket/releases/download/v0.2.0/gitmarket-linux-x86_64.tar.gz",
-        "size": 5522712,
+        "assetUrl": "https://github.com/Harzva/GitReleaseMarket/releases/download/v0.3.3/gitmarket-linux-x86_64.tar.gz",
+        "size": 5547114,
         "downloadCount": 0,
         "kind": "Archive",
         "functionCategory": "CLI and Infrastructure",
-        "releaseName": "v0.2.0",
-        "tagName": "v0.2.0",
-        "releaseUrl": "https://github.com/Harzva/GitReleaseMarket/releases/tag/v0.2.0",
-        "publishedAt": "2026-05-15T08:36:05Z",
+        "releaseName": "v0.3.3",
+        "tagName": "v0.3.3",
+        "releaseUrl": "https://github.com/Harzva/GitReleaseMarket/releases/tag/v0.3.3",
+        "publishedAt": "2026-05-17T13:49:12Z",
         "isFork": false
       }
     ],
@@ -3408,8 +3451,8 @@
       "primaryLanguage": {
         "name": "Rust"
       },
-      "pushedAt": "2026-05-15T08:29:31Z",
-      "updatedAt": "2026-05-15T08:29:33Z",
+      "pushedAt": "2026-05-17T13:43:38Z",
+      "updatedAt": "2026-05-17T13:43:40Z",
       "createdAt": "2026-05-12T07:58:44Z",
       "defaultBranchRef": {
         "name": "main"
@@ -3430,46 +3473,53 @@
         "httpsEnforced": true
       },
       "latestRelease": {
-        "name": "v0.2.0",
-        "tagName": "v0.2.0",
-        "url": "https://github.com/Harzva/GitReleaseMarket/releases/tag/v0.2.0",
-        "publishedAt": "2026-05-15T08:36:05Z",
+        "name": "v0.3.3",
+        "tagName": "v0.3.3",
+        "url": "https://github.com/Harzva/GitReleaseMarket/releases/tag/v0.3.3",
+        "publishedAt": "2026-05-17T13:49:12Z",
         "prerelease": false,
         "draft": false,
         "assets": [
           {
             "name": "gitmarket-android-experimental.apk",
-            "url": "https://github.com/Harzva/GitReleaseMarket/releases/download/v0.2.0/gitmarket-android-experimental.apk",
-            "size": 4265199,
+            "url": "https://github.com/Harzva/GitReleaseMarket/releases/download/v0.3.3/gitmarket-android-experimental.apk",
+            "size": 4293871,
             "downloadCount": 1,
             "contentType": "application/vnd.android.package-archive"
           },
           {
             "name": "gitmarket-ios-simulator.zip",
-            "url": "https://github.com/Harzva/GitReleaseMarket/releases/download/v0.2.0/gitmarket-ios-simulator.zip",
-            "size": 210047,
+            "url": "https://github.com/Harzva/GitReleaseMarket/releases/download/v0.3.3/gitmarket-ios-simulator.zip",
+            "size": 211629,
             "downloadCount": 0,
             "contentType": "application/zip"
           },
           {
             "name": "gitmarket-linux-x86_64.tar.gz",
-            "url": "https://github.com/Harzva/GitReleaseMarket/releases/download/v0.2.0/gitmarket-linux-x86_64.tar.gz",
-            "size": 5522712,
+            "url": "https://github.com/Harzva/GitReleaseMarket/releases/download/v0.3.3/gitmarket-linux-x86_64.tar.gz",
+            "size": 5547114,
             "downloadCount": 0,
             "contentType": "application/gzip"
           },
           {
             "name": "gitmarket-macos-aarch64.tar.gz",
-            "url": "https://github.com/Harzva/GitReleaseMarket/releases/download/v0.2.0/gitmarket-macos-aarch64.tar.gz",
-            "size": 3993600,
+            "url": "https://github.com/Harzva/GitReleaseMarket/releases/download/v0.3.3/gitmarket-macos-aarch64.tar.gz",
+            "size": 4018931,
+            "downloadCount": 0,
+            "contentType": "application/gzip"
+          },
+          {
+            "name": "gitmarket-macos-x86_64.tar.gz",
+            "url": "https://github.com/Harzva/GitReleaseMarket/releases/download/v0.3.3/gitmarket-macos-x86_64.tar.gz",
+            "size": 4139698,
             "downloadCount": 0,
             "contentType": "application/gzip"
           },
           {
             "name": "gitmarket-windows-x86_64.zip",
-            "url": "https://github.com/Harzva/GitReleaseMarket/releases/download/v0.2.0/gitmarket-windows-x86_64.zip",
-            "size": 3754994,
-            "downloadCount": 1,
+            "url": "https://github.com/Harzva/GitReleaseMarket/releases/download/v0.3.3/gitmarket-windows-x86_64.zip",
+            "size": 3780562,
+            "downloadCount": 0,
             "contentType": "application/zip"
           }
         ]
@@ -3520,8 +3570,8 @@
       "primaryLanguage": {
         "name": "Python"
       },
-      "pushedAt": "2026-05-16T06:08:21Z",
-      "updatedAt": "2026-05-16T06:08:25Z",
+      "pushedAt": "2026-05-17T06:31:13Z",
+      "updatedAt": "2026-05-17T06:31:16Z",
       "createdAt": "2026-05-14T09:29:39Z",
       "defaultBranchRef": {
         "name": "main"
@@ -3554,8 +3604,8 @@
       "primaryLanguage": {
         "name": "Python"
       },
-      "pushedAt": "2026-05-16T06:07:57Z",
-      "updatedAt": "2026-05-16T06:08:01Z",
+      "pushedAt": "2026-05-17T06:30:36Z",
+      "updatedAt": "2026-05-17T06:30:40Z",
       "createdAt": "2026-05-14T09:27:13Z",
       "defaultBranchRef": {
         "name": "main"
@@ -3588,8 +3638,8 @@
       "primaryLanguage": {
         "name": "Python"
       },
-      "pushedAt": "2026-05-16T06:09:11Z",
-      "updatedAt": "2026-05-16T06:09:14Z",
+      "pushedAt": "2026-05-17T06:31:47Z",
+      "updatedAt": "2026-05-17T06:31:51Z",
       "createdAt": "2026-05-14T09:29:34Z",
       "defaultBranchRef": {
         "name": "main"
@@ -3622,8 +3672,8 @@
       "primaryLanguage": {
         "name": "Python"
       },
-      "pushedAt": "2026-05-16T06:07:56Z",
-      "updatedAt": "2026-05-16T06:08:00Z",
+      "pushedAt": "2026-05-17T06:30:39Z",
+      "updatedAt": "2026-05-17T06:30:42Z",
       "createdAt": "2026-05-14T09:29:45Z",
       "defaultBranchRef": {
         "name": "main"
@@ -3690,14 +3740,14 @@
       "primaryLanguage": {
         "name": "TypeScript"
       },
-      "pushedAt": "2026-05-17T04:36:51Z",
-      "updatedAt": "2026-05-17T04:36:54Z",
+      "pushedAt": "2026-05-18T04:49:03Z",
+      "updatedAt": "2026-05-18T04:49:06Z",
       "createdAt": "2026-04-01T03:55:26Z",
       "defaultBranchRef": {
         "name": "main"
       },
       "homepageUrl": "",
-      "stargazerCount": 179,
+      "stargazerCount": 172,
       "forkCount": 38,
       "repositoryTopics": [
         "agent-loop",
@@ -3743,7 +3793,7 @@
       "primaryLanguage": {
         "name": "Dart"
       },
-      "pushedAt": "2026-05-17T06:26:48Z",
+      "pushedAt": "2026-05-18T05:54:31Z",
       "updatedAt": "2026-05-15T06:51:31Z",
       "createdAt": "2026-05-12T08:19:17Z",
       "defaultBranchRef": {
@@ -3840,14 +3890,14 @@
             "name": "RepoAtlas-v0.6.5-macos-ARM64.tar.gz",
             "url": "https://github.com/Harzva/RepoAtlas/releases/download/v0.6.5/RepoAtlas-v0.6.5-macos-ARM64.tar.gz",
             "size": 775693,
-            "downloadCount": 0,
+            "downloadCount": 1,
             "contentType": "application/gzip"
           },
           {
             "name": "RepoAtlas-v0.6.5-windows-x64.exe",
             "url": "https://github.com/Harzva/RepoAtlas/releases/download/v0.6.5/RepoAtlas-v0.6.5-windows-x64.exe",
             "size": 1945088,
-            "downloadCount": 0,
+            "downloadCount": 1,
             "contentType": "application/x-msdos-program"
           }
         ]
@@ -3900,15 +3950,15 @@
       "primaryLanguage": {
         "name": "JavaScript"
       },
-      "pushedAt": "2026-04-17T01:26:44Z",
-      "updatedAt": "2026-04-22T17:25:12Z",
+      "pushedAt": "2026-05-17T14:34:20Z",
+      "updatedAt": "2026-05-17T22:54:05Z",
       "createdAt": "2026-04-13T14:39:15Z",
       "defaultBranchRef": {
         "name": "main"
       },
       "homepageUrl": "",
-      "stargazerCount": 102,
-      "forkCount": 24,
+      "stargazerCount": 96,
+      "forkCount": 23,
       "repositoryTopics": [],
       "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/codex-managed-agent",
       "pages": {
@@ -3987,8 +4037,8 @@
       "primaryLanguage": {
         "name": "Rust"
       },
-      "pushedAt": "2026-05-15T08:29:31Z",
-      "updatedAt": "2026-05-15T08:29:33Z",
+      "pushedAt": "2026-05-17T13:43:38Z",
+      "updatedAt": "2026-05-17T13:43:40Z",
       "createdAt": "2026-05-12T07:58:44Z",
       "defaultBranchRef": {
         "name": "main"
@@ -4009,46 +4059,53 @@
         "httpsEnforced": true
       },
       "latestRelease": {
-        "name": "v0.2.0",
-        "tagName": "v0.2.0",
-        "url": "https://github.com/Harzva/GitReleaseMarket/releases/tag/v0.2.0",
-        "publishedAt": "2026-05-15T08:36:05Z",
+        "name": "v0.3.3",
+        "tagName": "v0.3.3",
+        "url": "https://github.com/Harzva/GitReleaseMarket/releases/tag/v0.3.3",
+        "publishedAt": "2026-05-17T13:49:12Z",
         "prerelease": false,
         "draft": false,
         "assets": [
           {
             "name": "gitmarket-android-experimental.apk",
-            "url": "https://github.com/Harzva/GitReleaseMarket/releases/download/v0.2.0/gitmarket-android-experimental.apk",
-            "size": 4265199,
+            "url": "https://github.com/Harzva/GitReleaseMarket/releases/download/v0.3.3/gitmarket-android-experimental.apk",
+            "size": 4293871,
             "downloadCount": 1,
             "contentType": "application/vnd.android.package-archive"
           },
           {
             "name": "gitmarket-ios-simulator.zip",
-            "url": "https://github.com/Harzva/GitReleaseMarket/releases/download/v0.2.0/gitmarket-ios-simulator.zip",
-            "size": 210047,
+            "url": "https://github.com/Harzva/GitReleaseMarket/releases/download/v0.3.3/gitmarket-ios-simulator.zip",
+            "size": 211629,
             "downloadCount": 0,
             "contentType": "application/zip"
           },
           {
             "name": "gitmarket-linux-x86_64.tar.gz",
-            "url": "https://github.com/Harzva/GitReleaseMarket/releases/download/v0.2.0/gitmarket-linux-x86_64.tar.gz",
-            "size": 5522712,
+            "url": "https://github.com/Harzva/GitReleaseMarket/releases/download/v0.3.3/gitmarket-linux-x86_64.tar.gz",
+            "size": 5547114,
             "downloadCount": 0,
             "contentType": "application/gzip"
           },
           {
             "name": "gitmarket-macos-aarch64.tar.gz",
-            "url": "https://github.com/Harzva/GitReleaseMarket/releases/download/v0.2.0/gitmarket-macos-aarch64.tar.gz",
-            "size": 3993600,
+            "url": "https://github.com/Harzva/GitReleaseMarket/releases/download/v0.3.3/gitmarket-macos-aarch64.tar.gz",
+            "size": 4018931,
+            "downloadCount": 0,
+            "contentType": "application/gzip"
+          },
+          {
+            "name": "gitmarket-macos-x86_64.tar.gz",
+            "url": "https://github.com/Harzva/GitReleaseMarket/releases/download/v0.3.3/gitmarket-macos-x86_64.tar.gz",
+            "size": 4139698,
             "downloadCount": 0,
             "contentType": "application/gzip"
           },
           {
             "name": "gitmarket-windows-x86_64.zip",
-            "url": "https://github.com/Harzva/GitReleaseMarket/releases/download/v0.2.0/gitmarket-windows-x86_64.zip",
-            "size": 3754994,
-            "downloadCount": 1,
+            "url": "https://github.com/Harzva/GitReleaseMarket/releases/download/v0.3.3/gitmarket-windows-x86_64.zip",
+            "size": 3780562,
+            "downloadCount": 0,
             "contentType": "application/zip"
           }
         ]
@@ -4065,14 +4122,14 @@
       "primaryLanguage": {
         "name": "TypeScript"
       },
-      "pushedAt": "2026-05-17T04:36:51Z",
-      "updatedAt": "2026-05-17T04:36:54Z",
+      "pushedAt": "2026-05-18T04:49:03Z",
+      "updatedAt": "2026-05-18T04:49:06Z",
       "createdAt": "2026-04-01T03:55:26Z",
       "defaultBranchRef": {
         "name": "main"
       },
       "homepageUrl": "",
-      "stargazerCount": 179,
+      "stargazerCount": 172,
       "forkCount": 38,
       "repositoryTopics": [
         "agent-loop",
@@ -4118,7 +4175,7 @@
       "primaryLanguage": {
         "name": "Dart"
       },
-      "pushedAt": "2026-05-17T06:26:48Z",
+      "pushedAt": "2026-05-18T05:54:31Z",
       "updatedAt": "2026-05-15T06:51:31Z",
       "createdAt": "2026-05-12T08:19:17Z",
       "defaultBranchRef": {
@@ -4215,14 +4272,14 @@
             "name": "RepoAtlas-v0.6.5-macos-ARM64.tar.gz",
             "url": "https://github.com/Harzva/RepoAtlas/releases/download/v0.6.5/RepoAtlas-v0.6.5-macos-ARM64.tar.gz",
             "size": 775693,
-            "downloadCount": 0,
+            "downloadCount": 1,
             "contentType": "application/gzip"
           },
           {
             "name": "RepoAtlas-v0.6.5-windows-x64.exe",
             "url": "https://github.com/Harzva/RepoAtlas/releases/download/v0.6.5/RepoAtlas-v0.6.5-windows-x64.exe",
             "size": 1945088,
-            "downloadCount": 0,
+            "downloadCount": 1,
             "contentType": "application/x-msdos-program"
           }
         ]
@@ -4620,8 +4677,8 @@
       "primaryLanguage": {
         "name": "Python"
       },
-      "pushedAt": "2026-05-16T06:07:56Z",
-      "updatedAt": "2026-05-16T06:08:00Z",
+      "pushedAt": "2026-05-17T06:30:39Z",
+      "updatedAt": "2026-05-17T06:30:42Z",
       "createdAt": "2026-05-14T09:29:45Z",
       "defaultBranchRef": {
         "name": "main"
