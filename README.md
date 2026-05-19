@@ -14,13 +14,13 @@ A registry of Harzva Codex skills, workflow skills, and agent operating recipes.
 
 | Skill Repository | Language | Updated | Description |
 |---|---:|---:|---|
-| [harzva-skills-hub](https://github.com/Harzva/harzva-skills-hub) | Python | 2026-05-17 | Auto-updating GitHub Pages registry of Harzva Codex skills, workflow skills, and agent recipes. |
+| [gh-repo-cartographer](https://github.com/Harzva/gh-repo-cartographer) | Python | 2026-05-18 | Codex skill and CLI for mapping GitHub repositories to local checkouts and sync status. |
+| [harzva-skills-hub](https://github.com/Harzva/harzva-skills-hub) | Python | 2026-05-18 | Auto-updating GitHub Pages registry of Harzva Codex skills, workflow skills, and agent recipes. |
 | [CampusAgent-QA](https://github.com/Harzva/CampusAgent-QA) | Java | 2026-05-16 | Agentic campus QA system with RAG retrieval, LLM Wiki memory, and GBrain skills |
 | [Project2AgentWorkOS](https://github.com/Harzva/Project2AgentWorkOS) | HTML | 2026-05-16 | Transfer all projects, Codex threads, failure reviews, and half-finished ideas into AgentWorkOS: Agents, Memory, Skills, MCP, Workflow, and Rules. |
 | [github-repo-scout](https://github.com/Harzva/github-repo-scout) | PowerShell | 2026-05-14 | Codex skill for searching GitHub repos and archiving useful repo cards |
 | [build-your-meta-repo-skill](https://github.com/Harzva/build-your-meta-repo-skill) | Python | 2026-05-14 | Codex skill for building auto-updating GitHub MetaRepos: artifact atlas, release hub, Pages hub, and skills hub. |
 | [design-md-flow](https://github.com/Harzva/design-md-flow) | Python | 2026-05-14 | Portable DESIGN.md workflow skill for agent-driven frontend design |
-| [gh-repo-cartographer](https://github.com/Harzva/gh-repo-cartographer) | Python | 2026-05-14 | Codex skill and CLI for mapping GitHub repositories to local checkouts and sync status. |
 | [android-release-emulator-qa-skill](https://github.com/Harzva/android-release-emulator-qa-skill) | Python | 2026-05-14 | Codex skill for Android release APK QA with emulator, adb, screenshots, UI XML, logcat, SHA256, and GitHub Release artifact checks. |
 | [github-management-suite](https://github.com/Harzva/github-management-suite) | Python | 2026-05-14 | Cross-platform Codex skill for full GitHub repository lifecycle management |
 | [ReadmeShowcaseScreenshot-Skill](https://github.com/Harzva/ReadmeShowcaseScreenshot-Skill) | JavaScript | 2026-05-14 | Codex skill for README-ready screenshots, GIFs, videos, hero images, and preview galleries. |
@@ -51,5 +51,5 @@ This MetaRepo refreshes itself with GitHub Actions.
 - Data source: GitHub REST API.
 - Privacy default: public repositories only.
 - Private mode: set `META_INCLUDE_PRIVATE=true` and provide `META_GITHUB_TOKEN` only when the meta repository is private.
-- Generated at: `2026-05-18T07:06:25.536957+00:00`.
+- Generated at: `2026-05-19T06:56:57.153431+00:00`.
 - Private repositories omitted from this public output: `13`.
