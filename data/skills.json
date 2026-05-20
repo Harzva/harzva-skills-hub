@@ -1,5 +1,46 @@
 [
   {
+    "name": "AgentWorkOS",
+    "nameWithOwner": "Harzva/AgentWorkOS",
+    "url": "https://github.com/Harzva/AgentWorkOS",
+    "description": "Package-managed operating layer for AI agent workspaces: scan, lock, sync, doctor, and install agent context.",
+    "isPrivate": false,
+    "isArchived": false,
+    "isFork": false,
+    "primaryLanguage": {
+      "name": "Python"
+    },
+    "pushedAt": "2026-05-20T05:40:27Z",
+    "updatedAt": "2026-05-20T05:40:30Z",
+    "createdAt": "2026-05-20T02:45:51Z",
+    "defaultBranchRef": {
+      "name": "main"
+    },
+    "homepageUrl": "",
+    "stargazerCount": 0,
+    "forkCount": 0,
+    "repositoryTopics": [
+      "agents",
+      "agentworkos",
+      "ai-tools",
+      "codex",
+      "package-manager",
+      "skills"
+    ],
+    "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/AgentWorkOS",
+    "pages": {
+      "enabled": true,
+      "url": "https://harzva.github.io/AgentWorkOS/",
+      "status": null,
+      "source": {
+        "branch": "main",
+        "path": "/"
+      },
+      "httpsEnforced": true
+    },
+    "latestRelease": null
+  },
+  {
     "name": "android-release-emulator-qa-skill",
     "nameWithOwner": "Harzva/android-release-emulator-qa-skill",
     "url": "https://github.com/Harzva/android-release-emulator-qa-skill",
@@ -73,7 +114,7 @@
     "primaryLanguage": {
       "name": "Java"
     },
-    "pushedAt": "2026-05-16T08:30:38Z",
+    "pushedAt": "2026-05-19T13:13:51Z",
     "updatedAt": "2026-05-16T08:28:57Z",
     "createdAt": "2026-05-11T08:22:16Z",
     "defaultBranchRef": {
@@ -389,8 +430,8 @@
     "primaryLanguage": {
       "name": "Python"
     },
-    "pushedAt": "2026-05-18T07:06:26Z",
-    "updatedAt": "2026-05-18T07:06:30Z",
+    "pushedAt": "2026-05-19T06:56:57Z",
+    "updatedAt": "2026-05-19T06:57:01Z",
     "createdAt": "2026-05-14T09:29:45Z",
     "defaultBranchRef": {
       "name": "main"

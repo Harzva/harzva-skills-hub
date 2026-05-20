@@ -140,6 +140,47 @@
     "latestRelease": null
   },
   {
+    "name": "AgentWorkOS",
+    "nameWithOwner": "Harzva/AgentWorkOS",
+    "url": "https://github.com/Harzva/AgentWorkOS",
+    "description": "Package-managed operating layer for AI agent workspaces: scan, lock, sync, doctor, and install agent context.",
+    "isPrivate": false,
+    "isArchived": false,
+    "isFork": false,
+    "primaryLanguage": {
+      "name": "Python"
+    },
+    "pushedAt": "2026-05-20T05:40:27Z",
+    "updatedAt": "2026-05-20T05:40:30Z",
+    "createdAt": "2026-05-20T02:45:51Z",
+    "defaultBranchRef": {
+      "name": "main"
+    },
+    "homepageUrl": "",
+    "stargazerCount": 0,
+    "forkCount": 0,
+    "repositoryTopics": [
+      "agents",
+      "agentworkos",
+      "ai-tools",
+      "codex",
+      "package-manager",
+      "skills"
+    ],
+    "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/AgentWorkOS",
+    "pages": {
+      "enabled": true,
+      "url": "https://harzva.github.io/AgentWorkOS/",
+      "status": null,
+      "source": {
+        "branch": "main",
+        "path": "/"
+      },
+      "httpsEnforced": true
+    },
+    "latestRelease": null
+  },
+  {
     "name": "android-release-emulator-qa-skill",
     "nameWithOwner": "Harzva/android-release-emulator-qa-skill",
     "url": "https://github.com/Harzva/android-release-emulator-qa-skill",
@@ -238,7 +279,7 @@
     "primaryLanguage": {
       "name": "Java"
     },
-    "pushedAt": "2026-05-16T08:30:38Z",
+    "pushedAt": "2026-05-19T13:13:51Z",
     "updatedAt": "2026-05-16T08:28:57Z",
     "createdAt": "2026-05-11T08:22:16Z",
     "defaultBranchRef": {
@@ -278,7 +319,7 @@
     "primaryLanguage": {
       "name": "Java"
     },
-    "pushedAt": "2026-05-16T08:30:37Z",
+    "pushedAt": "2026-05-20T03:58:08Z",
     "updatedAt": "2026-05-16T08:28:53Z",
     "createdAt": "2026-05-09T10:52:36Z",
     "defaultBranchRef": {
@@ -482,14 +523,14 @@
     "primaryLanguage": {
       "name": "JavaScript"
     },
-    "pushedAt": "2026-05-19T02:39:24Z",
-    "updatedAt": "2026-05-19T02:39:30Z",
+    "pushedAt": "2026-05-20T03:13:51Z",
+    "updatedAt": "2026-05-19T17:30:06Z",
     "createdAt": "2026-04-13T14:39:15Z",
     "defaultBranchRef": {
       "name": "main"
     },
     "homepageUrl": "",
-    "stargazerCount": 95,
+    "stargazerCount": 93,
     "forkCount": 23,
     "repositoryTopics": [],
     "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/codex-managed-agent",
@@ -1061,8 +1102,8 @@
     "primaryLanguage": {
       "name": "Python"
     },
-    "pushedAt": "2026-05-18T07:07:07Z",
-    "updatedAt": "2026-05-18T07:07:11Z",
+    "pushedAt": "2026-05-19T06:57:36Z",
+    "updatedAt": "2026-05-19T06:57:40Z",
     "createdAt": "2026-05-14T09:29:39Z",
     "defaultBranchRef": {
       "name": "main"
@@ -1095,8 +1136,8 @@
     "primaryLanguage": {
       "name": "Python"
     },
-    "pushedAt": "2026-05-18T07:06:22Z",
-    "updatedAt": "2026-05-18T07:06:26Z",
+    "pushedAt": "2026-05-19T06:57:04Z",
+    "updatedAt": "2026-05-19T06:57:08Z",
     "createdAt": "2026-05-14T09:27:13Z",
     "defaultBranchRef": {
       "name": "main"
@@ -1129,8 +1170,8 @@
     "primaryLanguage": {
       "name": "Python"
     },
-    "pushedAt": "2026-05-18T07:08:07Z",
-    "updatedAt": "2026-05-18T07:08:12Z",
+    "pushedAt": "2026-05-19T06:58:47Z",
+    "updatedAt": "2026-05-19T06:58:51Z",
     "createdAt": "2026-05-14T09:29:34Z",
     "defaultBranchRef": {
       "name": "main"
@@ -1163,8 +1204,8 @@
     "primaryLanguage": {
       "name": "Python"
     },
-    "pushedAt": "2026-05-18T07:06:26Z",
-    "updatedAt": "2026-05-18T07:06:30Z",
+    "pushedAt": "2026-05-19T06:56:57Z",
+    "updatedAt": "2026-05-19T06:57:01Z",
     "createdAt": "2026-05-14T09:29:45Z",
     "defaultBranchRef": {
       "name": "main"
@@ -1231,7 +1272,7 @@
     "primaryLanguage": {
       "name": "Java"
     },
-    "pushedAt": "2026-05-16T08:30:50Z",
+    "pushedAt": "2026-05-19T21:56:03Z",
     "updatedAt": "2026-05-16T08:29:03Z",
     "createdAt": "2026-05-11T08:22:16Z",
     "defaultBranchRef": {
@@ -1289,15 +1330,15 @@
     "primaryLanguage": {
       "name": "TypeScript"
     },
-    "pushedAt": "2026-05-19T04:39:24Z",
-    "updatedAt": "2026-05-19T04:39:28Z",
+    "pushedAt": "2026-05-20T04:43:24Z",
+    "updatedAt": "2026-05-20T04:43:28Z",
     "createdAt": "2026-04-01T03:55:26Z",
     "defaultBranchRef": {
       "name": "main"
     },
     "homepageUrl": "",
-    "stargazerCount": 171,
-    "forkCount": 38,
+    "stargazerCount": 169,
+    "forkCount": 37,
     "repositoryTopics": [
       "agent-loop",
       "ai-coding",
@@ -1351,6 +1392,43 @@
     "forkCount": 0,
     "repositoryTopics": [],
     "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/loloop-skill",
+    "pages": {
+      "enabled": false
+    },
+    "latestRelease": null
+  },
+  {
+    "name": "make_windows_silky_Patch",
+    "nameWithOwner": "Harzva/make_windows_silky_Patch",
+    "url": "https://github.com/Harzva/make_windows_silky_Patch",
+    "description": "Windows AI workbench token-saver patch kit: audit, evidence manifests, preflight gates, and AgentWorkOS assets.",
+    "isPrivate": false,
+    "isArchived": false,
+    "isFork": false,
+    "primaryLanguage": {
+      "name": "PowerShell"
+    },
+    "pushedAt": "2026-05-20T05:51:33Z",
+    "updatedAt": "2026-05-20T05:52:11Z",
+    "createdAt": "2026-05-19T16:51:24Z",
+    "defaultBranchRef": {
+      "name": "main"
+    },
+    "homepageUrl": "",
+    "stargazerCount": 0,
+    "forkCount": 0,
+    "repositoryTopics": [
+      "agentworkos",
+      "codex",
+      "developer-tools",
+      "evidence-manifest",
+      "powershell",
+      "release-automation",
+      "token-saver",
+      "windows",
+      "windows-ai"
+    ],
+    "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/make_windows_silky_Patch",
     "pages": {
       "enabled": false
     },
@@ -1442,14 +1520,14 @@
     "primaryLanguage": {
       "name": "Dart"
     },
-    "pushedAt": "2026-05-19T06:53:28Z",
-    "updatedAt": "2026-05-18T18:47:23Z",
+    "pushedAt": "2026-05-19T11:21:33Z",
+    "updatedAt": "2026-05-20T06:37:43Z",
     "createdAt": "2026-05-12T08:19:17Z",
     "defaultBranchRef": {
-      "name": "main"
+      "name": "v011-streaming-fix"
     },
     "homepageUrl": "",
-    "stargazerCount": 0,
+    "stargazerCount": 12,
     "forkCount": 0,
     "repositoryTopics": [],
     "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/mobilecode",
