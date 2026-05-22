@@ -1,6 +1,6 @@
 {
   "summary": {
-    "generatedAt": "2026-05-21T07:01:50.818032+00:00",
+    "generatedAt": "2026-05-22T06:57:34.202230+00:00",
     "owner": "Harzva",
     "mode": "skills",
     "publicRepositories": 93,
@@ -338,15 +338,15 @@
         "primaryLanguage": {
           "name": "Dart"
         },
-        "pushedAt": "2026-05-21T06:42:44Z",
-        "updatedAt": "2026-05-21T06:42:46Z",
+        "pushedAt": "2026-05-22T05:35:44Z",
+        "updatedAt": "2026-05-22T06:02:51Z",
         "createdAt": "2026-05-12T08:19:17Z",
         "defaultBranchRef": {
           "name": "last"
         },
         "homepageUrl": "",
-        "stargazerCount": 44,
-        "forkCount": 1,
+        "stargazerCount": 90,
+        "forkCount": 6,
         "repositoryTopics": [],
         "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/mobilecode",
         "pages": {
@@ -392,6 +392,93 @@
         }
       },
       {
+        "name": "Agent-Job-Interview",
+        "nameWithOwner": "Harzva/Agent-Job-Interview",
+        "url": "https://github.com/Harzva/Agent-Job-Interview",
+        "description": "Agent job interview roadmap and practice training suite.",
+        "isPrivate": false,
+        "isArchived": false,
+        "isFork": false,
+        "primaryLanguage": {
+          "name": "TypeScript"
+        },
+        "pushedAt": "2026-05-22T05:13:26Z",
+        "updatedAt": "2026-05-22T05:13:31Z",
+        "createdAt": "2026-05-12T09:49:47Z",
+        "defaultBranchRef": {
+          "name": "main"
+        },
+        "homepageUrl": "https://harzva.github.io/Agent-Job-Interview/",
+        "stargazerCount": 0,
+        "forkCount": 0,
+        "repositoryTopics": [],
+        "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/Agent-Job-Interview",
+        "pages": {
+          "enabled": true,
+          "url": "https://harzva.github.io/Agent-Job-Interview/",
+          "status": "built",
+          "source": {
+            "branch": "main",
+            "path": "/docs"
+          },
+          "httpsEnforced": true
+        },
+        "latestRelease": null
+      },
+      {
+        "name": "learn-likecc",
+        "nameWithOwner": "Harzva/learn-likecc",
+        "url": "https://github.com/Harzva/learn-likecc",
+        "description": "Claude Code 源码逆向恢复项目 | Source Map 逆向 · 架构分析 · 可运行版本 | 1900+ 文件 · 51万行代码 · 12章节课程",
+        "isPrivate": false,
+        "isArchived": false,
+        "isFork": false,
+        "primaryLanguage": {
+          "name": "TypeScript"
+        },
+        "pushedAt": "2026-05-22T04:42:22Z",
+        "updatedAt": "2026-05-22T04:42:26Z",
+        "createdAt": "2026-04-01T03:55:26Z",
+        "defaultBranchRef": {
+          "name": "main"
+        },
+        "homepageUrl": "",
+        "stargazerCount": 166,
+        "forkCount": 37,
+        "repositoryTopics": [
+          "agent-loop",
+          "ai-coding",
+          "anthropic",
+          "bun",
+          "claude-code",
+          "cli-tool",
+          "mcp-protocol",
+          "reverse-engineering",
+          "source-map",
+          "typescript"
+        ],
+        "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/learn-likecc",
+        "pages": {
+          "enabled": true,
+          "url": "https://harzva.github.io/learn-likecc/",
+          "status": "built",
+          "source": {
+            "branch": "main",
+            "path": "/docs"
+          },
+          "httpsEnforced": true
+        },
+        "latestRelease": {
+          "name": "v1.0.2-likecode",
+          "tagName": "v1.0.2-likecode",
+          "url": "https://github.com/Harzva/learn-likecc/releases/tag/v1.0.2-likecode",
+          "publishedAt": "2026-04-07T12:27:48Z",
+          "prerelease": false,
+          "draft": false,
+          "assets": []
+        }
+      },
+      {
         "name": "ChinaAI-Roadmaps",
         "nameWithOwner": "Harzva/ChinaAI-Roadmaps",
         "url": "https://github.com/Harzva/ChinaAI-Roadmaps",
@@ -402,8 +489,8 @@
         "primaryLanguage": {
           "name": "TypeScript"
         },
-        "pushedAt": "2026-05-21T04:57:17Z",
-        "updatedAt": "2026-05-21T04:57:21Z",
+        "pushedAt": "2026-05-21T12:28:08Z",
+        "updatedAt": "2026-05-21T12:28:12Z",
         "createdAt": "2026-05-11T08:19:22Z",
         "defaultBranchRef": {
           "name": "main"
@@ -440,57 +527,106 @@
         "latestRelease": null
       },
       {
-        "name": "learn-likecc",
-        "nameWithOwner": "Harzva/learn-likecc",
-        "url": "https://github.com/Harzva/learn-likecc",
-        "description": "Claude Code 源码逆向恢复项目 | Source Map 逆向 · 架构分析 · 可运行版本 | 1900+ 文件 · 51万行代码 · 12章节课程",
+        "name": "harzva-release-hub",
+        "nameWithOwner": "Harzva/harzva-release-hub",
+        "url": "https://github.com/Harzva/harzva-release-hub",
+        "description": "Auto-updating release hub for Harzva repositories with direct download assets and GitHub Pages.",
         "isPrivate": false,
         "isArchived": false,
         "isFork": false,
         "primaryLanguage": {
-          "name": "TypeScript"
+          "name": "Python"
         },
-        "pushedAt": "2026-05-21T04:51:15Z",
-        "updatedAt": "2026-05-21T04:51:19Z",
-        "createdAt": "2026-04-01T03:55:26Z",
+        "pushedAt": "2026-05-21T07:03:27Z",
+        "updatedAt": "2026-05-21T07:03:32Z",
+        "createdAt": "2026-05-14T09:29:34Z",
         "defaultBranchRef": {
           "name": "main"
         },
-        "homepageUrl": "",
-        "stargazerCount": 168,
-        "forkCount": 37,
-        "repositoryTopics": [
-          "agent-loop",
-          "ai-coding",
-          "anthropic",
-          "bun",
-          "claude-code",
-          "cli-tool",
-          "mcp-protocol",
-          "reverse-engineering",
-          "source-map",
-          "typescript"
-        ],
-        "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/learn-likecc",
+        "homepageUrl": "https://harzva.github.io/harzva-release-hub/",
+        "stargazerCount": 0,
+        "forkCount": 0,
+        "repositoryTopics": [],
+        "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/harzva-release-hub",
         "pages": {
           "enabled": true,
-          "url": "https://harzva.github.io/learn-likecc/",
-          "status": "built",
+          "url": "https://harzva.github.io/harzva-release-hub/",
+          "status": null,
           "source": {
             "branch": "main",
-            "path": "/docs"
+            "path": "/"
           },
           "httpsEnforced": true
         },
-        "latestRelease": {
-          "name": "v1.0.2-likecode",
-          "tagName": "v1.0.2-likecode",
-          "url": "https://github.com/Harzva/learn-likecc/releases/tag/v1.0.2-likecode",
-          "publishedAt": "2026-04-07T12:27:48Z",
-          "prerelease": false,
-          "draft": false,
-          "assets": []
-        }
+        "latestRelease": null
+      },
+      {
+        "name": "harzva-pages-hub",
+        "nameWithOwner": "Harzva/harzva-pages-hub",
+        "url": "https://github.com/Harzva/harzva-pages-hub",
+        "description": "Visual GitHub Pages hub for Harzva sites, demos, docs, and live project surfaces.",
+        "isPrivate": false,
+        "isArchived": false,
+        "isFork": false,
+        "primaryLanguage": {
+          "name": "Python"
+        },
+        "pushedAt": "2026-05-21T07:01:58Z",
+        "updatedAt": "2026-05-21T07:02:02Z",
+        "createdAt": "2026-05-14T09:29:39Z",
+        "defaultBranchRef": {
+          "name": "main"
+        },
+        "homepageUrl": "https://harzva.github.io/harzva-pages-hub/",
+        "stargazerCount": 0,
+        "forkCount": 0,
+        "repositoryTopics": [],
+        "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/harzva-pages-hub",
+        "pages": {
+          "enabled": true,
+          "url": "https://harzva.github.io/harzva-pages-hub/",
+          "status": null,
+          "source": {
+            "branch": "main",
+            "path": "/"
+          },
+          "httpsEnforced": true
+        },
+        "latestRelease": null
+      },
+      {
+        "name": "harzva-project-atlas",
+        "nameWithOwner": "Harzva/harzva-project-atlas",
+        "url": "https://github.com/Harzva/harzva-project-atlas",
+        "description": "Download-first MetaRepo atlas for Harzva APK, EXE, package, archive, and release asset links.",
+        "isPrivate": false,
+        "isArchived": false,
+        "isFork": false,
+        "primaryLanguage": {
+          "name": "Python"
+        },
+        "pushedAt": "2026-05-21T07:01:18Z",
+        "updatedAt": "2026-05-21T07:01:23Z",
+        "createdAt": "2026-05-14T09:27:13Z",
+        "defaultBranchRef": {
+          "name": "main"
+        },
+        "homepageUrl": "https://harzva.github.io/harzva-project-atlas/",
+        "stargazerCount": 0,
+        "forkCount": 0,
+        "repositoryTopics": [],
+        "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/harzva-project-atlas",
+        "pages": {
+          "enabled": true,
+          "url": "https://harzva.github.io/harzva-project-atlas/",
+          "status": null,
+          "source": {
+            "branch": "main",
+            "path": "/"
+          },
+          "httpsEnforced": true
+        },
+        "latestRelease": null
       },
       {
         "name": "GitReleaseMarket",
@@ -536,7 +672,7 @@
               "name": "gitmarket-android-experimental.apk",
               "url": "https://github.com/Harzva/GitReleaseMarket/releases/download/v0.3.5/gitmarket-android-experimental.apk",
               "size": 15680751,
-              "downloadCount": 1,
+              "downloadCount": 2,
               "contentType": "application/vnd.android.package-archive"
             },
             {
@@ -662,147 +798,11 @@
               "name": "RepoAtlas-v0.6.6-windows-x64.exe",
               "url": "https://github.com/Harzva/RepoAtlas/releases/download/v0.6.6/RepoAtlas-v0.6.6-windows-x64.exe",
               "size": 1945088,
-              "downloadCount": 0,
+              "downloadCount": 1,
               "contentType": "application/x-msdos-program"
             }
           ]
         }
-      },
-      {
-        "name": "harzva-release-hub",
-        "nameWithOwner": "Harzva/harzva-release-hub",
-        "url": "https://github.com/Harzva/harzva-release-hub",
-        "description": "Auto-updating release hub for Harzva repositories with direct download assets and GitHub Pages.",
-        "isPrivate": false,
-        "isArchived": false,
-        "isFork": false,
-        "primaryLanguage": {
-          "name": "Python"
-        },
-        "pushedAt": "2026-05-20T06:58:58Z",
-        "updatedAt": "2026-05-20T06:59:02Z",
-        "createdAt": "2026-05-14T09:29:34Z",
-        "defaultBranchRef": {
-          "name": "main"
-        },
-        "homepageUrl": "https://harzva.github.io/harzva-release-hub/",
-        "stargazerCount": 0,
-        "forkCount": 0,
-        "repositoryTopics": [],
-        "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/harzva-release-hub",
-        "pages": {
-          "enabled": true,
-          "url": "https://harzva.github.io/harzva-release-hub/",
-          "status": null,
-          "source": {
-            "branch": "main",
-            "path": "/"
-          },
-          "httpsEnforced": true
-        },
-        "latestRelease": null
-      },
-      {
-        "name": "harzva-pages-hub",
-        "nameWithOwner": "Harzva/harzva-pages-hub",
-        "url": "https://github.com/Harzva/harzva-pages-hub",
-        "description": "Visual GitHub Pages hub for Harzva sites, demos, docs, and live project surfaces.",
-        "isPrivate": false,
-        "isArchived": false,
-        "isFork": false,
-        "primaryLanguage": {
-          "name": "Python"
-        },
-        "pushedAt": "2026-05-20T06:58:04Z",
-        "updatedAt": "2026-05-20T06:58:09Z",
-        "createdAt": "2026-05-14T09:29:39Z",
-        "defaultBranchRef": {
-          "name": "main"
-        },
-        "homepageUrl": "https://harzva.github.io/harzva-pages-hub/",
-        "stargazerCount": 0,
-        "forkCount": 0,
-        "repositoryTopics": [],
-        "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/harzva-pages-hub",
-        "pages": {
-          "enabled": true,
-          "url": "https://harzva.github.io/harzva-pages-hub/",
-          "status": null,
-          "source": {
-            "branch": "main",
-            "path": "/"
-          },
-          "httpsEnforced": true
-        },
-        "latestRelease": null
-      },
-      {
-        "name": "harzva-project-atlas",
-        "nameWithOwner": "Harzva/harzva-project-atlas",
-        "url": "https://github.com/Harzva/harzva-project-atlas",
-        "description": "Download-first MetaRepo atlas for Harzva APK, EXE, package, archive, and release asset links.",
-        "isPrivate": false,
-        "isArchived": false,
-        "isFork": false,
-        "primaryLanguage": {
-          "name": "Python"
-        },
-        "pushedAt": "2026-05-20T06:57:35Z",
-        "updatedAt": "2026-05-20T06:57:39Z",
-        "createdAt": "2026-05-14T09:27:13Z",
-        "defaultBranchRef": {
-          "name": "main"
-        },
-        "homepageUrl": "https://harzva.github.io/harzva-project-atlas/",
-        "stargazerCount": 0,
-        "forkCount": 0,
-        "repositoryTopics": [],
-        "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/harzva-project-atlas",
-        "pages": {
-          "enabled": true,
-          "url": "https://harzva.github.io/harzva-project-atlas/",
-          "status": null,
-          "source": {
-            "branch": "main",
-            "path": "/"
-          },
-          "httpsEnforced": true
-        },
-        "latestRelease": null
-      },
-      {
-        "name": "Agent-Job-Interview",
-        "nameWithOwner": "Harzva/Agent-Job-Interview",
-        "url": "https://github.com/Harzva/Agent-Job-Interview",
-        "description": "Agent job interview roadmap and practice training suite.",
-        "isPrivate": false,
-        "isArchived": false,
-        "isFork": false,
-        "primaryLanguage": {
-          "name": "TypeScript"
-        },
-        "pushedAt": "2026-05-18T13:35:30Z",
-        "updatedAt": "2026-05-18T13:35:41Z",
-        "createdAt": "2026-05-12T09:49:47Z",
-        "defaultBranchRef": {
-          "name": "main"
-        },
-        "homepageUrl": "https://harzva.github.io/Agent-Job-Interview/",
-        "stargazerCount": 0,
-        "forkCount": 0,
-        "repositoryTopics": [],
-        "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/Agent-Job-Interview",
-        "pages": {
-          "enabled": true,
-          "url": "https://harzva.github.io/Agent-Job-Interview/",
-          "status": "built",
-          "source": {
-            "branch": "main",
-            "path": "/docs"
-          },
-          "httpsEnforced": true
-        },
-        "latestRelease": null
       },
       {
         "name": "everything-in-github",
@@ -964,14 +964,14 @@
           "name": "JavaScript"
         },
         "pushedAt": "2026-05-20T03:13:51Z",
-        "updatedAt": "2026-05-20T13:53:52Z",
+        "updatedAt": "2026-05-21T08:20:33Z",
         "createdAt": "2026-04-13T14:39:15Z",
         "defaultBranchRef": {
           "name": "main"
         },
         "homepageUrl": "",
-        "stargazerCount": 92,
-        "forkCount": 23,
+        "stargazerCount": 89,
+        "forkCount": 22,
         "repositoryTopics": [],
         "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/codex-managed-agent",
         "pages": {
@@ -1008,8 +1008,8 @@
         "primaryLanguage": {
           "name": "Python"
         },
-        "pushedAt": "2026-05-20T06:57:14Z",
-        "updatedAt": "2026-05-20T06:57:18Z",
+        "pushedAt": "2026-05-21T07:01:51Z",
+        "updatedAt": "2026-05-21T07:01:55Z",
         "createdAt": "2026-05-14T09:29:45Z",
         "defaultBranchRef": {
           "name": "main"
@@ -2950,7 +2950,7 @@
       "assetName": "RepoAtlas-v0.6.6-windows-x64.exe",
       "assetUrl": "https://github.com/Harzva/RepoAtlas/releases/download/v0.6.6/RepoAtlas-v0.6.6-windows-x64.exe",
       "size": 1945088,
-      "downloadCount": 0,
+      "downloadCount": 1,
       "kind": "Windows",
       "functionCategory": "Desktop Apps",
       "releaseName": "v0.6.6",
@@ -2968,7 +2968,7 @@
       "assetName": "gitmarket-android-experimental.apk",
       "assetUrl": "https://github.com/Harzva/GitReleaseMarket/releases/download/v0.3.5/gitmarket-android-experimental.apk",
       "size": 15680751,
-      "downloadCount": 1,
+      "downloadCount": 2,
       "kind": "Android APK",
       "functionCategory": "Mobile Apps",
       "releaseName": "v0.3.5",
@@ -3061,7 +3061,7 @@
         "assetName": "gitmarket-android-experimental.apk",
         "assetUrl": "https://github.com/Harzva/GitReleaseMarket/releases/download/v0.3.5/gitmarket-android-experimental.apk",
         "size": 15680751,
-        "downloadCount": 1,
+        "downloadCount": 2,
         "kind": "Android APK",
         "functionCategory": "Mobile Apps",
         "releaseName": "v0.3.5",
@@ -3225,7 +3225,7 @@
         "assetName": "RepoAtlas-v0.6.6-windows-x64.exe",
         "assetUrl": "https://github.com/Harzva/RepoAtlas/releases/download/v0.6.6/RepoAtlas-v0.6.6-windows-x64.exe",
         "size": 1945088,
-        "downloadCount": 0,
+        "downloadCount": 1,
         "kind": "Windows",
         "functionCategory": "Desktop Apps",
         "releaseName": "v0.6.6",
@@ -3288,8 +3288,8 @@
       "primaryLanguage": {
         "name": "TypeScript"
       },
-      "pushedAt": "2026-05-18T13:35:30Z",
-      "updatedAt": "2026-05-18T13:35:41Z",
+      "pushedAt": "2026-05-22T05:13:26Z",
+      "updatedAt": "2026-05-22T05:13:31Z",
       "createdAt": "2026-05-12T09:49:47Z",
       "defaultBranchRef": {
         "name": "main"
@@ -3447,8 +3447,8 @@
       "primaryLanguage": {
         "name": "TypeScript"
       },
-      "pushedAt": "2026-05-21T04:57:17Z",
-      "updatedAt": "2026-05-21T04:57:21Z",
+      "pushedAt": "2026-05-21T12:28:08Z",
+      "updatedAt": "2026-05-21T12:28:12Z",
       "createdAt": "2026-05-11T08:19:22Z",
       "defaultBranchRef": {
         "name": "main"
@@ -3603,7 +3603,7 @@
             "name": "gitmarket-android-experimental.apk",
             "url": "https://github.com/Harzva/GitReleaseMarket/releases/download/v0.3.5/gitmarket-android-experimental.apk",
             "size": 15680751,
-            "downloadCount": 1,
+            "downloadCount": 2,
             "contentType": "application/vnd.android.package-archive"
           },
           {
@@ -3689,8 +3689,8 @@
       "primaryLanguage": {
         "name": "Python"
       },
-      "pushedAt": "2026-05-20T06:58:04Z",
-      "updatedAt": "2026-05-20T06:58:09Z",
+      "pushedAt": "2026-05-21T07:01:58Z",
+      "updatedAt": "2026-05-21T07:02:02Z",
       "createdAt": "2026-05-14T09:29:39Z",
       "defaultBranchRef": {
         "name": "main"
@@ -3723,8 +3723,8 @@
       "primaryLanguage": {
         "name": "Python"
       },
-      "pushedAt": "2026-05-20T06:57:35Z",
-      "updatedAt": "2026-05-20T06:57:39Z",
+      "pushedAt": "2026-05-21T07:01:18Z",
+      "updatedAt": "2026-05-21T07:01:23Z",
       "createdAt": "2026-05-14T09:27:13Z",
       "defaultBranchRef": {
         "name": "main"
@@ -3757,8 +3757,8 @@
       "primaryLanguage": {
         "name": "Python"
       },
-      "pushedAt": "2026-05-20T06:58:58Z",
-      "updatedAt": "2026-05-20T06:59:02Z",
+      "pushedAt": "2026-05-21T07:03:27Z",
+      "updatedAt": "2026-05-21T07:03:32Z",
       "createdAt": "2026-05-14T09:29:34Z",
       "defaultBranchRef": {
         "name": "main"
@@ -3791,8 +3791,8 @@
       "primaryLanguage": {
         "name": "Python"
       },
-      "pushedAt": "2026-05-20T06:57:14Z",
-      "updatedAt": "2026-05-20T06:57:18Z",
+      "pushedAt": "2026-05-21T07:01:51Z",
+      "updatedAt": "2026-05-21T07:01:55Z",
       "createdAt": "2026-05-14T09:29:45Z",
       "defaultBranchRef": {
         "name": "main"
@@ -3859,14 +3859,14 @@
       "primaryLanguage": {
         "name": "TypeScript"
       },
-      "pushedAt": "2026-05-21T04:51:15Z",
-      "updatedAt": "2026-05-21T04:51:19Z",
+      "pushedAt": "2026-05-22T04:42:22Z",
+      "updatedAt": "2026-05-22T04:42:26Z",
       "createdAt": "2026-04-01T03:55:26Z",
       "defaultBranchRef": {
         "name": "main"
       },
       "homepageUrl": "",
-      "stargazerCount": 168,
+      "stargazerCount": 166,
       "forkCount": 37,
       "repositoryTopics": [
         "agent-loop",
@@ -3912,15 +3912,15 @@
       "primaryLanguage": {
         "name": "Dart"
       },
-      "pushedAt": "2026-05-21T06:42:44Z",
-      "updatedAt": "2026-05-21T06:42:46Z",
+      "pushedAt": "2026-05-22T05:35:44Z",
+      "updatedAt": "2026-05-22T06:02:51Z",
       "createdAt": "2026-05-12T08:19:17Z",
       "defaultBranchRef": {
         "name": "last"
       },
       "homepageUrl": "",
-      "stargazerCount": 44,
-      "forkCount": 1,
+      "stargazerCount": 90,
+      "forkCount": 6,
       "repositoryTopics": [],
       "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/mobilecode",
       "pages": {
@@ -4016,7 +4016,7 @@
             "name": "RepoAtlas-v0.6.6-windows-x64.exe",
             "url": "https://github.com/Harzva/RepoAtlas/releases/download/v0.6.6/RepoAtlas-v0.6.6-windows-x64.exe",
             "size": 1945088,
-            "downloadCount": 0,
+            "downloadCount": 1,
             "contentType": "application/x-msdos-program"
           }
         ]
@@ -4070,14 +4070,14 @@
         "name": "JavaScript"
       },
       "pushedAt": "2026-05-20T03:13:51Z",
-      "updatedAt": "2026-05-20T13:53:52Z",
+      "updatedAt": "2026-05-21T08:20:33Z",
       "createdAt": "2026-04-13T14:39:15Z",
       "defaultBranchRef": {
         "name": "main"
       },
       "homepageUrl": "",
-      "stargazerCount": 92,
-      "forkCount": 23,
+      "stargazerCount": 89,
+      "forkCount": 22,
       "repositoryTopics": [],
       "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/codex-managed-agent",
       "pages": {
@@ -4189,7 +4189,7 @@
             "name": "gitmarket-android-experimental.apk",
             "url": "https://github.com/Harzva/GitReleaseMarket/releases/download/v0.3.5/gitmarket-android-experimental.apk",
             "size": 15680751,
-            "downloadCount": 1,
+            "downloadCount": 2,
             "contentType": "application/vnd.android.package-archive"
           },
           {
@@ -4241,14 +4241,14 @@
       "primaryLanguage": {
         "name": "TypeScript"
       },
-      "pushedAt": "2026-05-21T04:51:15Z",
-      "updatedAt": "2026-05-21T04:51:19Z",
+      "pushedAt": "2026-05-22T04:42:22Z",
+      "updatedAt": "2026-05-22T04:42:26Z",
       "createdAt": "2026-04-01T03:55:26Z",
       "defaultBranchRef": {
         "name": "main"
       },
       "homepageUrl": "",
-      "stargazerCount": 168,
+      "stargazerCount": 166,
       "forkCount": 37,
       "repositoryTopics": [
         "agent-loop",
@@ -4294,15 +4294,15 @@
       "primaryLanguage": {
         "name": "Dart"
       },
-      "pushedAt": "2026-05-21T06:42:44Z",
-      "updatedAt": "2026-05-21T06:42:46Z",
+      "pushedAt": "2026-05-22T05:35:44Z",
+      "updatedAt": "2026-05-22T06:02:51Z",
       "createdAt": "2026-05-12T08:19:17Z",
       "defaultBranchRef": {
         "name": "last"
       },
       "homepageUrl": "",
-      "stargazerCount": 44,
-      "forkCount": 1,
+      "stargazerCount": 90,
+      "forkCount": 6,
       "repositoryTopics": [],
       "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/mobilecode",
       "pages": {
@@ -4398,7 +4398,7 @@
             "name": "RepoAtlas-v0.6.6-windows-x64.exe",
             "url": "https://github.com/Harzva/RepoAtlas/releases/download/v0.6.6/RepoAtlas-v0.6.6-windows-x64.exe",
             "size": 1945088,
-            "downloadCount": 0,
+            "downloadCount": 1,
             "contentType": "application/x-msdos-program"
           }
         ]
@@ -4837,8 +4837,8 @@
       "primaryLanguage": {
         "name": "Python"
       },
-      "pushedAt": "2026-05-20T06:57:14Z",
-      "updatedAt": "2026-05-20T06:57:18Z",
+      "pushedAt": "2026-05-21T07:01:51Z",
+      "updatedAt": "2026-05-21T07:01:55Z",
       "createdAt": "2026-05-14T09:29:45Z",
       "defaultBranchRef": {
         "name": "main"
