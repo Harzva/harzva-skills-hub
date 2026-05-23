@@ -89,8 +89,8 @@
     "primaryLanguage": {
       "name": "TypeScript"
     },
-    "pushedAt": "2026-05-22T05:13:26Z",
-    "updatedAt": "2026-05-22T05:13:31Z",
+    "pushedAt": "2026-05-23T04:52:17Z",
+    "updatedAt": "2026-05-23T04:52:21Z",
     "createdAt": "2026-05-12T09:49:47Z",
     "defaultBranchRef": {
       "name": "main"
@@ -524,14 +524,14 @@
       "name": "JavaScript"
     },
     "pushedAt": "2026-05-20T03:13:51Z",
-    "updatedAt": "2026-05-21T08:20:33Z",
+    "updatedAt": "2026-05-22T11:47:05Z",
     "createdAt": "2026-04-13T14:39:15Z",
     "defaultBranchRef": {
       "name": "main"
     },
     "homepageUrl": "",
-    "stargazerCount": 89,
-    "forkCount": 22,
+    "stargazerCount": 88,
+    "forkCount": 21,
     "repositoryTopics": [],
     "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/codex-managed-agent",
     "pages": {
@@ -1102,8 +1102,8 @@
     "primaryLanguage": {
       "name": "Python"
     },
-    "pushedAt": "2026-05-21T07:01:58Z",
-    "updatedAt": "2026-05-21T07:02:02Z",
+    "pushedAt": "2026-05-22T06:58:26Z",
+    "updatedAt": "2026-05-22T06:58:30Z",
     "createdAt": "2026-05-14T09:29:39Z",
     "defaultBranchRef": {
       "name": "main"
@@ -1136,8 +1136,8 @@
     "primaryLanguage": {
       "name": "Python"
     },
-    "pushedAt": "2026-05-21T07:01:18Z",
-    "updatedAt": "2026-05-21T07:01:23Z",
+    "pushedAt": "2026-05-22T06:57:23Z",
+    "updatedAt": "2026-05-22T06:57:26Z",
     "createdAt": "2026-05-14T09:27:13Z",
     "defaultBranchRef": {
       "name": "main"
@@ -1170,8 +1170,8 @@
     "primaryLanguage": {
       "name": "Python"
     },
-    "pushedAt": "2026-05-21T07:03:27Z",
-    "updatedAt": "2026-05-21T07:03:32Z",
+    "pushedAt": "2026-05-22T06:59:37Z",
+    "updatedAt": "2026-05-22T06:59:41Z",
     "createdAt": "2026-05-14T09:29:34Z",
     "defaultBranchRef": {
       "name": "main"
@@ -1204,8 +1204,8 @@
     "primaryLanguage": {
       "name": "Python"
     },
-    "pushedAt": "2026-05-21T07:01:51Z",
-    "updatedAt": "2026-05-21T07:01:55Z",
+    "pushedAt": "2026-05-22T06:57:35Z",
+    "updatedAt": "2026-05-22T06:57:38Z",
     "createdAt": "2026-05-14T09:29:45Z",
     "defaultBranchRef": {
       "name": "main"
@@ -1330,15 +1330,15 @@
     "primaryLanguage": {
       "name": "TypeScript"
     },
-    "pushedAt": "2026-05-22T04:42:22Z",
-    "updatedAt": "2026-05-22T04:42:26Z",
+    "pushedAt": "2026-05-23T04:13:28Z",
+    "updatedAt": "2026-05-23T04:13:31Z",
     "createdAt": "2026-04-01T03:55:26Z",
     "defaultBranchRef": {
       "name": "main"
     },
     "homepageUrl": "",
-    "stargazerCount": 166,
-    "forkCount": 37,
+    "stargazerCount": 165,
+    "forkCount": 36,
     "repositoryTopics": [
       "agent-loop",
       "ai-coding",
@@ -1520,7 +1520,7 @@
     "primaryLanguage": {
       "name": "Dart"
     },
-    "pushedAt": "2026-05-22T05:35:44Z",
+    "pushedAt": "2026-05-23T04:52:33Z",
     "updatedAt": "2026-05-22T06:02:51Z",
     "createdAt": "2026-05-12T08:19:17Z",
     "defaultBranchRef": {
