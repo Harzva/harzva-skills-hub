@@ -1,6 +1,6 @@
 {
   "summary": {
-    "generatedAt": "2026-05-23T06:20:03.223293+00:00",
+    "generatedAt": "2026-05-24T06:46:56.375359+00:00",
     "owner": "Harzva",
     "mode": "skills",
     "publicRepositories": 93,
@@ -328,6 +328,93 @@
     ],
     "Pages and Live Demos": [
       {
+        "name": "Agent-Job-Interview",
+        "nameWithOwner": "Harzva/Agent-Job-Interview",
+        "url": "https://github.com/Harzva/Agent-Job-Interview",
+        "description": "Agent job interview roadmap and practice training suite.",
+        "isPrivate": false,
+        "isArchived": false,
+        "isFork": false,
+        "primaryLanguage": {
+          "name": "TypeScript"
+        },
+        "pushedAt": "2026-05-24T05:12:30Z",
+        "updatedAt": "2026-05-24T05:12:34Z",
+        "createdAt": "2026-05-12T09:49:47Z",
+        "defaultBranchRef": {
+          "name": "main"
+        },
+        "homepageUrl": "https://harzva.github.io/Agent-Job-Interview/",
+        "stargazerCount": 0,
+        "forkCount": 0,
+        "repositoryTopics": [],
+        "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/Agent-Job-Interview",
+        "pages": {
+          "enabled": true,
+          "url": "https://harzva.github.io/Agent-Job-Interview/",
+          "status": "built",
+          "source": {
+            "branch": "main",
+            "path": "/docs"
+          },
+          "httpsEnforced": true
+        },
+        "latestRelease": null
+      },
+      {
+        "name": "learn-likecc",
+        "nameWithOwner": "Harzva/learn-likecc",
+        "url": "https://github.com/Harzva/learn-likecc",
+        "description": "Claude Code 源码逆向恢复项目 | Source Map 逆向 · 架构分析 · 可运行版本 | 1900+ 文件 · 51万行代码 · 12章节课程",
+        "isPrivate": false,
+        "isArchived": false,
+        "isFork": false,
+        "primaryLanguage": {
+          "name": "TypeScript"
+        },
+        "pushedAt": "2026-05-24T04:45:54Z",
+        "updatedAt": "2026-05-24T04:45:57Z",
+        "createdAt": "2026-04-01T03:55:26Z",
+        "defaultBranchRef": {
+          "name": "main"
+        },
+        "homepageUrl": "",
+        "stargazerCount": 165,
+        "forkCount": 36,
+        "repositoryTopics": [
+          "agent-loop",
+          "ai-coding",
+          "anthropic",
+          "bun",
+          "claude-code",
+          "cli-tool",
+          "mcp-protocol",
+          "reverse-engineering",
+          "source-map",
+          "typescript"
+        ],
+        "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/learn-likecc",
+        "pages": {
+          "enabled": true,
+          "url": "https://harzva.github.io/learn-likecc/",
+          "status": "built",
+          "source": {
+            "branch": "main",
+            "path": "/docs"
+          },
+          "httpsEnforced": true
+        },
+        "latestRelease": {
+          "name": "v1.0.2-likecode",
+          "tagName": "v1.0.2-likecode",
+          "url": "https://github.com/Harzva/learn-likecc/releases/tag/v1.0.2-likecode",
+          "publishedAt": "2026-04-07T12:27:48Z",
+          "prerelease": false,
+          "draft": false,
+          "assets": []
+        }
+      },
+      {
         "name": "mobilecode",
         "nameWithOwner": "Harzva/mobilecode",
         "url": "https://github.com/Harzva/mobilecode",
@@ -338,14 +425,14 @@
         "primaryLanguage": {
           "name": "Dart"
         },
-        "pushedAt": "2026-05-23T04:52:33Z",
-        "updatedAt": "2026-05-22T06:02:51Z",
+        "pushedAt": "2026-05-23T11:20:17Z",
+        "updatedAt": "2026-05-23T14:02:11Z",
         "createdAt": "2026-05-12T08:19:17Z",
         "defaultBranchRef": {
           "name": "last"
         },
         "homepageUrl": "",
-        "stargazerCount": 90,
+        "stargazerCount": 130,
         "forkCount": 6,
         "repositoryTopics": [],
         "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/mobilecode",
@@ -392,93 +479,6 @@
         }
       },
       {
-        "name": "Agent-Job-Interview",
-        "nameWithOwner": "Harzva/Agent-Job-Interview",
-        "url": "https://github.com/Harzva/Agent-Job-Interview",
-        "description": "Agent job interview roadmap and practice training suite.",
-        "isPrivate": false,
-        "isArchived": false,
-        "isFork": false,
-        "primaryLanguage": {
-          "name": "TypeScript"
-        },
-        "pushedAt": "2026-05-23T04:52:17Z",
-        "updatedAt": "2026-05-23T04:52:21Z",
-        "createdAt": "2026-05-12T09:49:47Z",
-        "defaultBranchRef": {
-          "name": "main"
-        },
-        "homepageUrl": "https://harzva.github.io/Agent-Job-Interview/",
-        "stargazerCount": 0,
-        "forkCount": 0,
-        "repositoryTopics": [],
-        "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/Agent-Job-Interview",
-        "pages": {
-          "enabled": true,
-          "url": "https://harzva.github.io/Agent-Job-Interview/",
-          "status": "built",
-          "source": {
-            "branch": "main",
-            "path": "/docs"
-          },
-          "httpsEnforced": true
-        },
-        "latestRelease": null
-      },
-      {
-        "name": "learn-likecc",
-        "nameWithOwner": "Harzva/learn-likecc",
-        "url": "https://github.com/Harzva/learn-likecc",
-        "description": "Claude Code 源码逆向恢复项目 | Source Map 逆向 · 架构分析 · 可运行版本 | 1900+ 文件 · 51万行代码 · 12章节课程",
-        "isPrivate": false,
-        "isArchived": false,
-        "isFork": false,
-        "primaryLanguage": {
-          "name": "TypeScript"
-        },
-        "pushedAt": "2026-05-23T04:13:28Z",
-        "updatedAt": "2026-05-23T04:13:31Z",
-        "createdAt": "2026-04-01T03:55:26Z",
-        "defaultBranchRef": {
-          "name": "main"
-        },
-        "homepageUrl": "",
-        "stargazerCount": 165,
-        "forkCount": 36,
-        "repositoryTopics": [
-          "agent-loop",
-          "ai-coding",
-          "anthropic",
-          "bun",
-          "claude-code",
-          "cli-tool",
-          "mcp-protocol",
-          "reverse-engineering",
-          "source-map",
-          "typescript"
-        ],
-        "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/learn-likecc",
-        "pages": {
-          "enabled": true,
-          "url": "https://harzva.github.io/learn-likecc/",
-          "status": "built",
-          "source": {
-            "branch": "main",
-            "path": "/docs"
-          },
-          "httpsEnforced": true
-        },
-        "latestRelease": {
-          "name": "v1.0.2-likecode",
-          "tagName": "v1.0.2-likecode",
-          "url": "https://github.com/Harzva/learn-likecc/releases/tag/v1.0.2-likecode",
-          "publishedAt": "2026-04-07T12:27:48Z",
-          "prerelease": false,
-          "draft": false,
-          "assets": []
-        }
-      },
-      {
         "name": "harzva-release-hub",
         "nameWithOwner": "Harzva/harzva-release-hub",
         "url": "https://github.com/Harzva/harzva-release-hub",
@@ -489,8 +489,8 @@
         "primaryLanguage": {
           "name": "Python"
         },
-        "pushedAt": "2026-05-22T06:59:37Z",
-        "updatedAt": "2026-05-22T06:59:41Z",
+        "pushedAt": "2026-05-23T06:21:21Z",
+        "updatedAt": "2026-05-23T06:21:25Z",
         "createdAt": "2026-05-14T09:29:34Z",
         "defaultBranchRef": {
           "name": "main"
@@ -523,8 +523,8 @@
         "primaryLanguage": {
           "name": "Python"
         },
-        "pushedAt": "2026-05-22T06:58:26Z",
-        "updatedAt": "2026-05-22T06:58:30Z",
+        "pushedAt": "2026-05-23T06:20:12Z",
+        "updatedAt": "2026-05-23T06:20:16Z",
         "createdAt": "2026-05-14T09:29:39Z",
         "defaultBranchRef": {
           "name": "main"
@@ -1008,8 +1008,8 @@
         "primaryLanguage": {
           "name": "Python"
         },
-        "pushedAt": "2026-05-22T06:57:35Z",
-        "updatedAt": "2026-05-22T06:57:38Z",
+        "pushedAt": "2026-05-23T06:20:03Z",
+        "updatedAt": "2026-05-23T06:20:07Z",
         "createdAt": "2026-05-14T09:29:45Z",
         "defaultBranchRef": {
           "name": "main"
@@ -3288,8 +3288,8 @@
       "primaryLanguage": {
         "name": "TypeScript"
       },
-      "pushedAt": "2026-05-23T04:52:17Z",
-      "updatedAt": "2026-05-23T04:52:21Z",
+      "pushedAt": "2026-05-24T05:12:30Z",
+      "updatedAt": "2026-05-24T05:12:34Z",
       "createdAt": "2026-05-12T09:49:47Z",
       "defaultBranchRef": {
         "name": "main"
@@ -3689,8 +3689,8 @@
       "primaryLanguage": {
         "name": "Python"
       },
-      "pushedAt": "2026-05-22T06:58:26Z",
-      "updatedAt": "2026-05-22T06:58:30Z",
+      "pushedAt": "2026-05-23T06:20:12Z",
+      "updatedAt": "2026-05-23T06:20:16Z",
       "createdAt": "2026-05-14T09:29:39Z",
       "defaultBranchRef": {
         "name": "main"
@@ -3757,8 +3757,8 @@
       "primaryLanguage": {
         "name": "Python"
       },
-      "pushedAt": "2026-05-22T06:59:37Z",
-      "updatedAt": "2026-05-22T06:59:41Z",
+      "pushedAt": "2026-05-23T06:21:21Z",
+      "updatedAt": "2026-05-23T06:21:25Z",
       "createdAt": "2026-05-14T09:29:34Z",
       "defaultBranchRef": {
         "name": "main"
@@ -3791,8 +3791,8 @@
       "primaryLanguage": {
         "name": "Python"
       },
-      "pushedAt": "2026-05-22T06:57:35Z",
-      "updatedAt": "2026-05-22T06:57:38Z",
+      "pushedAt": "2026-05-23T06:20:03Z",
+      "updatedAt": "2026-05-23T06:20:07Z",
       "createdAt": "2026-05-14T09:29:45Z",
       "defaultBranchRef": {
         "name": "main"
@@ -3859,8 +3859,8 @@
       "primaryLanguage": {
         "name": "TypeScript"
       },
-      "pushedAt": "2026-05-23T04:13:28Z",
-      "updatedAt": "2026-05-23T04:13:31Z",
+      "pushedAt": "2026-05-24T04:45:54Z",
+      "updatedAt": "2026-05-24T04:45:57Z",
       "createdAt": "2026-04-01T03:55:26Z",
       "defaultBranchRef": {
         "name": "main"
@@ -3912,14 +3912,14 @@
       "primaryLanguage": {
         "name": "Dart"
       },
-      "pushedAt": "2026-05-23T04:52:33Z",
-      "updatedAt": "2026-05-22T06:02:51Z",
+      "pushedAt": "2026-05-23T11:20:17Z",
+      "updatedAt": "2026-05-23T14:02:11Z",
       "createdAt": "2026-05-12T08:19:17Z",
       "defaultBranchRef": {
         "name": "last"
       },
       "homepageUrl": "",
-      "stargazerCount": 90,
+      "stargazerCount": 130,
       "forkCount": 6,
       "repositoryTopics": [],
       "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/mobilecode",
@@ -4241,8 +4241,8 @@
       "primaryLanguage": {
         "name": "TypeScript"
       },
-      "pushedAt": "2026-05-23T04:13:28Z",
-      "updatedAt": "2026-05-23T04:13:31Z",
+      "pushedAt": "2026-05-24T04:45:54Z",
+      "updatedAt": "2026-05-24T04:45:57Z",
       "createdAt": "2026-04-01T03:55:26Z",
       "defaultBranchRef": {
         "name": "main"
@@ -4294,14 +4294,14 @@
       "primaryLanguage": {
         "name": "Dart"
       },
-      "pushedAt": "2026-05-23T04:52:33Z",
-      "updatedAt": "2026-05-22T06:02:51Z",
+      "pushedAt": "2026-05-23T11:20:17Z",
+      "updatedAt": "2026-05-23T14:02:11Z",
       "createdAt": "2026-05-12T08:19:17Z",
       "defaultBranchRef": {
         "name": "last"
       },
       "homepageUrl": "",
-      "stargazerCount": 90,
+      "stargazerCount": 130,
       "forkCount": 6,
       "repositoryTopics": [],
       "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/mobilecode",
@@ -4837,8 +4837,8 @@
       "primaryLanguage": {
         "name": "Python"
       },
-      "pushedAt": "2026-05-22T06:57:35Z",
-      "updatedAt": "2026-05-22T06:57:38Z",
+      "pushedAt": "2026-05-23T06:20:03Z",
+      "updatedAt": "2026-05-23T06:20:07Z",
       "createdAt": "2026-05-14T09:29:45Z",
       "defaultBranchRef": {
         "name": "main"
