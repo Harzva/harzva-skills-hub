@@ -1,6 +1,6 @@
 {
   "summary": {
-    "generatedAt": "2026-05-24T06:46:56.375359+00:00",
+    "generatedAt": "2026-05-25T07:58:41.255309+00:00",
     "owner": "Harzva",
     "mode": "skills",
     "publicRepositories": 93,
@@ -338,8 +338,8 @@
         "primaryLanguage": {
           "name": "TypeScript"
         },
-        "pushedAt": "2026-05-24T05:12:30Z",
-        "updatedAt": "2026-05-24T05:12:34Z",
+        "pushedAt": "2026-05-25T05:49:59Z",
+        "updatedAt": "2026-05-25T05:50:04Z",
         "createdAt": "2026-05-12T09:49:47Z",
         "defaultBranchRef": {
           "name": "main"
@@ -372,8 +372,8 @@
         "primaryLanguage": {
           "name": "TypeScript"
         },
-        "pushedAt": "2026-05-24T04:45:54Z",
-        "updatedAt": "2026-05-24T04:45:57Z",
+        "pushedAt": "2026-05-25T04:59:32Z",
+        "updatedAt": "2026-05-25T04:59:35Z",
         "createdAt": "2026-04-01T03:55:26Z",
         "defaultBranchRef": {
           "name": "main"
@@ -413,6 +413,108 @@
           "draft": false,
           "assets": []
         }
+      },
+      {
+        "name": "harzva-release-hub",
+        "nameWithOwner": "Harzva/harzva-release-hub",
+        "url": "https://github.com/Harzva/harzva-release-hub",
+        "description": "Auto-updating release hub for Harzva repositories with direct download assets and GitHub Pages.",
+        "isPrivate": false,
+        "isArchived": false,
+        "isFork": false,
+        "primaryLanguage": {
+          "name": "Python"
+        },
+        "pushedAt": "2026-05-24T06:48:36Z",
+        "updatedAt": "2026-05-24T06:48:40Z",
+        "createdAt": "2026-05-14T09:29:34Z",
+        "defaultBranchRef": {
+          "name": "main"
+        },
+        "homepageUrl": "https://harzva.github.io/harzva-release-hub/",
+        "stargazerCount": 0,
+        "forkCount": 0,
+        "repositoryTopics": [],
+        "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/harzva-release-hub",
+        "pages": {
+          "enabled": true,
+          "url": "https://harzva.github.io/harzva-release-hub/",
+          "status": null,
+          "source": {
+            "branch": "main",
+            "path": "/"
+          },
+          "httpsEnforced": true
+        },
+        "latestRelease": null
+      },
+      {
+        "name": "harzva-pages-hub",
+        "nameWithOwner": "Harzva/harzva-pages-hub",
+        "url": "https://github.com/Harzva/harzva-pages-hub",
+        "description": "Visual GitHub Pages hub for Harzva sites, demos, docs, and live project surfaces.",
+        "isPrivate": false,
+        "isArchived": false,
+        "isFork": false,
+        "primaryLanguage": {
+          "name": "Python"
+        },
+        "pushedAt": "2026-05-24T06:47:44Z",
+        "updatedAt": "2026-05-24T06:47:48Z",
+        "createdAt": "2026-05-14T09:29:39Z",
+        "defaultBranchRef": {
+          "name": "main"
+        },
+        "homepageUrl": "https://harzva.github.io/harzva-pages-hub/",
+        "stargazerCount": 0,
+        "forkCount": 0,
+        "repositoryTopics": [],
+        "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/harzva-pages-hub",
+        "pages": {
+          "enabled": true,
+          "url": "https://harzva.github.io/harzva-pages-hub/",
+          "status": null,
+          "source": {
+            "branch": "main",
+            "path": "/"
+          },
+          "httpsEnforced": true
+        },
+        "latestRelease": null
+      },
+      {
+        "name": "harzva-project-atlas",
+        "nameWithOwner": "Harzva/harzva-project-atlas",
+        "url": "https://github.com/Harzva/harzva-project-atlas",
+        "description": "Download-first MetaRepo atlas for Harzva APK, EXE, package, archive, and release asset links.",
+        "isPrivate": false,
+        "isArchived": false,
+        "isFork": false,
+        "primaryLanguage": {
+          "name": "Python"
+        },
+        "pushedAt": "2026-05-24T06:47:04Z",
+        "updatedAt": "2026-05-24T06:47:08Z",
+        "createdAt": "2026-05-14T09:27:13Z",
+        "defaultBranchRef": {
+          "name": "main"
+        },
+        "homepageUrl": "https://harzva.github.io/harzva-project-atlas/",
+        "stargazerCount": 0,
+        "forkCount": 0,
+        "repositoryTopics": [],
+        "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/harzva-project-atlas",
+        "pages": {
+          "enabled": true,
+          "url": "https://harzva.github.io/harzva-project-atlas/",
+          "status": null,
+          "source": {
+            "branch": "main",
+            "path": "/"
+          },
+          "httpsEnforced": true
+        },
+        "latestRelease": null
       },
       {
         "name": "mobilecode",
@@ -472,113 +574,11 @@
               "name": "mobilecode-v0.1.0.apk",
               "url": "https://github.com/Harzva/mobilecode/releases/download/v0.1.0/mobilecode-v0.1.0.apk",
               "size": 53051517,
-              "downloadCount": 1,
+              "downloadCount": 2,
               "contentType": "application/vnd.android.package-archive"
             }
           ]
         }
-      },
-      {
-        "name": "harzva-release-hub",
-        "nameWithOwner": "Harzva/harzva-release-hub",
-        "url": "https://github.com/Harzva/harzva-release-hub",
-        "description": "Auto-updating release hub for Harzva repositories with direct download assets and GitHub Pages.",
-        "isPrivate": false,
-        "isArchived": false,
-        "isFork": false,
-        "primaryLanguage": {
-          "name": "Python"
-        },
-        "pushedAt": "2026-05-23T06:21:21Z",
-        "updatedAt": "2026-05-23T06:21:25Z",
-        "createdAt": "2026-05-14T09:29:34Z",
-        "defaultBranchRef": {
-          "name": "main"
-        },
-        "homepageUrl": "https://harzva.github.io/harzva-release-hub/",
-        "stargazerCount": 0,
-        "forkCount": 0,
-        "repositoryTopics": [],
-        "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/harzva-release-hub",
-        "pages": {
-          "enabled": true,
-          "url": "https://harzva.github.io/harzva-release-hub/",
-          "status": null,
-          "source": {
-            "branch": "main",
-            "path": "/"
-          },
-          "httpsEnforced": true
-        },
-        "latestRelease": null
-      },
-      {
-        "name": "harzva-pages-hub",
-        "nameWithOwner": "Harzva/harzva-pages-hub",
-        "url": "https://github.com/Harzva/harzva-pages-hub",
-        "description": "Visual GitHub Pages hub for Harzva sites, demos, docs, and live project surfaces.",
-        "isPrivate": false,
-        "isArchived": false,
-        "isFork": false,
-        "primaryLanguage": {
-          "name": "Python"
-        },
-        "pushedAt": "2026-05-23T06:20:12Z",
-        "updatedAt": "2026-05-23T06:20:16Z",
-        "createdAt": "2026-05-14T09:29:39Z",
-        "defaultBranchRef": {
-          "name": "main"
-        },
-        "homepageUrl": "https://harzva.github.io/harzva-pages-hub/",
-        "stargazerCount": 0,
-        "forkCount": 0,
-        "repositoryTopics": [],
-        "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/harzva-pages-hub",
-        "pages": {
-          "enabled": true,
-          "url": "https://harzva.github.io/harzva-pages-hub/",
-          "status": null,
-          "source": {
-            "branch": "main",
-            "path": "/"
-          },
-          "httpsEnforced": true
-        },
-        "latestRelease": null
-      },
-      {
-        "name": "harzva-project-atlas",
-        "nameWithOwner": "Harzva/harzva-project-atlas",
-        "url": "https://github.com/Harzva/harzva-project-atlas",
-        "description": "Download-first MetaRepo atlas for Harzva APK, EXE, package, archive, and release asset links.",
-        "isPrivate": false,
-        "isArchived": false,
-        "isFork": false,
-        "primaryLanguage": {
-          "name": "Python"
-        },
-        "pushedAt": "2026-05-22T06:57:23Z",
-        "updatedAt": "2026-05-22T06:57:26Z",
-        "createdAt": "2026-05-14T09:27:13Z",
-        "defaultBranchRef": {
-          "name": "main"
-        },
-        "homepageUrl": "https://harzva.github.io/harzva-project-atlas/",
-        "stargazerCount": 0,
-        "forkCount": 0,
-        "repositoryTopics": [],
-        "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/harzva-project-atlas",
-        "pages": {
-          "enabled": true,
-          "url": "https://harzva.github.io/harzva-project-atlas/",
-          "status": null,
-          "source": {
-            "branch": "main",
-            "path": "/"
-          },
-          "httpsEnforced": true
-        },
-        "latestRelease": null
       },
       {
         "name": "ChinaAI-Roadmaps",
@@ -963,7 +963,7 @@
         "primaryLanguage": {
           "name": "JavaScript"
         },
-        "pushedAt": "2026-05-20T03:13:51Z",
+        "pushedAt": "2026-05-25T07:41:17Z",
         "updatedAt": "2026-05-22T11:47:05Z",
         "createdAt": "2026-04-13T14:39:15Z",
         "defaultBranchRef": {
@@ -1008,8 +1008,8 @@
         "primaryLanguage": {
           "name": "Python"
         },
-        "pushedAt": "2026-05-23T06:20:03Z",
-        "updatedAt": "2026-05-23T06:20:07Z",
+        "pushedAt": "2026-05-24T06:46:57Z",
+        "updatedAt": "2026-05-24T06:47:00Z",
         "createdAt": "2026-05-14T09:29:45Z",
         "defaultBranchRef": {
           "name": "main"
@@ -3040,7 +3040,7 @@
       "assetName": "mobilecode-v0.1.0.apk",
       "assetUrl": "https://github.com/Harzva/mobilecode/releases/download/v0.1.0/mobilecode-v0.1.0.apk",
       "size": 53051517,
-      "downloadCount": 1,
+      "downloadCount": 2,
       "kind": "Android APK",
       "functionCategory": "Mobile Apps",
       "releaseName": "MobileCode v0.1.0 Android APK",
@@ -3133,7 +3133,7 @@
         "assetName": "mobilecode-v0.1.0.apk",
         "assetUrl": "https://github.com/Harzva/mobilecode/releases/download/v0.1.0/mobilecode-v0.1.0.apk",
         "size": 53051517,
-        "downloadCount": 1,
+        "downloadCount": 2,
         "kind": "Android APK",
         "functionCategory": "Mobile Apps",
         "releaseName": "MobileCode v0.1.0 Android APK",
@@ -3288,8 +3288,8 @@
       "primaryLanguage": {
         "name": "TypeScript"
       },
-      "pushedAt": "2026-05-24T05:12:30Z",
-      "updatedAt": "2026-05-24T05:12:34Z",
+      "pushedAt": "2026-05-25T05:49:59Z",
+      "updatedAt": "2026-05-25T05:50:04Z",
       "createdAt": "2026-05-12T09:49:47Z",
       "defaultBranchRef": {
         "name": "main"
@@ -3689,8 +3689,8 @@
       "primaryLanguage": {
         "name": "Python"
       },
-      "pushedAt": "2026-05-23T06:20:12Z",
-      "updatedAt": "2026-05-23T06:20:16Z",
+      "pushedAt": "2026-05-24T06:47:44Z",
+      "updatedAt": "2026-05-24T06:47:48Z",
       "createdAt": "2026-05-14T09:29:39Z",
       "defaultBranchRef": {
         "name": "main"
@@ -3723,8 +3723,8 @@
       "primaryLanguage": {
         "name": "Python"
       },
-      "pushedAt": "2026-05-22T06:57:23Z",
-      "updatedAt": "2026-05-22T06:57:26Z",
+      "pushedAt": "2026-05-24T06:47:04Z",
+      "updatedAt": "2026-05-24T06:47:08Z",
       "createdAt": "2026-05-14T09:27:13Z",
       "defaultBranchRef": {
         "name": "main"
@@ -3757,8 +3757,8 @@
       "primaryLanguage": {
         "name": "Python"
       },
-      "pushedAt": "2026-05-23T06:21:21Z",
-      "updatedAt": "2026-05-23T06:21:25Z",
+      "pushedAt": "2026-05-24T06:48:36Z",
+      "updatedAt": "2026-05-24T06:48:40Z",
       "createdAt": "2026-05-14T09:29:34Z",
       "defaultBranchRef": {
         "name": "main"
@@ -3791,8 +3791,8 @@
       "primaryLanguage": {
         "name": "Python"
       },
-      "pushedAt": "2026-05-23T06:20:03Z",
-      "updatedAt": "2026-05-23T06:20:07Z",
+      "pushedAt": "2026-05-24T06:46:57Z",
+      "updatedAt": "2026-05-24T06:47:00Z",
       "createdAt": "2026-05-14T09:29:45Z",
       "defaultBranchRef": {
         "name": "main"
@@ -3859,8 +3859,8 @@
       "primaryLanguage": {
         "name": "TypeScript"
       },
-      "pushedAt": "2026-05-24T04:45:54Z",
-      "updatedAt": "2026-05-24T04:45:57Z",
+      "pushedAt": "2026-05-25T04:59:32Z",
+      "updatedAt": "2026-05-25T04:59:35Z",
       "createdAt": "2026-04-01T03:55:26Z",
       "defaultBranchRef": {
         "name": "main"
@@ -3959,7 +3959,7 @@
             "name": "mobilecode-v0.1.0.apk",
             "url": "https://github.com/Harzva/mobilecode/releases/download/v0.1.0/mobilecode-v0.1.0.apk",
             "size": 53051517,
-            "downloadCount": 1,
+            "downloadCount": 2,
             "contentType": "application/vnd.android.package-archive"
           }
         ]
@@ -4069,7 +4069,7 @@
       "primaryLanguage": {
         "name": "JavaScript"
       },
-      "pushedAt": "2026-05-20T03:13:51Z",
+      "pushedAt": "2026-05-25T07:41:17Z",
       "updatedAt": "2026-05-22T11:47:05Z",
       "createdAt": "2026-04-13T14:39:15Z",
       "defaultBranchRef": {
@@ -4241,8 +4241,8 @@
       "primaryLanguage": {
         "name": "TypeScript"
       },
-      "pushedAt": "2026-05-24T04:45:54Z",
-      "updatedAt": "2026-05-24T04:45:57Z",
+      "pushedAt": "2026-05-25T04:59:32Z",
+      "updatedAt": "2026-05-25T04:59:35Z",
       "createdAt": "2026-04-01T03:55:26Z",
       "defaultBranchRef": {
         "name": "main"
@@ -4341,7 +4341,7 @@
             "name": "mobilecode-v0.1.0.apk",
             "url": "https://github.com/Harzva/mobilecode/releases/download/v0.1.0/mobilecode-v0.1.0.apk",
             "size": 53051517,
-            "downloadCount": 1,
+            "downloadCount": 2,
             "contentType": "application/vnd.android.package-archive"
           }
         ]
@@ -4837,8 +4837,8 @@
       "primaryLanguage": {
         "name": "Python"
       },
-      "pushedAt": "2026-05-23T06:20:03Z",
-      "updatedAt": "2026-05-23T06:20:07Z",
+      "pushedAt": "2026-05-24T06:46:57Z",
+      "updatedAt": "2026-05-24T06:47:00Z",
       "createdAt": "2026-05-14T09:29:45Z",
       "defaultBranchRef": {
         "name": "main"
