@@ -1,55 +1,18 @@
 {
   "summary": {
-    "generatedAt": "2026-05-26T06:56:17.461777+00:00",
+    "generatedAt": "2026-05-27T07:14:49.320854+00:00",
     "owner": "Harzva",
     "mode": "skills",
-    "publicRepositories": 93,
+    "publicRepositories": 94,
     "forks": 35,
     "pages": 18,
     "releases": 6,
-    "skills": 21,
+    "skills": 22,
     "artifacts": 12,
     "privateOmitted": 13
   },
   "categories": {
     "AI Agents and LLM Systems": [
-      {
-        "name": "make_windows_silky_Patch",
-        "nameWithOwner": "Harzva/make_windows_silky_Patch",
-        "url": "https://github.com/Harzva/make_windows_silky_Patch",
-        "description": "Windows AI workbench token-saver patch kit: audit, evidence manifests, preflight gates, and AgentWorkOS assets.",
-        "isPrivate": false,
-        "isArchived": false,
-        "isFork": false,
-        "primaryLanguage": {
-          "name": "PowerShell"
-        },
-        "pushedAt": "2026-05-20T05:51:33Z",
-        "updatedAt": "2026-05-20T05:52:11Z",
-        "createdAt": "2026-05-19T16:51:24Z",
-        "defaultBranchRef": {
-          "name": "main"
-        },
-        "homepageUrl": "",
-        "stargazerCount": 0,
-        "forkCount": 0,
-        "repositoryTopics": [
-          "agentworkos",
-          "codex",
-          "developer-tools",
-          "evidence-manifest",
-          "powershell",
-          "release-automation",
-          "token-saver",
-          "windows",
-          "windows-ai"
-        ],
-        "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/make_windows_silky_Patch",
-        "pages": {
-          "enabled": false
-        },
-        "latestRelease": null
-      },
       {
         "name": "CampusRAG-QA",
         "nameWithOwner": "Harzva/CampusRAG-QA",
@@ -61,7 +24,7 @@
         "primaryLanguage": {
           "name": "Java"
         },
-        "pushedAt": "2026-05-20T03:58:08Z",
+        "pushedAt": "2026-05-27T01:28:58Z",
         "updatedAt": "2026-05-16T08:28:53Z",
         "createdAt": "2026-05-09T10:52:36Z",
         "defaultBranchRef": {
@@ -94,7 +57,7 @@
         "primaryLanguage": {
           "name": "Java"
         },
-        "pushedAt": "2026-05-19T21:56:03Z",
+        "pushedAt": "2026-05-26T17:30:42Z",
         "updatedAt": "2026-05-16T08:29:03Z",
         "createdAt": "2026-05-11T08:22:16Z",
         "defaultBranchRef": {
@@ -111,6 +74,43 @@
           "vue"
         ],
         "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/HyperMemory",
+        "pages": {
+          "enabled": false
+        },
+        "latestRelease": null
+      },
+      {
+        "name": "make_windows_silky_Patch",
+        "nameWithOwner": "Harzva/make_windows_silky_Patch",
+        "url": "https://github.com/Harzva/make_windows_silky_Patch",
+        "description": "Windows AI workbench token-saver patch kit: audit, evidence manifests, preflight gates, and AgentWorkOS assets.",
+        "isPrivate": false,
+        "isArchived": false,
+        "isFork": false,
+        "primaryLanguage": {
+          "name": "PowerShell"
+        },
+        "pushedAt": "2026-05-20T05:51:33Z",
+        "updatedAt": "2026-05-20T05:52:11Z",
+        "createdAt": "2026-05-19T16:51:24Z",
+        "defaultBranchRef": {
+          "name": "main"
+        },
+        "homepageUrl": "",
+        "stargazerCount": 0,
+        "forkCount": 0,
+        "repositoryTopics": [
+          "agentworkos",
+          "codex",
+          "developer-tools",
+          "evidence-manifest",
+          "powershell",
+          "release-automation",
+          "token-saver",
+          "windows",
+          "windows-ai"
+        ],
+        "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/make_windows_silky_Patch",
         "pages": {
           "enabled": false
         },
@@ -338,15 +338,15 @@
         "primaryLanguage": {
           "name": "TypeScript"
         },
-        "pushedAt": "2026-05-26T04:40:39Z",
-        "updatedAt": "2026-05-26T04:40:43Z",
+        "pushedAt": "2026-05-27T04:54:19Z",
+        "updatedAt": "2026-05-27T04:54:23Z",
         "createdAt": "2026-04-01T03:55:26Z",
         "defaultBranchRef": {
           "name": "main"
         },
         "homepageUrl": "",
-        "stargazerCount": 165,
-        "forkCount": 36,
+        "stargazerCount": 61,
+        "forkCount": 11,
         "repositoryTopics": [
           "agent-loop",
           "ai-coding",
@@ -391,8 +391,8 @@
         "primaryLanguage": {
           "name": "TypeScript"
         },
-        "pushedAt": "2026-05-25T16:03:33Z",
-        "updatedAt": "2026-05-25T16:03:37Z",
+        "pushedAt": "2026-05-26T16:53:19Z",
+        "updatedAt": "2026-05-26T16:53:24Z",
         "createdAt": "2026-05-12T09:49:47Z",
         "defaultBranchRef": {
           "name": "main"
@@ -415,108 +415,6 @@
         "latestRelease": null
       },
       {
-        "name": "harzva-release-hub",
-        "nameWithOwner": "Harzva/harzva-release-hub",
-        "url": "https://github.com/Harzva/harzva-release-hub",
-        "description": "Auto-updating release hub for Harzva repositories with direct download assets and GitHub Pages.",
-        "isPrivate": false,
-        "isArchived": false,
-        "isFork": false,
-        "primaryLanguage": {
-          "name": "Python"
-        },
-        "pushedAt": "2026-05-25T07:59:57Z",
-        "updatedAt": "2026-05-25T08:00:01Z",
-        "createdAt": "2026-05-14T09:29:34Z",
-        "defaultBranchRef": {
-          "name": "main"
-        },
-        "homepageUrl": "https://harzva.github.io/harzva-release-hub/",
-        "stargazerCount": 0,
-        "forkCount": 0,
-        "repositoryTopics": [],
-        "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/harzva-release-hub",
-        "pages": {
-          "enabled": true,
-          "url": "https://harzva.github.io/harzva-release-hub/",
-          "status": null,
-          "source": {
-            "branch": "main",
-            "path": "/"
-          },
-          "httpsEnforced": true
-        },
-        "latestRelease": null
-      },
-      {
-        "name": "harzva-pages-hub",
-        "nameWithOwner": "Harzva/harzva-pages-hub",
-        "url": "https://github.com/Harzva/harzva-pages-hub",
-        "description": "Visual GitHub Pages hub for Harzva sites, demos, docs, and live project surfaces.",
-        "isPrivate": false,
-        "isArchived": false,
-        "isFork": false,
-        "primaryLanguage": {
-          "name": "Python"
-        },
-        "pushedAt": "2026-05-25T07:58:57Z",
-        "updatedAt": "2026-05-25T07:59:01Z",
-        "createdAt": "2026-05-14T09:29:39Z",
-        "defaultBranchRef": {
-          "name": "main"
-        },
-        "homepageUrl": "https://harzva.github.io/harzva-pages-hub/",
-        "stargazerCount": 0,
-        "forkCount": 0,
-        "repositoryTopics": [],
-        "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/harzva-pages-hub",
-        "pages": {
-          "enabled": true,
-          "url": "https://harzva.github.io/harzva-pages-hub/",
-          "status": null,
-          "source": {
-            "branch": "main",
-            "path": "/"
-          },
-          "httpsEnforced": true
-        },
-        "latestRelease": null
-      },
-      {
-        "name": "harzva-project-atlas",
-        "nameWithOwner": "Harzva/harzva-project-atlas",
-        "url": "https://github.com/Harzva/harzva-project-atlas",
-        "description": "Download-first MetaRepo atlas for Harzva APK, EXE, package, archive, and release asset links.",
-        "isPrivate": false,
-        "isArchived": false,
-        "isFork": false,
-        "primaryLanguage": {
-          "name": "Python"
-        },
-        "pushedAt": "2026-05-25T07:58:37Z",
-        "updatedAt": "2026-05-25T07:58:40Z",
-        "createdAt": "2026-05-14T09:27:13Z",
-        "defaultBranchRef": {
-          "name": "main"
-        },
-        "homepageUrl": "https://harzva.github.io/harzva-project-atlas/",
-        "stargazerCount": 0,
-        "forkCount": 0,
-        "repositoryTopics": [],
-        "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/harzva-project-atlas",
-        "pages": {
-          "enabled": true,
-          "url": "https://harzva.github.io/harzva-project-atlas/",
-          "status": null,
-          "source": {
-            "branch": "main",
-            "path": "/"
-          },
-          "httpsEnforced": true
-        },
-        "latestRelease": null
-      },
-      {
         "name": "mobilecode",
         "nameWithOwner": "Harzva/mobilecode",
         "url": "https://github.com/Harzva/mobilecode",
@@ -527,8 +425,8 @@
         "primaryLanguage": {
           "name": "Dart"
         },
-        "pushedAt": "2026-05-23T11:20:17Z",
-        "updatedAt": "2026-05-23T14:02:11Z",
+        "pushedAt": "2026-05-26T11:59:28Z",
+        "updatedAt": "2026-05-26T11:59:32Z",
         "createdAt": "2026-05-12T08:19:17Z",
         "defaultBranchRef": {
           "name": "last"
@@ -591,8 +489,8 @@
         "primaryLanguage": {
           "name": "TypeScript"
         },
-        "pushedAt": "2026-05-21T12:28:08Z",
-        "updatedAt": "2026-05-21T12:28:12Z",
+        "pushedAt": "2026-05-26T08:52:14Z",
+        "updatedAt": "2026-05-26T08:52:18Z",
         "createdAt": "2026-05-11T08:19:22Z",
         "defaultBranchRef": {
           "name": "main"
@@ -620,6 +518,108 @@
           "enabled": true,
           "url": "https://harzva.github.io/ChinaAI-Roadmaps/",
           "status": "built",
+          "source": {
+            "branch": "main",
+            "path": "/"
+          },
+          "httpsEnforced": true
+        },
+        "latestRelease": null
+      },
+      {
+        "name": "harzva-release-hub",
+        "nameWithOwner": "Harzva/harzva-release-hub",
+        "url": "https://github.com/Harzva/harzva-release-hub",
+        "description": "Auto-updating release hub for Harzva repositories with direct download assets and GitHub Pages.",
+        "isPrivate": false,
+        "isArchived": false,
+        "isFork": false,
+        "primaryLanguage": {
+          "name": "Python"
+        },
+        "pushedAt": "2026-05-26T06:57:34Z",
+        "updatedAt": "2026-05-26T06:57:38Z",
+        "createdAt": "2026-05-14T09:29:34Z",
+        "defaultBranchRef": {
+          "name": "main"
+        },
+        "homepageUrl": "https://harzva.github.io/harzva-release-hub/",
+        "stargazerCount": 0,
+        "forkCount": 0,
+        "repositoryTopics": [],
+        "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/harzva-release-hub",
+        "pages": {
+          "enabled": true,
+          "url": "https://harzva.github.io/harzva-release-hub/",
+          "status": null,
+          "source": {
+            "branch": "main",
+            "path": "/"
+          },
+          "httpsEnforced": true
+        },
+        "latestRelease": null
+      },
+      {
+        "name": "harzva-pages-hub",
+        "nameWithOwner": "Harzva/harzva-pages-hub",
+        "url": "https://github.com/Harzva/harzva-pages-hub",
+        "description": "Visual GitHub Pages hub for Harzva sites, demos, docs, and live project surfaces.",
+        "isPrivate": false,
+        "isArchived": false,
+        "isFork": false,
+        "primaryLanguage": {
+          "name": "Python"
+        },
+        "pushedAt": "2026-05-26T06:56:51Z",
+        "updatedAt": "2026-05-26T06:56:54Z",
+        "createdAt": "2026-05-14T09:29:39Z",
+        "defaultBranchRef": {
+          "name": "main"
+        },
+        "homepageUrl": "https://harzva.github.io/harzva-pages-hub/",
+        "stargazerCount": 0,
+        "forkCount": 0,
+        "repositoryTopics": [],
+        "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/harzva-pages-hub",
+        "pages": {
+          "enabled": true,
+          "url": "https://harzva.github.io/harzva-pages-hub/",
+          "status": null,
+          "source": {
+            "branch": "main",
+            "path": "/"
+          },
+          "httpsEnforced": true
+        },
+        "latestRelease": null
+      },
+      {
+        "name": "harzva-project-atlas",
+        "nameWithOwner": "Harzva/harzva-project-atlas",
+        "url": "https://github.com/Harzva/harzva-project-atlas",
+        "description": "Download-first MetaRepo atlas for Harzva APK, EXE, package, archive, and release asset links.",
+        "isPrivate": false,
+        "isArchived": false,
+        "isFork": false,
+        "primaryLanguage": {
+          "name": "Python"
+        },
+        "pushedAt": "2026-05-26T06:56:08Z",
+        "updatedAt": "2026-05-26T06:56:12Z",
+        "createdAt": "2026-05-14T09:27:13Z",
+        "defaultBranchRef": {
+          "name": "main"
+        },
+        "homepageUrl": "https://harzva.github.io/harzva-project-atlas/",
+        "stargazerCount": 0,
+        "forkCount": 0,
+        "repositoryTopics": [],
+        "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/harzva-project-atlas",
+        "pages": {
+          "enabled": true,
+          "url": "https://harzva.github.io/harzva-project-atlas/",
+          "status": null,
           "source": {
             "branch": "main",
             "path": "/"
@@ -964,14 +964,14 @@
           "name": "JavaScript"
         },
         "pushedAt": "2026-05-25T09:29:48Z",
-        "updatedAt": "2026-05-22T11:47:05Z",
+        "updatedAt": "2026-05-26T10:02:21Z",
         "createdAt": "2026-04-13T14:39:15Z",
         "defaultBranchRef": {
           "name": "main"
         },
         "homepageUrl": "",
-        "stargazerCount": 88,
-        "forkCount": 21,
+        "stargazerCount": 7,
+        "forkCount": 2,
         "repositoryTopics": [],
         "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/codex-managed-agent",
         "pages": {
@@ -998,6 +998,79 @@
     ],
     "Skills and Agent Workflows": [
       {
+        "name": "deepseek-cli",
+        "nameWithOwner": "Harzva/deepseek-cli",
+        "url": "https://github.com/Harzva/deepseek-cli",
+        "description": "DeepSeek-first API CLI and Agent Skills toolkit with multi-provider fallback",
+        "isPrivate": false,
+        "isArchived": false,
+        "isFork": false,
+        "primaryLanguage": {
+          "name": "JavaScript"
+        },
+        "pushedAt": "2026-05-26T09:54:40Z",
+        "updatedAt": "2026-05-26T09:54:44Z",
+        "createdAt": "2026-05-26T06:56:21Z",
+        "defaultBranchRef": {
+          "name": "main"
+        },
+        "homepageUrl": "",
+        "stargazerCount": 0,
+        "forkCount": 0,
+        "repositoryTopics": [
+          "agent-skills",
+          "cli",
+          "deepseek",
+          "llm",
+          "openai-compatible"
+        ],
+        "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/deepseek-cli",
+        "pages": {
+          "enabled": false
+        },
+        "latestRelease": null
+      },
+      {
+        "name": "CampusAgent-QA",
+        "nameWithOwner": "Harzva/CampusAgent-QA",
+        "url": "https://github.com/Harzva/CampusAgent-QA",
+        "description": "Agentic campus QA system with RAG retrieval, LLM Wiki memory, and GBrain skills",
+        "isPrivate": false,
+        "isArchived": false,
+        "isFork": false,
+        "primaryLanguage": {
+          "name": "Java"
+        },
+        "pushedAt": "2026-05-26T07:23:01Z",
+        "updatedAt": "2026-05-16T08:28:57Z",
+        "createdAt": "2026-05-11T08:22:16Z",
+        "defaultBranchRef": {
+          "name": "main"
+        },
+        "homepageUrl": "https://harzva.github.io/CampusAgent-QA/",
+        "stargazerCount": 0,
+        "forkCount": 0,
+        "repositoryTopics": [
+          "agent",
+          "campus-qa",
+          "rag",
+          "spring-boot",
+          "vue"
+        ],
+        "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/CampusAgent-QA",
+        "pages": {
+          "enabled": true,
+          "url": "https://harzva.github.io/CampusAgent-QA/",
+          "status": null,
+          "source": {
+            "branch": "main",
+            "path": "/"
+          },
+          "httpsEnforced": true
+        },
+        "latestRelease": null
+      },
+      {
         "name": "harzva-skills-hub",
         "nameWithOwner": "Harzva/harzva-skills-hub",
         "url": "https://github.com/Harzva/harzva-skills-hub",
@@ -1008,8 +1081,8 @@
         "primaryLanguage": {
           "name": "Python"
         },
-        "pushedAt": "2026-05-25T07:58:42Z",
-        "updatedAt": "2026-05-25T07:58:45Z",
+        "pushedAt": "2026-05-26T06:56:18Z",
+        "updatedAt": "2026-05-26T06:56:22Z",
         "createdAt": "2026-05-14T09:29:45Z",
         "defaultBranchRef": {
           "name": "main"
@@ -1063,46 +1136,6 @@
         "pages": {
           "enabled": true,
           "url": "https://harzva.github.io/AgentWorkOS/",
-          "status": null,
-          "source": {
-            "branch": "main",
-            "path": "/"
-          },
-          "httpsEnforced": true
-        },
-        "latestRelease": null
-      },
-      {
-        "name": "CampusAgent-QA",
-        "nameWithOwner": "Harzva/CampusAgent-QA",
-        "url": "https://github.com/Harzva/CampusAgent-QA",
-        "description": "Agentic campus QA system with RAG retrieval, LLM Wiki memory, and GBrain skills",
-        "isPrivate": false,
-        "isArchived": false,
-        "isFork": false,
-        "primaryLanguage": {
-          "name": "Java"
-        },
-        "pushedAt": "2026-05-19T13:13:51Z",
-        "updatedAt": "2026-05-16T08:28:57Z",
-        "createdAt": "2026-05-11T08:22:16Z",
-        "defaultBranchRef": {
-          "name": "main"
-        },
-        "homepageUrl": "https://harzva.github.io/CampusAgent-QA/",
-        "stargazerCount": 0,
-        "forkCount": 0,
-        "repositoryTopics": [
-          "agent",
-          "campus-qa",
-          "rag",
-          "spring-boot",
-          "vue"
-        ],
-        "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/CampusAgent-QA",
-        "pages": {
-          "enabled": true,
-          "url": "https://harzva.github.io/CampusAgent-QA/",
           "status": null,
           "source": {
             "branch": "main",
@@ -3288,8 +3321,8 @@
       "primaryLanguage": {
         "name": "TypeScript"
       },
-      "pushedAt": "2026-05-25T16:03:33Z",
-      "updatedAt": "2026-05-25T16:03:37Z",
+      "pushedAt": "2026-05-26T16:53:19Z",
+      "updatedAt": "2026-05-26T16:53:24Z",
       "createdAt": "2026-05-12T09:49:47Z",
       "defaultBranchRef": {
         "name": "main"
@@ -3363,7 +3396,7 @@
       "primaryLanguage": {
         "name": "Java"
       },
-      "pushedAt": "2026-05-19T13:13:51Z",
+      "pushedAt": "2026-05-26T07:23:01Z",
       "updatedAt": "2026-05-16T08:28:57Z",
       "createdAt": "2026-05-11T08:22:16Z",
       "defaultBranchRef": {
@@ -3447,8 +3480,8 @@
       "primaryLanguage": {
         "name": "TypeScript"
       },
-      "pushedAt": "2026-05-21T12:28:08Z",
-      "updatedAt": "2026-05-21T12:28:12Z",
+      "pushedAt": "2026-05-26T08:52:14Z",
+      "updatedAt": "2026-05-26T08:52:18Z",
       "createdAt": "2026-05-11T08:19:22Z",
       "defaultBranchRef": {
         "name": "main"
@@ -3689,8 +3722,8 @@
       "primaryLanguage": {
         "name": "Python"
       },
-      "pushedAt": "2026-05-25T07:58:57Z",
-      "updatedAt": "2026-05-25T07:59:01Z",
+      "pushedAt": "2026-05-26T06:56:51Z",
+      "updatedAt": "2026-05-26T06:56:54Z",
       "createdAt": "2026-05-14T09:29:39Z",
       "defaultBranchRef": {
         "name": "main"
@@ -3723,8 +3756,8 @@
       "primaryLanguage": {
         "name": "Python"
       },
-      "pushedAt": "2026-05-25T07:58:37Z",
-      "updatedAt": "2026-05-25T07:58:40Z",
+      "pushedAt": "2026-05-26T06:56:08Z",
+      "updatedAt": "2026-05-26T06:56:12Z",
       "createdAt": "2026-05-14T09:27:13Z",
       "defaultBranchRef": {
         "name": "main"
@@ -3757,8 +3790,8 @@
       "primaryLanguage": {
         "name": "Python"
       },
-      "pushedAt": "2026-05-25T07:59:57Z",
-      "updatedAt": "2026-05-25T08:00:01Z",
+      "pushedAt": "2026-05-26T06:57:34Z",
+      "updatedAt": "2026-05-26T06:57:38Z",
       "createdAt": "2026-05-14T09:29:34Z",
       "defaultBranchRef": {
         "name": "main"
@@ -3791,8 +3824,8 @@
       "primaryLanguage": {
         "name": "Python"
       },
-      "pushedAt": "2026-05-25T07:58:42Z",
-      "updatedAt": "2026-05-25T07:58:45Z",
+      "pushedAt": "2026-05-26T06:56:18Z",
+      "updatedAt": "2026-05-26T06:56:22Z",
       "createdAt": "2026-05-14T09:29:45Z",
       "defaultBranchRef": {
         "name": "main"
@@ -3859,15 +3892,15 @@
       "primaryLanguage": {
         "name": "TypeScript"
       },
-      "pushedAt": "2026-05-26T04:40:39Z",
-      "updatedAt": "2026-05-26T04:40:43Z",
+      "pushedAt": "2026-05-27T04:54:19Z",
+      "updatedAt": "2026-05-27T04:54:23Z",
       "createdAt": "2026-04-01T03:55:26Z",
       "defaultBranchRef": {
         "name": "main"
       },
       "homepageUrl": "",
-      "stargazerCount": 165,
-      "forkCount": 36,
+      "stargazerCount": 61,
+      "forkCount": 11,
       "repositoryTopics": [
         "agent-loop",
         "ai-coding",
@@ -3912,8 +3945,8 @@
       "primaryLanguage": {
         "name": "Dart"
       },
-      "pushedAt": "2026-05-23T11:20:17Z",
-      "updatedAt": "2026-05-23T14:02:11Z",
+      "pushedAt": "2026-05-26T11:59:28Z",
+      "updatedAt": "2026-05-26T11:59:32Z",
       "createdAt": "2026-05-12T08:19:17Z",
       "defaultBranchRef": {
         "name": "last"
@@ -4070,14 +4103,14 @@
         "name": "JavaScript"
       },
       "pushedAt": "2026-05-25T09:29:48Z",
-      "updatedAt": "2026-05-22T11:47:05Z",
+      "updatedAt": "2026-05-26T10:02:21Z",
       "createdAt": "2026-04-13T14:39:15Z",
       "defaultBranchRef": {
         "name": "main"
       },
       "homepageUrl": "",
-      "stargazerCount": 88,
-      "forkCount": 21,
+      "stargazerCount": 7,
+      "forkCount": 2,
       "repositoryTopics": [],
       "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/codex-managed-agent",
       "pages": {
@@ -4241,15 +4274,15 @@
       "primaryLanguage": {
         "name": "TypeScript"
       },
-      "pushedAt": "2026-05-26T04:40:39Z",
-      "updatedAt": "2026-05-26T04:40:43Z",
+      "pushedAt": "2026-05-27T04:54:19Z",
+      "updatedAt": "2026-05-27T04:54:23Z",
       "createdAt": "2026-04-01T03:55:26Z",
       "defaultBranchRef": {
         "name": "main"
       },
       "homepageUrl": "",
-      "stargazerCount": 165,
-      "forkCount": 36,
+      "stargazerCount": 61,
+      "forkCount": 11,
       "repositoryTopics": [
         "agent-loop",
         "ai-coding",
@@ -4294,8 +4327,8 @@
       "primaryLanguage": {
         "name": "Dart"
       },
-      "pushedAt": "2026-05-23T11:20:17Z",
-      "updatedAt": "2026-05-23T14:02:11Z",
+      "pushedAt": "2026-05-26T11:59:28Z",
+      "updatedAt": "2026-05-26T11:59:32Z",
       "createdAt": "2026-05-12T08:19:17Z",
       "defaultBranchRef": {
         "name": "last"
@@ -4521,7 +4554,7 @@
       "primaryLanguage": {
         "name": "Java"
       },
-      "pushedAt": "2026-05-19T13:13:51Z",
+      "pushedAt": "2026-05-26T07:23:01Z",
       "updatedAt": "2026-05-16T08:28:57Z",
       "createdAt": "2026-05-11T08:22:16Z",
       "defaultBranchRef": {
@@ -4572,6 +4605,39 @@
       "forkCount": 0,
       "repositoryTopics": [],
       "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/copilot-plugin-cc",
+      "pages": {
+        "enabled": false
+      },
+      "latestRelease": null
+    },
+    {
+      "name": "deepseek-cli",
+      "nameWithOwner": "Harzva/deepseek-cli",
+      "url": "https://github.com/Harzva/deepseek-cli",
+      "description": "DeepSeek-first API CLI and Agent Skills toolkit with multi-provider fallback",
+      "isPrivate": false,
+      "isArchived": false,
+      "isFork": false,
+      "primaryLanguage": {
+        "name": "JavaScript"
+      },
+      "pushedAt": "2026-05-26T09:54:40Z",
+      "updatedAt": "2026-05-26T09:54:44Z",
+      "createdAt": "2026-05-26T06:56:21Z",
+      "defaultBranchRef": {
+        "name": "main"
+      },
+      "homepageUrl": "",
+      "stargazerCount": 0,
+      "forkCount": 0,
+      "repositoryTopics": [
+        "agent-skills",
+        "cli",
+        "deepseek",
+        "llm",
+        "openai-compatible"
+      ],
+      "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/deepseek-cli",
       "pages": {
         "enabled": false
       },
@@ -4837,8 +4903,8 @@
       "primaryLanguage": {
         "name": "Python"
       },
-      "pushedAt": "2026-05-25T07:58:42Z",
-      "updatedAt": "2026-05-25T07:58:45Z",
+      "pushedAt": "2026-05-26T06:56:18Z",
+      "updatedAt": "2026-05-26T06:56:22Z",
       "createdAt": "2026-05-14T09:29:45Z",
       "defaultBranchRef": {
         "name": "main"

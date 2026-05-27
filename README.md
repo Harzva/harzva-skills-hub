@@ -6,7 +6,7 @@ A registry of Harzva Codex skills, workflow skills, and agent operating recipes.
 
 [Live Skill Board](https://harzva.github.io/harzva-skills-hub/) | [Project Atlas](https://github.com/Harzva/harzva-project-atlas)
 
-![Skills](https://img.shields.io/badge/skills-21-6B8E23?style=for-the-badge) ![Auto Update](https://img.shields.io/badge/update-daily-111111?style=for-the-badge)
+![Skills](https://img.shields.io/badge/skills-22-6B8E23?style=for-the-badge) ![Auto Update](https://img.shields.io/badge/update-daily-111111?style=for-the-badge)
 
 </div>
 
@@ -14,9 +14,10 @@ A registry of Harzva Codex skills, workflow skills, and agent operating recipes.
 
 | Skill Repository | Language | Updated | Description |
 |---|---:|---:|---|
-| [harzva-skills-hub](https://github.com/Harzva/harzva-skills-hub) | Python | 2026-05-25 | Auto-updating GitHub Pages registry of Harzva Codex skills, workflow skills, and agent recipes. |
+| [deepseek-cli](https://github.com/Harzva/deepseek-cli) | JavaScript | 2026-05-26 | DeepSeek-first API CLI and Agent Skills toolkit with multi-provider fallback |
+| [CampusAgent-QA](https://github.com/Harzva/CampusAgent-QA) | Java | 2026-05-26 | Agentic campus QA system with RAG retrieval, LLM Wiki memory, and GBrain skills |
+| [harzva-skills-hub](https://github.com/Harzva/harzva-skills-hub) | Python | 2026-05-26 | Auto-updating GitHub Pages registry of Harzva Codex skills, workflow skills, and agent recipes. |
 | [AgentWorkOS](https://github.com/Harzva/AgentWorkOS) | Python | 2026-05-20 | Package-managed operating layer for AI agent workspaces: scan, lock, sync, doctor, and install agent context. |
-| [CampusAgent-QA](https://github.com/Harzva/CampusAgent-QA) | Java | 2026-05-19 | Agentic campus QA system with RAG retrieval, LLM Wiki memory, and GBrain skills |
 | [gh-repo-cartographer](https://github.com/Harzva/gh-repo-cartographer) | Python | 2026-05-18 | Codex skill and CLI for mapping GitHub repositories to local checkouts and sync status. |
 | [Project2AgentWorkOS](https://github.com/Harzva/Project2AgentWorkOS) | HTML | 2026-05-16 | Transfer all projects, Codex threads, failure reviews, and half-finished ideas into AgentWorkOS: Agents, Memory, Skills, MCP, Workflow, and Rules. |
 | [github-repo-scout](https://github.com/Harzva/github-repo-scout) | PowerShell | 2026-05-14 | Codex skill for searching GitHub repos and archiving useful repo cards |
@@ -52,5 +53,5 @@ This MetaRepo refreshes itself with GitHub Actions.
 - Data source: GitHub REST API.
 - Privacy default: public repositories only.
 - Private mode: set `META_INCLUDE_PRIVATE=true` and provide `META_GITHUB_TOKEN` only when the meta repository is private.
-- Generated at: `2026-05-26T06:56:17.461777+00:00`.
+- Generated at: `2026-05-27T07:14:49.320854+00:00`.
 - Private repositories omitted from this public output: `13`.

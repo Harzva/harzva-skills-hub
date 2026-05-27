@@ -89,8 +89,8 @@
     "primaryLanguage": {
       "name": "TypeScript"
     },
-    "pushedAt": "2026-05-25T16:03:33Z",
-    "updatedAt": "2026-05-25T16:03:37Z",
+    "pushedAt": "2026-05-26T16:53:19Z",
+    "updatedAt": "2026-05-26T16:53:24Z",
     "createdAt": "2026-05-12T09:49:47Z",
     "defaultBranchRef": {
       "name": "main"
@@ -279,7 +279,7 @@
     "primaryLanguage": {
       "name": "Java"
     },
-    "pushedAt": "2026-05-19T13:13:51Z",
+    "pushedAt": "2026-05-26T07:23:01Z",
     "updatedAt": "2026-05-16T08:28:57Z",
     "createdAt": "2026-05-11T08:22:16Z",
     "defaultBranchRef": {
@@ -319,7 +319,7 @@
     "primaryLanguage": {
       "name": "Java"
     },
-    "pushedAt": "2026-05-20T03:58:08Z",
+    "pushedAt": "2026-05-27T01:28:58Z",
     "updatedAt": "2026-05-16T08:28:53Z",
     "createdAt": "2026-05-09T10:52:36Z",
     "defaultBranchRef": {
@@ -423,8 +423,8 @@
     "primaryLanguage": {
       "name": "TypeScript"
     },
-    "pushedAt": "2026-05-21T12:28:08Z",
-    "updatedAt": "2026-05-21T12:28:12Z",
+    "pushedAt": "2026-05-26T08:52:14Z",
+    "updatedAt": "2026-05-26T08:52:18Z",
     "createdAt": "2026-05-11T08:19:22Z",
     "defaultBranchRef": {
       "name": "main"
@@ -524,14 +524,14 @@
       "name": "JavaScript"
     },
     "pushedAt": "2026-05-25T09:29:48Z",
-    "updatedAt": "2026-05-22T11:47:05Z",
+    "updatedAt": "2026-05-26T10:02:21Z",
     "createdAt": "2026-04-13T14:39:15Z",
     "defaultBranchRef": {
       "name": "main"
     },
     "homepageUrl": "",
-    "stargazerCount": 88,
-    "forkCount": 21,
+    "stargazerCount": 7,
+    "forkCount": 2,
     "repositoryTopics": [],
     "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/codex-managed-agent",
     "pages": {
@@ -577,6 +577,39 @@
     "forkCount": 0,
     "repositoryTopics": [],
     "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/copilot-plugin-cc",
+    "pages": {
+      "enabled": false
+    },
+    "latestRelease": null
+  },
+  {
+    "name": "deepseek-cli",
+    "nameWithOwner": "Harzva/deepseek-cli",
+    "url": "https://github.com/Harzva/deepseek-cli",
+    "description": "DeepSeek-first API CLI and Agent Skills toolkit with multi-provider fallback",
+    "isPrivate": false,
+    "isArchived": false,
+    "isFork": false,
+    "primaryLanguage": {
+      "name": "JavaScript"
+    },
+    "pushedAt": "2026-05-26T09:54:40Z",
+    "updatedAt": "2026-05-26T09:54:44Z",
+    "createdAt": "2026-05-26T06:56:21Z",
+    "defaultBranchRef": {
+      "name": "main"
+    },
+    "homepageUrl": "",
+    "stargazerCount": 0,
+    "forkCount": 0,
+    "repositoryTopics": [
+      "agent-skills",
+      "cli",
+      "deepseek",
+      "llm",
+      "openai-compatible"
+    ],
+    "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/deepseek-cli",
     "pages": {
       "enabled": false
     },
@@ -1102,8 +1135,8 @@
     "primaryLanguage": {
       "name": "Python"
     },
-    "pushedAt": "2026-05-25T07:58:57Z",
-    "updatedAt": "2026-05-25T07:59:01Z",
+    "pushedAt": "2026-05-26T06:56:51Z",
+    "updatedAt": "2026-05-26T06:56:54Z",
     "createdAt": "2026-05-14T09:29:39Z",
     "defaultBranchRef": {
       "name": "main"
@@ -1136,8 +1169,8 @@
     "primaryLanguage": {
       "name": "Python"
     },
-    "pushedAt": "2026-05-25T07:58:37Z",
-    "updatedAt": "2026-05-25T07:58:40Z",
+    "pushedAt": "2026-05-26T06:56:08Z",
+    "updatedAt": "2026-05-26T06:56:12Z",
     "createdAt": "2026-05-14T09:27:13Z",
     "defaultBranchRef": {
       "name": "main"
@@ -1170,8 +1203,8 @@
     "primaryLanguage": {
       "name": "Python"
     },
-    "pushedAt": "2026-05-25T07:59:57Z",
-    "updatedAt": "2026-05-25T08:00:01Z",
+    "pushedAt": "2026-05-26T06:57:34Z",
+    "updatedAt": "2026-05-26T06:57:38Z",
     "createdAt": "2026-05-14T09:29:34Z",
     "defaultBranchRef": {
       "name": "main"
@@ -1204,8 +1237,8 @@
     "primaryLanguage": {
       "name": "Python"
     },
-    "pushedAt": "2026-05-25T07:58:42Z",
-    "updatedAt": "2026-05-25T07:58:45Z",
+    "pushedAt": "2026-05-26T06:56:18Z",
+    "updatedAt": "2026-05-26T06:56:22Z",
     "createdAt": "2026-05-14T09:29:45Z",
     "defaultBranchRef": {
       "name": "main"
@@ -1272,7 +1305,7 @@
     "primaryLanguage": {
       "name": "Java"
     },
-    "pushedAt": "2026-05-19T21:56:03Z",
+    "pushedAt": "2026-05-26T17:30:42Z",
     "updatedAt": "2026-05-16T08:29:03Z",
     "createdAt": "2026-05-11T08:22:16Z",
     "defaultBranchRef": {
@@ -1330,15 +1363,15 @@
     "primaryLanguage": {
       "name": "TypeScript"
     },
-    "pushedAt": "2026-05-26T04:40:39Z",
-    "updatedAt": "2026-05-26T04:40:43Z",
+    "pushedAt": "2026-05-27T04:54:19Z",
+    "updatedAt": "2026-05-27T04:54:23Z",
     "createdAt": "2026-04-01T03:55:26Z",
     "defaultBranchRef": {
       "name": "main"
     },
     "homepageUrl": "",
-    "stargazerCount": 165,
-    "forkCount": 36,
+    "stargazerCount": 61,
+    "forkCount": 11,
     "repositoryTopics": [
       "agent-loop",
       "ai-coding",
@@ -1520,8 +1553,8 @@
     "primaryLanguage": {
       "name": "Dart"
     },
-    "pushedAt": "2026-05-23T11:20:17Z",
-    "updatedAt": "2026-05-23T14:02:11Z",
+    "pushedAt": "2026-05-26T11:59:28Z",
+    "updatedAt": "2026-05-26T11:59:32Z",
     "createdAt": "2026-05-12T08:19:17Z",
     "defaultBranchRef": {
       "name": "last"
