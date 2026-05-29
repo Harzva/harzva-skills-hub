@@ -1,6 +1,6 @@
 {
   "summary": {
-    "generatedAt": "2026-05-28T07:03:29.297726+00:00",
+    "generatedAt": "2026-05-29T07:04:03.480655+00:00",
     "owner": "Harzva",
     "mode": "skills",
     "publicRepositories": 94,
@@ -328,6 +328,195 @@
     ],
     "Pages and Live Demos": [
       {
+        "name": "harzva-project-atlas",
+        "nameWithOwner": "Harzva/harzva-project-atlas",
+        "url": "https://github.com/Harzva/harzva-project-atlas",
+        "description": "Download-first MetaRepo atlas for Harzva APK, EXE, package, archive, and release asset links.",
+        "isPrivate": false,
+        "isArchived": false,
+        "isFork": false,
+        "primaryLanguage": {
+          "name": "Python"
+        },
+        "pushedAt": "2026-05-29T07:03:24Z",
+        "updatedAt": "2026-05-28T07:02:59Z",
+        "createdAt": "2026-05-14T09:27:13Z",
+        "defaultBranchRef": {
+          "name": "main"
+        },
+        "homepageUrl": "https://harzva.github.io/harzva-project-atlas/",
+        "stargazerCount": 0,
+        "forkCount": 0,
+        "repositoryTopics": [],
+        "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/harzva-project-atlas",
+        "pages": {
+          "enabled": true,
+          "url": "https://harzva.github.io/harzva-project-atlas/",
+          "status": null,
+          "source": {
+            "branch": "main",
+            "path": "/"
+          },
+          "httpsEnforced": true
+        },
+        "latestRelease": null
+      },
+      {
+        "name": "learn-likecc",
+        "nameWithOwner": "Harzva/learn-likecc",
+        "url": "https://github.com/Harzva/learn-likecc",
+        "description": "Claude Code 源码逆向恢复项目 | Source Map 逆向 · 架构分析 · 可运行版本 | 1900+ 文件 · 51万行代码 · 12章节课程",
+        "isPrivate": false,
+        "isArchived": false,
+        "isFork": false,
+        "primaryLanguage": {
+          "name": "TypeScript"
+        },
+        "pushedAt": "2026-05-29T04:50:43Z",
+        "updatedAt": "2026-05-29T04:50:48Z",
+        "createdAt": "2026-04-01T03:55:26Z",
+        "defaultBranchRef": {
+          "name": "main"
+        },
+        "homepageUrl": "",
+        "stargazerCount": 61,
+        "forkCount": 11,
+        "repositoryTopics": [
+          "agent-loop",
+          "ai-coding",
+          "anthropic",
+          "bun",
+          "claude-code",
+          "cli-tool",
+          "mcp-protocol",
+          "reverse-engineering",
+          "source-map",
+          "typescript"
+        ],
+        "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/learn-likecc",
+        "pages": {
+          "enabled": true,
+          "url": "https://harzva.github.io/learn-likecc/",
+          "status": "built",
+          "source": {
+            "branch": "main",
+            "path": "/docs"
+          },
+          "httpsEnforced": true
+        },
+        "latestRelease": {
+          "name": "v1.0.2-likecode",
+          "tagName": "v1.0.2-likecode",
+          "url": "https://github.com/Harzva/learn-likecc/releases/tag/v1.0.2-likecode",
+          "publishedAt": "2026-04-07T12:27:48Z",
+          "prerelease": false,
+          "draft": false,
+          "assets": []
+        }
+      },
+      {
+        "name": "Agent-Job-Interview",
+        "nameWithOwner": "Harzva/Agent-Job-Interview",
+        "url": "https://github.com/Harzva/Agent-Job-Interview",
+        "description": "Agent job interview roadmap and practice training suite.",
+        "isPrivate": false,
+        "isArchived": false,
+        "isFork": false,
+        "primaryLanguage": {
+          "name": "TypeScript"
+        },
+        "pushedAt": "2026-05-28T17:06:55Z",
+        "updatedAt": "2026-05-28T17:07:00Z",
+        "createdAt": "2026-05-12T09:49:47Z",
+        "defaultBranchRef": {
+          "name": "main"
+        },
+        "homepageUrl": "https://harzva.github.io/Agent-Job-Interview/",
+        "stargazerCount": 0,
+        "forkCount": 0,
+        "repositoryTopics": [],
+        "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/Agent-Job-Interview",
+        "pages": {
+          "enabled": true,
+          "url": "https://harzva.github.io/Agent-Job-Interview/",
+          "status": "built",
+          "source": {
+            "branch": "main",
+            "path": "/docs"
+          },
+          "httpsEnforced": true
+        },
+        "latestRelease": null
+      },
+      {
+        "name": "harzva-release-hub",
+        "nameWithOwner": "Harzva/harzva-release-hub",
+        "url": "https://github.com/Harzva/harzva-release-hub",
+        "description": "Auto-updating release hub for Harzva repositories with direct download assets and GitHub Pages.",
+        "isPrivate": false,
+        "isArchived": false,
+        "isFork": false,
+        "primaryLanguage": {
+          "name": "Python"
+        },
+        "pushedAt": "2026-05-28T07:05:02Z",
+        "updatedAt": "2026-05-28T07:05:05Z",
+        "createdAt": "2026-05-14T09:29:34Z",
+        "defaultBranchRef": {
+          "name": "main"
+        },
+        "homepageUrl": "https://harzva.github.io/harzva-release-hub/",
+        "stargazerCount": 0,
+        "forkCount": 0,
+        "repositoryTopics": [],
+        "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/harzva-release-hub",
+        "pages": {
+          "enabled": true,
+          "url": "https://harzva.github.io/harzva-release-hub/",
+          "status": null,
+          "source": {
+            "branch": "main",
+            "path": "/"
+          },
+          "httpsEnforced": true
+        },
+        "latestRelease": null
+      },
+      {
+        "name": "harzva-pages-hub",
+        "nameWithOwner": "Harzva/harzva-pages-hub",
+        "url": "https://github.com/Harzva/harzva-pages-hub",
+        "description": "Visual GitHub Pages hub for Harzva sites, demos, docs, and live project surfaces.",
+        "isPrivate": false,
+        "isArchived": false,
+        "isFork": false,
+        "primaryLanguage": {
+          "name": "Python"
+        },
+        "pushedAt": "2026-05-28T07:04:10Z",
+        "updatedAt": "2026-05-28T07:04:14Z",
+        "createdAt": "2026-05-14T09:29:39Z",
+        "defaultBranchRef": {
+          "name": "main"
+        },
+        "homepageUrl": "https://harzva.github.io/harzva-pages-hub/",
+        "stargazerCount": 0,
+        "forkCount": 0,
+        "repositoryTopics": [],
+        "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/harzva-pages-hub",
+        "pages": {
+          "enabled": true,
+          "url": "https://harzva.github.io/harzva-pages-hub/",
+          "status": null,
+          "source": {
+            "branch": "main",
+            "path": "/"
+          },
+          "httpsEnforced": true
+        },
+        "latestRelease": null
+      },
+      {
         "name": "RepoAtlas",
         "nameWithOwner": "Harzva/RepoAtlas",
         "url": "https://github.com/Harzva/RepoAtlas",
@@ -383,195 +572,6 @@
             }
           ]
         }
-      },
-      {
-        "name": "learn-likecc",
-        "nameWithOwner": "Harzva/learn-likecc",
-        "url": "https://github.com/Harzva/learn-likecc",
-        "description": "Claude Code 源码逆向恢复项目 | Source Map 逆向 · 架构分析 · 可运行版本 | 1900+ 文件 · 51万行代码 · 12章节课程",
-        "isPrivate": false,
-        "isArchived": false,
-        "isFork": false,
-        "primaryLanguage": {
-          "name": "TypeScript"
-        },
-        "pushedAt": "2026-05-28T04:48:15Z",
-        "updatedAt": "2026-05-28T04:48:18Z",
-        "createdAt": "2026-04-01T03:55:26Z",
-        "defaultBranchRef": {
-          "name": "main"
-        },
-        "homepageUrl": "",
-        "stargazerCount": 61,
-        "forkCount": 11,
-        "repositoryTopics": [
-          "agent-loop",
-          "ai-coding",
-          "anthropic",
-          "bun",
-          "claude-code",
-          "cli-tool",
-          "mcp-protocol",
-          "reverse-engineering",
-          "source-map",
-          "typescript"
-        ],
-        "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/learn-likecc",
-        "pages": {
-          "enabled": true,
-          "url": "https://harzva.github.io/learn-likecc/",
-          "status": "built",
-          "source": {
-            "branch": "main",
-            "path": "/docs"
-          },
-          "httpsEnforced": true
-        },
-        "latestRelease": {
-          "name": "v1.0.2-likecode",
-          "tagName": "v1.0.2-likecode",
-          "url": "https://github.com/Harzva/learn-likecc/releases/tag/v1.0.2-likecode",
-          "publishedAt": "2026-04-07T12:27:48Z",
-          "prerelease": false,
-          "draft": false,
-          "assets": []
-        }
-      },
-      {
-        "name": "Agent-Job-Interview",
-        "nameWithOwner": "Harzva/Agent-Job-Interview",
-        "url": "https://github.com/Harzva/Agent-Job-Interview",
-        "description": "Agent job interview roadmap and practice training suite.",
-        "isPrivate": false,
-        "isArchived": false,
-        "isFork": false,
-        "primaryLanguage": {
-          "name": "TypeScript"
-        },
-        "pushedAt": "2026-05-27T16:47:04Z",
-        "updatedAt": "2026-05-27T16:47:08Z",
-        "createdAt": "2026-05-12T09:49:47Z",
-        "defaultBranchRef": {
-          "name": "main"
-        },
-        "homepageUrl": "https://harzva.github.io/Agent-Job-Interview/",
-        "stargazerCount": 0,
-        "forkCount": 0,
-        "repositoryTopics": [],
-        "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/Agent-Job-Interview",
-        "pages": {
-          "enabled": true,
-          "url": "https://harzva.github.io/Agent-Job-Interview/",
-          "status": "built",
-          "source": {
-            "branch": "main",
-            "path": "/docs"
-          },
-          "httpsEnforced": true
-        },
-        "latestRelease": null
-      },
-      {
-        "name": "harzva-release-hub",
-        "nameWithOwner": "Harzva/harzva-release-hub",
-        "url": "https://github.com/Harzva/harzva-release-hub",
-        "description": "Auto-updating release hub for Harzva repositories with direct download assets and GitHub Pages.",
-        "isPrivate": false,
-        "isArchived": false,
-        "isFork": false,
-        "primaryLanguage": {
-          "name": "Python"
-        },
-        "pushedAt": "2026-05-27T07:16:03Z",
-        "updatedAt": "2026-05-27T07:16:08Z",
-        "createdAt": "2026-05-14T09:29:34Z",
-        "defaultBranchRef": {
-          "name": "main"
-        },
-        "homepageUrl": "https://harzva.github.io/harzva-release-hub/",
-        "stargazerCount": 0,
-        "forkCount": 0,
-        "repositoryTopics": [],
-        "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/harzva-release-hub",
-        "pages": {
-          "enabled": true,
-          "url": "https://harzva.github.io/harzva-release-hub/",
-          "status": null,
-          "source": {
-            "branch": "main",
-            "path": "/"
-          },
-          "httpsEnforced": true
-        },
-        "latestRelease": null
-      },
-      {
-        "name": "harzva-pages-hub",
-        "nameWithOwner": "Harzva/harzva-pages-hub",
-        "url": "https://github.com/Harzva/harzva-pages-hub",
-        "description": "Visual GitHub Pages hub for Harzva sites, demos, docs, and live project surfaces.",
-        "isPrivate": false,
-        "isArchived": false,
-        "isFork": false,
-        "primaryLanguage": {
-          "name": "Python"
-        },
-        "pushedAt": "2026-05-27T07:14:56Z",
-        "updatedAt": "2026-05-27T07:15:00Z",
-        "createdAt": "2026-05-14T09:29:39Z",
-        "defaultBranchRef": {
-          "name": "main"
-        },
-        "homepageUrl": "https://harzva.github.io/harzva-pages-hub/",
-        "stargazerCount": 0,
-        "forkCount": 0,
-        "repositoryTopics": [],
-        "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/harzva-pages-hub",
-        "pages": {
-          "enabled": true,
-          "url": "https://harzva.github.io/harzva-pages-hub/",
-          "status": null,
-          "source": {
-            "branch": "main",
-            "path": "/"
-          },
-          "httpsEnforced": true
-        },
-        "latestRelease": null
-      },
-      {
-        "name": "harzva-project-atlas",
-        "nameWithOwner": "Harzva/harzva-project-atlas",
-        "url": "https://github.com/Harzva/harzva-project-atlas",
-        "description": "Download-first MetaRepo atlas for Harzva APK, EXE, package, archive, and release asset links.",
-        "isPrivate": false,
-        "isArchived": false,
-        "isFork": false,
-        "primaryLanguage": {
-          "name": "Python"
-        },
-        "pushedAt": "2026-05-27T07:14:10Z",
-        "updatedAt": "2026-05-27T07:14:15Z",
-        "createdAt": "2026-05-14T09:27:13Z",
-        "defaultBranchRef": {
-          "name": "main"
-        },
-        "homepageUrl": "https://harzva.github.io/harzva-project-atlas/",
-        "stargazerCount": 0,
-        "forkCount": 0,
-        "repositoryTopics": [],
-        "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/harzva-project-atlas",
-        "pages": {
-          "enabled": true,
-          "url": "https://harzva.github.io/harzva-project-atlas/",
-          "status": null,
-          "source": {
-            "branch": "main",
-            "path": "/"
-          },
-          "httpsEnforced": true
-        },
-        "latestRelease": null
       },
       {
         "name": "mobilecode",
@@ -998,6 +998,39 @@
     ],
     "Skills and Agent Workflows": [
       {
+        "name": "deepseek-cli",
+        "nameWithOwner": "Harzva/deepseek-cli",
+        "url": "https://github.com/Harzva/deepseek-cli",
+        "description": "DeepSeek-first API CLI and Agent Skills toolkit with multi-provider fallback",
+        "isPrivate": false,
+        "isArchived": false,
+        "isFork": false,
+        "primaryLanguage": {
+          "name": "JavaScript"
+        },
+        "pushedAt": "2026-05-28T07:46:30Z",
+        "updatedAt": "2026-05-28T07:46:34Z",
+        "createdAt": "2026-05-26T06:56:21Z",
+        "defaultBranchRef": {
+          "name": "main"
+        },
+        "homepageUrl": "",
+        "stargazerCount": 0,
+        "forkCount": 0,
+        "repositoryTopics": [
+          "agent-skills",
+          "cli",
+          "deepseek",
+          "llm",
+          "openai-compatible"
+        ],
+        "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/deepseek-cli",
+        "pages": {
+          "enabled": false
+        },
+        "latestRelease": null
+      },
+      {
         "name": "harzva-skills-hub",
         "nameWithOwner": "Harzva/harzva-skills-hub",
         "url": "https://github.com/Harzva/harzva-skills-hub",
@@ -1008,8 +1041,8 @@
         "primaryLanguage": {
           "name": "Python"
         },
-        "pushedAt": "2026-05-27T07:14:51Z",
-        "updatedAt": "2026-05-27T07:14:55Z",
+        "pushedAt": "2026-05-28T07:03:30Z",
+        "updatedAt": "2026-05-28T07:03:34Z",
         "createdAt": "2026-05-14T09:29:45Z",
         "defaultBranchRef": {
           "name": "main"
@@ -1028,39 +1061,6 @@
             "path": "/"
           },
           "httpsEnforced": true
-        },
-        "latestRelease": null
-      },
-      {
-        "name": "deepseek-cli",
-        "nameWithOwner": "Harzva/deepseek-cli",
-        "url": "https://github.com/Harzva/deepseek-cli",
-        "description": "DeepSeek-first API CLI and Agent Skills toolkit with multi-provider fallback",
-        "isPrivate": false,
-        "isArchived": false,
-        "isFork": false,
-        "primaryLanguage": {
-          "name": "JavaScript"
-        },
-        "pushedAt": "2026-05-26T09:54:40Z",
-        "updatedAt": "2026-05-26T09:54:44Z",
-        "createdAt": "2026-05-26T06:56:21Z",
-        "defaultBranchRef": {
-          "name": "main"
-        },
-        "homepageUrl": "",
-        "stargazerCount": 0,
-        "forkCount": 0,
-        "repositoryTopics": [
-          "agent-skills",
-          "cli",
-          "deepseek",
-          "llm",
-          "openai-compatible"
-        ],
-        "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/deepseek-cli",
-        "pages": {
-          "enabled": false
         },
         "latestRelease": null
       },
@@ -3321,8 +3321,8 @@
       "primaryLanguage": {
         "name": "TypeScript"
       },
-      "pushedAt": "2026-05-27T16:47:04Z",
-      "updatedAt": "2026-05-27T16:47:08Z",
+      "pushedAt": "2026-05-28T17:06:55Z",
+      "updatedAt": "2026-05-28T17:07:00Z",
       "createdAt": "2026-05-12T09:49:47Z",
       "defaultBranchRef": {
         "name": "main"
@@ -3722,8 +3722,8 @@
       "primaryLanguage": {
         "name": "Python"
       },
-      "pushedAt": "2026-05-27T07:14:56Z",
-      "updatedAt": "2026-05-27T07:15:00Z",
+      "pushedAt": "2026-05-28T07:04:10Z",
+      "updatedAt": "2026-05-28T07:04:14Z",
       "createdAt": "2026-05-14T09:29:39Z",
       "defaultBranchRef": {
         "name": "main"
@@ -3756,8 +3756,8 @@
       "primaryLanguage": {
         "name": "Python"
       },
-      "pushedAt": "2026-05-27T07:14:10Z",
-      "updatedAt": "2026-05-27T07:14:15Z",
+      "pushedAt": "2026-05-29T07:03:24Z",
+      "updatedAt": "2026-05-28T07:02:59Z",
       "createdAt": "2026-05-14T09:27:13Z",
       "defaultBranchRef": {
         "name": "main"
@@ -3790,8 +3790,8 @@
       "primaryLanguage": {
         "name": "Python"
       },
-      "pushedAt": "2026-05-27T07:16:03Z",
-      "updatedAt": "2026-05-27T07:16:08Z",
+      "pushedAt": "2026-05-28T07:05:02Z",
+      "updatedAt": "2026-05-28T07:05:05Z",
       "createdAt": "2026-05-14T09:29:34Z",
       "defaultBranchRef": {
         "name": "main"
@@ -3824,8 +3824,8 @@
       "primaryLanguage": {
         "name": "Python"
       },
-      "pushedAt": "2026-05-27T07:14:51Z",
-      "updatedAt": "2026-05-27T07:14:55Z",
+      "pushedAt": "2026-05-28T07:03:30Z",
+      "updatedAt": "2026-05-28T07:03:34Z",
       "createdAt": "2026-05-14T09:29:45Z",
       "defaultBranchRef": {
         "name": "main"
@@ -3892,8 +3892,8 @@
       "primaryLanguage": {
         "name": "TypeScript"
       },
-      "pushedAt": "2026-05-28T04:48:15Z",
-      "updatedAt": "2026-05-28T04:48:18Z",
+      "pushedAt": "2026-05-29T04:50:43Z",
+      "updatedAt": "2026-05-29T04:50:48Z",
       "createdAt": "2026-04-01T03:55:26Z",
       "defaultBranchRef": {
         "name": "main"
@@ -4274,8 +4274,8 @@
       "primaryLanguage": {
         "name": "TypeScript"
       },
-      "pushedAt": "2026-05-28T04:48:15Z",
-      "updatedAt": "2026-05-28T04:48:18Z",
+      "pushedAt": "2026-05-29T04:50:43Z",
+      "updatedAt": "2026-05-29T04:50:48Z",
       "createdAt": "2026-04-01T03:55:26Z",
       "defaultBranchRef": {
         "name": "main"
@@ -4621,8 +4621,8 @@
       "primaryLanguage": {
         "name": "JavaScript"
       },
-      "pushedAt": "2026-05-26T09:54:40Z",
-      "updatedAt": "2026-05-26T09:54:44Z",
+      "pushedAt": "2026-05-28T07:46:30Z",
+      "updatedAt": "2026-05-28T07:46:34Z",
       "createdAt": "2026-05-26T06:56:21Z",
       "defaultBranchRef": {
         "name": "main"
@@ -4903,8 +4903,8 @@
       "primaryLanguage": {
         "name": "Python"
       },
-      "pushedAt": "2026-05-27T07:14:51Z",
-      "updatedAt": "2026-05-27T07:14:55Z",
+      "pushedAt": "2026-05-28T07:03:30Z",
+      "updatedAt": "2026-05-28T07:03:34Z",
       "createdAt": "2026-05-14T09:29:45Z",
       "defaultBranchRef": {
         "name": "main"
