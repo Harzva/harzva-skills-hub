@@ -463,8 +463,8 @@
     "primaryLanguage": {
       "name": "Python"
     },
-    "pushedAt": "2026-05-29T07:04:04Z",
-    "updatedAt": "2026-05-29T07:04:08Z",
+    "pushedAt": "2026-05-30T06:31:13Z",
+    "updatedAt": "2026-05-30T06:31:17Z",
     "createdAt": "2026-05-14T09:29:45Z",
     "defaultBranchRef": {
       "name": "main"
@@ -578,6 +578,33 @@
       "screenshot"
     ],
     "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/ReadmeShowcaseScreenshot-Skill",
+    "pages": {
+      "enabled": false
+    },
+    "latestRelease": null
+  },
+  {
+    "name": "rebuttal-skill-suite",
+    "nameWithOwner": "Harzva/rebuttal-skill-suite",
+    "url": "https://github.com/Harzva/rebuttal-skill-suite",
+    "description": "Automated gates and reviewer-aware workflows for safer academic rebuttals.",
+    "isPrivate": false,
+    "isArchived": false,
+    "isFork": false,
+    "primaryLanguage": {
+      "name": "Python"
+    },
+    "pushedAt": "2026-05-31T02:12:11Z",
+    "updatedAt": "2026-05-31T02:12:15Z",
+    "createdAt": "2026-05-31T01:50:14Z",
+    "defaultBranchRef": {
+      "name": "main"
+    },
+    "homepageUrl": "",
+    "stargazerCount": 0,
+    "forkCount": 0,
+    "repositoryTopics": [],
+    "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/rebuttal-skill-suite",
     "pages": {
       "enabled": false
     },

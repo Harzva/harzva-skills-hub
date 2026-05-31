@@ -89,8 +89,8 @@
     "primaryLanguage": {
       "name": "TypeScript"
     },
-    "pushedAt": "2026-05-29T16:53:54Z",
-    "updatedAt": "2026-05-29T16:53:59Z",
+    "pushedAt": "2026-05-31T05:45:36Z",
+    "updatedAt": "2026-05-31T05:45:40Z",
     "createdAt": "2026-05-12T09:49:47Z",
     "defaultBranchRef": {
       "name": "main"
@@ -1125,6 +1125,33 @@
     "latestRelease": null
   },
   {
+    "name": "harzva-agentworkos-stack",
+    "nameWithOwner": "Harzva/harzva-agentworkos-stack",
+    "url": "https://github.com/Harzva/harzva-agentworkos-stack",
+    "description": "Public safe-core AgentWorkOS stack for Harzva AgentOS environment restore",
+    "isPrivate": false,
+    "isArchived": false,
+    "isFork": false,
+    "primaryLanguage": {
+      "name": "PowerShell"
+    },
+    "pushedAt": "2026-05-31T01:54:52Z",
+    "updatedAt": "2026-05-31T01:54:56Z",
+    "createdAt": "2026-05-31T01:54:49Z",
+    "defaultBranchRef": {
+      "name": "main"
+    },
+    "homepageUrl": "",
+    "stargazerCount": 0,
+    "forkCount": 0,
+    "repositoryTopics": [],
+    "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/harzva-agentworkos-stack",
+    "pages": {
+      "enabled": false
+    },
+    "latestRelease": null
+  },
+  {
     "name": "harzva-pages-hub",
     "nameWithOwner": "Harzva/harzva-pages-hub",
     "url": "https://github.com/Harzva/harzva-pages-hub",
@@ -1135,8 +1162,8 @@
     "primaryLanguage": {
       "name": "Python"
     },
-    "pushedAt": "2026-05-29T07:04:44Z",
-    "updatedAt": "2026-05-29T07:04:48Z",
+    "pushedAt": "2026-05-30T06:31:22Z",
+    "updatedAt": "2026-05-30T06:31:25Z",
     "createdAt": "2026-05-14T09:29:39Z",
     "defaultBranchRef": {
       "name": "main"
@@ -1169,8 +1196,8 @@
     "primaryLanguage": {
       "name": "Python"
     },
-    "pushedAt": "2026-05-29T07:03:24Z",
-    "updatedAt": "2026-05-29T07:03:29Z",
+    "pushedAt": "2026-05-30T06:30:33Z",
+    "updatedAt": "2026-05-30T06:30:36Z",
     "createdAt": "2026-05-14T09:27:13Z",
     "defaultBranchRef": {
       "name": "main"
@@ -1203,8 +1230,8 @@
     "primaryLanguage": {
       "name": "Python"
     },
-    "pushedAt": "2026-05-29T07:06:21Z",
-    "updatedAt": "2026-05-29T07:06:25Z",
+    "pushedAt": "2026-05-30T06:32:07Z",
+    "updatedAt": "2026-05-30T06:32:10Z",
     "createdAt": "2026-05-14T09:29:34Z",
     "defaultBranchRef": {
       "name": "main"
@@ -1237,8 +1264,8 @@
     "primaryLanguage": {
       "name": "Python"
     },
-    "pushedAt": "2026-05-29T07:04:04Z",
-    "updatedAt": "2026-05-29T07:04:08Z",
+    "pushedAt": "2026-05-30T06:31:13Z",
+    "updatedAt": "2026-05-30T06:31:17Z",
     "createdAt": "2026-05-14T09:29:45Z",
     "defaultBranchRef": {
       "name": "main"
@@ -1363,8 +1390,8 @@
     "primaryLanguage": {
       "name": "TypeScript"
     },
-    "pushedAt": "2026-05-30T04:32:51Z",
-    "updatedAt": "2026-05-30T04:32:55Z",
+    "pushedAt": "2026-05-31T04:57:45Z",
+    "updatedAt": "2026-05-31T04:57:49Z",
     "createdAt": "2026-04-01T03:55:26Z",
     "defaultBranchRef": {
       "name": "main"
@@ -1779,6 +1806,33 @@
       "screenshot"
     ],
     "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/ReadmeShowcaseScreenshot-Skill",
+    "pages": {
+      "enabled": false
+    },
+    "latestRelease": null
+  },
+  {
+    "name": "rebuttal-skill-suite",
+    "nameWithOwner": "Harzva/rebuttal-skill-suite",
+    "url": "https://github.com/Harzva/rebuttal-skill-suite",
+    "description": "Automated gates and reviewer-aware workflows for safer academic rebuttals.",
+    "isPrivate": false,
+    "isArchived": false,
+    "isFork": false,
+    "primaryLanguage": {
+      "name": "Python"
+    },
+    "pushedAt": "2026-05-31T02:12:11Z",
+    "updatedAt": "2026-05-31T02:12:15Z",
+    "createdAt": "2026-05-31T01:50:14Z",
+    "defaultBranchRef": {
+      "name": "main"
+    },
+    "homepageUrl": "",
+    "stargazerCount": 0,
+    "forkCount": 0,
+    "repositoryTopics": [],
+    "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/rebuttal-skill-suite",
     "pages": {
       "enabled": false
     },
