@@ -1,18 +1,43 @@
 {
   "summary": {
-    "generatedAt": "2026-06-03T08:28:49.048661+00:00",
+    "generatedAt": "2026-06-04T08:01:11.929604+00:00",
     "owner": "Harzva",
     "mode": "skills",
-    "publicRepositories": 96,
+    "publicRepositories": 99,
     "forks": 35,
-    "pages": 18,
+    "pages": 19,
     "releases": 6,
-    "skills": 23,
+    "skills": 24,
     "artifacts": 12,
     "privateOmitted": 13
   },
   "categories": {
     "AI Agents and LLM Systems": [
+      {
+        "name": "codex-spark-playbook",
+        "nameWithOwner": "Harzva/codex-spark-playbook",
+        "url": "https://github.com/Harzva/codex-spark-playbook",
+        "description": "A bounded-task playbook for using Codex Spark as a fast secondary execution channel.",
+        "isPrivate": false,
+        "isArchived": false,
+        "isFork": false,
+        "primaryLanguage": null,
+        "pushedAt": "2026-06-04T06:59:09Z",
+        "updatedAt": "2026-06-04T06:59:13Z",
+        "createdAt": "2026-06-04T06:58:50Z",
+        "defaultBranchRef": {
+          "name": "main"
+        },
+        "homepageUrl": "",
+        "stargazerCount": 0,
+        "forkCount": 0,
+        "repositoryTopics": [],
+        "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/codex-spark-playbook",
+        "pages": {
+          "enabled": false
+        },
+        "latestRelease": null
+      },
       {
         "name": "harzva-agentworkos-stack",
         "nameWithOwner": "Harzva/harzva-agentworkos-stack",
@@ -22,10 +47,10 @@
         "isArchived": false,
         "isFork": false,
         "primaryLanguage": {
-          "name": "PowerShell"
+          "name": "HTML"
         },
-        "pushedAt": "2026-05-31T01:54:52Z",
-        "updatedAt": "2026-05-31T01:54:56Z",
+        "pushedAt": "2026-06-04T03:16:04Z",
+        "updatedAt": "2026-06-04T03:16:08Z",
         "createdAt": "2026-05-31T01:54:49Z",
         "defaultBranchRef": {
           "name": "main"
@@ -51,7 +76,7 @@
         "primaryLanguage": {
           "name": "Java"
         },
-        "pushedAt": "2026-05-27T01:28:58Z",
+        "pushedAt": "2026-06-04T00:53:41Z",
         "updatedAt": "2026-05-16T08:28:53Z",
         "createdAt": "2026-05-09T10:52:36Z",
         "defaultBranchRef": {
@@ -84,7 +109,7 @@
         "primaryLanguage": {
           "name": "Java"
         },
-        "pushedAt": "2026-05-26T17:30:42Z",
+        "pushedAt": "2026-06-03T23:41:27Z",
         "updatedAt": "2026-05-16T08:29:03Z",
         "createdAt": "2026-05-11T08:22:16Z",
         "defaultBranchRef": {
@@ -355,6 +380,40 @@
     ],
     "Pages and Live Demos": [
       {
+        "name": "IssueTrending",
+        "nameWithOwner": "Harzva/IssueTrending",
+        "url": "https://github.com/Harzva/IssueTrending",
+        "description": "GitHub issue intelligence dashboard for discovering developer pain points, product opportunities, and content angles.",
+        "isPrivate": false,
+        "isArchived": false,
+        "isFork": false,
+        "primaryLanguage": {
+          "name": "JavaScript"
+        },
+        "pushedAt": "2026-06-04T07:28:25Z",
+        "updatedAt": "2026-06-04T07:28:28Z",
+        "createdAt": "2026-06-04T05:27:16Z",
+        "defaultBranchRef": {
+          "name": "main"
+        },
+        "homepageUrl": "",
+        "stargazerCount": 0,
+        "forkCount": 0,
+        "repositoryTopics": [],
+        "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/IssueTrending",
+        "pages": {
+          "enabled": true,
+          "url": "https://harzva.github.io/IssueTrending/",
+          "status": "built",
+          "source": {
+            "branch": "main",
+            "path": "/"
+          },
+          "httpsEnforced": true
+        },
+        "latestRelease": null
+      },
+      {
         "name": "learn-likecc",
         "nameWithOwner": "Harzva/learn-likecc",
         "url": "https://github.com/Harzva/learn-likecc",
@@ -365,8 +424,8 @@
         "primaryLanguage": {
           "name": "TypeScript"
         },
-        "pushedAt": "2026-06-03T05:23:44Z",
-        "updatedAt": "2026-06-03T05:23:48Z",
+        "pushedAt": "2026-06-04T05:18:48Z",
+        "updatedAt": "2026-06-04T05:18:52Z",
         "createdAt": "2026-04-01T03:55:26Z",
         "defaultBranchRef": {
           "name": "main"
@@ -408,6 +467,54 @@
         }
       },
       {
+        "name": "ChinaAI-Roadmaps",
+        "nameWithOwner": "Harzva/ChinaAI-Roadmaps",
+        "url": "https://github.com/Harzva/ChinaAI-Roadmaps",
+        "description": "Technical roadmaps for China's open and open-weight LLM companies: GLM, Kimi, DeepSeek, MiniMax",
+        "isPrivate": false,
+        "isArchived": false,
+        "isFork": false,
+        "primaryLanguage": {
+          "name": "TypeScript"
+        },
+        "pushedAt": "2026-06-04T02:04:26Z",
+        "updatedAt": "2026-06-04T02:04:30Z",
+        "createdAt": "2026-05-11T08:19:22Z",
+        "defaultBranchRef": {
+          "name": "main"
+        },
+        "homepageUrl": "https://harzva.github.io/ChinaAI-Roadmaps/",
+        "stargazerCount": 0,
+        "forkCount": 0,
+        "repositoryTopics": [
+          "agentic-ai",
+          "ai",
+          "china-ai",
+          "deepseek",
+          "glm",
+          "kimi",
+          "llm",
+          "minimax",
+          "open-llm",
+          "open-weight-models",
+          "papers",
+          "roadmap",
+          "svg"
+        ],
+        "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/ChinaAI-Roadmaps",
+        "pages": {
+          "enabled": true,
+          "url": "https://harzva.github.io/ChinaAI-Roadmaps/",
+          "status": "built",
+          "source": {
+            "branch": "main",
+            "path": "/"
+          },
+          "httpsEnforced": true
+        },
+        "latestRelease": null
+      },
+      {
         "name": "Agent-Job-Interview",
         "nameWithOwner": "Harzva/Agent-Job-Interview",
         "url": "https://github.com/Harzva/Agent-Job-Interview",
@@ -418,8 +525,8 @@
         "primaryLanguage": {
           "name": "TypeScript"
         },
-        "pushedAt": "2026-06-02T17:50:20Z",
-        "updatedAt": "2026-06-02T17:50:25Z",
+        "pushedAt": "2026-06-03T18:04:42Z",
+        "updatedAt": "2026-06-03T18:04:51Z",
         "createdAt": "2026-05-12T09:49:47Z",
         "defaultBranchRef": {
           "name": "main"
@@ -452,8 +559,8 @@
         "primaryLanguage": {
           "name": "Python"
         },
-        "pushedAt": "2026-06-02T08:09:59Z",
-        "updatedAt": "2026-06-02T08:10:03Z",
+        "pushedAt": "2026-06-03T08:31:06Z",
+        "updatedAt": "2026-06-03T08:31:10Z",
         "createdAt": "2026-05-14T09:29:34Z",
         "defaultBranchRef": {
           "name": "main"
@@ -486,8 +593,8 @@
         "primaryLanguage": {
           "name": "Python"
         },
-        "pushedAt": "2026-06-02T08:07:01Z",
-        "updatedAt": "2026-06-02T08:07:44Z",
+        "pushedAt": "2026-06-03T08:29:33Z",
+        "updatedAt": "2026-06-03T08:29:38Z",
         "createdAt": "2026-05-14T09:29:39Z",
         "defaultBranchRef": {
           "name": "main"
@@ -520,8 +627,8 @@
         "primaryLanguage": {
           "name": "Python"
         },
-        "pushedAt": "2026-06-02T08:05:57Z",
-        "updatedAt": "2026-06-02T08:06:02Z",
+        "pushedAt": "2026-06-03T08:28:40Z",
+        "updatedAt": "2026-06-03T08:28:44Z",
         "createdAt": "2026-05-14T09:27:13Z",
         "defaultBranchRef": {
           "name": "main"
@@ -587,7 +694,7 @@
               "name": "RepoAtlas-v0.6.6-macos-ARM64.tar.gz",
               "url": "https://github.com/Harzva/RepoAtlas/releases/download/v0.6.6/RepoAtlas-v0.6.6-macos-ARM64.tar.gz",
               "size": 775571,
-              "downloadCount": 1,
+              "downloadCount": 2,
               "contentType": "application/gzip"
             },
             {
@@ -663,54 +770,6 @@
             }
           ]
         }
-      },
-      {
-        "name": "ChinaAI-Roadmaps",
-        "nameWithOwner": "Harzva/ChinaAI-Roadmaps",
-        "url": "https://github.com/Harzva/ChinaAI-Roadmaps",
-        "description": "Technical roadmaps for China's open and open-weight LLM companies: GLM, Kimi, DeepSeek, MiniMax",
-        "isPrivate": false,
-        "isArchived": false,
-        "isFork": false,
-        "primaryLanguage": {
-          "name": "TypeScript"
-        },
-        "pushedAt": "2026-05-26T08:52:14Z",
-        "updatedAt": "2026-05-26T08:52:18Z",
-        "createdAt": "2026-05-11T08:19:22Z",
-        "defaultBranchRef": {
-          "name": "main"
-        },
-        "homepageUrl": "https://harzva.github.io/ChinaAI-Roadmaps/",
-        "stargazerCount": 0,
-        "forkCount": 0,
-        "repositoryTopics": [
-          "agentic-ai",
-          "ai",
-          "china-ai",
-          "deepseek",
-          "glm",
-          "kimi",
-          "llm",
-          "minimax",
-          "open-llm",
-          "open-weight-models",
-          "papers",
-          "roadmap",
-          "svg"
-        ],
-        "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/ChinaAI-Roadmaps",
-        "pages": {
-          "enabled": true,
-          "url": "https://harzva.github.io/ChinaAI-Roadmaps/",
-          "status": "built",
-          "source": {
-            "branch": "main",
-            "path": "/"
-          },
-          "httpsEnforced": true
-        },
-        "latestRelease": null
       },
       {
         "name": "GitReleaseMarket",
@@ -1025,6 +1084,146 @@
     ],
     "Skills and Agent Workflows": [
       {
+        "name": "rebuttal-skill-suite",
+        "nameWithOwner": "Harzva/rebuttal-skill-suite",
+        "url": "https://github.com/Harzva/rebuttal-skill-suite",
+        "description": "Automated gates and reviewer-aware workflows for safer academic rebuttals.",
+        "isPrivate": false,
+        "isArchived": false,
+        "isFork": false,
+        "primaryLanguage": {
+          "name": "Python"
+        },
+        "pushedAt": "2026-06-04T05:13:34Z",
+        "updatedAt": "2026-06-04T05:13:38Z",
+        "createdAt": "2026-05-31T01:50:14Z",
+        "defaultBranchRef": {
+          "name": "main"
+        },
+        "homepageUrl": "",
+        "stargazerCount": 0,
+        "forkCount": 0,
+        "repositoryTopics": [],
+        "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/rebuttal-skill-suite",
+        "pages": {
+          "enabled": false
+        },
+        "latestRelease": null
+      },
+      {
+        "name": "AgentWorkOS",
+        "nameWithOwner": "Harzva/AgentWorkOS",
+        "url": "https://github.com/Harzva/AgentWorkOS",
+        "description": "Package-managed operating layer for AI agent workspaces: scan, lock, sync, doctor, and install agent context.",
+        "isPrivate": false,
+        "isArchived": false,
+        "isFork": false,
+        "primaryLanguage": {
+          "name": "Python"
+        },
+        "pushedAt": "2026-06-04T02:42:42Z",
+        "updatedAt": "2026-06-04T02:42:46Z",
+        "createdAt": "2026-05-20T02:45:51Z",
+        "defaultBranchRef": {
+          "name": "main"
+        },
+        "homepageUrl": "",
+        "stargazerCount": 0,
+        "forkCount": 0,
+        "repositoryTopics": [
+          "agents",
+          "agentworkos",
+          "ai-tools",
+          "codex",
+          "package-manager",
+          "skills"
+        ],
+        "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/AgentWorkOS",
+        "pages": {
+          "enabled": true,
+          "url": "https://harzva.github.io/AgentWorkOS/",
+          "status": null,
+          "source": {
+            "branch": "main",
+            "path": "/"
+          },
+          "httpsEnforced": true
+        },
+        "latestRelease": null
+      },
+      {
+        "name": "xhs-skill-suite",
+        "nameWithOwner": "Harzva/xhs-skill-suite",
+        "url": "https://github.com/Harzva/xhs-skill-suite",
+        "description": "Public-safe Xiaohongshu skill suite for GitHub and AI-tool promotion workflows.",
+        "isPrivate": false,
+        "isArchived": false,
+        "isFork": false,
+        "primaryLanguage": null,
+        "pushedAt": "2026-06-04T02:21:59Z",
+        "updatedAt": "2026-06-04T02:22:03Z",
+        "createdAt": "2026-06-04T02:17:27Z",
+        "defaultBranchRef": {
+          "name": "main"
+        },
+        "homepageUrl": "",
+        "stargazerCount": 0,
+        "forkCount": 0,
+        "repositoryTopics": [
+          "agentworkos",
+          "ai-tools",
+          "github",
+          "mcp",
+          "skill",
+          "xiaohongshu"
+        ],
+        "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/xhs-skill-suite",
+        "pages": {
+          "enabled": false
+        },
+        "latestRelease": null
+      },
+      {
+        "name": "CampusAgent-QA",
+        "nameWithOwner": "Harzva/CampusAgent-QA",
+        "url": "https://github.com/Harzva/CampusAgent-QA",
+        "description": "Agentic campus QA system with RAG retrieval, LLM Wiki memory, and GBrain skills",
+        "isPrivate": false,
+        "isArchived": false,
+        "isFork": false,
+        "primaryLanguage": {
+          "name": "Java"
+        },
+        "pushedAt": "2026-06-03T20:44:03Z",
+        "updatedAt": "2026-05-16T08:28:57Z",
+        "createdAt": "2026-05-11T08:22:16Z",
+        "defaultBranchRef": {
+          "name": "main"
+        },
+        "homepageUrl": "https://harzva.github.io/CampusAgent-QA/",
+        "stargazerCount": 0,
+        "forkCount": 0,
+        "repositoryTopics": [
+          "agent",
+          "campus-qa",
+          "rag",
+          "spring-boot",
+          "vue"
+        ],
+        "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/CampusAgent-QA",
+        "pages": {
+          "enabled": true,
+          "url": "https://harzva.github.io/CampusAgent-QA/",
+          "status": null,
+          "source": {
+            "branch": "main",
+            "path": "/"
+          },
+          "httpsEnforced": true
+        },
+        "latestRelease": null
+      },
+      {
         "name": "harzva-skills-hub",
         "nameWithOwner": "Harzva/harzva-skills-hub",
         "url": "https://github.com/Harzva/harzva-skills-hub",
@@ -1035,8 +1234,8 @@
         "primaryLanguage": {
           "name": "Python"
         },
-        "pushedAt": "2026-06-02T08:06:27Z",
-        "updatedAt": "2026-06-02T08:06:31Z",
+        "pushedAt": "2026-06-03T08:28:50Z",
+        "updatedAt": "2026-06-03T08:28:54Z",
         "createdAt": "2026-05-14T09:29:45Z",
         "defaultBranchRef": {
           "name": "main"
@@ -1055,33 +1254,6 @@
             "path": "/"
           },
           "httpsEnforced": true
-        },
-        "latestRelease": null
-      },
-      {
-        "name": "rebuttal-skill-suite",
-        "nameWithOwner": "Harzva/rebuttal-skill-suite",
-        "url": "https://github.com/Harzva/rebuttal-skill-suite",
-        "description": "Automated gates and reviewer-aware workflows for safer academic rebuttals.",
-        "isPrivate": false,
-        "isArchived": false,
-        "isFork": false,
-        "primaryLanguage": {
-          "name": "Python"
-        },
-        "pushedAt": "2026-05-31T02:12:11Z",
-        "updatedAt": "2026-05-31T02:12:15Z",
-        "createdAt": "2026-05-31T01:50:14Z",
-        "defaultBranchRef": {
-          "name": "main"
-        },
-        "homepageUrl": "",
-        "stargazerCount": 0,
-        "forkCount": 0,
-        "repositoryTopics": [],
-        "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/rebuttal-skill-suite",
-        "pages": {
-          "enabled": false
         },
         "latestRelease": null
       },
@@ -1115,87 +1287,6 @@
         "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/deepseek-cli",
         "pages": {
           "enabled": false
-        },
-        "latestRelease": null
-      },
-      {
-        "name": "CampusAgent-QA",
-        "nameWithOwner": "Harzva/CampusAgent-QA",
-        "url": "https://github.com/Harzva/CampusAgent-QA",
-        "description": "Agentic campus QA system with RAG retrieval, LLM Wiki memory, and GBrain skills",
-        "isPrivate": false,
-        "isArchived": false,
-        "isFork": false,
-        "primaryLanguage": {
-          "name": "Java"
-        },
-        "pushedAt": "2026-05-26T07:23:01Z",
-        "updatedAt": "2026-05-16T08:28:57Z",
-        "createdAt": "2026-05-11T08:22:16Z",
-        "defaultBranchRef": {
-          "name": "main"
-        },
-        "homepageUrl": "https://harzva.github.io/CampusAgent-QA/",
-        "stargazerCount": 0,
-        "forkCount": 0,
-        "repositoryTopics": [
-          "agent",
-          "campus-qa",
-          "rag",
-          "spring-boot",
-          "vue"
-        ],
-        "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/CampusAgent-QA",
-        "pages": {
-          "enabled": true,
-          "url": "https://harzva.github.io/CampusAgent-QA/",
-          "status": null,
-          "source": {
-            "branch": "main",
-            "path": "/"
-          },
-          "httpsEnforced": true
-        },
-        "latestRelease": null
-      },
-      {
-        "name": "AgentWorkOS",
-        "nameWithOwner": "Harzva/AgentWorkOS",
-        "url": "https://github.com/Harzva/AgentWorkOS",
-        "description": "Package-managed operating layer for AI agent workspaces: scan, lock, sync, doctor, and install agent context.",
-        "isPrivate": false,
-        "isArchived": false,
-        "isFork": false,
-        "primaryLanguage": {
-          "name": "Python"
-        },
-        "pushedAt": "2026-05-20T05:40:27Z",
-        "updatedAt": "2026-05-20T05:40:30Z",
-        "createdAt": "2026-05-20T02:45:51Z",
-        "defaultBranchRef": {
-          "name": "main"
-        },
-        "homepageUrl": "",
-        "stargazerCount": 0,
-        "forkCount": 0,
-        "repositoryTopics": [
-          "agents",
-          "agentworkos",
-          "ai-tools",
-          "codex",
-          "package-manager",
-          "skills"
-        ],
-        "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/AgentWorkOS",
-        "pages": {
-          "enabled": true,
-          "url": "https://harzva.github.io/AgentWorkOS/",
-          "status": null,
-          "source": {
-            "branch": "main",
-            "path": "/"
-          },
-          "httpsEnforced": true
         },
         "latestRelease": null
       },
@@ -3019,7 +3110,7 @@
       "assetName": "RepoAtlas-v0.6.6-macos-ARM64.tar.gz",
       "assetUrl": "https://github.com/Harzva/RepoAtlas/releases/download/v0.6.6/RepoAtlas-v0.6.6-macos-ARM64.tar.gz",
       "size": 775571,
-      "downloadCount": 1,
+      "downloadCount": 2,
       "kind": "Archive",
       "functionCategory": "Desktop Apps",
       "releaseName": "v0.6.6",
@@ -3294,7 +3385,7 @@
         "assetName": "RepoAtlas-v0.6.6-macos-ARM64.tar.gz",
         "assetUrl": "https://github.com/Harzva/RepoAtlas/releases/download/v0.6.6/RepoAtlas-v0.6.6-macos-ARM64.tar.gz",
         "size": 775571,
-        "downloadCount": 1,
+        "downloadCount": 2,
         "kind": "Archive",
         "functionCategory": "Desktop Apps",
         "releaseName": "v0.6.6",
@@ -3375,8 +3466,8 @@
       "primaryLanguage": {
         "name": "TypeScript"
       },
-      "pushedAt": "2026-06-02T17:50:20Z",
-      "updatedAt": "2026-06-02T17:50:25Z",
+      "pushedAt": "2026-06-03T18:04:42Z",
+      "updatedAt": "2026-06-03T18:04:51Z",
       "createdAt": "2026-05-12T09:49:47Z",
       "defaultBranchRef": {
         "name": "main"
@@ -3409,8 +3500,8 @@
       "primaryLanguage": {
         "name": "Python"
       },
-      "pushedAt": "2026-05-20T05:40:27Z",
-      "updatedAt": "2026-05-20T05:40:30Z",
+      "pushedAt": "2026-06-04T02:42:42Z",
+      "updatedAt": "2026-06-04T02:42:46Z",
       "createdAt": "2026-05-20T02:45:51Z",
       "defaultBranchRef": {
         "name": "main"
@@ -3450,7 +3541,7 @@
       "primaryLanguage": {
         "name": "Java"
       },
-      "pushedAt": "2026-05-26T07:23:01Z",
+      "pushedAt": "2026-06-03T20:44:03Z",
       "updatedAt": "2026-05-16T08:28:57Z",
       "createdAt": "2026-05-11T08:22:16Z",
       "defaultBranchRef": {
@@ -3534,8 +3625,8 @@
       "primaryLanguage": {
         "name": "TypeScript"
       },
-      "pushedAt": "2026-05-26T08:52:14Z",
-      "updatedAt": "2026-05-26T08:52:18Z",
+      "pushedAt": "2026-06-04T02:04:26Z",
+      "updatedAt": "2026-06-04T02:04:30Z",
       "createdAt": "2026-05-11T08:19:22Z",
       "defaultBranchRef": {
         "name": "main"
@@ -3776,8 +3867,8 @@
       "primaryLanguage": {
         "name": "Python"
       },
-      "pushedAt": "2026-06-02T08:07:01Z",
-      "updatedAt": "2026-06-02T08:07:44Z",
+      "pushedAt": "2026-06-03T08:29:33Z",
+      "updatedAt": "2026-06-03T08:29:38Z",
       "createdAt": "2026-05-14T09:29:39Z",
       "defaultBranchRef": {
         "name": "main"
@@ -3810,8 +3901,8 @@
       "primaryLanguage": {
         "name": "Python"
       },
-      "pushedAt": "2026-06-02T08:05:57Z",
-      "updatedAt": "2026-06-02T08:06:02Z",
+      "pushedAt": "2026-06-03T08:28:40Z",
+      "updatedAt": "2026-06-03T08:28:44Z",
       "createdAt": "2026-05-14T09:27:13Z",
       "defaultBranchRef": {
         "name": "main"
@@ -3844,8 +3935,8 @@
       "primaryLanguage": {
         "name": "Python"
       },
-      "pushedAt": "2026-06-02T08:09:59Z",
-      "updatedAt": "2026-06-02T08:10:03Z",
+      "pushedAt": "2026-06-03T08:31:06Z",
+      "updatedAt": "2026-06-03T08:31:10Z",
       "createdAt": "2026-05-14T09:29:34Z",
       "defaultBranchRef": {
         "name": "main"
@@ -3878,8 +3969,8 @@
       "primaryLanguage": {
         "name": "Python"
       },
-      "pushedAt": "2026-06-02T08:06:27Z",
-      "updatedAt": "2026-06-02T08:06:31Z",
+      "pushedAt": "2026-06-03T08:28:50Z",
+      "updatedAt": "2026-06-03T08:28:54Z",
       "createdAt": "2026-05-14T09:29:45Z",
       "defaultBranchRef": {
         "name": "main"
@@ -3936,6 +4027,40 @@
       "latestRelease": null
     },
     {
+      "name": "IssueTrending",
+      "nameWithOwner": "Harzva/IssueTrending",
+      "url": "https://github.com/Harzva/IssueTrending",
+      "description": "GitHub issue intelligence dashboard for discovering developer pain points, product opportunities, and content angles.",
+      "isPrivate": false,
+      "isArchived": false,
+      "isFork": false,
+      "primaryLanguage": {
+        "name": "JavaScript"
+      },
+      "pushedAt": "2026-06-04T07:28:25Z",
+      "updatedAt": "2026-06-04T07:28:28Z",
+      "createdAt": "2026-06-04T05:27:16Z",
+      "defaultBranchRef": {
+        "name": "main"
+      },
+      "homepageUrl": "",
+      "stargazerCount": 0,
+      "forkCount": 0,
+      "repositoryTopics": [],
+      "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/IssueTrending",
+      "pages": {
+        "enabled": true,
+        "url": "https://harzva.github.io/IssueTrending/",
+        "status": "built",
+        "source": {
+          "branch": "main",
+          "path": "/"
+        },
+        "httpsEnforced": true
+      },
+      "latestRelease": null
+    },
+    {
       "name": "learn-likecc",
       "nameWithOwner": "Harzva/learn-likecc",
       "url": "https://github.com/Harzva/learn-likecc",
@@ -3946,8 +4071,8 @@
       "primaryLanguage": {
         "name": "TypeScript"
       },
-      "pushedAt": "2026-06-03T05:23:44Z",
-      "updatedAt": "2026-06-03T05:23:48Z",
+      "pushedAt": "2026-06-04T05:18:48Z",
+      "updatedAt": "2026-06-04T05:18:52Z",
       "createdAt": "2026-04-01T03:55:26Z",
       "defaultBranchRef": {
         "name": "main"
@@ -4096,7 +4221,7 @@
             "name": "RepoAtlas-v0.6.6-macos-ARM64.tar.gz",
             "url": "https://github.com/Harzva/RepoAtlas/releases/download/v0.6.6/RepoAtlas-v0.6.6-macos-ARM64.tar.gz",
             "size": 775571,
-            "downloadCount": 1,
+            "downloadCount": 2,
             "contentType": "application/gzip"
           },
           {
@@ -4328,8 +4453,8 @@
       "primaryLanguage": {
         "name": "TypeScript"
       },
-      "pushedAt": "2026-06-03T05:23:44Z",
-      "updatedAt": "2026-06-03T05:23:48Z",
+      "pushedAt": "2026-06-04T05:18:48Z",
+      "updatedAt": "2026-06-04T05:18:52Z",
       "createdAt": "2026-04-01T03:55:26Z",
       "defaultBranchRef": {
         "name": "main"
@@ -4478,7 +4603,7 @@
             "name": "RepoAtlas-v0.6.6-macos-ARM64.tar.gz",
             "url": "https://github.com/Harzva/RepoAtlas/releases/download/v0.6.6/RepoAtlas-v0.6.6-macos-ARM64.tar.gz",
             "size": 775571,
-            "downloadCount": 1,
+            "downloadCount": 2,
             "contentType": "application/gzip"
           },
           {
@@ -4504,8 +4629,8 @@
       "primaryLanguage": {
         "name": "Python"
       },
-      "pushedAt": "2026-05-20T05:40:27Z",
-      "updatedAt": "2026-05-20T05:40:30Z",
+      "pushedAt": "2026-06-04T02:42:42Z",
+      "updatedAt": "2026-06-04T02:42:46Z",
       "createdAt": "2026-05-20T02:45:51Z",
       "defaultBranchRef": {
         "name": "main"
@@ -4608,7 +4733,7 @@
       "primaryLanguage": {
         "name": "Java"
       },
-      "pushedAt": "2026-05-26T07:23:01Z",
+      "pushedAt": "2026-06-03T20:44:03Z",
       "updatedAt": "2026-05-16T08:28:57Z",
       "createdAt": "2026-05-11T08:22:16Z",
       "defaultBranchRef": {
@@ -4957,8 +5082,8 @@
       "primaryLanguage": {
         "name": "Python"
       },
-      "pushedAt": "2026-06-02T08:06:27Z",
-      "updatedAt": "2026-06-02T08:06:31Z",
+      "pushedAt": "2026-06-03T08:28:50Z",
+      "updatedAt": "2026-06-03T08:28:54Z",
       "createdAt": "2026-05-14T09:29:45Z",
       "defaultBranchRef": {
         "name": "main"
@@ -5088,8 +5213,8 @@
       "primaryLanguage": {
         "name": "Python"
       },
-      "pushedAt": "2026-05-31T02:12:11Z",
-      "updatedAt": "2026-05-31T02:12:15Z",
+      "pushedAt": "2026-06-04T05:13:34Z",
+      "updatedAt": "2026-06-04T05:13:38Z",
       "createdAt": "2026-05-31T01:50:14Z",
       "defaultBranchRef": {
         "name": "main"
@@ -5126,6 +5251,38 @@
       "forkCount": 0,
       "repositoryTopics": [],
       "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/webpage-screenshot-md-skill",
+      "pages": {
+        "enabled": false
+      },
+      "latestRelease": null
+    },
+    {
+      "name": "xhs-skill-suite",
+      "nameWithOwner": "Harzva/xhs-skill-suite",
+      "url": "https://github.com/Harzva/xhs-skill-suite",
+      "description": "Public-safe Xiaohongshu skill suite for GitHub and AI-tool promotion workflows.",
+      "isPrivate": false,
+      "isArchived": false,
+      "isFork": false,
+      "primaryLanguage": null,
+      "pushedAt": "2026-06-04T02:21:59Z",
+      "updatedAt": "2026-06-04T02:22:03Z",
+      "createdAt": "2026-06-04T02:17:27Z",
+      "defaultBranchRef": {
+        "name": "main"
+      },
+      "homepageUrl": "",
+      "stargazerCount": 0,
+      "forkCount": 0,
+      "repositoryTopics": [
+        "agentworkos",
+        "ai-tools",
+        "github",
+        "mcp",
+        "skill",
+        "xiaohongshu"
+      ],
+      "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/xhs-skill-suite",
       "pages": {
         "enabled": false
       },
