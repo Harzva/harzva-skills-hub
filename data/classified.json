@@ -1,6 +1,6 @@
 {
   "summary": {
-    "generatedAt": "2026-06-06T06:38:06.598662+00:00",
+    "generatedAt": "2026-06-07T07:14:06.001280+00:00",
     "owner": "Harzva",
     "mode": "skills",
     "publicRepositories": 99,
@@ -397,8 +397,8 @@
         "primaryLanguage": {
           "name": "TypeScript"
         },
-        "pushedAt": "2026-06-06T05:04:58Z",
-        "updatedAt": "2026-06-06T05:05:01Z",
+        "pushedAt": "2026-06-07T05:52:25Z",
+        "updatedAt": "2026-06-07T05:52:29Z",
         "createdAt": "2026-05-12T09:49:47Z",
         "defaultBranchRef": {
           "name": "main"
@@ -431,8 +431,8 @@
         "primaryLanguage": {
           "name": "TypeScript"
         },
-        "pushedAt": "2026-06-06T04:33:30Z",
-        "updatedAt": "2026-06-06T04:33:34Z",
+        "pushedAt": "2026-06-07T05:03:50Z",
+        "updatedAt": "2026-06-07T05:03:54Z",
         "createdAt": "2026-04-01T03:55:26Z",
         "defaultBranchRef": {
           "name": "main"
@@ -472,6 +472,108 @@
           "draft": false,
           "assets": []
         }
+      },
+      {
+        "name": "harzva-release-hub",
+        "nameWithOwner": "Harzva/harzva-release-hub",
+        "url": "https://github.com/Harzva/harzva-release-hub",
+        "description": "Auto-updating release hub for Harzva repositories with direct download assets and GitHub Pages.",
+        "isPrivate": false,
+        "isArchived": false,
+        "isFork": false,
+        "primaryLanguage": {
+          "name": "Python"
+        },
+        "pushedAt": "2026-06-06T06:40:52Z",
+        "updatedAt": "2026-06-06T06:40:56Z",
+        "createdAt": "2026-05-14T09:29:34Z",
+        "defaultBranchRef": {
+          "name": "main"
+        },
+        "homepageUrl": "https://harzva.github.io/harzva-release-hub/",
+        "stargazerCount": 0,
+        "forkCount": 0,
+        "repositoryTopics": [],
+        "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/harzva-release-hub",
+        "pages": {
+          "enabled": true,
+          "url": "https://harzva.github.io/harzva-release-hub/",
+          "status": null,
+          "source": {
+            "branch": "main",
+            "path": "/"
+          },
+          "httpsEnforced": true
+        },
+        "latestRelease": null
+      },
+      {
+        "name": "harzva-pages-hub",
+        "nameWithOwner": "Harzva/harzva-pages-hub",
+        "url": "https://github.com/Harzva/harzva-pages-hub",
+        "description": "Visual GitHub Pages hub for Harzva sites, demos, docs, and live project surfaces.",
+        "isPrivate": false,
+        "isArchived": false,
+        "isFork": false,
+        "primaryLanguage": {
+          "name": "Python"
+        },
+        "pushedAt": "2026-06-06T06:38:53Z",
+        "updatedAt": "2026-06-06T06:38:56Z",
+        "createdAt": "2026-05-14T09:29:39Z",
+        "defaultBranchRef": {
+          "name": "main"
+        },
+        "homepageUrl": "https://harzva.github.io/harzva-pages-hub/",
+        "stargazerCount": 0,
+        "forkCount": 0,
+        "repositoryTopics": [],
+        "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/harzva-pages-hub",
+        "pages": {
+          "enabled": true,
+          "url": "https://harzva.github.io/harzva-pages-hub/",
+          "status": null,
+          "source": {
+            "branch": "main",
+            "path": "/"
+          },
+          "httpsEnforced": true
+        },
+        "latestRelease": null
+      },
+      {
+        "name": "harzva-project-atlas",
+        "nameWithOwner": "Harzva/harzva-project-atlas",
+        "url": "https://github.com/Harzva/harzva-project-atlas",
+        "description": "Download-first MetaRepo atlas for Harzva APK, EXE, package, archive, and release asset links.",
+        "isPrivate": false,
+        "isArchived": false,
+        "isFork": false,
+        "primaryLanguage": {
+          "name": "Python"
+        },
+        "pushedAt": "2026-06-06T06:38:29Z",
+        "updatedAt": "2026-06-06T06:38:32Z",
+        "createdAt": "2026-05-14T09:27:13Z",
+        "defaultBranchRef": {
+          "name": "main"
+        },
+        "homepageUrl": "https://harzva.github.io/harzva-project-atlas/",
+        "stargazerCount": 0,
+        "forkCount": 0,
+        "repositoryTopics": [],
+        "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/harzva-project-atlas",
+        "pages": {
+          "enabled": true,
+          "url": "https://harzva.github.io/harzva-project-atlas/",
+          "status": null,
+          "source": {
+            "branch": "main",
+            "path": "/"
+          },
+          "httpsEnforced": true
+        },
+        "latestRelease": null
       },
       {
         "name": "mobilecode",
@@ -536,108 +638,6 @@
             }
           ]
         }
-      },
-      {
-        "name": "harzva-release-hub",
-        "nameWithOwner": "Harzva/harzva-release-hub",
-        "url": "https://github.com/Harzva/harzva-release-hub",
-        "description": "Auto-updating release hub for Harzva repositories with direct download assets and GitHub Pages.",
-        "isPrivate": false,
-        "isArchived": false,
-        "isFork": false,
-        "primaryLanguage": {
-          "name": "Python"
-        },
-        "pushedAt": "2026-06-05T07:19:49Z",
-        "updatedAt": "2026-06-05T07:19:53Z",
-        "createdAt": "2026-05-14T09:29:34Z",
-        "defaultBranchRef": {
-          "name": "main"
-        },
-        "homepageUrl": "https://harzva.github.io/harzva-release-hub/",
-        "stargazerCount": 0,
-        "forkCount": 0,
-        "repositoryTopics": [],
-        "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/harzva-release-hub",
-        "pages": {
-          "enabled": true,
-          "url": "https://harzva.github.io/harzva-release-hub/",
-          "status": null,
-          "source": {
-            "branch": "main",
-            "path": "/"
-          },
-          "httpsEnforced": true
-        },
-        "latestRelease": null
-      },
-      {
-        "name": "harzva-pages-hub",
-        "nameWithOwner": "Harzva/harzva-pages-hub",
-        "url": "https://github.com/Harzva/harzva-pages-hub",
-        "description": "Visual GitHub Pages hub for Harzva sites, demos, docs, and live project surfaces.",
-        "isPrivate": false,
-        "isArchived": false,
-        "isFork": false,
-        "primaryLanguage": {
-          "name": "Python"
-        },
-        "pushedAt": "2026-06-05T07:18:59Z",
-        "updatedAt": "2026-06-05T07:19:03Z",
-        "createdAt": "2026-05-14T09:29:39Z",
-        "defaultBranchRef": {
-          "name": "main"
-        },
-        "homepageUrl": "https://harzva.github.io/harzva-pages-hub/",
-        "stargazerCount": 0,
-        "forkCount": 0,
-        "repositoryTopics": [],
-        "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/harzva-pages-hub",
-        "pages": {
-          "enabled": true,
-          "url": "https://harzva.github.io/harzva-pages-hub/",
-          "status": null,
-          "source": {
-            "branch": "main",
-            "path": "/"
-          },
-          "httpsEnforced": true
-        },
-        "latestRelease": null
-      },
-      {
-        "name": "harzva-project-atlas",
-        "nameWithOwner": "Harzva/harzva-project-atlas",
-        "url": "https://github.com/Harzva/harzva-project-atlas",
-        "description": "Download-first MetaRepo atlas for Harzva APK, EXE, package, archive, and release asset links.",
-        "isPrivate": false,
-        "isArchived": false,
-        "isFork": false,
-        "primaryLanguage": {
-          "name": "Python"
-        },
-        "pushedAt": "2026-06-05T07:18:21Z",
-        "updatedAt": "2026-06-05T07:18:25Z",
-        "createdAt": "2026-05-14T09:27:13Z",
-        "defaultBranchRef": {
-          "name": "main"
-        },
-        "homepageUrl": "https://harzva.github.io/harzva-project-atlas/",
-        "stargazerCount": 0,
-        "forkCount": 0,
-        "repositoryTopics": [],
-        "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/harzva-project-atlas",
-        "pages": {
-          "enabled": true,
-          "url": "https://harzva.github.io/harzva-project-atlas/",
-          "status": null,
-          "source": {
-            "branch": "main",
-            "path": "/"
-          },
-          "httpsEnforced": true
-        },
-        "latestRelease": null
       },
       {
         "name": "IssueTrending",
@@ -765,7 +765,7 @@
               "name": "RepoAtlas-v0.6.6-macos-ARM64.tar.gz",
               "url": "https://github.com/Harzva/RepoAtlas/releases/download/v0.6.6/RepoAtlas-v0.6.6-macos-ARM64.tar.gz",
               "size": 775571,
-              "downloadCount": 2,
+              "downloadCount": 3,
               "contentType": "application/gzip"
             },
             {
@@ -1101,8 +1101,8 @@
         "primaryLanguage": {
           "name": "Python"
         },
-        "pushedAt": "2026-06-05T07:18:16Z",
-        "updatedAt": "2026-06-05T07:18:20Z",
+        "pushedAt": "2026-06-06T06:38:07Z",
+        "updatedAt": "2026-06-06T06:38:11Z",
         "createdAt": "2026-05-14T09:29:45Z",
         "defaultBranchRef": {
           "name": "main"
@@ -3117,7 +3117,7 @@
       "assetName": "RepoAtlas-v0.6.6-macos-ARM64.tar.gz",
       "assetUrl": "https://github.com/Harzva/RepoAtlas/releases/download/v0.6.6/RepoAtlas-v0.6.6-macos-ARM64.tar.gz",
       "size": 775571,
-      "downloadCount": 2,
+      "downloadCount": 3,
       "kind": "Archive",
       "functionCategory": "Desktop Apps",
       "releaseName": "v0.6.6",
@@ -3392,7 +3392,7 @@
         "assetName": "RepoAtlas-v0.6.6-macos-ARM64.tar.gz",
         "assetUrl": "https://github.com/Harzva/RepoAtlas/releases/download/v0.6.6/RepoAtlas-v0.6.6-macos-ARM64.tar.gz",
         "size": 775571,
-        "downloadCount": 2,
+        "downloadCount": 3,
         "kind": "Archive",
         "functionCategory": "Desktop Apps",
         "releaseName": "v0.6.6",
@@ -3473,8 +3473,8 @@
       "primaryLanguage": {
         "name": "TypeScript"
       },
-      "pushedAt": "2026-06-06T05:04:58Z",
-      "updatedAt": "2026-06-06T05:05:01Z",
+      "pushedAt": "2026-06-07T05:52:25Z",
+      "updatedAt": "2026-06-07T05:52:29Z",
       "createdAt": "2026-05-12T09:49:47Z",
       "defaultBranchRef": {
         "name": "main"
@@ -3874,8 +3874,8 @@
       "primaryLanguage": {
         "name": "Python"
       },
-      "pushedAt": "2026-06-05T07:18:59Z",
-      "updatedAt": "2026-06-05T07:19:03Z",
+      "pushedAt": "2026-06-06T06:38:53Z",
+      "updatedAt": "2026-06-06T06:38:56Z",
       "createdAt": "2026-05-14T09:29:39Z",
       "defaultBranchRef": {
         "name": "main"
@@ -3908,8 +3908,8 @@
       "primaryLanguage": {
         "name": "Python"
       },
-      "pushedAt": "2026-06-05T07:18:21Z",
-      "updatedAt": "2026-06-05T07:18:25Z",
+      "pushedAt": "2026-06-06T06:38:29Z",
+      "updatedAt": "2026-06-06T06:38:32Z",
       "createdAt": "2026-05-14T09:27:13Z",
       "defaultBranchRef": {
         "name": "main"
@@ -3942,8 +3942,8 @@
       "primaryLanguage": {
         "name": "Python"
       },
-      "pushedAt": "2026-06-05T07:19:49Z",
-      "updatedAt": "2026-06-05T07:19:53Z",
+      "pushedAt": "2026-06-06T06:40:52Z",
+      "updatedAt": "2026-06-06T06:40:56Z",
       "createdAt": "2026-05-14T09:29:34Z",
       "defaultBranchRef": {
         "name": "main"
@@ -3976,8 +3976,8 @@
       "primaryLanguage": {
         "name": "Python"
       },
-      "pushedAt": "2026-06-05T07:18:16Z",
-      "updatedAt": "2026-06-05T07:18:20Z",
+      "pushedAt": "2026-06-06T06:38:07Z",
+      "updatedAt": "2026-06-06T06:38:11Z",
       "createdAt": "2026-05-14T09:29:45Z",
       "defaultBranchRef": {
         "name": "main"
@@ -4078,8 +4078,8 @@
       "primaryLanguage": {
         "name": "TypeScript"
       },
-      "pushedAt": "2026-06-06T04:33:30Z",
-      "updatedAt": "2026-06-06T04:33:34Z",
+      "pushedAt": "2026-06-07T05:03:50Z",
+      "updatedAt": "2026-06-07T05:03:54Z",
       "createdAt": "2026-04-01T03:55:26Z",
       "defaultBranchRef": {
         "name": "main"
@@ -4228,7 +4228,7 @@
             "name": "RepoAtlas-v0.6.6-macos-ARM64.tar.gz",
             "url": "https://github.com/Harzva/RepoAtlas/releases/download/v0.6.6/RepoAtlas-v0.6.6-macos-ARM64.tar.gz",
             "size": 775571,
-            "downloadCount": 2,
+            "downloadCount": 3,
             "contentType": "application/gzip"
           },
           {
@@ -4460,8 +4460,8 @@
       "primaryLanguage": {
         "name": "TypeScript"
       },
-      "pushedAt": "2026-06-06T04:33:30Z",
-      "updatedAt": "2026-06-06T04:33:34Z",
+      "pushedAt": "2026-06-07T05:03:50Z",
+      "updatedAt": "2026-06-07T05:03:54Z",
       "createdAt": "2026-04-01T03:55:26Z",
       "defaultBranchRef": {
         "name": "main"
@@ -4610,7 +4610,7 @@
             "name": "RepoAtlas-v0.6.6-macos-ARM64.tar.gz",
             "url": "https://github.com/Harzva/RepoAtlas/releases/download/v0.6.6/RepoAtlas-v0.6.6-macos-ARM64.tar.gz",
             "size": 775571,
-            "downloadCount": 2,
+            "downloadCount": 3,
             "contentType": "application/gzip"
           },
           {
@@ -5089,8 +5089,8 @@
       "primaryLanguage": {
         "name": "Python"
       },
-      "pushedAt": "2026-06-05T07:18:16Z",
-      "updatedAt": "2026-06-05T07:18:20Z",
+      "pushedAt": "2026-06-06T06:38:07Z",
+      "updatedAt": "2026-06-06T06:38:11Z",
       "createdAt": "2026-05-14T09:29:45Z",
       "defaultBranchRef": {
         "name": "main"
