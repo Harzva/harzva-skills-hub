@@ -1,6 +1,6 @@
 {
   "summary": {
-    "generatedAt": "2026-06-11T08:15:44.258254+00:00",
+    "generatedAt": "2026-06-12T08:01:48.970713+00:00",
     "owner": "Harzva",
     "mode": "skills",
     "publicRepositories": 99,
@@ -397,8 +397,8 @@
         "primaryLanguage": {
           "name": "Dart"
         },
-        "pushedAt": "2026-06-11T06:48:47Z",
-        "updatedAt": "2026-06-04T11:28:20Z",
+        "pushedAt": "2026-06-12T06:30:01Z",
+        "updatedAt": "2026-06-12T06:30:07Z",
         "createdAt": "2026-05-12T08:19:17Z",
         "defaultBranchRef": {
           "name": "main"
@@ -444,11 +444,45 @@
               "name": "mobilecode-v0.1.0.apk",
               "url": "https://github.com/Harzva/mobilecode/releases/download/v0.1.0/mobilecode-v0.1.0.apk",
               "size": 53051517,
-              "downloadCount": 6,
+              "downloadCount": 7,
               "contentType": "application/vnd.android.package-archive"
             }
           ]
         }
+      },
+      {
+        "name": "Agent-Job-Interview",
+        "nameWithOwner": "Harzva/Agent-Job-Interview",
+        "url": "https://github.com/Harzva/Agent-Job-Interview",
+        "description": "Agent job interview roadmap and practice training suite.",
+        "isPrivate": false,
+        "isArchived": false,
+        "isFork": false,
+        "primaryLanguage": {
+          "name": "TypeScript"
+        },
+        "pushedAt": "2026-06-12T06:01:06Z",
+        "updatedAt": "2026-06-12T06:01:10Z",
+        "createdAt": "2026-05-12T09:49:47Z",
+        "defaultBranchRef": {
+          "name": "main"
+        },
+        "homepageUrl": "https://harzva.github.io/Agent-Job-Interview/",
+        "stargazerCount": 0,
+        "forkCount": 0,
+        "repositoryTopics": [],
+        "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/Agent-Job-Interview",
+        "pages": {
+          "enabled": true,
+          "url": "https://harzva.github.io/Agent-Job-Interview/",
+          "status": "built",
+          "source": {
+            "branch": "main",
+            "path": "/docs"
+          },
+          "httpsEnforced": true
+        },
+        "latestRelease": null
       },
       {
         "name": "learn-likecc",
@@ -461,8 +495,8 @@
         "primaryLanguage": {
           "name": "TypeScript"
         },
-        "pushedAt": "2026-06-11T05:06:41Z",
-        "updatedAt": "2026-06-11T05:06:46Z",
+        "pushedAt": "2026-06-12T05:12:15Z",
+        "updatedAt": "2026-06-12T05:12:19Z",
         "createdAt": "2026-04-01T03:55:26Z",
         "defaultBranchRef": {
           "name": "main"
@@ -504,34 +538,48 @@
         }
       },
       {
-        "name": "Agent-Job-Interview",
-        "nameWithOwner": "Harzva/Agent-Job-Interview",
-        "url": "https://github.com/Harzva/Agent-Job-Interview",
-        "description": "Agent job interview roadmap and practice training suite.",
+        "name": "ChinaAI-Roadmaps",
+        "nameWithOwner": "Harzva/ChinaAI-Roadmaps",
+        "url": "https://github.com/Harzva/ChinaAI-Roadmaps",
+        "description": "Technical roadmaps for China's open and open-weight LLM companies: GLM, Kimi, DeepSeek, MiniMax",
         "isPrivate": false,
         "isArchived": false,
         "isFork": false,
         "primaryLanguage": {
           "name": "TypeScript"
         },
-        "pushedAt": "2026-06-10T16:45:11Z",
-        "updatedAt": "2026-06-10T16:46:12Z",
-        "createdAt": "2026-05-12T09:49:47Z",
+        "pushedAt": "2026-06-11T14:12:58Z",
+        "updatedAt": "2026-06-11T14:18:51Z",
+        "createdAt": "2026-05-11T08:19:22Z",
         "defaultBranchRef": {
           "name": "main"
         },
-        "homepageUrl": "https://harzva.github.io/Agent-Job-Interview/",
+        "homepageUrl": "https://harzva.github.io/ChinaAI-Roadmaps/",
         "stargazerCount": 0,
         "forkCount": 0,
-        "repositoryTopics": [],
-        "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/Agent-Job-Interview",
+        "repositoryTopics": [
+          "agentic-ai",
+          "ai",
+          "china-ai",
+          "deepseek",
+          "glm",
+          "kimi",
+          "llm",
+          "minimax",
+          "open-llm",
+          "open-weight-models",
+          "papers",
+          "roadmap",
+          "svg"
+        ],
+        "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/ChinaAI-Roadmaps",
         "pages": {
           "enabled": true,
-          "url": "https://harzva.github.io/Agent-Job-Interview/",
-          "status": "built",
+          "url": "https://harzva.github.io/ChinaAI-Roadmaps/",
+          "status": "errored",
           "source": {
             "branch": "main",
-            "path": "/docs"
+            "path": "/"
           },
           "httpsEnforced": true
         },
@@ -548,8 +596,8 @@
         "primaryLanguage": {
           "name": "Python"
         },
-        "pushedAt": "2026-06-10T07:19:27Z",
-        "updatedAt": "2026-06-10T07:19:31Z",
+        "pushedAt": "2026-06-11T08:17:45Z",
+        "updatedAt": "2026-06-11T08:18:10Z",
         "createdAt": "2026-05-14T09:29:34Z",
         "defaultBranchRef": {
           "name": "main"
@@ -582,8 +630,8 @@
         "primaryLanguage": {
           "name": "Python"
         },
-        "pushedAt": "2026-06-10T07:18:34Z",
-        "updatedAt": "2026-06-10T07:18:38Z",
+        "pushedAt": "2026-06-11T08:16:46Z",
+        "updatedAt": "2026-06-11T08:16:50Z",
         "createdAt": "2026-05-14T09:29:39Z",
         "defaultBranchRef": {
           "name": "main"
@@ -616,8 +664,8 @@
         "primaryLanguage": {
           "name": "Python"
         },
-        "pushedAt": "2026-06-10T07:17:26Z",
-        "updatedAt": "2026-06-10T07:17:30Z",
+        "pushedAt": "2026-06-11T08:15:26Z",
+        "updatedAt": "2026-06-11T08:16:32Z",
         "createdAt": "2026-05-14T09:27:13Z",
         "defaultBranchRef": {
           "name": "main"
@@ -664,54 +712,6 @@
         "pages": {
           "enabled": true,
           "url": "https://harzva.github.io/IssueTrending/",
-          "status": "built",
-          "source": {
-            "branch": "main",
-            "path": "/"
-          },
-          "httpsEnforced": true
-        },
-        "latestRelease": null
-      },
-      {
-        "name": "ChinaAI-Roadmaps",
-        "nameWithOwner": "Harzva/ChinaAI-Roadmaps",
-        "url": "https://github.com/Harzva/ChinaAI-Roadmaps",
-        "description": "Technical roadmaps for China's open and open-weight LLM companies: GLM, Kimi, DeepSeek, MiniMax",
-        "isPrivate": false,
-        "isArchived": false,
-        "isFork": false,
-        "primaryLanguage": {
-          "name": "TypeScript"
-        },
-        "pushedAt": "2026-06-04T02:04:26Z",
-        "updatedAt": "2026-06-04T02:04:30Z",
-        "createdAt": "2026-05-11T08:19:22Z",
-        "defaultBranchRef": {
-          "name": "main"
-        },
-        "homepageUrl": "https://harzva.github.io/ChinaAI-Roadmaps/",
-        "stargazerCount": 0,
-        "forkCount": 0,
-        "repositoryTopics": [
-          "agentic-ai",
-          "ai",
-          "china-ai",
-          "deepseek",
-          "glm",
-          "kimi",
-          "llm",
-          "minimax",
-          "open-llm",
-          "open-weight-models",
-          "papers",
-          "roadmap",
-          "svg"
-        ],
-        "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/ChinaAI-Roadmaps",
-        "pages": {
-          "enabled": true,
-          "url": "https://harzva.github.io/ChinaAI-Roadmaps/",
           "status": "built",
           "source": {
             "branch": "main",
@@ -1101,8 +1101,8 @@
         "primaryLanguage": {
           "name": "Python"
         },
-        "pushedAt": "2026-06-10T07:18:01Z",
-        "updatedAt": "2026-06-10T07:18:06Z",
+        "pushedAt": "2026-06-11T08:15:45Z",
+        "updatedAt": "2026-06-11T08:15:49Z",
         "createdAt": "2026-05-14T09:29:45Z",
         "defaultBranchRef": {
           "name": "main"
@@ -3225,7 +3225,7 @@
       "assetName": "mobilecode-v0.1.0.apk",
       "assetUrl": "https://github.com/Harzva/mobilecode/releases/download/v0.1.0/mobilecode-v0.1.0.apk",
       "size": 53051517,
-      "downloadCount": 6,
+      "downloadCount": 7,
       "kind": "Android APK",
       "functionCategory": "Mobile Apps",
       "releaseName": "MobileCode v0.1.0 Android APK",
@@ -3318,7 +3318,7 @@
         "assetName": "mobilecode-v0.1.0.apk",
         "assetUrl": "https://github.com/Harzva/mobilecode/releases/download/v0.1.0/mobilecode-v0.1.0.apk",
         "size": 53051517,
-        "downloadCount": 6,
+        "downloadCount": 7,
         "kind": "Android APK",
         "functionCategory": "Mobile Apps",
         "releaseName": "MobileCode v0.1.0 Android APK",
@@ -3473,8 +3473,8 @@
       "primaryLanguage": {
         "name": "TypeScript"
       },
-      "pushedAt": "2026-06-10T16:45:11Z",
-      "updatedAt": "2026-06-10T16:46:12Z",
+      "pushedAt": "2026-06-12T06:01:06Z",
+      "updatedAt": "2026-06-12T06:01:10Z",
       "createdAt": "2026-05-12T09:49:47Z",
       "defaultBranchRef": {
         "name": "main"
@@ -3632,8 +3632,8 @@
       "primaryLanguage": {
         "name": "TypeScript"
       },
-      "pushedAt": "2026-06-04T02:04:26Z",
-      "updatedAt": "2026-06-04T02:04:30Z",
+      "pushedAt": "2026-06-11T14:12:58Z",
+      "updatedAt": "2026-06-11T14:18:51Z",
       "createdAt": "2026-05-11T08:19:22Z",
       "defaultBranchRef": {
         "name": "main"
@@ -3660,7 +3660,7 @@
       "pages": {
         "enabled": true,
         "url": "https://harzva.github.io/ChinaAI-Roadmaps/",
-        "status": "built",
+        "status": "errored",
         "source": {
           "branch": "main",
           "path": "/"
@@ -3874,8 +3874,8 @@
       "primaryLanguage": {
         "name": "Python"
       },
-      "pushedAt": "2026-06-10T07:18:34Z",
-      "updatedAt": "2026-06-10T07:18:38Z",
+      "pushedAt": "2026-06-11T08:16:46Z",
+      "updatedAt": "2026-06-11T08:16:50Z",
       "createdAt": "2026-05-14T09:29:39Z",
       "defaultBranchRef": {
         "name": "main"
@@ -3908,8 +3908,8 @@
       "primaryLanguage": {
         "name": "Python"
       },
-      "pushedAt": "2026-06-10T07:17:26Z",
-      "updatedAt": "2026-06-10T07:17:30Z",
+      "pushedAt": "2026-06-11T08:15:26Z",
+      "updatedAt": "2026-06-11T08:16:32Z",
       "createdAt": "2026-05-14T09:27:13Z",
       "defaultBranchRef": {
         "name": "main"
@@ -3942,8 +3942,8 @@
       "primaryLanguage": {
         "name": "Python"
       },
-      "pushedAt": "2026-06-10T07:19:27Z",
-      "updatedAt": "2026-06-10T07:19:31Z",
+      "pushedAt": "2026-06-11T08:17:45Z",
+      "updatedAt": "2026-06-11T08:18:10Z",
       "createdAt": "2026-05-14T09:29:34Z",
       "defaultBranchRef": {
         "name": "main"
@@ -3976,8 +3976,8 @@
       "primaryLanguage": {
         "name": "Python"
       },
-      "pushedAt": "2026-06-10T07:18:01Z",
-      "updatedAt": "2026-06-10T07:18:06Z",
+      "pushedAt": "2026-06-11T08:15:45Z",
+      "updatedAt": "2026-06-11T08:15:49Z",
       "createdAt": "2026-05-14T09:29:45Z",
       "defaultBranchRef": {
         "name": "main"
@@ -4078,8 +4078,8 @@
       "primaryLanguage": {
         "name": "TypeScript"
       },
-      "pushedAt": "2026-06-11T05:06:41Z",
-      "updatedAt": "2026-06-11T05:06:46Z",
+      "pushedAt": "2026-06-12T05:12:15Z",
+      "updatedAt": "2026-06-12T05:12:19Z",
       "createdAt": "2026-04-01T03:55:26Z",
       "defaultBranchRef": {
         "name": "main"
@@ -4131,8 +4131,8 @@
       "primaryLanguage": {
         "name": "Dart"
       },
-      "pushedAt": "2026-06-11T06:48:47Z",
-      "updatedAt": "2026-06-04T11:28:20Z",
+      "pushedAt": "2026-06-12T06:30:01Z",
+      "updatedAt": "2026-06-12T06:30:07Z",
       "createdAt": "2026-05-12T08:19:17Z",
       "defaultBranchRef": {
         "name": "main"
@@ -4178,7 +4178,7 @@
             "name": "mobilecode-v0.1.0.apk",
             "url": "https://github.com/Harzva/mobilecode/releases/download/v0.1.0/mobilecode-v0.1.0.apk",
             "size": 53051517,
-            "downloadCount": 6,
+            "downloadCount": 7,
             "contentType": "application/vnd.android.package-archive"
           }
         ]
@@ -4460,8 +4460,8 @@
       "primaryLanguage": {
         "name": "TypeScript"
       },
-      "pushedAt": "2026-06-11T05:06:41Z",
-      "updatedAt": "2026-06-11T05:06:46Z",
+      "pushedAt": "2026-06-12T05:12:15Z",
+      "updatedAt": "2026-06-12T05:12:19Z",
       "createdAt": "2026-04-01T03:55:26Z",
       "defaultBranchRef": {
         "name": "main"
@@ -4513,8 +4513,8 @@
       "primaryLanguage": {
         "name": "Dart"
       },
-      "pushedAt": "2026-06-11T06:48:47Z",
-      "updatedAt": "2026-06-04T11:28:20Z",
+      "pushedAt": "2026-06-12T06:30:01Z",
+      "updatedAt": "2026-06-12T06:30:07Z",
       "createdAt": "2026-05-12T08:19:17Z",
       "defaultBranchRef": {
         "name": "main"
@@ -4560,7 +4560,7 @@
             "name": "mobilecode-v0.1.0.apk",
             "url": "https://github.com/Harzva/mobilecode/releases/download/v0.1.0/mobilecode-v0.1.0.apk",
             "size": 53051517,
-            "downloadCount": 6,
+            "downloadCount": 7,
             "contentType": "application/vnd.android.package-archive"
           }
         ]
@@ -5089,8 +5089,8 @@
       "primaryLanguage": {
         "name": "Python"
       },
-      "pushedAt": "2026-06-10T07:18:01Z",
-      "updatedAt": "2026-06-10T07:18:06Z",
+      "pushedAt": "2026-06-11T08:15:45Z",
+      "updatedAt": "2026-06-11T08:15:49Z",
       "createdAt": "2026-05-14T09:29:45Z",
       "defaultBranchRef": {
         "name": "main"

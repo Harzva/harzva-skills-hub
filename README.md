@@ -14,7 +14,7 @@ A registry of Harzva Codex skills, workflow skills, and agent operating recipes.
 
 | Skill Repository | Language | Updated | Description |
 |---|---:|---:|---|
-| [harzva-skills-hub](https://github.com/Harzva/harzva-skills-hub) | Python | 2026-06-10 | Auto-updating GitHub Pages registry of Harzva Codex skills, workflow skills, and agent recipes. |
+| [harzva-skills-hub](https://github.com/Harzva/harzva-skills-hub) | Python | 2026-06-11 | Auto-updating GitHub Pages registry of Harzva Codex skills, workflow skills, and agent recipes. |
 | [rebuttal-skill-suite](https://github.com/Harzva/rebuttal-skill-suite) | Python | 2026-06-04 | Automated gates and reviewer-aware workflows for safer academic rebuttals. |
 | [AgentWorkOS](https://github.com/Harzva/AgentWorkOS) | Python | 2026-06-04 | Package-managed operating layer for AI agent workspaces: scan, lock, sync, doctor, and install agent context. |
 | [xhs-skill-suite](https://github.com/Harzva/xhs-skill-suite) | Mixed | 2026-06-04 | Public-safe Xiaohongshu skill suite for GitHub and AI-tool promotion workflows. |
@@ -55,5 +55,5 @@ This MetaRepo refreshes itself with GitHub Actions.
 - Data source: GitHub REST API.
 - Privacy default: public repositories only.
 - Private mode: set `META_INCLUDE_PRIVATE=true` and provide `META_GITHUB_TOKEN` only when the meta repository is private.
-- Generated at: `2026-06-11T08:15:44.258254+00:00`.
+- Generated at: `2026-06-12T08:01:48.970713+00:00`.
 - Private repositories omitted from this public output: `13`.
