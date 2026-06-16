@@ -1,6 +1,6 @@
 {
   "summary": {
-    "generatedAt": "2026-06-15T09:34:34.770511+00:00",
+    "generatedAt": "2026-06-16T09:04:28.204938+00:00",
     "owner": "Harzva",
     "mode": "skills",
     "publicRepositories": 99,
@@ -397,8 +397,8 @@
         "primaryLanguage": {
           "name": "TypeScript"
         },
-        "pushedAt": "2026-06-15T06:38:07Z",
-        "updatedAt": "2026-06-15T06:38:11Z",
+        "pushedAt": "2026-06-16T06:43:07Z",
+        "updatedAt": "2026-06-16T06:43:50Z",
         "createdAt": "2026-05-12T09:49:47Z",
         "defaultBranchRef": {
           "name": "main"
@@ -431,8 +431,8 @@
         "primaryLanguage": {
           "name": "TypeScript"
         },
-        "pushedAt": "2026-06-15T05:34:56Z",
-        "updatedAt": "2026-06-15T05:35:00Z",
+        "pushedAt": "2026-06-16T05:42:58Z",
+        "updatedAt": "2026-06-16T05:43:02Z",
         "createdAt": "2026-04-01T03:55:26Z",
         "defaultBranchRef": {
           "name": "main"
@@ -484,8 +484,8 @@
         "primaryLanguage": {
           "name": "Python"
         },
-        "pushedAt": "2026-06-14T07:58:43Z",
-        "updatedAt": "2026-06-14T07:58:47Z",
+        "pushedAt": "2026-06-15T09:39:01Z",
+        "updatedAt": "2026-06-15T09:39:05Z",
         "createdAt": "2026-05-14T09:29:34Z",
         "defaultBranchRef": {
           "name": "main"
@@ -518,8 +518,8 @@
         "primaryLanguage": {
           "name": "Python"
         },
-        "pushedAt": "2026-06-14T07:58:10Z",
-        "updatedAt": "2026-06-14T07:58:14Z",
+        "pushedAt": "2026-06-15T09:35:20Z",
+        "updatedAt": "2026-06-15T09:35:24Z",
         "createdAt": "2026-05-14T09:29:39Z",
         "defaultBranchRef": {
           "name": "main"
@@ -552,8 +552,8 @@
         "primaryLanguage": {
           "name": "Python"
         },
-        "pushedAt": "2026-06-14T07:56:44Z",
-        "updatedAt": "2026-06-14T07:56:47Z",
+        "pushedAt": "2026-06-15T09:34:40Z",
+        "updatedAt": "2026-06-15T09:34:44Z",
         "createdAt": "2026-05-14T09:27:13Z",
         "defaultBranchRef": {
           "name": "main"
@@ -633,7 +633,7 @@
               "name": "mobilecode-v0.1.0.apk",
               "url": "https://github.com/Harzva/mobilecode/releases/download/v0.1.0/mobilecode-v0.1.0.apk",
               "size": 53051517,
-              "downloadCount": 9,
+              "downloadCount": 10,
               "contentType": "application/vnd.android.package-archive"
             }
           ]
@@ -1091,6 +1091,46 @@
     ],
     "Skills and Agent Workflows": [
       {
+        "name": "CampusAgent-QA",
+        "nameWithOwner": "Harzva/CampusAgent-QA",
+        "url": "https://github.com/Harzva/CampusAgent-QA",
+        "description": "Agentic campus QA system with RAG retrieval, LLM Wiki memory, and GBrain skills",
+        "isPrivate": false,
+        "isArchived": false,
+        "isFork": false,
+        "primaryLanguage": {
+          "name": "Java"
+        },
+        "pushedAt": "2026-06-16T02:24:05Z",
+        "updatedAt": "2026-05-16T08:28:57Z",
+        "createdAt": "2026-05-11T08:22:16Z",
+        "defaultBranchRef": {
+          "name": "main"
+        },
+        "homepageUrl": "https://harzva.github.io/CampusAgent-QA/",
+        "stargazerCount": 0,
+        "forkCount": 0,
+        "repositoryTopics": [
+          "agent",
+          "campus-qa",
+          "rag",
+          "spring-boot",
+          "vue"
+        ],
+        "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/CampusAgent-QA",
+        "pages": {
+          "enabled": true,
+          "url": "https://harzva.github.io/CampusAgent-QA/",
+          "status": null,
+          "source": {
+            "branch": "main",
+            "path": "/"
+          },
+          "httpsEnforced": true
+        },
+        "latestRelease": null
+      },
+      {
         "name": "harzva-skills-hub",
         "nameWithOwner": "Harzva/harzva-skills-hub",
         "url": "https://github.com/Harzva/harzva-skills-hub",
@@ -1101,8 +1141,8 @@
         "primaryLanguage": {
           "name": "Python"
         },
-        "pushedAt": "2026-06-14T07:57:21Z",
-        "updatedAt": "2026-06-14T07:57:25Z",
+        "pushedAt": "2026-06-15T09:34:35Z",
+        "updatedAt": "2026-06-15T09:34:40Z",
         "createdAt": "2026-05-14T09:29:45Z",
         "defaultBranchRef": {
           "name": "main"
@@ -1221,46 +1261,6 @@
         "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/xhs-skill-suite",
         "pages": {
           "enabled": false
-        },
-        "latestRelease": null
-      },
-      {
-        "name": "CampusAgent-QA",
-        "nameWithOwner": "Harzva/CampusAgent-QA",
-        "url": "https://github.com/Harzva/CampusAgent-QA",
-        "description": "Agentic campus QA system with RAG retrieval, LLM Wiki memory, and GBrain skills",
-        "isPrivate": false,
-        "isArchived": false,
-        "isFork": false,
-        "primaryLanguage": {
-          "name": "Java"
-        },
-        "pushedAt": "2026-06-03T20:44:03Z",
-        "updatedAt": "2026-05-16T08:28:57Z",
-        "createdAt": "2026-05-11T08:22:16Z",
-        "defaultBranchRef": {
-          "name": "main"
-        },
-        "homepageUrl": "https://harzva.github.io/CampusAgent-QA/",
-        "stargazerCount": 0,
-        "forkCount": 0,
-        "repositoryTopics": [
-          "agent",
-          "campus-qa",
-          "rag",
-          "spring-boot",
-          "vue"
-        ],
-        "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/CampusAgent-QA",
-        "pages": {
-          "enabled": true,
-          "url": "https://harzva.github.io/CampusAgent-QA/",
-          "status": null,
-          "source": {
-            "branch": "main",
-            "path": "/"
-          },
-          "httpsEnforced": true
         },
         "latestRelease": null
       },
@@ -3225,7 +3225,7 @@
       "assetName": "mobilecode-v0.1.0.apk",
       "assetUrl": "https://github.com/Harzva/mobilecode/releases/download/v0.1.0/mobilecode-v0.1.0.apk",
       "size": 53051517,
-      "downloadCount": 9,
+      "downloadCount": 10,
       "kind": "Android APK",
       "functionCategory": "Mobile Apps",
       "releaseName": "MobileCode v0.1.0 Android APK",
@@ -3318,7 +3318,7 @@
         "assetName": "mobilecode-v0.1.0.apk",
         "assetUrl": "https://github.com/Harzva/mobilecode/releases/download/v0.1.0/mobilecode-v0.1.0.apk",
         "size": 53051517,
-        "downloadCount": 9,
+        "downloadCount": 10,
         "kind": "Android APK",
         "functionCategory": "Mobile Apps",
         "releaseName": "MobileCode v0.1.0 Android APK",
@@ -3473,8 +3473,8 @@
       "primaryLanguage": {
         "name": "TypeScript"
       },
-      "pushedAt": "2026-06-15T06:38:07Z",
-      "updatedAt": "2026-06-15T06:38:11Z",
+      "pushedAt": "2026-06-16T06:43:07Z",
+      "updatedAt": "2026-06-16T06:43:50Z",
       "createdAt": "2026-05-12T09:49:47Z",
       "defaultBranchRef": {
         "name": "main"
@@ -3548,7 +3548,7 @@
       "primaryLanguage": {
         "name": "Java"
       },
-      "pushedAt": "2026-06-03T20:44:03Z",
+      "pushedAt": "2026-06-16T02:24:05Z",
       "updatedAt": "2026-05-16T08:28:57Z",
       "createdAt": "2026-05-11T08:22:16Z",
       "defaultBranchRef": {
@@ -3874,8 +3874,8 @@
       "primaryLanguage": {
         "name": "Python"
       },
-      "pushedAt": "2026-06-14T07:58:10Z",
-      "updatedAt": "2026-06-14T07:58:14Z",
+      "pushedAt": "2026-06-15T09:35:20Z",
+      "updatedAt": "2026-06-15T09:35:24Z",
       "createdAt": "2026-05-14T09:29:39Z",
       "defaultBranchRef": {
         "name": "main"
@@ -3908,8 +3908,8 @@
       "primaryLanguage": {
         "name": "Python"
       },
-      "pushedAt": "2026-06-14T07:56:44Z",
-      "updatedAt": "2026-06-14T07:56:47Z",
+      "pushedAt": "2026-06-15T09:34:40Z",
+      "updatedAt": "2026-06-15T09:34:44Z",
       "createdAt": "2026-05-14T09:27:13Z",
       "defaultBranchRef": {
         "name": "main"
@@ -3942,8 +3942,8 @@
       "primaryLanguage": {
         "name": "Python"
       },
-      "pushedAt": "2026-06-14T07:58:43Z",
-      "updatedAt": "2026-06-14T07:58:47Z",
+      "pushedAt": "2026-06-15T09:39:01Z",
+      "updatedAt": "2026-06-15T09:39:05Z",
       "createdAt": "2026-05-14T09:29:34Z",
       "defaultBranchRef": {
         "name": "main"
@@ -3976,8 +3976,8 @@
       "primaryLanguage": {
         "name": "Python"
       },
-      "pushedAt": "2026-06-14T07:57:21Z",
-      "updatedAt": "2026-06-14T07:57:25Z",
+      "pushedAt": "2026-06-15T09:34:35Z",
+      "updatedAt": "2026-06-15T09:34:40Z",
       "createdAt": "2026-05-14T09:29:45Z",
       "defaultBranchRef": {
         "name": "main"
@@ -4078,8 +4078,8 @@
       "primaryLanguage": {
         "name": "TypeScript"
       },
-      "pushedAt": "2026-06-15T05:34:56Z",
-      "updatedAt": "2026-06-15T05:35:00Z",
+      "pushedAt": "2026-06-16T05:42:58Z",
+      "updatedAt": "2026-06-16T05:43:02Z",
       "createdAt": "2026-04-01T03:55:26Z",
       "defaultBranchRef": {
         "name": "main"
@@ -4178,7 +4178,7 @@
             "name": "mobilecode-v0.1.0.apk",
             "url": "https://github.com/Harzva/mobilecode/releases/download/v0.1.0/mobilecode-v0.1.0.apk",
             "size": 53051517,
-            "downloadCount": 9,
+            "downloadCount": 10,
             "contentType": "application/vnd.android.package-archive"
           }
         ]
@@ -4460,8 +4460,8 @@
       "primaryLanguage": {
         "name": "TypeScript"
       },
-      "pushedAt": "2026-06-15T05:34:56Z",
-      "updatedAt": "2026-06-15T05:35:00Z",
+      "pushedAt": "2026-06-16T05:42:58Z",
+      "updatedAt": "2026-06-16T05:43:02Z",
       "createdAt": "2026-04-01T03:55:26Z",
       "defaultBranchRef": {
         "name": "main"
@@ -4560,7 +4560,7 @@
             "name": "mobilecode-v0.1.0.apk",
             "url": "https://github.com/Harzva/mobilecode/releases/download/v0.1.0/mobilecode-v0.1.0.apk",
             "size": 53051517,
-            "downloadCount": 9,
+            "downloadCount": 10,
             "contentType": "application/vnd.android.package-archive"
           }
         ]
@@ -4740,7 +4740,7 @@
       "primaryLanguage": {
         "name": "Java"
       },
-      "pushedAt": "2026-06-03T20:44:03Z",
+      "pushedAt": "2026-06-16T02:24:05Z",
       "updatedAt": "2026-05-16T08:28:57Z",
       "createdAt": "2026-05-11T08:22:16Z",
       "defaultBranchRef": {
@@ -5089,8 +5089,8 @@
       "primaryLanguage": {
         "name": "Python"
       },
-      "pushedAt": "2026-06-14T07:57:21Z",
-      "updatedAt": "2026-06-14T07:57:25Z",
+      "pushedAt": "2026-06-15T09:34:35Z",
+      "updatedAt": "2026-06-15T09:34:40Z",
       "createdAt": "2026-05-14T09:29:45Z",
       "defaultBranchRef": {
         "name": "main"
