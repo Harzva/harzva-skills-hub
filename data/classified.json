@@ -1,14 +1,14 @@
 {
   "summary": {
-    "generatedAt": "2026-06-18T08:19:48.112536+00:00",
+    "generatedAt": "2026-06-19T08:40:45.427739+00:00",
     "owner": "Harzva",
     "mode": "skills",
-    "publicRepositories": 99,
+    "publicRepositories": 103,
     "forks": 35,
-    "pages": 19,
-    "releases": 6,
-    "skills": 24,
-    "artifacts": 12,
+    "pages": 23,
+    "releases": 7,
+    "skills": 26,
+    "artifacts": 16,
     "privateOmitted": 13
   },
   "categories": {
@@ -387,195 +387,6 @@
     ],
     "Pages and Live Demos": [
       {
-        "name": "Agent-Job-Interview",
-        "nameWithOwner": "Harzva/Agent-Job-Interview",
-        "url": "https://github.com/Harzva/Agent-Job-Interview",
-        "description": "Agent job interview roadmap and practice training suite.",
-        "isPrivate": false,
-        "isArchived": false,
-        "isFork": false,
-        "primaryLanguage": {
-          "name": "TypeScript"
-        },
-        "pushedAt": "2026-06-18T06:10:01Z",
-        "updatedAt": "2026-06-18T06:10:05Z",
-        "createdAt": "2026-05-12T09:49:47Z",
-        "defaultBranchRef": {
-          "name": "main"
-        },
-        "homepageUrl": "https://harzva.github.io/Agent-Job-Interview/",
-        "stargazerCount": 0,
-        "forkCount": 0,
-        "repositoryTopics": [],
-        "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/Agent-Job-Interview",
-        "pages": {
-          "enabled": true,
-          "url": "https://harzva.github.io/Agent-Job-Interview/",
-          "status": "built",
-          "source": {
-            "branch": "main",
-            "path": "/docs"
-          },
-          "httpsEnforced": true
-        },
-        "latestRelease": null
-      },
-      {
-        "name": "learn-likecc",
-        "nameWithOwner": "Harzva/learn-likecc",
-        "url": "https://github.com/Harzva/learn-likecc",
-        "description": "Claude Code 源码逆向恢复项目 | Source Map 逆向 · 架构分析 · 可运行版本 | 1900+ 文件 · 51万行代码 · 12章节课程",
-        "isPrivate": false,
-        "isArchived": false,
-        "isFork": false,
-        "primaryLanguage": {
-          "name": "TypeScript"
-        },
-        "pushedAt": "2026-06-18T05:12:43Z",
-        "updatedAt": "2026-06-18T05:12:47Z",
-        "createdAt": "2026-04-01T03:55:26Z",
-        "defaultBranchRef": {
-          "name": "main"
-        },
-        "homepageUrl": "",
-        "stargazerCount": 61,
-        "forkCount": 11,
-        "repositoryTopics": [
-          "agent-loop",
-          "ai-coding",
-          "anthropic",
-          "bun",
-          "claude-code",
-          "cli-tool",
-          "mcp-protocol",
-          "reverse-engineering",
-          "source-map",
-          "typescript"
-        ],
-        "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/learn-likecc",
-        "pages": {
-          "enabled": true,
-          "url": "https://harzva.github.io/learn-likecc/",
-          "status": "built",
-          "source": {
-            "branch": "main",
-            "path": "/docs"
-          },
-          "httpsEnforced": true
-        },
-        "latestRelease": {
-          "name": "v1.0.2-likecode",
-          "tagName": "v1.0.2-likecode",
-          "url": "https://github.com/Harzva/learn-likecc/releases/tag/v1.0.2-likecode",
-          "publishedAt": "2026-04-07T12:27:48Z",
-          "prerelease": false,
-          "draft": false,
-          "assets": []
-        }
-      },
-      {
-        "name": "harzva-release-hub",
-        "nameWithOwner": "Harzva/harzva-release-hub",
-        "url": "https://github.com/Harzva/harzva-release-hub",
-        "description": "Auto-updating release hub for Harzva repositories with direct download assets and GitHub Pages.",
-        "isPrivate": false,
-        "isArchived": false,
-        "isFork": false,
-        "primaryLanguage": {
-          "name": "Python"
-        },
-        "pushedAt": "2026-06-17T08:38:37Z",
-        "updatedAt": "2026-06-17T08:38:41Z",
-        "createdAt": "2026-05-14T09:29:34Z",
-        "defaultBranchRef": {
-          "name": "main"
-        },
-        "homepageUrl": "https://harzva.github.io/harzva-release-hub/",
-        "stargazerCount": 0,
-        "forkCount": 0,
-        "repositoryTopics": [],
-        "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/harzva-release-hub",
-        "pages": {
-          "enabled": true,
-          "url": "https://harzva.github.io/harzva-release-hub/",
-          "status": null,
-          "source": {
-            "branch": "main",
-            "path": "/"
-          },
-          "httpsEnforced": true
-        },
-        "latestRelease": null
-      },
-      {
-        "name": "harzva-pages-hub",
-        "nameWithOwner": "Harzva/harzva-pages-hub",
-        "url": "https://github.com/Harzva/harzva-pages-hub",
-        "description": "Visual GitHub Pages hub for Harzva sites, demos, docs, and live project surfaces.",
-        "isPrivate": false,
-        "isArchived": false,
-        "isFork": false,
-        "primaryLanguage": {
-          "name": "Python"
-        },
-        "pushedAt": "2026-06-17T08:37:42Z",
-        "updatedAt": "2026-06-17T08:37:46Z",
-        "createdAt": "2026-05-14T09:29:39Z",
-        "defaultBranchRef": {
-          "name": "main"
-        },
-        "homepageUrl": "https://harzva.github.io/harzva-pages-hub/",
-        "stargazerCount": 0,
-        "forkCount": 0,
-        "repositoryTopics": [],
-        "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/harzva-pages-hub",
-        "pages": {
-          "enabled": true,
-          "url": "https://harzva.github.io/harzva-pages-hub/",
-          "status": null,
-          "source": {
-            "branch": "main",
-            "path": "/"
-          },
-          "httpsEnforced": true
-        },
-        "latestRelease": null
-      },
-      {
-        "name": "harzva-project-atlas",
-        "nameWithOwner": "Harzva/harzva-project-atlas",
-        "url": "https://github.com/Harzva/harzva-project-atlas",
-        "description": "Download-first MetaRepo atlas for Harzva APK, EXE, package, archive, and release asset links.",
-        "isPrivate": false,
-        "isArchived": false,
-        "isFork": false,
-        "primaryLanguage": {
-          "name": "Python"
-        },
-        "pushedAt": "2026-06-17T08:36:45Z",
-        "updatedAt": "2026-06-17T08:36:49Z",
-        "createdAt": "2026-05-14T09:27:13Z",
-        "defaultBranchRef": {
-          "name": "main"
-        },
-        "homepageUrl": "https://harzva.github.io/harzva-project-atlas/",
-        "stargazerCount": 0,
-        "forkCount": 0,
-        "repositoryTopics": [],
-        "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/harzva-project-atlas",
-        "pages": {
-          "enabled": true,
-          "url": "https://harzva.github.io/harzva-project-atlas/",
-          "status": null,
-          "source": {
-            "branch": "main",
-            "path": "/"
-          },
-          "httpsEnforced": true
-        },
-        "latestRelease": null
-      },
-      {
         "name": "mobilecode",
         "nameWithOwner": "Harzva/mobilecode",
         "url": "https://github.com/Harzva/mobilecode",
@@ -586,8 +397,8 @@
         "primaryLanguage": {
           "name": "Dart"
         },
-        "pushedAt": "2026-06-12T16:46:06Z",
-        "updatedAt": "2026-06-17T14:48:03Z",
+        "pushedAt": "2026-06-19T07:03:09Z",
+        "updatedAt": "2026-06-19T07:03:14Z",
         "createdAt": "2026-05-12T08:19:17Z",
         "defaultBranchRef": {
           "name": "main"
@@ -633,11 +444,274 @@
               "name": "mobilecode-v0.1.0.apk",
               "url": "https://github.com/Harzva/mobilecode/releases/download/v0.1.0/mobilecode-v0.1.0.apk",
               "size": 53051517,
-              "downloadCount": 13,
+              "downloadCount": 14,
               "contentType": "application/vnd.android.package-archive"
             }
           ]
         }
+      },
+      {
+        "name": "Agent-Job-Interview",
+        "nameWithOwner": "Harzva/Agent-Job-Interview",
+        "url": "https://github.com/Harzva/Agent-Job-Interview",
+        "description": "Agent job interview roadmap and practice training suite.",
+        "isPrivate": false,
+        "isArchived": false,
+        "isFork": false,
+        "primaryLanguage": {
+          "name": "TypeScript"
+        },
+        "pushedAt": "2026-06-19T06:30:54Z",
+        "updatedAt": "2026-06-19T06:30:58Z",
+        "createdAt": "2026-05-12T09:49:47Z",
+        "defaultBranchRef": {
+          "name": "main"
+        },
+        "homepageUrl": "https://harzva.github.io/Agent-Job-Interview/",
+        "stargazerCount": 0,
+        "forkCount": 0,
+        "repositoryTopics": [],
+        "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/Agent-Job-Interview",
+        "pages": {
+          "enabled": true,
+          "url": "https://harzva.github.io/Agent-Job-Interview/",
+          "status": "built",
+          "source": {
+            "branch": "main",
+            "path": "/docs"
+          },
+          "httpsEnforced": true
+        },
+        "latestRelease": null
+      },
+      {
+        "name": "ai-aggregator-hub",
+        "nameWithOwner": "Harzva/ai-aggregator-hub",
+        "url": "https://github.com/Harzva/ai-aggregator-hub",
+        "description": "AI聚合平台导航站 - 汇集50+优质中转站、聚合平台、纯度检测工具",
+        "isPrivate": false,
+        "isArchived": false,
+        "isFork": false,
+        "primaryLanguage": {
+          "name": "TypeScript"
+        },
+        "pushedAt": "2026-06-19T05:43:01Z",
+        "updatedAt": "2026-06-19T05:43:05Z",
+        "createdAt": "2026-06-18T09:31:30Z",
+        "defaultBranchRef": {
+          "name": "main"
+        },
+        "homepageUrl": "",
+        "stargazerCount": 0,
+        "forkCount": 0,
+        "repositoryTopics": [],
+        "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/ai-aggregator-hub",
+        "pages": {
+          "enabled": true,
+          "url": "https://harzva.github.io/ai-aggregator-hub/",
+          "status": "built",
+          "source": {
+            "branch": "gh-pages",
+            "path": "/"
+          },
+          "httpsEnforced": true
+        },
+        "latestRelease": null
+      },
+      {
+        "name": "learn-likecc",
+        "nameWithOwner": "Harzva/learn-likecc",
+        "url": "https://github.com/Harzva/learn-likecc",
+        "description": "Claude Code 源码逆向恢复项目 | Source Map 逆向 · 架构分析 · 可运行版本 | 1900+ 文件 · 51万行代码 · 12章节课程",
+        "isPrivate": false,
+        "isArchived": false,
+        "isFork": false,
+        "primaryLanguage": {
+          "name": "TypeScript"
+        },
+        "pushedAt": "2026-06-19T05:31:57Z",
+        "updatedAt": "2026-06-19T05:32:01Z",
+        "createdAt": "2026-04-01T03:55:26Z",
+        "defaultBranchRef": {
+          "name": "main"
+        },
+        "homepageUrl": "",
+        "stargazerCount": 61,
+        "forkCount": 11,
+        "repositoryTopics": [
+          "agent-loop",
+          "ai-coding",
+          "anthropic",
+          "bun",
+          "claude-code",
+          "cli-tool",
+          "mcp-protocol",
+          "reverse-engineering",
+          "source-map",
+          "typescript"
+        ],
+        "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/learn-likecc",
+        "pages": {
+          "enabled": true,
+          "url": "https://harzva.github.io/learn-likecc/",
+          "status": "built",
+          "source": {
+            "branch": "main",
+            "path": "/docs"
+          },
+          "httpsEnforced": true
+        },
+        "latestRelease": {
+          "name": "v1.0.2-likecode",
+          "tagName": "v1.0.2-likecode",
+          "url": "https://github.com/Harzva/learn-likecc/releases/tag/v1.0.2-likecode",
+          "publishedAt": "2026-04-07T12:27:48Z",
+          "prerelease": false,
+          "draft": false,
+          "assets": []
+        }
+      },
+      {
+        "name": "chatgpt2localbridge",
+        "nameWithOwner": "Harzva/chatgpt2localbridge",
+        "url": "https://github.com/Harzva/chatgpt2localbridge",
+        "description": "OAuth MCP connector that lets ChatGPT access approved local workspaces.",
+        "isPrivate": false,
+        "isArchived": false,
+        "isFork": false,
+        "primaryLanguage": {
+          "name": "TypeScript"
+        },
+        "pushedAt": "2026-06-19T03:00:39Z",
+        "updatedAt": "2026-06-19T03:00:44Z",
+        "createdAt": "2026-06-19T02:26:19Z",
+        "defaultBranchRef": {
+          "name": "main"
+        },
+        "homepageUrl": "https://harzva.github.io/chatgpt2localbridge/",
+        "stargazerCount": 0,
+        "forkCount": 0,
+        "repositoryTopics": [
+          "chatgpt",
+          "local-first",
+          "mcp",
+          "model-context-protocol",
+          "oauth"
+        ],
+        "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/chatgpt2localbridge",
+        "pages": {
+          "enabled": true,
+          "url": "https://harzva.github.io/chatgpt2localbridge/",
+          "status": null,
+          "source": {
+            "branch": "main",
+            "path": "/"
+          },
+          "httpsEnforced": true
+        },
+        "latestRelease": null
+      },
+      {
+        "name": "harzva-release-hub",
+        "nameWithOwner": "Harzva/harzva-release-hub",
+        "url": "https://github.com/Harzva/harzva-release-hub",
+        "description": "Auto-updating release hub for Harzva repositories with direct download assets and GitHub Pages.",
+        "isPrivate": false,
+        "isArchived": false,
+        "isFork": false,
+        "primaryLanguage": {
+          "name": "Python"
+        },
+        "pushedAt": "2026-06-18T08:21:37Z",
+        "updatedAt": "2026-06-18T08:21:41Z",
+        "createdAt": "2026-05-14T09:29:34Z",
+        "defaultBranchRef": {
+          "name": "main"
+        },
+        "homepageUrl": "https://harzva.github.io/harzva-release-hub/",
+        "stargazerCount": 0,
+        "forkCount": 0,
+        "repositoryTopics": [],
+        "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/harzva-release-hub",
+        "pages": {
+          "enabled": true,
+          "url": "https://harzva.github.io/harzva-release-hub/",
+          "status": null,
+          "source": {
+            "branch": "main",
+            "path": "/"
+          },
+          "httpsEnforced": true
+        },
+        "latestRelease": null
+      },
+      {
+        "name": "harzva-pages-hub",
+        "nameWithOwner": "Harzva/harzva-pages-hub",
+        "url": "https://github.com/Harzva/harzva-pages-hub",
+        "description": "Visual GitHub Pages hub for Harzva sites, demos, docs, and live project surfaces.",
+        "isPrivate": false,
+        "isArchived": false,
+        "isFork": false,
+        "primaryLanguage": {
+          "name": "Python"
+        },
+        "pushedAt": "2026-06-18T08:20:41Z",
+        "updatedAt": "2026-06-18T08:20:45Z",
+        "createdAt": "2026-05-14T09:29:39Z",
+        "defaultBranchRef": {
+          "name": "main"
+        },
+        "homepageUrl": "https://harzva.github.io/harzva-pages-hub/",
+        "stargazerCount": 0,
+        "forkCount": 0,
+        "repositoryTopics": [],
+        "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/harzva-pages-hub",
+        "pages": {
+          "enabled": true,
+          "url": "https://harzva.github.io/harzva-pages-hub/",
+          "status": null,
+          "source": {
+            "branch": "main",
+            "path": "/"
+          },
+          "httpsEnforced": true
+        },
+        "latestRelease": null
+      },
+      {
+        "name": "harzva-project-atlas",
+        "nameWithOwner": "Harzva/harzva-project-atlas",
+        "url": "https://github.com/Harzva/harzva-project-atlas",
+        "description": "Download-first MetaRepo atlas for Harzva APK, EXE, package, archive, and release asset links.",
+        "isPrivate": false,
+        "isArchived": false,
+        "isFork": false,
+        "primaryLanguage": {
+          "name": "Python"
+        },
+        "pushedAt": "2026-06-18T08:19:38Z",
+        "updatedAt": "2026-06-18T08:19:43Z",
+        "createdAt": "2026-05-14T09:27:13Z",
+        "defaultBranchRef": {
+          "name": "main"
+        },
+        "homepageUrl": "https://harzva.github.io/harzva-project-atlas/",
+        "stargazerCount": 0,
+        "forkCount": 0,
+        "repositoryTopics": [],
+        "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/harzva-project-atlas",
+        "pages": {
+          "enabled": true,
+          "url": "https://harzva.github.io/harzva-project-atlas/",
+          "status": null,
+          "source": {
+            "branch": "main",
+            "path": "/"
+          },
+          "httpsEnforced": true
+        },
+        "latestRelease": null
       },
       {
         "name": "ChinaAI-Roadmaps",
@@ -1091,6 +1165,111 @@
     ],
     "Skills and Agent Workflows": [
       {
+        "name": "mcp-skills-hub",
+        "nameWithOwner": "Harzva/mcp-skills-hub",
+        "url": "https://github.com/Harzva/mcp-skills-hub",
+        "description": "MCP Skills Hub - 汇集50+ Model Context Protocol Skill与Server",
+        "isPrivate": false,
+        "isArchived": false,
+        "isFork": false,
+        "primaryLanguage": {
+          "name": "TypeScript"
+        },
+        "pushedAt": "2026-06-19T03:31:53Z",
+        "updatedAt": "2026-06-19T03:30:44Z",
+        "createdAt": "2026-06-19T03:30:25Z",
+        "defaultBranchRef": {
+          "name": "main"
+        },
+        "homepageUrl": "",
+        "stargazerCount": 0,
+        "forkCount": 0,
+        "repositoryTopics": [],
+        "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/mcp-skills-hub",
+        "pages": {
+          "enabled": true,
+          "url": "https://harzva.github.io/mcp-skills-hub/",
+          "status": "built",
+          "source": {
+            "branch": "gh-pages",
+            "path": "/"
+          },
+          "httpsEnforced": true
+        },
+        "latestRelease": null
+      },
+      {
+        "name": "pami-skill-suites",
+        "nameWithOwner": "Harzva/pami-skill-suites",
+        "url": "https://github.com/Harzva/pami-skill-suites",
+        "description": "Context-safe IEEE and Elsevier journal manuscript skill suites with metadata-only RAG trace assets",
+        "isPrivate": false,
+        "isArchived": false,
+        "isFork": false,
+        "primaryLanguage": {
+          "name": "Python"
+        },
+        "pushedAt": "2026-06-18T14:22:07Z",
+        "updatedAt": "2026-06-18T14:23:58Z",
+        "createdAt": "2026-06-18T12:35:39Z",
+        "defaultBranchRef": {
+          "name": "main"
+        },
+        "homepageUrl": "https://harzva.github.io/pami-skill-suites/",
+        "stargazerCount": 0,
+        "forkCount": 0,
+        "repositoryTopics": [],
+        "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/pami-skill-suites",
+        "pages": {
+          "enabled": true,
+          "url": "https://harzva.github.io/pami-skill-suites/",
+          "status": "built",
+          "source": {
+            "branch": "main",
+            "path": "/docs"
+          },
+          "httpsEnforced": true
+        },
+        "latestRelease": {
+          "name": "PAMI Skill Suites v2.7.0",
+          "tagName": "v2.7.0",
+          "url": "https://github.com/Harzva/pami-skill-suites/releases/tag/v2.7.0",
+          "publishedAt": "2026-06-18T12:46:11Z",
+          "prerelease": false,
+          "draft": false,
+          "assets": [
+            {
+              "name": "elsevier-skills-v2.7.0.zip",
+              "url": "https://github.com/Harzva/pami-skill-suites/releases/download/v2.7.0/elsevier-skills-v2.7.0.zip",
+              "size": 53240882,
+              "downloadCount": 1,
+              "contentType": "application/zip"
+            },
+            {
+              "name": "ieee-skills-v2.7.0.zip",
+              "url": "https://github.com/Harzva/pami-skill-suites/releases/download/v2.7.0/ieee-skills-v2.7.0.zip",
+              "size": 92831483,
+              "downloadCount": 1,
+              "contentType": "application/zip"
+            },
+            {
+              "name": "journal-skill-suites-v2.7.0.zip",
+              "url": "https://github.com/Harzva/pami-skill-suites/releases/download/v2.7.0/journal-skill-suites-v2.7.0.zip",
+              "size": 148992508,
+              "downloadCount": 1,
+              "contentType": "application/zip"
+            },
+            {
+              "name": "main-figure-site-v2.7.0.zip",
+              "url": "https://github.com/Harzva/pami-skill-suites/releases/download/v2.7.0/main-figure-site-v2.7.0.zip",
+              "size": 4676658,
+              "downloadCount": 1,
+              "contentType": "application/zip"
+            }
+          ]
+        }
+      },
+      {
         "name": "harzva-skills-hub",
         "nameWithOwner": "Harzva/harzva-skills-hub",
         "url": "https://github.com/Harzva/harzva-skills-hub",
@@ -1101,8 +1280,8 @@
         "primaryLanguage": {
           "name": "Python"
         },
-        "pushedAt": "2026-06-17T08:37:18Z",
-        "updatedAt": "2026-06-17T08:37:23Z",
+        "pushedAt": "2026-06-18T08:19:49Z",
+        "updatedAt": "2026-06-18T08:19:52Z",
         "createdAt": "2026-05-14T09:29:45Z",
         "defaultBranchRef": {
           "name": "main"
@@ -3037,6 +3216,78 @@
       "isFork": false
     },
     {
+      "repo": "Harzva/pami-skill-suites",
+      "repoName": "pami-skill-suites",
+      "repoUrl": "https://github.com/Harzva/pami-skill-suites",
+      "description": "Context-safe IEEE and Elsevier journal manuscript skill suites with metadata-only RAG trace assets",
+      "language": "Python",
+      "assetName": "elsevier-skills-v2.7.0.zip",
+      "assetUrl": "https://github.com/Harzva/pami-skill-suites/releases/download/v2.7.0/elsevier-skills-v2.7.0.zip",
+      "size": 53240882,
+      "downloadCount": 1,
+      "kind": "Archive",
+      "functionCategory": "AI Agent Systems",
+      "releaseName": "PAMI Skill Suites v2.7.0",
+      "tagName": "v2.7.0",
+      "releaseUrl": "https://github.com/Harzva/pami-skill-suites/releases/tag/v2.7.0",
+      "publishedAt": "2026-06-18T12:46:11Z",
+      "isFork": false
+    },
+    {
+      "repo": "Harzva/pami-skill-suites",
+      "repoName": "pami-skill-suites",
+      "repoUrl": "https://github.com/Harzva/pami-skill-suites",
+      "description": "Context-safe IEEE and Elsevier journal manuscript skill suites with metadata-only RAG trace assets",
+      "language": "Python",
+      "assetName": "ieee-skills-v2.7.0.zip",
+      "assetUrl": "https://github.com/Harzva/pami-skill-suites/releases/download/v2.7.0/ieee-skills-v2.7.0.zip",
+      "size": 92831483,
+      "downloadCount": 1,
+      "kind": "Archive",
+      "functionCategory": "AI Agent Systems",
+      "releaseName": "PAMI Skill Suites v2.7.0",
+      "tagName": "v2.7.0",
+      "releaseUrl": "https://github.com/Harzva/pami-skill-suites/releases/tag/v2.7.0",
+      "publishedAt": "2026-06-18T12:46:11Z",
+      "isFork": false
+    },
+    {
+      "repo": "Harzva/pami-skill-suites",
+      "repoName": "pami-skill-suites",
+      "repoUrl": "https://github.com/Harzva/pami-skill-suites",
+      "description": "Context-safe IEEE and Elsevier journal manuscript skill suites with metadata-only RAG trace assets",
+      "language": "Python",
+      "assetName": "journal-skill-suites-v2.7.0.zip",
+      "assetUrl": "https://github.com/Harzva/pami-skill-suites/releases/download/v2.7.0/journal-skill-suites-v2.7.0.zip",
+      "size": 148992508,
+      "downloadCount": 1,
+      "kind": "Archive",
+      "functionCategory": "AI Agent Systems",
+      "releaseName": "PAMI Skill Suites v2.7.0",
+      "tagName": "v2.7.0",
+      "releaseUrl": "https://github.com/Harzva/pami-skill-suites/releases/tag/v2.7.0",
+      "publishedAt": "2026-06-18T12:46:11Z",
+      "isFork": false
+    },
+    {
+      "repo": "Harzva/pami-skill-suites",
+      "repoName": "pami-skill-suites",
+      "repoUrl": "https://github.com/Harzva/pami-skill-suites",
+      "description": "Context-safe IEEE and Elsevier journal manuscript skill suites with metadata-only RAG trace assets",
+      "language": "Python",
+      "assetName": "main-figure-site-v2.7.0.zip",
+      "assetUrl": "https://github.com/Harzva/pami-skill-suites/releases/download/v2.7.0/main-figure-site-v2.7.0.zip",
+      "size": 4676658,
+      "downloadCount": 1,
+      "kind": "Archive",
+      "functionCategory": "AI Agent Systems",
+      "releaseName": "PAMI Skill Suites v2.7.0",
+      "tagName": "v2.7.0",
+      "releaseUrl": "https://github.com/Harzva/pami-skill-suites/releases/tag/v2.7.0",
+      "publishedAt": "2026-06-18T12:46:11Z",
+      "isFork": false
+    },
+    {
       "repo": "Harzva/GitReleaseMarket",
       "repoName": "GitReleaseMarket",
       "repoUrl": "https://github.com/Harzva/GitReleaseMarket",
@@ -3225,7 +3476,7 @@
       "assetName": "mobilecode-v0.1.0.apk",
       "assetUrl": "https://github.com/Harzva/mobilecode/releases/download/v0.1.0/mobilecode-v0.1.0.apk",
       "size": 53051517,
-      "downloadCount": 13,
+      "downloadCount": 14,
       "kind": "Android APK",
       "functionCategory": "Mobile Apps",
       "releaseName": "MobileCode v0.1.0 Android APK",
@@ -3318,7 +3569,7 @@
         "assetName": "mobilecode-v0.1.0.apk",
         "assetUrl": "https://github.com/Harzva/mobilecode/releases/download/v0.1.0/mobilecode-v0.1.0.apk",
         "size": 53051517,
-        "downloadCount": 13,
+        "downloadCount": 14,
         "kind": "Android APK",
         "functionCategory": "Mobile Apps",
         "releaseName": "MobileCode v0.1.0 Android APK",
@@ -3442,6 +3693,78 @@
     ],
     "AI Agent Systems": [
       {
+        "repo": "Harzva/pami-skill-suites",
+        "repoName": "pami-skill-suites",
+        "repoUrl": "https://github.com/Harzva/pami-skill-suites",
+        "description": "Context-safe IEEE and Elsevier journal manuscript skill suites with metadata-only RAG trace assets",
+        "language": "Python",
+        "assetName": "elsevier-skills-v2.7.0.zip",
+        "assetUrl": "https://github.com/Harzva/pami-skill-suites/releases/download/v2.7.0/elsevier-skills-v2.7.0.zip",
+        "size": 53240882,
+        "downloadCount": 1,
+        "kind": "Archive",
+        "functionCategory": "AI Agent Systems",
+        "releaseName": "PAMI Skill Suites v2.7.0",
+        "tagName": "v2.7.0",
+        "releaseUrl": "https://github.com/Harzva/pami-skill-suites/releases/tag/v2.7.0",
+        "publishedAt": "2026-06-18T12:46:11Z",
+        "isFork": false
+      },
+      {
+        "repo": "Harzva/pami-skill-suites",
+        "repoName": "pami-skill-suites",
+        "repoUrl": "https://github.com/Harzva/pami-skill-suites",
+        "description": "Context-safe IEEE and Elsevier journal manuscript skill suites with metadata-only RAG trace assets",
+        "language": "Python",
+        "assetName": "ieee-skills-v2.7.0.zip",
+        "assetUrl": "https://github.com/Harzva/pami-skill-suites/releases/download/v2.7.0/ieee-skills-v2.7.0.zip",
+        "size": 92831483,
+        "downloadCount": 1,
+        "kind": "Archive",
+        "functionCategory": "AI Agent Systems",
+        "releaseName": "PAMI Skill Suites v2.7.0",
+        "tagName": "v2.7.0",
+        "releaseUrl": "https://github.com/Harzva/pami-skill-suites/releases/tag/v2.7.0",
+        "publishedAt": "2026-06-18T12:46:11Z",
+        "isFork": false
+      },
+      {
+        "repo": "Harzva/pami-skill-suites",
+        "repoName": "pami-skill-suites",
+        "repoUrl": "https://github.com/Harzva/pami-skill-suites",
+        "description": "Context-safe IEEE and Elsevier journal manuscript skill suites with metadata-only RAG trace assets",
+        "language": "Python",
+        "assetName": "journal-skill-suites-v2.7.0.zip",
+        "assetUrl": "https://github.com/Harzva/pami-skill-suites/releases/download/v2.7.0/journal-skill-suites-v2.7.0.zip",
+        "size": 148992508,
+        "downloadCount": 1,
+        "kind": "Archive",
+        "functionCategory": "AI Agent Systems",
+        "releaseName": "PAMI Skill Suites v2.7.0",
+        "tagName": "v2.7.0",
+        "releaseUrl": "https://github.com/Harzva/pami-skill-suites/releases/tag/v2.7.0",
+        "publishedAt": "2026-06-18T12:46:11Z",
+        "isFork": false
+      },
+      {
+        "repo": "Harzva/pami-skill-suites",
+        "repoName": "pami-skill-suites",
+        "repoUrl": "https://github.com/Harzva/pami-skill-suites",
+        "description": "Context-safe IEEE and Elsevier journal manuscript skill suites with metadata-only RAG trace assets",
+        "language": "Python",
+        "assetName": "main-figure-site-v2.7.0.zip",
+        "assetUrl": "https://github.com/Harzva/pami-skill-suites/releases/download/v2.7.0/main-figure-site-v2.7.0.zip",
+        "size": 4676658,
+        "downloadCount": 1,
+        "kind": "Archive",
+        "functionCategory": "AI Agent Systems",
+        "releaseName": "PAMI Skill Suites v2.7.0",
+        "tagName": "v2.7.0",
+        "releaseUrl": "https://github.com/Harzva/pami-skill-suites/releases/tag/v2.7.0",
+        "publishedAt": "2026-06-18T12:46:11Z",
+        "isFork": false
+      },
+      {
         "repo": "Harzva/codex-managed-agent",
         "repoName": "codex-managed-agent",
         "repoUrl": "https://github.com/Harzva/codex-managed-agent",
@@ -3473,8 +3796,8 @@
       "primaryLanguage": {
         "name": "TypeScript"
       },
-      "pushedAt": "2026-06-18T06:10:01Z",
-      "updatedAt": "2026-06-18T06:10:05Z",
+      "pushedAt": "2026-06-19T06:30:54Z",
+      "updatedAt": "2026-06-19T06:30:58Z",
       "createdAt": "2026-05-12T09:49:47Z",
       "defaultBranchRef": {
         "name": "main"
@@ -3531,6 +3854,40 @@
         "status": null,
         "source": {
           "branch": "main",
+          "path": "/"
+        },
+        "httpsEnforced": true
+      },
+      "latestRelease": null
+    },
+    {
+      "name": "ai-aggregator-hub",
+      "nameWithOwner": "Harzva/ai-aggregator-hub",
+      "url": "https://github.com/Harzva/ai-aggregator-hub",
+      "description": "AI聚合平台导航站 - 汇集50+优质中转站、聚合平台、纯度检测工具",
+      "isPrivate": false,
+      "isArchived": false,
+      "isFork": false,
+      "primaryLanguage": {
+        "name": "TypeScript"
+      },
+      "pushedAt": "2026-06-19T05:43:01Z",
+      "updatedAt": "2026-06-19T05:43:05Z",
+      "createdAt": "2026-06-18T09:31:30Z",
+      "defaultBranchRef": {
+        "name": "main"
+      },
+      "homepageUrl": "",
+      "stargazerCount": 0,
+      "forkCount": 0,
+      "repositoryTopics": [],
+      "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/ai-aggregator-hub",
+      "pages": {
+        "enabled": true,
+        "url": "https://harzva.github.io/ai-aggregator-hub/",
+        "status": "built",
+        "source": {
+          "branch": "gh-pages",
           "path": "/"
         },
         "httpsEnforced": true
@@ -3612,6 +3969,46 @@
       "pages": {
         "enabled": true,
         "url": "https://harzva.github.io/catop-cachehit/",
+        "status": null,
+        "source": {
+          "branch": "main",
+          "path": "/"
+        },
+        "httpsEnforced": true
+      },
+      "latestRelease": null
+    },
+    {
+      "name": "chatgpt2localbridge",
+      "nameWithOwner": "Harzva/chatgpt2localbridge",
+      "url": "https://github.com/Harzva/chatgpt2localbridge",
+      "description": "OAuth MCP connector that lets ChatGPT access approved local workspaces.",
+      "isPrivate": false,
+      "isArchived": false,
+      "isFork": false,
+      "primaryLanguage": {
+        "name": "TypeScript"
+      },
+      "pushedAt": "2026-06-19T03:00:39Z",
+      "updatedAt": "2026-06-19T03:00:44Z",
+      "createdAt": "2026-06-19T02:26:19Z",
+      "defaultBranchRef": {
+        "name": "main"
+      },
+      "homepageUrl": "https://harzva.github.io/chatgpt2localbridge/",
+      "stargazerCount": 0,
+      "forkCount": 0,
+      "repositoryTopics": [
+        "chatgpt",
+        "local-first",
+        "mcp",
+        "model-context-protocol",
+        "oauth"
+      ],
+      "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/chatgpt2localbridge",
+      "pages": {
+        "enabled": true,
+        "url": "https://harzva.github.io/chatgpt2localbridge/",
         "status": null,
         "source": {
           "branch": "main",
@@ -3874,8 +4271,8 @@
       "primaryLanguage": {
         "name": "Python"
       },
-      "pushedAt": "2026-06-17T08:37:42Z",
-      "updatedAt": "2026-06-17T08:37:46Z",
+      "pushedAt": "2026-06-18T08:20:41Z",
+      "updatedAt": "2026-06-18T08:20:45Z",
       "createdAt": "2026-05-14T09:29:39Z",
       "defaultBranchRef": {
         "name": "main"
@@ -3908,8 +4305,8 @@
       "primaryLanguage": {
         "name": "Python"
       },
-      "pushedAt": "2026-06-17T08:36:45Z",
-      "updatedAt": "2026-06-17T08:36:49Z",
+      "pushedAt": "2026-06-18T08:19:38Z",
+      "updatedAt": "2026-06-18T08:19:43Z",
       "createdAt": "2026-05-14T09:27:13Z",
       "defaultBranchRef": {
         "name": "main"
@@ -3942,8 +4339,8 @@
       "primaryLanguage": {
         "name": "Python"
       },
-      "pushedAt": "2026-06-17T08:38:37Z",
-      "updatedAt": "2026-06-17T08:38:41Z",
+      "pushedAt": "2026-06-18T08:21:37Z",
+      "updatedAt": "2026-06-18T08:21:41Z",
       "createdAt": "2026-05-14T09:29:34Z",
       "defaultBranchRef": {
         "name": "main"
@@ -3976,8 +4373,8 @@
       "primaryLanguage": {
         "name": "Python"
       },
-      "pushedAt": "2026-06-17T08:37:18Z",
-      "updatedAt": "2026-06-17T08:37:23Z",
+      "pushedAt": "2026-06-18T08:19:49Z",
+      "updatedAt": "2026-06-18T08:19:52Z",
       "createdAt": "2026-05-14T09:29:45Z",
       "defaultBranchRef": {
         "name": "main"
@@ -4078,8 +4475,8 @@
       "primaryLanguage": {
         "name": "TypeScript"
       },
-      "pushedAt": "2026-06-18T05:12:43Z",
-      "updatedAt": "2026-06-18T05:12:47Z",
+      "pushedAt": "2026-06-19T05:31:57Z",
+      "updatedAt": "2026-06-19T05:32:01Z",
       "createdAt": "2026-04-01T03:55:26Z",
       "defaultBranchRef": {
         "name": "main"
@@ -4121,6 +4518,40 @@
       }
     },
     {
+      "name": "mcp-skills-hub",
+      "nameWithOwner": "Harzva/mcp-skills-hub",
+      "url": "https://github.com/Harzva/mcp-skills-hub",
+      "description": "MCP Skills Hub - 汇集50+ Model Context Protocol Skill与Server",
+      "isPrivate": false,
+      "isArchived": false,
+      "isFork": false,
+      "primaryLanguage": {
+        "name": "TypeScript"
+      },
+      "pushedAt": "2026-06-19T03:31:53Z",
+      "updatedAt": "2026-06-19T03:30:44Z",
+      "createdAt": "2026-06-19T03:30:25Z",
+      "defaultBranchRef": {
+        "name": "main"
+      },
+      "homepageUrl": "",
+      "stargazerCount": 0,
+      "forkCount": 0,
+      "repositoryTopics": [],
+      "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/mcp-skills-hub",
+      "pages": {
+        "enabled": true,
+        "url": "https://harzva.github.io/mcp-skills-hub/",
+        "status": "built",
+        "source": {
+          "branch": "gh-pages",
+          "path": "/"
+        },
+        "httpsEnforced": true
+      },
+      "latestRelease": null
+    },
+    {
       "name": "mobilecode",
       "nameWithOwner": "Harzva/mobilecode",
       "url": "https://github.com/Harzva/mobilecode",
@@ -4131,8 +4562,8 @@
       "primaryLanguage": {
         "name": "Dart"
       },
-      "pushedAt": "2026-06-12T16:46:06Z",
-      "updatedAt": "2026-06-17T14:48:03Z",
+      "pushedAt": "2026-06-19T07:03:09Z",
+      "updatedAt": "2026-06-19T07:03:14Z",
       "createdAt": "2026-05-12T08:19:17Z",
       "defaultBranchRef": {
         "name": "main"
@@ -4178,8 +4609,79 @@
             "name": "mobilecode-v0.1.0.apk",
             "url": "https://github.com/Harzva/mobilecode/releases/download/v0.1.0/mobilecode-v0.1.0.apk",
             "size": 53051517,
-            "downloadCount": 13,
+            "downloadCount": 14,
             "contentType": "application/vnd.android.package-archive"
+          }
+        ]
+      }
+    },
+    {
+      "name": "pami-skill-suites",
+      "nameWithOwner": "Harzva/pami-skill-suites",
+      "url": "https://github.com/Harzva/pami-skill-suites",
+      "description": "Context-safe IEEE and Elsevier journal manuscript skill suites with metadata-only RAG trace assets",
+      "isPrivate": false,
+      "isArchived": false,
+      "isFork": false,
+      "primaryLanguage": {
+        "name": "Python"
+      },
+      "pushedAt": "2026-06-18T14:22:07Z",
+      "updatedAt": "2026-06-18T14:23:58Z",
+      "createdAt": "2026-06-18T12:35:39Z",
+      "defaultBranchRef": {
+        "name": "main"
+      },
+      "homepageUrl": "https://harzva.github.io/pami-skill-suites/",
+      "stargazerCount": 0,
+      "forkCount": 0,
+      "repositoryTopics": [],
+      "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/pami-skill-suites",
+      "pages": {
+        "enabled": true,
+        "url": "https://harzva.github.io/pami-skill-suites/",
+        "status": "built",
+        "source": {
+          "branch": "main",
+          "path": "/docs"
+        },
+        "httpsEnforced": true
+      },
+      "latestRelease": {
+        "name": "PAMI Skill Suites v2.7.0",
+        "tagName": "v2.7.0",
+        "url": "https://github.com/Harzva/pami-skill-suites/releases/tag/v2.7.0",
+        "publishedAt": "2026-06-18T12:46:11Z",
+        "prerelease": false,
+        "draft": false,
+        "assets": [
+          {
+            "name": "elsevier-skills-v2.7.0.zip",
+            "url": "https://github.com/Harzva/pami-skill-suites/releases/download/v2.7.0/elsevier-skills-v2.7.0.zip",
+            "size": 53240882,
+            "downloadCount": 1,
+            "contentType": "application/zip"
+          },
+          {
+            "name": "ieee-skills-v2.7.0.zip",
+            "url": "https://github.com/Harzva/pami-skill-suites/releases/download/v2.7.0/ieee-skills-v2.7.0.zip",
+            "size": 92831483,
+            "downloadCount": 1,
+            "contentType": "application/zip"
+          },
+          {
+            "name": "journal-skill-suites-v2.7.0.zip",
+            "url": "https://github.com/Harzva/pami-skill-suites/releases/download/v2.7.0/journal-skill-suites-v2.7.0.zip",
+            "size": 148992508,
+            "downloadCount": 1,
+            "contentType": "application/zip"
+          },
+          {
+            "name": "main-figure-site-v2.7.0.zip",
+            "url": "https://github.com/Harzva/pami-skill-suites/releases/download/v2.7.0/main-figure-site-v2.7.0.zip",
+            "size": 4676658,
+            "downloadCount": 1,
+            "contentType": "application/zip"
           }
         ]
       }
@@ -4460,8 +4962,8 @@
       "primaryLanguage": {
         "name": "TypeScript"
       },
-      "pushedAt": "2026-06-18T05:12:43Z",
-      "updatedAt": "2026-06-18T05:12:47Z",
+      "pushedAt": "2026-06-19T05:31:57Z",
+      "updatedAt": "2026-06-19T05:32:01Z",
       "createdAt": "2026-04-01T03:55:26Z",
       "defaultBranchRef": {
         "name": "main"
@@ -4513,8 +5015,8 @@
       "primaryLanguage": {
         "name": "Dart"
       },
-      "pushedAt": "2026-06-12T16:46:06Z",
-      "updatedAt": "2026-06-17T14:48:03Z",
+      "pushedAt": "2026-06-19T07:03:09Z",
+      "updatedAt": "2026-06-19T07:03:14Z",
       "createdAt": "2026-05-12T08:19:17Z",
       "defaultBranchRef": {
         "name": "main"
@@ -4560,8 +5062,79 @@
             "name": "mobilecode-v0.1.0.apk",
             "url": "https://github.com/Harzva/mobilecode/releases/download/v0.1.0/mobilecode-v0.1.0.apk",
             "size": 53051517,
-            "downloadCount": 13,
+            "downloadCount": 14,
             "contentType": "application/vnd.android.package-archive"
+          }
+        ]
+      }
+    },
+    {
+      "name": "pami-skill-suites",
+      "nameWithOwner": "Harzva/pami-skill-suites",
+      "url": "https://github.com/Harzva/pami-skill-suites",
+      "description": "Context-safe IEEE and Elsevier journal manuscript skill suites with metadata-only RAG trace assets",
+      "isPrivate": false,
+      "isArchived": false,
+      "isFork": false,
+      "primaryLanguage": {
+        "name": "Python"
+      },
+      "pushedAt": "2026-06-18T14:22:07Z",
+      "updatedAt": "2026-06-18T14:23:58Z",
+      "createdAt": "2026-06-18T12:35:39Z",
+      "defaultBranchRef": {
+        "name": "main"
+      },
+      "homepageUrl": "https://harzva.github.io/pami-skill-suites/",
+      "stargazerCount": 0,
+      "forkCount": 0,
+      "repositoryTopics": [],
+      "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/pami-skill-suites",
+      "pages": {
+        "enabled": true,
+        "url": "https://harzva.github.io/pami-skill-suites/",
+        "status": "built",
+        "source": {
+          "branch": "main",
+          "path": "/docs"
+        },
+        "httpsEnforced": true
+      },
+      "latestRelease": {
+        "name": "PAMI Skill Suites v2.7.0",
+        "tagName": "v2.7.0",
+        "url": "https://github.com/Harzva/pami-skill-suites/releases/tag/v2.7.0",
+        "publishedAt": "2026-06-18T12:46:11Z",
+        "prerelease": false,
+        "draft": false,
+        "assets": [
+          {
+            "name": "elsevier-skills-v2.7.0.zip",
+            "url": "https://github.com/Harzva/pami-skill-suites/releases/download/v2.7.0/elsevier-skills-v2.7.0.zip",
+            "size": 53240882,
+            "downloadCount": 1,
+            "contentType": "application/zip"
+          },
+          {
+            "name": "ieee-skills-v2.7.0.zip",
+            "url": "https://github.com/Harzva/pami-skill-suites/releases/download/v2.7.0/ieee-skills-v2.7.0.zip",
+            "size": 92831483,
+            "downloadCount": 1,
+            "contentType": "application/zip"
+          },
+          {
+            "name": "journal-skill-suites-v2.7.0.zip",
+            "url": "https://github.com/Harzva/pami-skill-suites/releases/download/v2.7.0/journal-skill-suites-v2.7.0.zip",
+            "size": 148992508,
+            "downloadCount": 1,
+            "contentType": "application/zip"
+          },
+          {
+            "name": "main-figure-site-v2.7.0.zip",
+            "url": "https://github.com/Harzva/pami-skill-suites/releases/download/v2.7.0/main-figure-site-v2.7.0.zip",
+            "size": 4676658,
+            "downloadCount": 1,
+            "contentType": "application/zip"
           }
         ]
       }
@@ -5089,8 +5662,8 @@
       "primaryLanguage": {
         "name": "Python"
       },
-      "pushedAt": "2026-06-17T08:37:18Z",
-      "updatedAt": "2026-06-17T08:37:23Z",
+      "pushedAt": "2026-06-18T08:19:49Z",
+      "updatedAt": "2026-06-18T08:19:52Z",
       "createdAt": "2026-05-14T09:29:45Z",
       "defaultBranchRef": {
         "name": "main"
@@ -5136,6 +5709,111 @@
         "enabled": false
       },
       "latestRelease": null
+    },
+    {
+      "name": "mcp-skills-hub",
+      "nameWithOwner": "Harzva/mcp-skills-hub",
+      "url": "https://github.com/Harzva/mcp-skills-hub",
+      "description": "MCP Skills Hub - 汇集50+ Model Context Protocol Skill与Server",
+      "isPrivate": false,
+      "isArchived": false,
+      "isFork": false,
+      "primaryLanguage": {
+        "name": "TypeScript"
+      },
+      "pushedAt": "2026-06-19T03:31:53Z",
+      "updatedAt": "2026-06-19T03:30:44Z",
+      "createdAt": "2026-06-19T03:30:25Z",
+      "defaultBranchRef": {
+        "name": "main"
+      },
+      "homepageUrl": "",
+      "stargazerCount": 0,
+      "forkCount": 0,
+      "repositoryTopics": [],
+      "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/mcp-skills-hub",
+      "pages": {
+        "enabled": true,
+        "url": "https://harzva.github.io/mcp-skills-hub/",
+        "status": "built",
+        "source": {
+          "branch": "gh-pages",
+          "path": "/"
+        },
+        "httpsEnforced": true
+      },
+      "latestRelease": null
+    },
+    {
+      "name": "pami-skill-suites",
+      "nameWithOwner": "Harzva/pami-skill-suites",
+      "url": "https://github.com/Harzva/pami-skill-suites",
+      "description": "Context-safe IEEE and Elsevier journal manuscript skill suites with metadata-only RAG trace assets",
+      "isPrivate": false,
+      "isArchived": false,
+      "isFork": false,
+      "primaryLanguage": {
+        "name": "Python"
+      },
+      "pushedAt": "2026-06-18T14:22:07Z",
+      "updatedAt": "2026-06-18T14:23:58Z",
+      "createdAt": "2026-06-18T12:35:39Z",
+      "defaultBranchRef": {
+        "name": "main"
+      },
+      "homepageUrl": "https://harzva.github.io/pami-skill-suites/",
+      "stargazerCount": 0,
+      "forkCount": 0,
+      "repositoryTopics": [],
+      "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/pami-skill-suites",
+      "pages": {
+        "enabled": true,
+        "url": "https://harzva.github.io/pami-skill-suites/",
+        "status": "built",
+        "source": {
+          "branch": "main",
+          "path": "/docs"
+        },
+        "httpsEnforced": true
+      },
+      "latestRelease": {
+        "name": "PAMI Skill Suites v2.7.0",
+        "tagName": "v2.7.0",
+        "url": "https://github.com/Harzva/pami-skill-suites/releases/tag/v2.7.0",
+        "publishedAt": "2026-06-18T12:46:11Z",
+        "prerelease": false,
+        "draft": false,
+        "assets": [
+          {
+            "name": "elsevier-skills-v2.7.0.zip",
+            "url": "https://github.com/Harzva/pami-skill-suites/releases/download/v2.7.0/elsevier-skills-v2.7.0.zip",
+            "size": 53240882,
+            "downloadCount": 1,
+            "contentType": "application/zip"
+          },
+          {
+            "name": "ieee-skills-v2.7.0.zip",
+            "url": "https://github.com/Harzva/pami-skill-suites/releases/download/v2.7.0/ieee-skills-v2.7.0.zip",
+            "size": 92831483,
+            "downloadCount": 1,
+            "contentType": "application/zip"
+          },
+          {
+            "name": "journal-skill-suites-v2.7.0.zip",
+            "url": "https://github.com/Harzva/pami-skill-suites/releases/download/v2.7.0/journal-skill-suites-v2.7.0.zip",
+            "size": 148992508,
+            "downloadCount": 1,
+            "contentType": "application/zip"
+          },
+          {
+            "name": "main-figure-site-v2.7.0.zip",
+            "url": "https://github.com/Harzva/pami-skill-suites/releases/download/v2.7.0/main-figure-site-v2.7.0.zip",
+            "size": 4676658,
+            "downloadCount": 1,
+            "contentType": "application/zip"
+          }
+        ]
+      }
     },
     {
       "name": "Project2AgentWorkOS",
