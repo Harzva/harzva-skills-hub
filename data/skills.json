@@ -144,6 +144,52 @@
     "latestRelease": null
   },
   {
+    "name": "chatgpt2localbridge",
+    "nameWithOwner": "Harzva/chatgpt2localbridge",
+    "url": "https://github.com/Harzva/chatgpt2localbridge",
+    "description": "Codex/ChatGPT plugin app and OAuth MCP connector for approved local workspaces.",
+    "isPrivate": false,
+    "isArchived": false,
+    "isFork": false,
+    "primaryLanguage": {
+      "name": "TypeScript"
+    },
+    "pushedAt": "2026-06-21T08:03:19Z",
+    "updatedAt": "2026-06-21T08:03:23Z",
+    "createdAt": "2026-06-19T02:26:19Z",
+    "defaultBranchRef": {
+      "name": "main"
+    },
+    "homepageUrl": "https://harzva.github.io/chatgpt2localbridge/",
+    "stargazerCount": 0,
+    "forkCount": 0,
+    "repositoryTopics": [
+      "chatgpt",
+      "chatgpt-connector",
+      "chatgpt-plugin-app",
+      "codex",
+      "codex-plugin-app",
+      "local-first",
+      "mcp",
+      "mcp-server",
+      "model-context-protocol",
+      "oauth",
+      "plugin-app"
+    ],
+    "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/chatgpt2localbridge",
+    "pages": {
+      "enabled": true,
+      "url": "https://harzva.github.io/chatgpt2localbridge/",
+      "status": null,
+      "source": {
+        "branch": "main",
+        "path": "/"
+      },
+      "httpsEnforced": true
+    },
+    "latestRelease": null
+  },
+  {
     "name": "copilot-plugin-cc",
     "nameWithOwner": "Harzva/copilot-plugin-cc",
     "url": "https://github.com/Harzva/copilot-plugin-cc",
@@ -463,8 +509,8 @@
     "primaryLanguage": {
       "name": "Python"
     },
-    "pushedAt": "2026-06-19T08:40:46Z",
-    "updatedAt": "2026-06-19T08:40:50Z",
+    "pushedAt": "2026-06-20T07:09:27Z",
+    "updatedAt": "2026-06-20T07:09:30Z",
     "createdAt": "2026-05-14T09:29:45Z",
     "defaultBranchRef": {
       "name": "main"
