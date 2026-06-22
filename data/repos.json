@@ -89,8 +89,8 @@
     "primaryLanguage": {
       "name": "TypeScript"
     },
-    "pushedAt": "2026-06-21T06:17:59Z",
-    "updatedAt": "2026-06-21T06:18:02Z",
+    "pushedAt": "2026-06-22T06:40:37Z",
+    "updatedAt": "2026-06-22T06:40:41Z",
     "createdAt": "2026-05-12T09:49:47Z",
     "defaultBranchRef": {
       "name": "main"
@@ -455,16 +455,16 @@
     "isArchived": false,
     "isFork": false,
     "primaryLanguage": {
-      "name": "TypeScript"
+      "name": "Swift"
     },
-    "pushedAt": "2026-06-21T08:03:19Z",
-    "updatedAt": "2026-06-21T08:03:23Z",
+    "pushedAt": "2026-06-22T08:04:28Z",
+    "updatedAt": "2026-06-22T08:24:37Z",
     "createdAt": "2026-06-19T02:26:19Z",
     "defaultBranchRef": {
       "name": "main"
     },
     "homepageUrl": "https://harzva.github.io/chatgpt2localbridge/",
-    "stargazerCount": 0,
+    "stargazerCount": 3,
     "forkCount": 0,
     "repositoryTopics": [
       "chatgpt",
@@ -503,8 +503,8 @@
     "primaryLanguage": {
       "name": "TypeScript"
     },
-    "pushedAt": "2026-06-11T14:12:58Z",
-    "updatedAt": "2026-06-11T14:18:51Z",
+    "pushedAt": "2026-06-21T14:51:17Z",
+    "updatedAt": "2026-06-21T14:51:21Z",
     "createdAt": "2026-05-11T08:19:22Z",
     "defaultBranchRef": {
       "name": "main"
@@ -531,7 +531,7 @@
     "pages": {
       "enabled": true,
       "url": "https://harzva.github.io/ChinaAI-Roadmaps/",
-      "status": "errored",
+      "status": "built",
       "source": {
         "branch": "main",
         "path": "/"
@@ -1134,8 +1134,8 @@
     "primaryLanguage": {
       "name": "Rust"
     },
-    "pushedAt": "2026-06-21T07:49:38Z",
-    "updatedAt": "2026-06-21T07:49:33Z",
+    "pushedAt": "2026-06-21T09:02:24Z",
+    "updatedAt": "2026-06-21T09:02:17Z",
     "createdAt": "2026-05-12T07:58:44Z",
     "defaultBranchRef": {
       "name": "main"
@@ -1156,52 +1156,52 @@
       "httpsEnforced": true
     },
     "latestRelease": {
-      "name": "v0.3.7",
-      "tagName": "v0.3.7",
-      "url": "https://github.com/Harzva/GitReleaseMarket/releases/tag/v0.3.7",
-      "publishedAt": "2026-06-21T07:55:15Z",
+      "name": "v0.3.8",
+      "tagName": "v0.3.8",
+      "url": "https://github.com/Harzva/GitReleaseMarket/releases/tag/v0.3.8",
+      "publishedAt": "2026-06-21T09:07:40Z",
       "prerelease": false,
       "draft": false,
       "assets": [
         {
           "name": "gitmarket-android-experimental.apk",
-          "url": "https://github.com/Harzva/GitReleaseMarket/releases/download/v0.3.7/gitmarket-android-experimental.apk",
-          "size": 15660271,
+          "url": "https://github.com/Harzva/GitReleaseMarket/releases/download/v0.3.8/gitmarket-android-experimental.apk",
+          "size": 15680751,
           "downloadCount": 0,
           "contentType": "application/vnd.android.package-archive"
         },
         {
           "name": "gitmarket-ios-simulator.zip",
-          "url": "https://github.com/Harzva/GitReleaseMarket/releases/download/v0.3.7/gitmarket-ios-simulator.zip",
-          "size": 668446,
+          "url": "https://github.com/Harzva/GitReleaseMarket/releases/download/v0.3.8/gitmarket-ios-simulator.zip",
+          "size": 668441,
           "downloadCount": 0,
           "contentType": "application/zip"
         },
         {
           "name": "gitmarket-linux-x86_64.tar.gz",
-          "url": "https://github.com/Harzva/GitReleaseMarket/releases/download/v0.3.7/gitmarket-linux-x86_64.tar.gz",
-          "size": 16887363,
+          "url": "https://github.com/Harzva/GitReleaseMarket/releases/download/v0.3.8/gitmarket-linux-x86_64.tar.gz",
+          "size": 16906008,
           "downloadCount": 0,
           "contentType": "application/gzip"
         },
         {
           "name": "gitmarket-macos-aarch64.tar.gz",
-          "url": "https://github.com/Harzva/GitReleaseMarket/releases/download/v0.3.7/gitmarket-macos-aarch64.tar.gz",
-          "size": 15506003,
+          "url": "https://github.com/Harzva/GitReleaseMarket/releases/download/v0.3.8/gitmarket-macos-aarch64.tar.gz",
+          "size": 15523662,
           "downloadCount": 0,
           "contentType": "application/gzip"
         },
         {
           "name": "gitmarket-macos-x86_64.tar.gz",
-          "url": "https://github.com/Harzva/GitReleaseMarket/releases/download/v0.3.7/gitmarket-macos-x86_64.tar.gz",
-          "size": 15486136,
+          "url": "https://github.com/Harzva/GitReleaseMarket/releases/download/v0.3.8/gitmarket-macos-x86_64.tar.gz",
+          "size": 15505070,
           "downloadCount": 0,
           "contentType": "application/gzip"
         },
         {
           "name": "gitmarket-windows-x86_64.zip",
-          "url": "https://github.com/Harzva/GitReleaseMarket/releases/download/v0.3.7/gitmarket-windows-x86_64.zip",
-          "size": 15315186,
+          "url": "https://github.com/Harzva/GitReleaseMarket/releases/download/v0.3.8/gitmarket-windows-x86_64.zip",
+          "size": 15329580,
           "downloadCount": 0,
           "contentType": "application/zip"
         }
@@ -1308,8 +1308,8 @@
     "primaryLanguage": {
       "name": "Python"
     },
-    "pushedAt": "2026-06-20T07:09:26Z",
-    "updatedAt": "2026-06-20T07:09:29Z",
+    "pushedAt": "2026-06-21T08:11:19Z",
+    "updatedAt": "2026-06-21T08:11:23Z",
     "createdAt": "2026-05-14T09:29:39Z",
     "defaultBranchRef": {
       "name": "main"
@@ -1342,8 +1342,8 @@
     "primaryLanguage": {
       "name": "Python"
     },
-    "pushedAt": "2026-06-20T07:08:57Z",
-    "updatedAt": "2026-06-20T07:09:01Z",
+    "pushedAt": "2026-06-21T08:10:42Z",
+    "updatedAt": "2026-06-21T08:10:46Z",
     "createdAt": "2026-05-14T09:27:13Z",
     "defaultBranchRef": {
       "name": "main"
@@ -1376,8 +1376,8 @@
     "primaryLanguage": {
       "name": "Python"
     },
-    "pushedAt": "2026-06-20T07:10:17Z",
-    "updatedAt": "2026-06-20T07:10:21Z",
+    "pushedAt": "2026-06-21T08:12:09Z",
+    "updatedAt": "2026-06-21T08:12:13Z",
     "createdAt": "2026-05-14T09:29:34Z",
     "defaultBranchRef": {
       "name": "main"
@@ -1410,8 +1410,8 @@
     "primaryLanguage": {
       "name": "Python"
     },
-    "pushedAt": "2026-06-20T07:09:27Z",
-    "updatedAt": "2026-06-20T07:09:30Z",
+    "pushedAt": "2026-06-21T08:10:51Z",
+    "updatedAt": "2026-06-21T08:10:55Z",
     "createdAt": "2026-05-14T09:29:45Z",
     "defaultBranchRef": {
       "name": "main"
@@ -1570,8 +1570,8 @@
     "primaryLanguage": {
       "name": "TypeScript"
     },
-    "pushedAt": "2026-06-21T05:23:20Z",
-    "updatedAt": "2026-06-21T05:23:24Z",
+    "pushedAt": "2026-06-22T05:38:58Z",
+    "updatedAt": "2026-06-22T05:39:02Z",
     "createdAt": "2026-04-01T03:55:26Z",
     "defaultBranchRef": {
       "name": "main"
@@ -1794,7 +1794,7 @@
     "primaryLanguage": {
       "name": "Dart"
     },
-    "pushedAt": "2026-06-21T07:53:05Z",
+    "pushedAt": "2026-06-21T08:39:53Z",
     "updatedAt": "2026-06-20T05:08:38Z",
     "createdAt": "2026-05-12T08:19:17Z",
     "defaultBranchRef": {
@@ -1841,7 +1841,7 @@
           "name": "mobilecode-v0.1.0.apk",
           "url": "https://github.com/Harzva/mobilecode/releases/download/v0.1.0/mobilecode-v0.1.0.apk",
           "size": 53051517,
-          "downloadCount": 15,
+          "downloadCount": 16,
           "contentType": "application/vnd.android.package-archive"
         }
       ]
@@ -1858,14 +1858,14 @@
     "primaryLanguage": {
       "name": "Kotlin"
     },
-    "pushedAt": "2026-06-21T07:58:16Z",
-    "updatedAt": "2026-06-21T07:58:19Z",
+    "pushedAt": "2026-06-22T08:26:38Z",
+    "updatedAt": "2026-06-22T08:24:06Z",
     "createdAt": "2026-06-21T04:05:44Z",
     "defaultBranchRef": {
       "name": "main"
     },
     "homepageUrl": "",
-    "stargazerCount": 0,
+    "stargazerCount": 1,
     "forkCount": 0,
     "repositoryTopics": [
       "android",
