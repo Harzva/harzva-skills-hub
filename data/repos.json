@@ -89,8 +89,8 @@
     "primaryLanguage": {
       "name": "TypeScript"
     },
-    "pushedAt": "2026-06-22T06:40:37Z",
-    "updatedAt": "2026-06-22T06:40:41Z",
+    "pushedAt": "2026-06-22T17:50:21Z",
+    "updatedAt": "2026-06-22T17:50:25Z",
     "createdAt": "2026-05-12T09:49:47Z",
     "defaultBranchRef": {
       "name": "main"
@@ -457,14 +457,14 @@
     "primaryLanguage": {
       "name": "Swift"
     },
-    "pushedAt": "2026-06-22T08:04:28Z",
-    "updatedAt": "2026-06-22T08:24:37Z",
+    "pushedAt": "2026-06-22T17:18:46Z",
+    "updatedAt": "2026-06-23T06:34:21Z",
     "createdAt": "2026-06-19T02:26:19Z",
     "defaultBranchRef": {
       "name": "main"
     },
     "homepageUrl": "https://harzva.github.io/chatgpt2localbridge/",
-    "stargazerCount": 3,
+    "stargazerCount": 14,
     "forkCount": 0,
     "repositoryTopics": [
       "chatgpt",
@@ -892,8 +892,8 @@
     "primaryLanguage": {
       "name": "JavaScript"
     },
-    "pushedAt": "2026-06-19T09:23:14Z",
-    "updatedAt": "2026-06-19T09:23:18Z",
+    "pushedAt": "2026-06-23T06:33:03Z",
+    "updatedAt": "2026-06-23T06:33:07Z",
     "createdAt": "2026-06-19T08:47:36Z",
     "defaultBranchRef": {
       "name": "main"
@@ -1308,8 +1308,8 @@
     "primaryLanguage": {
       "name": "Python"
     },
-    "pushedAt": "2026-06-21T08:11:19Z",
-    "updatedAt": "2026-06-21T08:11:23Z",
+    "pushedAt": "2026-06-22T09:22:53Z",
+    "updatedAt": "2026-06-22T09:22:56Z",
     "createdAt": "2026-05-14T09:29:39Z",
     "defaultBranchRef": {
       "name": "main"
@@ -1342,8 +1342,8 @@
     "primaryLanguage": {
       "name": "Python"
     },
-    "pushedAt": "2026-06-21T08:10:42Z",
-    "updatedAt": "2026-06-21T08:10:46Z",
+    "pushedAt": "2026-06-22T09:21:42Z",
+    "updatedAt": "2026-06-22T09:21:46Z",
     "createdAt": "2026-05-14T09:27:13Z",
     "defaultBranchRef": {
       "name": "main"
@@ -1376,8 +1376,8 @@
     "primaryLanguage": {
       "name": "Python"
     },
-    "pushedAt": "2026-06-21T08:12:09Z",
-    "updatedAt": "2026-06-21T08:12:13Z",
+    "pushedAt": "2026-06-22T09:24:31Z",
+    "updatedAt": "2026-06-22T09:24:35Z",
     "createdAt": "2026-05-14T09:29:34Z",
     "defaultBranchRef": {
       "name": "main"
@@ -1410,8 +1410,8 @@
     "primaryLanguage": {
       "name": "Python"
     },
-    "pushedAt": "2026-06-21T08:10:51Z",
-    "updatedAt": "2026-06-21T08:10:55Z",
+    "pushedAt": "2026-06-22T09:22:00Z",
+    "updatedAt": "2026-06-22T09:22:04Z",
     "createdAt": "2026-05-14T09:29:45Z",
     "defaultBranchRef": {
       "name": "main"
@@ -1570,8 +1570,8 @@
     "primaryLanguage": {
       "name": "TypeScript"
     },
-    "pushedAt": "2026-06-22T05:38:58Z",
-    "updatedAt": "2026-06-22T05:39:02Z",
+    "pushedAt": "2026-06-23T04:37:42Z",
+    "updatedAt": "2026-06-23T04:37:46Z",
     "createdAt": "2026-04-01T03:55:26Z",
     "defaultBranchRef": {
       "name": "main"
@@ -1795,13 +1795,13 @@
       "name": "Dart"
     },
     "pushedAt": "2026-06-21T08:39:53Z",
-    "updatedAt": "2026-06-20T05:08:38Z",
+    "updatedAt": "2026-06-23T02:43:39Z",
     "createdAt": "2026-05-12T08:19:17Z",
     "defaultBranchRef": {
       "name": "main"
     },
     "homepageUrl": "",
-    "stargazerCount": 70,
+    "stargazerCount": 90,
     "forkCount": 3,
     "repositoryTopics": [],
     "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/mobilecode",
@@ -1841,7 +1841,7 @@
           "name": "mobilecode-v0.1.0.apk",
           "url": "https://github.com/Harzva/mobilecode/releases/download/v0.1.0/mobilecode-v0.1.0.apk",
           "size": 53051517,
-          "downloadCount": 16,
+          "downloadCount": 17,
           "contentType": "application/vnd.android.package-archive"
         }
       ]
@@ -2954,9 +2954,11 @@
     "isPrivate": false,
     "isArchived": false,
     "isFork": true,
-    "primaryLanguage": null,
-    "pushedAt": "2026-04-23T01:57:58Z",
-    "updatedAt": "2026-04-23T16:04:11Z",
+    "primaryLanguage": {
+      "name": "Python"
+    },
+    "pushedAt": "2026-06-22T15:37:34Z",
+    "updatedAt": "2026-06-22T15:37:39Z",
     "createdAt": "2026-04-23T16:04:11Z",
     "defaultBranchRef": {
       "name": "main"

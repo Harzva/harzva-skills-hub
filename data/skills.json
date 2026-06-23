@@ -154,14 +154,14 @@
     "primaryLanguage": {
       "name": "Swift"
     },
-    "pushedAt": "2026-06-22T08:04:28Z",
-    "updatedAt": "2026-06-22T08:24:37Z",
+    "pushedAt": "2026-06-22T17:18:46Z",
+    "updatedAt": "2026-06-23T06:34:21Z",
     "createdAt": "2026-06-19T02:26:19Z",
     "defaultBranchRef": {
       "name": "main"
     },
     "homepageUrl": "https://harzva.github.io/chatgpt2localbridge/",
-    "stargazerCount": 3,
+    "stargazerCount": 14,
     "forkCount": 0,
     "repositoryTopics": [
       "chatgpt",
@@ -509,8 +509,8 @@
     "primaryLanguage": {
       "name": "Python"
     },
-    "pushedAt": "2026-06-21T08:10:51Z",
-    "updatedAt": "2026-06-21T08:10:55Z",
+    "pushedAt": "2026-06-22T09:22:00Z",
+    "updatedAt": "2026-06-22T09:22:04Z",
     "createdAt": "2026-05-14T09:29:45Z",
     "defaultBranchRef": {
       "name": "main"
@@ -878,9 +878,11 @@
     "isPrivate": false,
     "isArchived": false,
     "isFork": true,
-    "primaryLanguage": null,
-    "pushedAt": "2026-04-23T01:57:58Z",
-    "updatedAt": "2026-04-23T16:04:11Z",
+    "primaryLanguage": {
+      "name": "Python"
+    },
+    "pushedAt": "2026-06-22T15:37:34Z",
+    "updatedAt": "2026-06-22T15:37:39Z",
     "createdAt": "2026-04-23T16:04:11Z",
     "defaultBranchRef": {
       "name": "main"

@@ -15,7 +15,8 @@ A registry of Harzva Codex skills, workflow skills, and agent operating recipes.
 | Skill Repository | Language | Updated | Description |
 |---|---:|---:|---|
 | [chatgpt2localbridge](https://github.com/Harzva/chatgpt2localbridge) | Swift | 2026-06-22 | Codex/ChatGPT plugin app and OAuth MCP connector for approved local workspaces. |
-| [harzva-skills-hub](https://github.com/Harzva/harzva-skills-hub) | Python | 2026-06-21 | Auto-updating GitHub Pages registry of Harzva Codex skills, workflow skills, and agent recipes. |
+| [Oh-Reflective-loop-skills](https://github.com/Harzva/Oh-Reflective-loop-skills) | Python | 2026-06-22 |  |
+| [harzva-skills-hub](https://github.com/Harzva/harzva-skills-hub) | Python | 2026-06-22 | Auto-updating GitHub Pages registry of Harzva Codex skills, workflow skills, and agent recipes. |
 | [mcp-skills-hub](https://github.com/Harzva/mcp-skills-hub) | TypeScript | 2026-06-19 | MCP Skills Hub - 汇集50+ Model Context Protocol Skill与Server |
 | [pami-skill-suites](https://github.com/Harzva/pami-skill-suites) | Python | 2026-06-18 | Context-safe IEEE and Elsevier journal manuscript skill suites with metadata-only RAG trace assets |
 | [CampusAgent-QA](https://github.com/Harzva/CampusAgent-QA) | Java | 2026-06-16 | Agentic campus QA system with RAG retrieval, LLM Wiki memory, and GBrain skills |
@@ -35,7 +36,6 @@ A registry of Harzva Codex skills, workflow skills, and agent operating recipes.
 | [gh-account-router](https://github.com/Harzva/gh-account-router) | Python | 2026-05-12 | Codex skill and CLI helper for routing gh commands across GitHub accounts |
 | [image2_UI_skill](https://github.com/Harzva/image2_UI_skill) | Mixed | 2026-05-12 |  |
 | [everything-agent-cli-to-claude-code](https://github.com/Harzva/everything-agent-cli-to-claude-code) | Shell | 2026-04-23 | Umbrella repo for agent CLI to Claude Code adapters, templates, and plugin registry. |
-| [Oh-Reflective-loop-skills](https://github.com/Harzva/Oh-Reflective-loop-skills) | Mixed | 2026-04-23 |  |
 | [gen-zhihu-article-skill](https://github.com/Harzva/gen-zhihu-article-skill) | Mixed | 2026-04-11 |  |
 | [zhihu-publish-skill](https://github.com/Harzva/zhihu-publish-skill) | Mixed | 2026-04-11 |  |
 | [webpage-screenshot-md-skill](https://github.com/Harzva/webpage-screenshot-md-skill) | JavaScript | 2026-04-10 |  |
@@ -58,5 +58,5 @@ This MetaRepo refreshes itself with GitHub Actions.
 - Data source: GitHub REST API.
 - Privacy default: public repositories only.
 - Private mode: set `META_INCLUDE_PRIVATE=true` and provide `META_GITHUB_TOKEN` only when the meta repository is private.
-- Generated at: `2026-06-22T09:21:59.077545+00:00`.
+- Generated at: `2026-06-23T06:59:13.243525+00:00`.
 - Private repositories omitted from this public output: `13`.
