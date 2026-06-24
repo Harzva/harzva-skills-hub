@@ -1,6 +1,6 @@
 {
   "summary": {
-    "generatedAt": "2026-06-23T06:59:13.243525+00:00",
+    "generatedAt": "2026-06-24T06:56:39.167846+00:00",
     "owner": "Harzva",
     "mode": "skills",
     "publicRepositories": 105,
@@ -24,7 +24,7 @@
         "primaryLanguage": {
           "name": "Java"
         },
-        "pushedAt": "2026-06-16T21:24:29Z",
+        "pushedAt": "2026-06-23T21:24:32Z",
         "updatedAt": "2026-05-16T08:28:53Z",
         "createdAt": "2026-05-09T10:52:36Z",
         "defaultBranchRef": {
@@ -387,34 +387,34 @@
     ],
     "Pages and Live Demos": [
       {
-        "name": "game-ddl",
-        "nameWithOwner": "Harzva/game-ddl",
-        "url": "https://github.com/Harzva/game-ddl",
-        "description": "Game DDL topic family mirror with esports, game versions, and Steam upcoming releases",
+        "name": "Agent-Job-Interview",
+        "nameWithOwner": "Harzva/Agent-Job-Interview",
+        "url": "https://github.com/Harzva/Agent-Job-Interview",
+        "description": "Agent job interview roadmap and practice training suite.",
         "isPrivate": false,
         "isArchived": false,
         "isFork": false,
         "primaryLanguage": {
-          "name": "JavaScript"
+          "name": "TypeScript"
         },
-        "pushedAt": "2026-06-23T06:33:03Z",
-        "updatedAt": "2026-06-23T06:33:07Z",
-        "createdAt": "2026-06-19T08:47:36Z",
+        "pushedAt": "2026-06-24T05:11:30Z",
+        "updatedAt": "2026-06-24T05:11:34Z",
+        "createdAt": "2026-05-12T09:49:47Z",
         "defaultBranchRef": {
           "name": "main"
         },
-        "homepageUrl": "",
+        "homepageUrl": "https://harzva.github.io/Agent-Job-Interview/",
         "stargazerCount": 0,
         "forkCount": 0,
         "repositoryTopics": [],
-        "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/game-ddl",
+        "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/Agent-Job-Interview",
         "pages": {
           "enabled": true,
-          "url": "https://harzva.github.io/game-ddl/",
-          "status": null,
+          "url": "https://harzva.github.io/Agent-Job-Interview/",
+          "status": "built",
           "source": {
             "branch": "main",
-            "path": "/"
+            "path": "/docs"
           },
           "httpsEnforced": true
         },
@@ -431,8 +431,8 @@
         "primaryLanguage": {
           "name": "TypeScript"
         },
-        "pushedAt": "2026-06-23T04:37:42Z",
-        "updatedAt": "2026-06-23T04:37:46Z",
+        "pushedAt": "2026-06-24T04:45:02Z",
+        "updatedAt": "2026-06-24T04:45:06Z",
         "createdAt": "2026-04-01T03:55:26Z",
         "defaultBranchRef": {
           "name": "main"
@@ -474,40 +474,6 @@
         }
       },
       {
-        "name": "Agent-Job-Interview",
-        "nameWithOwner": "Harzva/Agent-Job-Interview",
-        "url": "https://github.com/Harzva/Agent-Job-Interview",
-        "description": "Agent job interview roadmap and practice training suite.",
-        "isPrivate": false,
-        "isArchived": false,
-        "isFork": false,
-        "primaryLanguage": {
-          "name": "TypeScript"
-        },
-        "pushedAt": "2026-06-22T17:50:21Z",
-        "updatedAt": "2026-06-22T17:50:25Z",
-        "createdAt": "2026-05-12T09:49:47Z",
-        "defaultBranchRef": {
-          "name": "main"
-        },
-        "homepageUrl": "https://harzva.github.io/Agent-Job-Interview/",
-        "stargazerCount": 0,
-        "forkCount": 0,
-        "repositoryTopics": [],
-        "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/Agent-Job-Interview",
-        "pages": {
-          "enabled": true,
-          "url": "https://harzva.github.io/Agent-Job-Interview/",
-          "status": "built",
-          "source": {
-            "branch": "main",
-            "path": "/docs"
-          },
-          "httpsEnforced": true
-        },
-        "latestRelease": null
-      },
-      {
         "name": "harzva-release-hub",
         "nameWithOwner": "Harzva/harzva-release-hub",
         "url": "https://github.com/Harzva/harzva-release-hub",
@@ -518,8 +484,8 @@
         "primaryLanguage": {
           "name": "Python"
         },
-        "pushedAt": "2026-06-22T09:24:31Z",
-        "updatedAt": "2026-06-22T09:24:35Z",
+        "pushedAt": "2026-06-23T07:01:13Z",
+        "updatedAt": "2026-06-23T07:01:18Z",
         "createdAt": "2026-05-14T09:29:34Z",
         "defaultBranchRef": {
           "name": "main"
@@ -552,8 +518,8 @@
         "primaryLanguage": {
           "name": "Python"
         },
-        "pushedAt": "2026-06-22T09:22:53Z",
-        "updatedAt": "2026-06-22T09:22:56Z",
+        "pushedAt": "2026-06-23T06:59:42Z",
+        "updatedAt": "2026-06-23T06:59:46Z",
         "createdAt": "2026-05-14T09:29:39Z",
         "defaultBranchRef": {
           "name": "main"
@@ -586,8 +552,8 @@
         "primaryLanguage": {
           "name": "Python"
         },
-        "pushedAt": "2026-06-22T09:21:42Z",
-        "updatedAt": "2026-06-22T09:21:46Z",
+        "pushedAt": "2026-06-23T06:59:21Z",
+        "updatedAt": "2026-06-23T06:59:25Z",
         "createdAt": "2026-05-14T09:27:13Z",
         "defaultBranchRef": {
           "name": "main"
@@ -600,6 +566,40 @@
         "pages": {
           "enabled": true,
           "url": "https://harzva.github.io/harzva-project-atlas/",
+          "status": null,
+          "source": {
+            "branch": "main",
+            "path": "/"
+          },
+          "httpsEnforced": true
+        },
+        "latestRelease": null
+      },
+      {
+        "name": "game-ddl",
+        "nameWithOwner": "Harzva/game-ddl",
+        "url": "https://github.com/Harzva/game-ddl",
+        "description": "Game DDL topic family mirror with esports, game versions, and Steam upcoming releases",
+        "isPrivate": false,
+        "isArchived": false,
+        "isFork": false,
+        "primaryLanguage": {
+          "name": "JavaScript"
+        },
+        "pushedAt": "2026-06-23T06:33:03Z",
+        "updatedAt": "2026-06-23T06:33:07Z",
+        "createdAt": "2026-06-19T08:47:36Z",
+        "defaultBranchRef": {
+          "name": "main"
+        },
+        "homepageUrl": "",
+        "stargazerCount": 0,
+        "forkCount": 0,
+        "repositoryTopics": [],
+        "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/game-ddl",
+        "pages": {
+          "enabled": true,
+          "url": "https://harzva.github.io/game-ddl/",
           "status": null,
           "source": {
             "branch": "main",
@@ -796,13 +796,13 @@
           "name": "Dart"
         },
         "pushedAt": "2026-06-21T08:39:53Z",
-        "updatedAt": "2026-06-23T02:43:39Z",
+        "updatedAt": "2026-06-24T02:34:25Z",
         "createdAt": "2026-05-12T08:19:17Z",
         "defaultBranchRef": {
           "name": "main"
         },
         "homepageUrl": "",
-        "stargazerCount": 90,
+        "stargazerCount": 110,
         "forkCount": 3,
         "repositoryTopics": [],
         "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/mobilecode",
@@ -842,7 +842,7 @@
               "name": "mobilecode-v0.1.0.apk",
               "url": "https://github.com/Harzva/mobilecode/releases/download/v0.1.0/mobilecode-v0.1.0.apk",
               "size": 53051517,
-              "downloadCount": 17,
+              "downloadCount": 18,
               "contentType": "application/vnd.android.package-archive"
             }
           ]
@@ -1201,6 +1201,40 @@
     ],
     "Skills and Agent Workflows": [
       {
+        "name": "harzva-skills-hub",
+        "nameWithOwner": "Harzva/harzva-skills-hub",
+        "url": "https://github.com/Harzva/harzva-skills-hub",
+        "description": "Auto-updating GitHub Pages registry of Harzva Codex skills, workflow skills, and agent recipes.",
+        "isPrivate": false,
+        "isArchived": false,
+        "isFork": false,
+        "primaryLanguage": {
+          "name": "Python"
+        },
+        "pushedAt": "2026-06-23T06:59:14Z",
+        "updatedAt": "2026-06-23T06:59:18Z",
+        "createdAt": "2026-05-14T09:29:45Z",
+        "defaultBranchRef": {
+          "name": "main"
+        },
+        "homepageUrl": "https://harzva.github.io/harzva-skills-hub/",
+        "stargazerCount": 0,
+        "forkCount": 0,
+        "repositoryTopics": [],
+        "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/harzva-skills-hub",
+        "pages": {
+          "enabled": true,
+          "url": "https://harzva.github.io/harzva-skills-hub/",
+          "status": null,
+          "source": {
+            "branch": "main",
+            "path": "/"
+          },
+          "httpsEnforced": true
+        },
+        "latestRelease": null
+      },
+      {
         "name": "chatgpt2localbridge",
         "nameWithOwner": "Harzva/chatgpt2localbridge",
         "url": "https://github.com/Harzva/chatgpt2localbridge",
@@ -1212,13 +1246,13 @@
           "name": "Swift"
         },
         "pushedAt": "2026-06-22T17:18:46Z",
-        "updatedAt": "2026-06-23T06:34:21Z",
+        "updatedAt": "2026-06-24T06:11:05Z",
         "createdAt": "2026-06-19T02:26:19Z",
         "defaultBranchRef": {
           "name": "main"
         },
         "homepageUrl": "https://harzva.github.io/chatgpt2localbridge/",
-        "stargazerCount": 14,
+        "stargazerCount": 22,
         "forkCount": 0,
         "repositoryTopics": [
           "chatgpt",
@@ -1237,40 +1271,6 @@
         "pages": {
           "enabled": true,
           "url": "https://harzva.github.io/chatgpt2localbridge/",
-          "status": null,
-          "source": {
-            "branch": "main",
-            "path": "/"
-          },
-          "httpsEnforced": true
-        },
-        "latestRelease": null
-      },
-      {
-        "name": "harzva-skills-hub",
-        "nameWithOwner": "Harzva/harzva-skills-hub",
-        "url": "https://github.com/Harzva/harzva-skills-hub",
-        "description": "Auto-updating GitHub Pages registry of Harzva Codex skills, workflow skills, and agent recipes.",
-        "isPrivate": false,
-        "isArchived": false,
-        "isFork": false,
-        "primaryLanguage": {
-          "name": "Python"
-        },
-        "pushedAt": "2026-06-22T09:22:00Z",
-        "updatedAt": "2026-06-22T09:22:04Z",
-        "createdAt": "2026-05-14T09:29:45Z",
-        "defaultBranchRef": {
-          "name": "main"
-        },
-        "homepageUrl": "https://harzva.github.io/harzva-skills-hub/",
-        "stargazerCount": 0,
-        "forkCount": 0,
-        "repositoryTopics": [],
-        "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/harzva-skills-hub",
-        "pages": {
-          "enabled": true,
-          "url": "https://harzva.github.io/harzva-skills-hub/",
           "status": null,
           "source": {
             "branch": "main",
@@ -3560,7 +3560,7 @@
       "assetName": "mobilecode-v0.1.0.apk",
       "assetUrl": "https://github.com/Harzva/mobilecode/releases/download/v0.1.0/mobilecode-v0.1.0.apk",
       "size": 53051517,
-      "downloadCount": 17,
+      "downloadCount": 18,
       "kind": "Android APK",
       "functionCategory": "Mobile Apps",
       "releaseName": "MobileCode v0.1.0 Android APK",
@@ -3653,7 +3653,7 @@
         "assetName": "mobilecode-v0.1.0.apk",
         "assetUrl": "https://github.com/Harzva/mobilecode/releases/download/v0.1.0/mobilecode-v0.1.0.apk",
         "size": 53051517,
-        "downloadCount": 17,
+        "downloadCount": 18,
         "kind": "Android APK",
         "functionCategory": "Mobile Apps",
         "releaseName": "MobileCode v0.1.0 Android APK",
@@ -3880,8 +3880,8 @@
       "primaryLanguage": {
         "name": "TypeScript"
       },
-      "pushedAt": "2026-06-22T17:50:21Z",
-      "updatedAt": "2026-06-22T17:50:25Z",
+      "pushedAt": "2026-06-24T05:11:30Z",
+      "updatedAt": "2026-06-24T05:11:34Z",
       "createdAt": "2026-05-12T09:49:47Z",
       "defaultBranchRef": {
         "name": "main"
@@ -4074,13 +4074,13 @@
         "name": "Swift"
       },
       "pushedAt": "2026-06-22T17:18:46Z",
-      "updatedAt": "2026-06-23T06:34:21Z",
+      "updatedAt": "2026-06-24T06:11:05Z",
       "createdAt": "2026-06-19T02:26:19Z",
       "defaultBranchRef": {
         "name": "main"
       },
       "homepageUrl": "https://harzva.github.io/chatgpt2localbridge/",
-      "stargazerCount": 14,
+      "stargazerCount": 22,
       "forkCount": 0,
       "repositoryTopics": [
         "chatgpt",
@@ -4395,8 +4395,8 @@
       "primaryLanguage": {
         "name": "Python"
       },
-      "pushedAt": "2026-06-22T09:22:53Z",
-      "updatedAt": "2026-06-22T09:22:56Z",
+      "pushedAt": "2026-06-23T06:59:42Z",
+      "updatedAt": "2026-06-23T06:59:46Z",
       "createdAt": "2026-05-14T09:29:39Z",
       "defaultBranchRef": {
         "name": "main"
@@ -4429,8 +4429,8 @@
       "primaryLanguage": {
         "name": "Python"
       },
-      "pushedAt": "2026-06-22T09:21:42Z",
-      "updatedAt": "2026-06-22T09:21:46Z",
+      "pushedAt": "2026-06-23T06:59:21Z",
+      "updatedAt": "2026-06-23T06:59:25Z",
       "createdAt": "2026-05-14T09:27:13Z",
       "defaultBranchRef": {
         "name": "main"
@@ -4463,8 +4463,8 @@
       "primaryLanguage": {
         "name": "Python"
       },
-      "pushedAt": "2026-06-22T09:24:31Z",
-      "updatedAt": "2026-06-22T09:24:35Z",
+      "pushedAt": "2026-06-23T07:01:13Z",
+      "updatedAt": "2026-06-23T07:01:18Z",
       "createdAt": "2026-05-14T09:29:34Z",
       "defaultBranchRef": {
         "name": "main"
@@ -4497,8 +4497,8 @@
       "primaryLanguage": {
         "name": "Python"
       },
-      "pushedAt": "2026-06-22T09:22:00Z",
-      "updatedAt": "2026-06-22T09:22:04Z",
+      "pushedAt": "2026-06-23T06:59:14Z",
+      "updatedAt": "2026-06-23T06:59:18Z",
       "createdAt": "2026-05-14T09:29:45Z",
       "defaultBranchRef": {
         "name": "main"
@@ -4599,8 +4599,8 @@
       "primaryLanguage": {
         "name": "TypeScript"
       },
-      "pushedAt": "2026-06-23T04:37:42Z",
-      "updatedAt": "2026-06-23T04:37:46Z",
+      "pushedAt": "2026-06-24T04:45:02Z",
+      "updatedAt": "2026-06-24T04:45:06Z",
       "createdAt": "2026-04-01T03:55:26Z",
       "defaultBranchRef": {
         "name": "main"
@@ -4687,13 +4687,13 @@
         "name": "Dart"
       },
       "pushedAt": "2026-06-21T08:39:53Z",
-      "updatedAt": "2026-06-23T02:43:39Z",
+      "updatedAt": "2026-06-24T02:34:25Z",
       "createdAt": "2026-05-12T08:19:17Z",
       "defaultBranchRef": {
         "name": "main"
       },
       "homepageUrl": "",
-      "stargazerCount": 90,
+      "stargazerCount": 110,
       "forkCount": 3,
       "repositoryTopics": [],
       "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/mobilecode",
@@ -4733,7 +4733,7 @@
             "name": "mobilecode-v0.1.0.apk",
             "url": "https://github.com/Harzva/mobilecode/releases/download/v0.1.0/mobilecode-v0.1.0.apk",
             "size": 53051517,
-            "downloadCount": 17,
+            "downloadCount": 18,
             "contentType": "application/vnd.android.package-archive"
           }
         ]
@@ -5128,8 +5128,8 @@
       "primaryLanguage": {
         "name": "TypeScript"
       },
-      "pushedAt": "2026-06-23T04:37:42Z",
-      "updatedAt": "2026-06-23T04:37:46Z",
+      "pushedAt": "2026-06-24T04:45:02Z",
+      "updatedAt": "2026-06-24T04:45:06Z",
       "createdAt": "2026-04-01T03:55:26Z",
       "defaultBranchRef": {
         "name": "main"
@@ -5182,13 +5182,13 @@
         "name": "Dart"
       },
       "pushedAt": "2026-06-21T08:39:53Z",
-      "updatedAt": "2026-06-23T02:43:39Z",
+      "updatedAt": "2026-06-24T02:34:25Z",
       "createdAt": "2026-05-12T08:19:17Z",
       "defaultBranchRef": {
         "name": "main"
       },
       "homepageUrl": "",
-      "stargazerCount": 90,
+      "stargazerCount": 110,
       "forkCount": 3,
       "repositoryTopics": [],
       "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/mobilecode",
@@ -5228,7 +5228,7 @@
             "name": "mobilecode-v0.1.0.apk",
             "url": "https://github.com/Harzva/mobilecode/releases/download/v0.1.0/mobilecode-v0.1.0.apk",
             "size": 53051517,
-            "downloadCount": 17,
+            "downloadCount": 18,
             "contentType": "application/vnd.android.package-archive"
           }
         ]
@@ -5520,13 +5520,13 @@
         "name": "Swift"
       },
       "pushedAt": "2026-06-22T17:18:46Z",
-      "updatedAt": "2026-06-23T06:34:21Z",
+      "updatedAt": "2026-06-24T06:11:05Z",
       "createdAt": "2026-06-19T02:26:19Z",
       "defaultBranchRef": {
         "name": "main"
       },
       "homepageUrl": "https://harzva.github.io/chatgpt2localbridge/",
-      "stargazerCount": 14,
+      "stargazerCount": 22,
       "forkCount": 0,
       "repositoryTopics": [
         "chatgpt",
@@ -5874,8 +5874,8 @@
       "primaryLanguage": {
         "name": "Python"
       },
-      "pushedAt": "2026-06-22T09:22:00Z",
-      "updatedAt": "2026-06-22T09:22:04Z",
+      "pushedAt": "2026-06-23T06:59:14Z",
+      "updatedAt": "2026-06-23T06:59:18Z",
       "createdAt": "2026-05-14T09:29:45Z",
       "defaultBranchRef": {
         "name": "main"
