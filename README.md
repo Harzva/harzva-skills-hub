@@ -14,7 +14,7 @@ A registry of Harzva Codex skills, workflow skills, and agent operating recipes.
 
 | Skill Repository | Language | Updated | Description |
 |---|---:|---:|---|
-| [harzva-skills-hub](https://github.com/Harzva/harzva-skills-hub) | Python | 2026-06-23 | Auto-updating GitHub Pages registry of Harzva Codex skills, workflow skills, and agent recipes. |
+| [harzva-skills-hub](https://github.com/Harzva/harzva-skills-hub) | Python | 2026-06-24 | Auto-updating GitHub Pages registry of Harzva Codex skills, workflow skills, and agent recipes. |
 | [chatgpt2localbridge](https://github.com/Harzva/chatgpt2localbridge) | Swift | 2026-06-22 | Codex/ChatGPT plugin app and OAuth MCP connector for approved local workspaces. |
 | [Oh-Reflective-loop-skills](https://github.com/Harzva/Oh-Reflective-loop-skills) | Python | 2026-06-22 |  |
 | [mcp-skills-hub](https://github.com/Harzva/mcp-skills-hub) | TypeScript | 2026-06-19 | MCP Skills Hub - 汇集50+ Model Context Protocol Skill与Server |
@@ -58,5 +58,5 @@ This MetaRepo refreshes itself with GitHub Actions.
 - Data source: GitHub REST API.
 - Privacy default: public repositories only.
 - Private mode: set `META_INCLUDE_PRIVATE=true` and provide `META_GITHUB_TOKEN` only when the meta repository is private.
-- Generated at: `2026-06-24T06:56:39.167846+00:00`.
+- Generated at: `2026-06-25T06:56:18.507701+00:00`.
 - Private repositories omitted from this public output: `13`.

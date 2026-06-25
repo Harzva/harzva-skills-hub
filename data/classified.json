@@ -1,9 +1,9 @@
 {
   "summary": {
-    "generatedAt": "2026-06-24T06:56:39.167846+00:00",
+    "generatedAt": "2026-06-25T06:56:18.507701+00:00",
     "owner": "Harzva",
     "mode": "skills",
-    "publicRepositories": 105,
+    "publicRepositories": 106,
     "forks": 35,
     "pages": 25,
     "releases": 7,
@@ -13,6 +13,33 @@
   },
   "categories": {
     "AI Agents and LLM Systems": [
+      {
+        "name": "aliyunpan-cli",
+        "nameWithOwner": "Harzva/aliyunpan-cli",
+        "url": "https://github.com/Harzva/aliyunpan-cli",
+        "description": "Agent-friendly Alibaba Cloud Drive CLI built on tickstep/aliyunpan-api",
+        "isPrivate": false,
+        "isArchived": false,
+        "isFork": false,
+        "primaryLanguage": {
+          "name": "Go"
+        },
+        "pushedAt": "2026-06-25T03:13:18Z",
+        "updatedAt": "2026-06-25T03:13:22Z",
+        "createdAt": "2026-06-25T02:53:31Z",
+        "defaultBranchRef": {
+          "name": "main"
+        },
+        "homepageUrl": "",
+        "stargazerCount": 0,
+        "forkCount": 0,
+        "repositoryTopics": [],
+        "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/aliyunpan-cli",
+        "pages": {
+          "enabled": false
+        },
+        "latestRelease": null
+      },
       {
         "name": "CampusRAG-QA",
         "nameWithOwner": "Harzva/CampusRAG-QA",
@@ -397,8 +424,8 @@
         "primaryLanguage": {
           "name": "TypeScript"
         },
-        "pushedAt": "2026-06-24T05:11:30Z",
-        "updatedAt": "2026-06-24T05:11:34Z",
+        "pushedAt": "2026-06-25T05:15:33Z",
+        "updatedAt": "2026-06-25T05:15:37Z",
         "createdAt": "2026-05-12T09:49:47Z",
         "defaultBranchRef": {
           "name": "main"
@@ -431,8 +458,8 @@
         "primaryLanguage": {
           "name": "TypeScript"
         },
-        "pushedAt": "2026-06-24T04:45:02Z",
-        "updatedAt": "2026-06-24T04:45:06Z",
+        "pushedAt": "2026-06-25T04:40:19Z",
+        "updatedAt": "2026-06-25T04:40:23Z",
         "createdAt": "2026-04-01T03:55:26Z",
         "defaultBranchRef": {
           "name": "main"
@@ -474,6 +501,54 @@
         }
       },
       {
+        "name": "ChinaAI-Roadmaps",
+        "nameWithOwner": "Harzva/ChinaAI-Roadmaps",
+        "url": "https://github.com/Harzva/ChinaAI-Roadmaps",
+        "description": "Technical roadmaps for China's open and open-weight LLM companies: GLM, Kimi, DeepSeek, MiniMax",
+        "isPrivate": false,
+        "isArchived": false,
+        "isFork": false,
+        "primaryLanguage": {
+          "name": "TypeScript"
+        },
+        "pushedAt": "2026-06-24T09:01:42Z",
+        "updatedAt": "2026-06-24T09:01:55Z",
+        "createdAt": "2026-05-11T08:19:22Z",
+        "defaultBranchRef": {
+          "name": "main"
+        },
+        "homepageUrl": "https://harzva.github.io/ChinaAI-Roadmaps/",
+        "stargazerCount": 0,
+        "forkCount": 0,
+        "repositoryTopics": [
+          "agentic-ai",
+          "ai",
+          "china-ai",
+          "deepseek",
+          "glm",
+          "kimi",
+          "llm",
+          "minimax",
+          "open-llm",
+          "open-weight-models",
+          "papers",
+          "roadmap",
+          "svg"
+        ],
+        "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/ChinaAI-Roadmaps",
+        "pages": {
+          "enabled": true,
+          "url": "https://harzva.github.io/ChinaAI-Roadmaps/",
+          "status": "built",
+          "source": {
+            "branch": "main",
+            "path": "/"
+          },
+          "httpsEnforced": true
+        },
+        "latestRelease": null
+      },
+      {
         "name": "harzva-release-hub",
         "nameWithOwner": "Harzva/harzva-release-hub",
         "url": "https://github.com/Harzva/harzva-release-hub",
@@ -484,8 +559,8 @@
         "primaryLanguage": {
           "name": "Python"
         },
-        "pushedAt": "2026-06-23T07:01:13Z",
-        "updatedAt": "2026-06-23T07:01:18Z",
+        "pushedAt": "2026-06-24T06:58:38Z",
+        "updatedAt": "2026-06-24T06:58:41Z",
         "createdAt": "2026-05-14T09:29:34Z",
         "defaultBranchRef": {
           "name": "main"
@@ -518,8 +593,8 @@
         "primaryLanguage": {
           "name": "Python"
         },
-        "pushedAt": "2026-06-23T06:59:42Z",
-        "updatedAt": "2026-06-23T06:59:46Z",
+        "pushedAt": "2026-06-24T06:57:34Z",
+        "updatedAt": "2026-06-24T06:57:38Z",
         "createdAt": "2026-05-14T09:29:39Z",
         "defaultBranchRef": {
           "name": "main"
@@ -552,8 +627,8 @@
         "primaryLanguage": {
           "name": "Python"
         },
-        "pushedAt": "2026-06-23T06:59:21Z",
-        "updatedAt": "2026-06-23T06:59:25Z",
+        "pushedAt": "2026-06-24T06:56:36Z",
+        "updatedAt": "2026-06-24T06:56:40Z",
         "createdAt": "2026-05-14T09:27:13Z",
         "defaultBranchRef": {
           "name": "main"
@@ -643,54 +718,6 @@
           "enabled": true,
           "url": "https://harzva.github.io/mobilecore/",
           "status": null,
-          "source": {
-            "branch": "main",
-            "path": "/"
-          },
-          "httpsEnforced": true
-        },
-        "latestRelease": null
-      },
-      {
-        "name": "ChinaAI-Roadmaps",
-        "nameWithOwner": "Harzva/ChinaAI-Roadmaps",
-        "url": "https://github.com/Harzva/ChinaAI-Roadmaps",
-        "description": "Technical roadmaps for China's open and open-weight LLM companies: GLM, Kimi, DeepSeek, MiniMax",
-        "isPrivate": false,
-        "isArchived": false,
-        "isFork": false,
-        "primaryLanguage": {
-          "name": "TypeScript"
-        },
-        "pushedAt": "2026-06-21T14:51:17Z",
-        "updatedAt": "2026-06-21T14:51:21Z",
-        "createdAt": "2026-05-11T08:19:22Z",
-        "defaultBranchRef": {
-          "name": "main"
-        },
-        "homepageUrl": "https://harzva.github.io/ChinaAI-Roadmaps/",
-        "stargazerCount": 0,
-        "forkCount": 0,
-        "repositoryTopics": [
-          "agentic-ai",
-          "ai",
-          "china-ai",
-          "deepseek",
-          "glm",
-          "kimi",
-          "llm",
-          "minimax",
-          "open-llm",
-          "open-weight-models",
-          "papers",
-          "roadmap",
-          "svg"
-        ],
-        "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/ChinaAI-Roadmaps",
-        "pages": {
-          "enabled": true,
-          "url": "https://harzva.github.io/ChinaAI-Roadmaps/",
-          "status": "built",
           "source": {
             "branch": "main",
             "path": "/"
@@ -796,14 +823,14 @@
           "name": "Dart"
         },
         "pushedAt": "2026-06-21T08:39:53Z",
-        "updatedAt": "2026-06-24T02:34:25Z",
+        "updatedAt": "2026-06-25T00:43:04Z",
         "createdAt": "2026-05-12T08:19:17Z",
         "defaultBranchRef": {
           "name": "main"
         },
         "homepageUrl": "",
-        "stargazerCount": 110,
-        "forkCount": 3,
+        "stargazerCount": 130,
+        "forkCount": 4,
         "repositoryTopics": [],
         "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/mobilecode",
         "pages": {
@@ -842,7 +869,7 @@
               "name": "mobilecode-v0.1.0.apk",
               "url": "https://github.com/Harzva/mobilecode/releases/download/v0.1.0/mobilecode-v0.1.0.apk",
               "size": 53051517,
-              "downloadCount": 18,
+              "downloadCount": 19,
               "contentType": "application/vnd.android.package-archive"
             }
           ]
@@ -1211,8 +1238,8 @@
         "primaryLanguage": {
           "name": "Python"
         },
-        "pushedAt": "2026-06-23T06:59:14Z",
-        "updatedAt": "2026-06-23T06:59:18Z",
+        "pushedAt": "2026-06-24T06:56:40Z",
+        "updatedAt": "2026-06-24T06:56:45Z",
         "createdAt": "2026-05-14T09:29:45Z",
         "defaultBranchRef": {
           "name": "main"
@@ -1246,13 +1273,13 @@
           "name": "Swift"
         },
         "pushedAt": "2026-06-22T17:18:46Z",
-        "updatedAt": "2026-06-24T06:11:05Z",
+        "updatedAt": "2026-06-25T02:07:44Z",
         "createdAt": "2026-06-19T02:26:19Z",
         "defaultBranchRef": {
           "name": "main"
         },
         "homepageUrl": "https://harzva.github.io/chatgpt2localbridge/",
-        "stargazerCount": 22,
+        "stargazerCount": 27,
         "forkCount": 0,
         "repositoryTopics": [
           "chatgpt",
@@ -2398,6 +2425,33 @@
     ],
     "Forks": [
       {
+        "name": "make-agents-cheaper",
+        "nameWithOwner": "Harzva/make-agents-cheaper",
+        "url": "https://github.com/Harzva/make-agents-cheaper",
+        "description": "Rust CLI for improving prompt cache hit rate in coding-agent workflows",
+        "isPrivate": false,
+        "isArchived": false,
+        "isFork": true,
+        "primaryLanguage": {
+          "name": "Python"
+        },
+        "pushedAt": "2026-06-25T05:44:58Z",
+        "updatedAt": "2026-06-25T05:45:02Z",
+        "createdAt": "2026-05-12T01:46:16Z",
+        "defaultBranchRef": {
+          "name": "main"
+        },
+        "homepageUrl": "",
+        "stargazerCount": 0,
+        "forkCount": 0,
+        "repositoryTopics": [],
+        "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/make-agents-cheaper",
+        "pages": {
+          "enabled": false
+        },
+        "latestRelease": null
+      },
+      {
         "name": "Oh-Reflective-loop-skills",
         "nameWithOwner": "Harzva/Oh-Reflective-loop-skills",
         "url": "https://github.com/Harzva/Oh-Reflective-loop-skills",
@@ -2471,31 +2525,6 @@
         "forkCount": 0,
         "repositoryTopics": [],
         "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/like-code",
-        "pages": {
-          "enabled": false
-        },
-        "latestRelease": null
-      },
-      {
-        "name": "make-agents-cheaper",
-        "nameWithOwner": "Harzva/make-agents-cheaper",
-        "url": "https://github.com/Harzva/make-agents-cheaper",
-        "description": "Rust CLI for improving prompt cache hit rate in coding-agent workflows",
-        "isPrivate": false,
-        "isArchived": false,
-        "isFork": true,
-        "primaryLanguage": null,
-        "pushedAt": "2026-05-11T13:52:37Z",
-        "updatedAt": "2026-05-12T01:46:16Z",
-        "createdAt": "2026-05-12T01:46:16Z",
-        "defaultBranchRef": {
-          "name": "main"
-        },
-        "homepageUrl": "",
-        "stargazerCount": 0,
-        "forkCount": 0,
-        "repositoryTopics": [],
-        "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/make-agents-cheaper",
         "pages": {
           "enabled": false
         },
@@ -3560,7 +3589,7 @@
       "assetName": "mobilecode-v0.1.0.apk",
       "assetUrl": "https://github.com/Harzva/mobilecode/releases/download/v0.1.0/mobilecode-v0.1.0.apk",
       "size": 53051517,
-      "downloadCount": 18,
+      "downloadCount": 19,
       "kind": "Android APK",
       "functionCategory": "Mobile Apps",
       "releaseName": "MobileCode v0.1.0 Android APK",
@@ -3653,7 +3682,7 @@
         "assetName": "mobilecode-v0.1.0.apk",
         "assetUrl": "https://github.com/Harzva/mobilecode/releases/download/v0.1.0/mobilecode-v0.1.0.apk",
         "size": 53051517,
-        "downloadCount": 18,
+        "downloadCount": 19,
         "kind": "Android APK",
         "functionCategory": "Mobile Apps",
         "releaseName": "MobileCode v0.1.0 Android APK",
@@ -3880,8 +3909,8 @@
       "primaryLanguage": {
         "name": "TypeScript"
       },
-      "pushedAt": "2026-06-24T05:11:30Z",
-      "updatedAt": "2026-06-24T05:11:34Z",
+      "pushedAt": "2026-06-25T05:15:33Z",
+      "updatedAt": "2026-06-25T05:15:37Z",
       "createdAt": "2026-05-12T09:49:47Z",
       "defaultBranchRef": {
         "name": "main"
@@ -4074,13 +4103,13 @@
         "name": "Swift"
       },
       "pushedAt": "2026-06-22T17:18:46Z",
-      "updatedAt": "2026-06-24T06:11:05Z",
+      "updatedAt": "2026-06-25T02:07:44Z",
       "createdAt": "2026-06-19T02:26:19Z",
       "defaultBranchRef": {
         "name": "main"
       },
       "homepageUrl": "https://harzva.github.io/chatgpt2localbridge/",
-      "stargazerCount": 22,
+      "stargazerCount": 27,
       "forkCount": 0,
       "repositoryTopics": [
         "chatgpt",
@@ -4119,8 +4148,8 @@
       "primaryLanguage": {
         "name": "TypeScript"
       },
-      "pushedAt": "2026-06-21T14:51:17Z",
-      "updatedAt": "2026-06-21T14:51:21Z",
+      "pushedAt": "2026-06-24T09:01:42Z",
+      "updatedAt": "2026-06-24T09:01:55Z",
       "createdAt": "2026-05-11T08:19:22Z",
       "defaultBranchRef": {
         "name": "main"
@@ -4395,8 +4424,8 @@
       "primaryLanguage": {
         "name": "Python"
       },
-      "pushedAt": "2026-06-23T06:59:42Z",
-      "updatedAt": "2026-06-23T06:59:46Z",
+      "pushedAt": "2026-06-24T06:57:34Z",
+      "updatedAt": "2026-06-24T06:57:38Z",
       "createdAt": "2026-05-14T09:29:39Z",
       "defaultBranchRef": {
         "name": "main"
@@ -4429,8 +4458,8 @@
       "primaryLanguage": {
         "name": "Python"
       },
-      "pushedAt": "2026-06-23T06:59:21Z",
-      "updatedAt": "2026-06-23T06:59:25Z",
+      "pushedAt": "2026-06-24T06:56:36Z",
+      "updatedAt": "2026-06-24T06:56:40Z",
       "createdAt": "2026-05-14T09:27:13Z",
       "defaultBranchRef": {
         "name": "main"
@@ -4463,8 +4492,8 @@
       "primaryLanguage": {
         "name": "Python"
       },
-      "pushedAt": "2026-06-23T07:01:13Z",
-      "updatedAt": "2026-06-23T07:01:18Z",
+      "pushedAt": "2026-06-24T06:58:38Z",
+      "updatedAt": "2026-06-24T06:58:41Z",
       "createdAt": "2026-05-14T09:29:34Z",
       "defaultBranchRef": {
         "name": "main"
@@ -4497,8 +4526,8 @@
       "primaryLanguage": {
         "name": "Python"
       },
-      "pushedAt": "2026-06-23T06:59:14Z",
-      "updatedAt": "2026-06-23T06:59:18Z",
+      "pushedAt": "2026-06-24T06:56:40Z",
+      "updatedAt": "2026-06-24T06:56:45Z",
       "createdAt": "2026-05-14T09:29:45Z",
       "defaultBranchRef": {
         "name": "main"
@@ -4599,8 +4628,8 @@
       "primaryLanguage": {
         "name": "TypeScript"
       },
-      "pushedAt": "2026-06-24T04:45:02Z",
-      "updatedAt": "2026-06-24T04:45:06Z",
+      "pushedAt": "2026-06-25T04:40:19Z",
+      "updatedAt": "2026-06-25T04:40:23Z",
       "createdAt": "2026-04-01T03:55:26Z",
       "defaultBranchRef": {
         "name": "main"
@@ -4687,14 +4716,14 @@
         "name": "Dart"
       },
       "pushedAt": "2026-06-21T08:39:53Z",
-      "updatedAt": "2026-06-24T02:34:25Z",
+      "updatedAt": "2026-06-25T00:43:04Z",
       "createdAt": "2026-05-12T08:19:17Z",
       "defaultBranchRef": {
         "name": "main"
       },
       "homepageUrl": "",
-      "stargazerCount": 110,
-      "forkCount": 3,
+      "stargazerCount": 130,
+      "forkCount": 4,
       "repositoryTopics": [],
       "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/mobilecode",
       "pages": {
@@ -4733,7 +4762,7 @@
             "name": "mobilecode-v0.1.0.apk",
             "url": "https://github.com/Harzva/mobilecode/releases/download/v0.1.0/mobilecode-v0.1.0.apk",
             "size": 53051517,
-            "downloadCount": 18,
+            "downloadCount": 19,
             "contentType": "application/vnd.android.package-archive"
           }
         ]
@@ -5128,8 +5157,8 @@
       "primaryLanguage": {
         "name": "TypeScript"
       },
-      "pushedAt": "2026-06-24T04:45:02Z",
-      "updatedAt": "2026-06-24T04:45:06Z",
+      "pushedAt": "2026-06-25T04:40:19Z",
+      "updatedAt": "2026-06-25T04:40:23Z",
       "createdAt": "2026-04-01T03:55:26Z",
       "defaultBranchRef": {
         "name": "main"
@@ -5182,14 +5211,14 @@
         "name": "Dart"
       },
       "pushedAt": "2026-06-21T08:39:53Z",
-      "updatedAt": "2026-06-24T02:34:25Z",
+      "updatedAt": "2026-06-25T00:43:04Z",
       "createdAt": "2026-05-12T08:19:17Z",
       "defaultBranchRef": {
         "name": "main"
       },
       "homepageUrl": "",
-      "stargazerCount": 110,
-      "forkCount": 3,
+      "stargazerCount": 130,
+      "forkCount": 4,
       "repositoryTopics": [],
       "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/mobilecode",
       "pages": {
@@ -5228,7 +5257,7 @@
             "name": "mobilecode-v0.1.0.apk",
             "url": "https://github.com/Harzva/mobilecode/releases/download/v0.1.0/mobilecode-v0.1.0.apk",
             "size": 53051517,
-            "downloadCount": 18,
+            "downloadCount": 19,
             "contentType": "application/vnd.android.package-archive"
           }
         ]
@@ -5520,13 +5549,13 @@
         "name": "Swift"
       },
       "pushedAt": "2026-06-22T17:18:46Z",
-      "updatedAt": "2026-06-24T06:11:05Z",
+      "updatedAt": "2026-06-25T02:07:44Z",
       "createdAt": "2026-06-19T02:26:19Z",
       "defaultBranchRef": {
         "name": "main"
       },
       "homepageUrl": "https://harzva.github.io/chatgpt2localbridge/",
-      "stargazerCount": 22,
+      "stargazerCount": 27,
       "forkCount": 0,
       "repositoryTopics": [
         "chatgpt",
@@ -5874,8 +5903,8 @@
       "primaryLanguage": {
         "name": "Python"
       },
-      "pushedAt": "2026-06-23T06:59:14Z",
-      "updatedAt": "2026-06-23T06:59:18Z",
+      "pushedAt": "2026-06-24T06:56:40Z",
+      "updatedAt": "2026-06-24T06:56:45Z",
       "createdAt": "2026-05-14T09:29:45Z",
       "defaultBranchRef": {
         "name": "main"
@@ -6726,9 +6755,11 @@
       "isPrivate": false,
       "isArchived": false,
       "isFork": true,
-      "primaryLanguage": null,
-      "pushedAt": "2026-05-11T13:52:37Z",
-      "updatedAt": "2026-05-12T01:46:16Z",
+      "primaryLanguage": {
+        "name": "Python"
+      },
+      "pushedAt": "2026-06-25T05:44:58Z",
+      "updatedAt": "2026-06-25T05:45:02Z",
       "createdAt": "2026-05-12T01:46:16Z",
       "defaultBranchRef": {
         "name": "main"
