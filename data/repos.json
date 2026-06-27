@@ -89,8 +89,8 @@
     "primaryLanguage": {
       "name": "TypeScript"
     },
-    "pushedAt": "2026-06-26T05:37:44Z",
-    "updatedAt": "2026-06-26T05:37:48Z",
+    "pushedAt": "2026-06-27T05:03:46Z",
+    "updatedAt": "2026-06-27T05:03:49Z",
     "createdAt": "2026-05-12T09:49:47Z",
     "defaultBranchRef": {
       "name": "main"
@@ -484,14 +484,14 @@
     "primaryLanguage": {
       "name": "Swift"
     },
-    "pushedAt": "2026-06-22T17:18:46Z",
-    "updatedAt": "2026-06-26T02:21:43Z",
+    "pushedAt": "2026-06-26T08:56:22Z",
+    "updatedAt": "2026-06-27T05:28:39Z",
     "createdAt": "2026-06-19T02:26:19Z",
     "defaultBranchRef": {
       "name": "main"
     },
     "homepageUrl": "https://harzva.github.io/chatgpt2localbridge/",
-    "stargazerCount": 32,
+    "stargazerCount": 41,
     "forkCount": 0,
     "repositoryTopics": [
       "chatgpt",
@@ -1335,8 +1335,8 @@
     "primaryLanguage": {
       "name": "Python"
     },
-    "pushedAt": "2026-06-25T06:57:39Z",
-    "updatedAt": "2026-06-25T06:57:42Z",
+    "pushedAt": "2026-06-26T07:04:09Z",
+    "updatedAt": "2026-06-26T07:04:12Z",
     "createdAt": "2026-05-14T09:29:39Z",
     "defaultBranchRef": {
       "name": "main"
@@ -1369,8 +1369,8 @@
     "primaryLanguage": {
       "name": "Python"
     },
-    "pushedAt": "2026-06-25T06:56:18Z",
-    "updatedAt": "2026-06-25T06:56:22Z",
+    "pushedAt": "2026-06-26T07:02:44Z",
+    "updatedAt": "2026-06-26T07:02:48Z",
     "createdAt": "2026-05-14T09:27:13Z",
     "defaultBranchRef": {
       "name": "main"
@@ -1403,8 +1403,8 @@
     "primaryLanguage": {
       "name": "Python"
     },
-    "pushedAt": "2026-06-25T06:57:46Z",
-    "updatedAt": "2026-06-25T06:57:50Z",
+    "pushedAt": "2026-06-26T07:05:22Z",
+    "updatedAt": "2026-06-26T07:05:25Z",
     "createdAt": "2026-05-14T09:29:34Z",
     "defaultBranchRef": {
       "name": "main"
@@ -1437,8 +1437,8 @@
     "primaryLanguage": {
       "name": "Python"
     },
-    "pushedAt": "2026-06-25T06:56:19Z",
-    "updatedAt": "2026-06-25T06:56:23Z",
+    "pushedAt": "2026-06-26T07:02:54Z",
+    "updatedAt": "2026-06-26T07:02:57Z",
     "createdAt": "2026-05-14T09:29:45Z",
     "defaultBranchRef": {
       "name": "main"
@@ -1597,8 +1597,8 @@
     "primaryLanguage": {
       "name": "TypeScript"
     },
-    "pushedAt": "2026-06-26T04:48:06Z",
-    "updatedAt": "2026-06-26T04:48:09Z",
+    "pushedAt": "2026-06-27T04:31:34Z",
+    "updatedAt": "2026-06-27T04:31:38Z",
     "createdAt": "2026-04-01T03:55:26Z",
     "defaultBranchRef": {
       "name": "main"
@@ -1822,13 +1822,13 @@
       "name": "Dart"
     },
     "pushedAt": "2026-06-25T14:14:31Z",
-    "updatedAt": "2026-06-26T00:10:35Z",
+    "updatedAt": "2026-06-26T23:11:58Z",
     "createdAt": "2026-05-12T08:19:17Z",
     "defaultBranchRef": {
       "name": "main"
     },
     "homepageUrl": "",
-    "stargazerCount": 151,
+    "stargazerCount": 171,
     "forkCount": 4,
     "repositoryTopics": [],
     "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/mobilecode",
@@ -1868,7 +1868,7 @@
           "name": "mobilecode-v0.1.0.apk",
           "url": "https://github.com/Harzva/mobilecode/releases/download/v0.1.0/mobilecode-v0.1.0.apk",
           "size": 53051517,
-          "downloadCount": 20,
+          "downloadCount": 22,
           "contentType": "application/vnd.android.package-archive"
         }
       ]
@@ -2236,7 +2236,7 @@
           "name": "RepoAtlas-v0.6.6-macos-ARM64.tar.gz",
           "url": "https://github.com/Harzva/RepoAtlas/releases/download/v0.6.6/RepoAtlas-v0.6.6-macos-ARM64.tar.gz",
           "size": 775571,
-          "downloadCount": 4,
+          "downloadCount": 5,
           "contentType": "application/gzip"
         },
         {
@@ -2639,6 +2639,31 @@
     "forkCount": 0,
     "repositoryTopics": [],
     "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/free",
+    "pages": {
+      "enabled": false
+    },
+    "latestRelease": null
+  },
+  {
+    "name": "hindsight",
+    "nameWithOwner": "Harzva/hindsight",
+    "url": "https://github.com/Harzva/hindsight",
+    "description": "Hindsight: Agent Memory That  Learns",
+    "isPrivate": false,
+    "isArchived": false,
+    "isFork": true,
+    "primaryLanguage": null,
+    "pushedAt": "2026-06-26T06:41:07Z",
+    "updatedAt": "2026-06-26T08:03:23Z",
+    "createdAt": "2026-06-26T08:03:23Z",
+    "defaultBranchRef": {
+      "name": "main"
+    },
+    "homepageUrl": "https://hindsight.vectorize.io/",
+    "stargazerCount": 0,
+    "forkCount": 0,
+    "repositoryTopics": [],
+    "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/hindsight",
     "pages": {
       "enabled": false
     },
