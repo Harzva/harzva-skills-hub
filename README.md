@@ -14,12 +14,12 @@ A registry of Harzva Codex skills, workflow skills, and agent operating recipes.
 
 | Skill Repository | Language | Updated | Description |
 |---|---:|---:|---|
-| [harzva-skills-hub](https://github.com/Harzva/harzva-skills-hub) | Python | 2026-06-28 | Auto-updating GitHub Pages registry of Harzva Codex skills, workflow skills, and agent recipes. |
+| [CampusAgent-QA](https://github.com/Harzva/CampusAgent-QA) | Java | 2026-06-30 | Agentic campus QA system with RAG retrieval, LLM Wiki memory, and GBrain skills |
+| [harzva-skills-hub](https://github.com/Harzva/harzva-skills-hub) | Python | 2026-06-29 | Auto-updating GitHub Pages registry of Harzva Codex skills, workflow skills, and agent recipes. |
 | [chatgpt2localbridge](https://github.com/Harzva/chatgpt2localbridge) | Swift | 2026-06-26 | Codex/ChatGPT plugin app and OAuth MCP connector for approved local workspaces. |
 | [Oh-Reflective-loop-skills](https://github.com/Harzva/Oh-Reflective-loop-skills) | Python | 2026-06-22 |  |
 | [mcp-skills-hub](https://github.com/Harzva/mcp-skills-hub) | TypeScript | 2026-06-19 | MCP Skills Hub - 汇集50+ Model Context Protocol Skill与Server |
 | [pami-skill-suites](https://github.com/Harzva/pami-skill-suites) | Python | 2026-06-18 | Context-safe IEEE and Elsevier journal manuscript skill suites with metadata-only RAG trace assets |
-| [CampusAgent-QA](https://github.com/Harzva/CampusAgent-QA) | Java | 2026-06-16 | Agentic campus QA system with RAG retrieval, LLM Wiki memory, and GBrain skills |
 | [rebuttal-skill-suite](https://github.com/Harzva/rebuttal-skill-suite) | Python | 2026-06-04 | Automated gates and reviewer-aware workflows for safer academic rebuttals. |
 | [AgentWorkOS](https://github.com/Harzva/AgentWorkOS) | Python | 2026-06-04 | Package-managed operating layer for AI agent workspaces: scan, lock, sync, doctor, and install agent context. |
 | [xhs-skill-suite](https://github.com/Harzva/xhs-skill-suite) | Mixed | 2026-06-04 | Public-safe Xiaohongshu skill suite for GitHub and AI-tool promotion workflows. |
@@ -58,5 +58,5 @@ This MetaRepo refreshes itself with GitHub Actions.
 - Data source: GitHub REST API.
 - Privacy default: public repositories only.
 - Private mode: set `META_INCLUDE_PRIVATE=true` and provide `META_GITHUB_TOKEN` only when the meta repository is private.
-- Generated at: `2026-06-29T08:25:30.756782+00:00`.
+- Generated at: `2026-06-30T07:03:12.126829+00:00`.
 - Private repositories omitted from this public output: `13`.
