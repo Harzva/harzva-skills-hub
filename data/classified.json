@@ -1,6 +1,6 @@
 {
   "summary": {
-    "generatedAt": "2026-07-14T05:40:41.902252+00:00",
+    "generatedAt": "2026-07-15T05:41:51.477793+00:00",
     "owner": "Harzva",
     "mode": "skills",
     "publicRepositories": 108,
@@ -24,7 +24,7 @@
         "primaryLanguage": {
           "name": "Java"
         },
-        "pushedAt": "2026-07-07T21:24:08Z",
+        "pushedAt": "2026-07-14T21:24:18Z",
         "updatedAt": "2026-05-16T08:28:53Z",
         "createdAt": "2026-05-09T10:52:36Z",
         "defaultBranchRef": {
@@ -57,7 +57,7 @@
         "primaryLanguage": {
           "name": "Java"
         },
-        "pushedAt": "2026-07-07T09:44:21Z",
+        "pushedAt": "2026-07-14T09:44:16Z",
         "updatedAt": "2026-05-16T08:29:03Z",
         "createdAt": "2026-05-11T08:22:16Z",
         "defaultBranchRef": {
@@ -449,40 +449,6 @@
     ],
     "Pages and Live Demos": [
       {
-        "name": "game-ddl",
-        "nameWithOwner": "Harzva/game-ddl",
-        "url": "https://github.com/Harzva/game-ddl",
-        "description": "Game DDL topic family mirror with esports, game versions, and Steam upcoming releases",
-        "isPrivate": false,
-        "isArchived": false,
-        "isFork": false,
-        "primaryLanguage": {
-          "name": "JavaScript"
-        },
-        "pushedAt": "2026-07-14T05:14:49Z",
-        "updatedAt": "2026-07-14T05:14:53Z",
-        "createdAt": "2026-06-19T08:47:36Z",
-        "defaultBranchRef": {
-          "name": "main"
-        },
-        "homepageUrl": "",
-        "stargazerCount": 0,
-        "forkCount": 0,
-        "repositoryTopics": [],
-        "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/game-ddl",
-        "pages": {
-          "enabled": true,
-          "url": "https://harzva.github.io/game-ddl/",
-          "status": null,
-          "source": {
-            "branch": "main",
-            "path": "/"
-          },
-          "httpsEnforced": true
-        },
-        "latestRelease": null
-      },
-      {
         "name": "Agent-Job-Interview",
         "nameWithOwner": "Harzva/Agent-Job-Interview",
         "url": "https://github.com/Harzva/Agent-Job-Interview",
@@ -493,8 +459,8 @@
         "primaryLanguage": {
           "name": "TypeScript"
         },
-        "pushedAt": "2026-07-14T04:16:40Z",
-        "updatedAt": "2026-07-14T04:16:43Z",
+        "pushedAt": "2026-07-15T04:16:41Z",
+        "updatedAt": "2026-07-15T04:16:45Z",
         "createdAt": "2026-05-12T09:49:47Z",
         "defaultBranchRef": {
           "name": "main"
@@ -527,8 +493,8 @@
         "primaryLanguage": {
           "name": "TypeScript"
         },
-        "pushedAt": "2026-07-14T03:42:47Z",
-        "updatedAt": "2026-07-14T03:42:50Z",
+        "pushedAt": "2026-07-15T03:43:16Z",
+        "updatedAt": "2026-07-15T03:43:19Z",
         "createdAt": "2026-04-01T03:55:26Z",
         "defaultBranchRef": {
           "name": "main"
@@ -568,6 +534,142 @@
           "draft": false,
           "assets": []
         }
+      },
+      {
+        "name": "harzva-release-hub",
+        "nameWithOwner": "Harzva/harzva-release-hub",
+        "url": "https://github.com/Harzva/harzva-release-hub",
+        "description": "Auto-updating release hub for Harzva repositories with direct download assets and GitHub Pages.",
+        "isPrivate": false,
+        "isArchived": false,
+        "isFork": false,
+        "primaryLanguage": {
+          "name": "Python"
+        },
+        "pushedAt": "2026-07-14T05:42:23Z",
+        "updatedAt": "2026-07-14T05:42:26Z",
+        "createdAt": "2026-05-14T09:29:34Z",
+        "defaultBranchRef": {
+          "name": "main"
+        },
+        "homepageUrl": "https://harzva.github.io/harzva-release-hub/",
+        "stargazerCount": 0,
+        "forkCount": 0,
+        "repositoryTopics": [],
+        "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/harzva-release-hub",
+        "pages": {
+          "enabled": true,
+          "url": "https://harzva.github.io/harzva-release-hub/",
+          "status": null,
+          "source": {
+            "branch": "main",
+            "path": "/"
+          },
+          "httpsEnforced": true
+        },
+        "latestRelease": null
+      },
+      {
+        "name": "harzva-pages-hub",
+        "nameWithOwner": "Harzva/harzva-pages-hub",
+        "url": "https://github.com/Harzva/harzva-pages-hub",
+        "description": "Visual GitHub Pages hub for Harzva sites, demos, docs, and live project surfaces.",
+        "isPrivate": false,
+        "isArchived": false,
+        "isFork": false,
+        "primaryLanguage": {
+          "name": "Python"
+        },
+        "pushedAt": "2026-07-14T05:41:02Z",
+        "updatedAt": "2026-07-14T05:41:05Z",
+        "createdAt": "2026-05-14T09:29:39Z",
+        "defaultBranchRef": {
+          "name": "main"
+        },
+        "homepageUrl": "https://harzva.github.io/harzva-pages-hub/",
+        "stargazerCount": 0,
+        "forkCount": 0,
+        "repositoryTopics": [],
+        "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/harzva-pages-hub",
+        "pages": {
+          "enabled": true,
+          "url": "https://harzva.github.io/harzva-pages-hub/",
+          "status": null,
+          "source": {
+            "branch": "main",
+            "path": "/"
+          },
+          "httpsEnforced": true
+        },
+        "latestRelease": null
+      },
+      {
+        "name": "harzva-project-atlas",
+        "nameWithOwner": "Harzva/harzva-project-atlas",
+        "url": "https://github.com/Harzva/harzva-project-atlas",
+        "description": "Download-first MetaRepo atlas for Harzva APK, EXE, package, archive, and release asset links.",
+        "isPrivate": false,
+        "isArchived": false,
+        "isFork": false,
+        "primaryLanguage": {
+          "name": "Python"
+        },
+        "pushedAt": "2026-07-14T05:40:02Z",
+        "updatedAt": "2026-07-14T05:40:05Z",
+        "createdAt": "2026-05-14T09:27:13Z",
+        "defaultBranchRef": {
+          "name": "main"
+        },
+        "homepageUrl": "https://harzva.github.io/harzva-project-atlas/",
+        "stargazerCount": 0,
+        "forkCount": 0,
+        "repositoryTopics": [],
+        "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/harzva-project-atlas",
+        "pages": {
+          "enabled": true,
+          "url": "https://harzva.github.io/harzva-project-atlas/",
+          "status": null,
+          "source": {
+            "branch": "main",
+            "path": "/"
+          },
+          "httpsEnforced": true
+        },
+        "latestRelease": null
+      },
+      {
+        "name": "game-ddl",
+        "nameWithOwner": "Harzva/game-ddl",
+        "url": "https://github.com/Harzva/game-ddl",
+        "description": "Game DDL topic family mirror with esports, game versions, and Steam upcoming releases",
+        "isPrivate": false,
+        "isArchived": false,
+        "isFork": false,
+        "primaryLanguage": {
+          "name": "JavaScript"
+        },
+        "pushedAt": "2026-07-14T05:14:49Z",
+        "updatedAt": "2026-07-14T05:14:53Z",
+        "createdAt": "2026-06-19T08:47:36Z",
+        "defaultBranchRef": {
+          "name": "main"
+        },
+        "homepageUrl": "",
+        "stargazerCount": 0,
+        "forkCount": 0,
+        "repositoryTopics": [],
+        "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/game-ddl",
+        "pages": {
+          "enabled": true,
+          "url": "https://harzva.github.io/game-ddl/",
+          "status": null,
+          "source": {
+            "branch": "main",
+            "path": "/"
+          },
+          "httpsEnforced": true
+        },
+        "latestRelease": null
       },
       {
         "name": "mobilecore",
@@ -623,13 +725,13 @@
           "name": "Dart"
         },
         "pushedAt": "2026-07-13T20:04:32Z",
-        "updatedAt": "2026-07-13T14:55:45Z",
+        "updatedAt": "2026-07-14T15:19:10Z",
         "createdAt": "2026-05-12T08:19:17Z",
         "defaultBranchRef": {
           "name": "main"
         },
         "homepageUrl": "",
-        "stargazerCount": 169,
+        "stargazerCount": 168,
         "forkCount": 4,
         "repositoryTopics": [],
         "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/mobilecode",
@@ -674,108 +776,6 @@
             }
           ]
         }
-      },
-      {
-        "name": "harzva-release-hub",
-        "nameWithOwner": "Harzva/harzva-release-hub",
-        "url": "https://github.com/Harzva/harzva-release-hub",
-        "description": "Auto-updating release hub for Harzva repositories with direct download assets and GitHub Pages.",
-        "isPrivate": false,
-        "isArchived": false,
-        "isFork": false,
-        "primaryLanguage": {
-          "name": "Python"
-        },
-        "pushedAt": "2026-07-13T06:32:12Z",
-        "updatedAt": "2026-07-13T06:32:17Z",
-        "createdAt": "2026-05-14T09:29:34Z",
-        "defaultBranchRef": {
-          "name": "main"
-        },
-        "homepageUrl": "https://harzva.github.io/harzva-release-hub/",
-        "stargazerCount": 0,
-        "forkCount": 0,
-        "repositoryTopics": [],
-        "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/harzva-release-hub",
-        "pages": {
-          "enabled": true,
-          "url": "https://harzva.github.io/harzva-release-hub/",
-          "status": null,
-          "source": {
-            "branch": "main",
-            "path": "/"
-          },
-          "httpsEnforced": true
-        },
-        "latestRelease": null
-      },
-      {
-        "name": "harzva-pages-hub",
-        "nameWithOwner": "Harzva/harzva-pages-hub",
-        "url": "https://github.com/Harzva/harzva-pages-hub",
-        "description": "Visual GitHub Pages hub for Harzva sites, demos, docs, and live project surfaces.",
-        "isPrivate": false,
-        "isArchived": false,
-        "isFork": false,
-        "primaryLanguage": {
-          "name": "Python"
-        },
-        "pushedAt": "2026-07-13T06:30:50Z",
-        "updatedAt": "2026-07-13T06:30:58Z",
-        "createdAt": "2026-05-14T09:29:39Z",
-        "defaultBranchRef": {
-          "name": "main"
-        },
-        "homepageUrl": "https://harzva.github.io/harzva-pages-hub/",
-        "stargazerCount": 0,
-        "forkCount": 0,
-        "repositoryTopics": [],
-        "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/harzva-pages-hub",
-        "pages": {
-          "enabled": true,
-          "url": "https://harzva.github.io/harzva-pages-hub/",
-          "status": null,
-          "source": {
-            "branch": "main",
-            "path": "/"
-          },
-          "httpsEnforced": true
-        },
-        "latestRelease": null
-      },
-      {
-        "name": "harzva-project-atlas",
-        "nameWithOwner": "Harzva/harzva-project-atlas",
-        "url": "https://github.com/Harzva/harzva-project-atlas",
-        "description": "Download-first MetaRepo atlas for Harzva APK, EXE, package, archive, and release asset links.",
-        "isPrivate": false,
-        "isArchived": false,
-        "isFork": false,
-        "primaryLanguage": {
-          "name": "Python"
-        },
-        "pushedAt": "2026-07-13T06:29:37Z",
-        "updatedAt": "2026-07-13T06:29:41Z",
-        "createdAt": "2026-05-14T09:27:13Z",
-        "defaultBranchRef": {
-          "name": "main"
-        },
-        "homepageUrl": "https://harzva.github.io/harzva-project-atlas/",
-        "stargazerCount": 0,
-        "forkCount": 0,
-        "repositoryTopics": [],
-        "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/harzva-project-atlas",
-        "pages": {
-          "enabled": true,
-          "url": "https://harzva.github.io/harzva-project-atlas/",
-          "status": null,
-          "source": {
-            "branch": "main",
-            "path": "/"
-          },
-          "httpsEnforced": true
-        },
-        "latestRelease": null
       },
       {
         "name": "IssueTrending",
@@ -1263,6 +1263,40 @@
     ],
     "Skills and Agent Workflows": [
       {
+        "name": "harzva-skills-hub",
+        "nameWithOwner": "Harzva/harzva-skills-hub",
+        "url": "https://github.com/Harzva/harzva-skills-hub",
+        "description": "Auto-updating GitHub Pages registry of Harzva Codex skills, workflow skills, and agent recipes.",
+        "isPrivate": false,
+        "isArchived": false,
+        "isFork": false,
+        "primaryLanguage": {
+          "name": "Python"
+        },
+        "pushedAt": "2026-07-14T05:40:42Z",
+        "updatedAt": "2026-07-14T05:40:46Z",
+        "createdAt": "2026-05-14T09:29:45Z",
+        "defaultBranchRef": {
+          "name": "main"
+        },
+        "homepageUrl": "https://harzva.github.io/harzva-skills-hub/",
+        "stargazerCount": 0,
+        "forkCount": 0,
+        "repositoryTopics": [],
+        "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/harzva-skills-hub",
+        "pages": {
+          "enabled": true,
+          "url": "https://harzva.github.io/harzva-skills-hub/",
+          "status": null,
+          "source": {
+            "branch": "main",
+            "path": "/"
+          },
+          "httpsEnforced": true
+        },
+        "latestRelease": null
+      },
+      {
         "name": "CampusAgent-QA",
         "nameWithOwner": "Harzva/CampusAgent-QA",
         "url": "https://github.com/Harzva/CampusAgent-QA",
@@ -1303,40 +1337,6 @@
         "latestRelease": null
       },
       {
-        "name": "harzva-skills-hub",
-        "nameWithOwner": "Harzva/harzva-skills-hub",
-        "url": "https://github.com/Harzva/harzva-skills-hub",
-        "description": "Auto-updating GitHub Pages registry of Harzva Codex skills, workflow skills, and agent recipes.",
-        "isPrivate": false,
-        "isArchived": false,
-        "isFork": false,
-        "primaryLanguage": {
-          "name": "Python"
-        },
-        "pushedAt": "2026-07-13T06:30:25Z",
-        "updatedAt": "2026-07-13T06:30:33Z",
-        "createdAt": "2026-05-14T09:29:45Z",
-        "defaultBranchRef": {
-          "name": "main"
-        },
-        "homepageUrl": "https://harzva.github.io/harzva-skills-hub/",
-        "stargazerCount": 0,
-        "forkCount": 0,
-        "repositoryTopics": [],
-        "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/harzva-skills-hub",
-        "pages": {
-          "enabled": true,
-          "url": "https://harzva.github.io/harzva-skills-hub/",
-          "status": null,
-          "source": {
-            "branch": "main",
-            "path": "/"
-          },
-          "httpsEnforced": true
-        },
-        "latestRelease": null
-      },
-      {
         "name": "chatgpt2localbridge",
         "nameWithOwner": "Harzva/chatgpt2localbridge",
         "url": "https://github.com/Harzva/chatgpt2localbridge",
@@ -1348,13 +1348,13 @@
           "name": "Swift"
         },
         "pushedAt": "2026-06-26T08:56:22Z",
-        "updatedAt": "2026-07-05T16:45:28Z",
+        "updatedAt": "2026-07-14T15:19:06Z",
         "createdAt": "2026-06-19T02:26:19Z",
         "defaultBranchRef": {
           "name": "main"
         },
         "homepageUrl": "https://harzva.github.io/chatgpt2localbridge/",
-        "stargazerCount": 129,
+        "stargazerCount": 126,
         "forkCount": 0,
         "repositoryTopics": [
           "chatgpt",
@@ -3969,8 +3969,8 @@
       "primaryLanguage": {
         "name": "TypeScript"
       },
-      "pushedAt": "2026-07-14T04:16:40Z",
-      "updatedAt": "2026-07-14T04:16:43Z",
+      "pushedAt": "2026-07-15T04:16:41Z",
+      "updatedAt": "2026-07-15T04:16:45Z",
       "createdAt": "2026-05-12T09:49:47Z",
       "defaultBranchRef": {
         "name": "main"
@@ -4163,13 +4163,13 @@
         "name": "Swift"
       },
       "pushedAt": "2026-06-26T08:56:22Z",
-      "updatedAt": "2026-07-05T16:45:28Z",
+      "updatedAt": "2026-07-14T15:19:06Z",
       "createdAt": "2026-06-19T02:26:19Z",
       "defaultBranchRef": {
         "name": "main"
       },
       "homepageUrl": "https://harzva.github.io/chatgpt2localbridge/",
-      "stargazerCount": 129,
+      "stargazerCount": 126,
       "forkCount": 0,
       "repositoryTopics": [
         "chatgpt",
@@ -4484,8 +4484,8 @@
       "primaryLanguage": {
         "name": "Python"
       },
-      "pushedAt": "2026-07-13T06:30:50Z",
-      "updatedAt": "2026-07-13T06:30:58Z",
+      "pushedAt": "2026-07-14T05:41:02Z",
+      "updatedAt": "2026-07-14T05:41:05Z",
       "createdAt": "2026-05-14T09:29:39Z",
       "defaultBranchRef": {
         "name": "main"
@@ -4518,8 +4518,8 @@
       "primaryLanguage": {
         "name": "Python"
       },
-      "pushedAt": "2026-07-13T06:29:37Z",
-      "updatedAt": "2026-07-13T06:29:41Z",
+      "pushedAt": "2026-07-14T05:40:02Z",
+      "updatedAt": "2026-07-14T05:40:05Z",
       "createdAt": "2026-05-14T09:27:13Z",
       "defaultBranchRef": {
         "name": "main"
@@ -4552,8 +4552,8 @@
       "primaryLanguage": {
         "name": "Python"
       },
-      "pushedAt": "2026-07-13T06:32:12Z",
-      "updatedAt": "2026-07-13T06:32:17Z",
+      "pushedAt": "2026-07-14T05:42:23Z",
+      "updatedAt": "2026-07-14T05:42:26Z",
       "createdAt": "2026-05-14T09:29:34Z",
       "defaultBranchRef": {
         "name": "main"
@@ -4586,8 +4586,8 @@
       "primaryLanguage": {
         "name": "Python"
       },
-      "pushedAt": "2026-07-13T06:30:25Z",
-      "updatedAt": "2026-07-13T06:30:33Z",
+      "pushedAt": "2026-07-14T05:40:42Z",
+      "updatedAt": "2026-07-14T05:40:46Z",
       "createdAt": "2026-05-14T09:29:45Z",
       "defaultBranchRef": {
         "name": "main"
@@ -4688,8 +4688,8 @@
       "primaryLanguage": {
         "name": "TypeScript"
       },
-      "pushedAt": "2026-07-14T03:42:47Z",
-      "updatedAt": "2026-07-14T03:42:50Z",
+      "pushedAt": "2026-07-15T03:43:16Z",
+      "updatedAt": "2026-07-15T03:43:19Z",
       "createdAt": "2026-04-01T03:55:26Z",
       "defaultBranchRef": {
         "name": "main"
@@ -4776,13 +4776,13 @@
         "name": "Dart"
       },
       "pushedAt": "2026-07-13T20:04:32Z",
-      "updatedAt": "2026-07-13T14:55:45Z",
+      "updatedAt": "2026-07-14T15:19:10Z",
       "createdAt": "2026-05-12T08:19:17Z",
       "defaultBranchRef": {
         "name": "main"
       },
       "homepageUrl": "",
-      "stargazerCount": 169,
+      "stargazerCount": 168,
       "forkCount": 4,
       "repositoryTopics": [],
       "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/mobilecode",
@@ -5217,8 +5217,8 @@
       "primaryLanguage": {
         "name": "TypeScript"
       },
-      "pushedAt": "2026-07-14T03:42:47Z",
-      "updatedAt": "2026-07-14T03:42:50Z",
+      "pushedAt": "2026-07-15T03:43:16Z",
+      "updatedAt": "2026-07-15T03:43:19Z",
       "createdAt": "2026-04-01T03:55:26Z",
       "defaultBranchRef": {
         "name": "main"
@@ -5271,13 +5271,13 @@
         "name": "Dart"
       },
       "pushedAt": "2026-07-13T20:04:32Z",
-      "updatedAt": "2026-07-13T14:55:45Z",
+      "updatedAt": "2026-07-14T15:19:10Z",
       "createdAt": "2026-05-12T08:19:17Z",
       "defaultBranchRef": {
         "name": "main"
       },
       "homepageUrl": "",
-      "stargazerCount": 169,
+      "stargazerCount": 168,
       "forkCount": 4,
       "repositoryTopics": [],
       "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/mobilecode",
@@ -5609,13 +5609,13 @@
         "name": "Swift"
       },
       "pushedAt": "2026-06-26T08:56:22Z",
-      "updatedAt": "2026-07-05T16:45:28Z",
+      "updatedAt": "2026-07-14T15:19:06Z",
       "createdAt": "2026-06-19T02:26:19Z",
       "defaultBranchRef": {
         "name": "main"
       },
       "homepageUrl": "https://harzva.github.io/chatgpt2localbridge/",
-      "stargazerCount": 129,
+      "stargazerCount": 126,
       "forkCount": 0,
       "repositoryTopics": [
         "chatgpt",
@@ -5963,8 +5963,8 @@
       "primaryLanguage": {
         "name": "Python"
       },
-      "pushedAt": "2026-07-13T06:30:25Z",
-      "updatedAt": "2026-07-13T06:30:33Z",
+      "pushedAt": "2026-07-14T05:40:42Z",
+      "updatedAt": "2026-07-14T05:40:46Z",
       "createdAt": "2026-05-14T09:29:45Z",
       "defaultBranchRef": {
         "name": "main"
