@@ -1,6 +1,6 @@
 {
   "summary": {
-    "generatedAt": "2026-07-17T05:50:22.516382+00:00",
+    "generatedAt": "2026-07-18T05:36:41.152247+00:00",
     "owner": "Harzva",
     "mode": "skills",
     "publicRepositories": 108,
@@ -459,8 +459,8 @@
         "primaryLanguage": {
           "name": "TypeScript"
         },
-        "pushedAt": "2026-07-17T04:25:01Z",
-        "updatedAt": "2026-07-17T04:25:04Z",
+        "pushedAt": "2026-07-18T04:14:25Z",
+        "updatedAt": "2026-07-18T04:14:29Z",
         "createdAt": "2026-05-12T09:49:47Z",
         "defaultBranchRef": {
           "name": "main"
@@ -493,8 +493,8 @@
         "primaryLanguage": {
           "name": "TypeScript"
         },
-        "pushedAt": "2026-07-17T03:45:05Z",
-        "updatedAt": "2026-07-17T03:45:08Z",
+        "pushedAt": "2026-07-18T03:40:12Z",
+        "updatedAt": "2026-07-18T03:40:16Z",
         "createdAt": "2026-04-01T03:55:26Z",
         "defaultBranchRef": {
           "name": "main"
@@ -536,6 +536,54 @@
         }
       },
       {
+        "name": "ChinaAI-Roadmaps",
+        "nameWithOwner": "Harzva/ChinaAI-Roadmaps",
+        "url": "https://github.com/Harzva/ChinaAI-Roadmaps",
+        "description": "Technical roadmaps for China's open and open-weight LLM companies: GLM, Kimi, DeepSeek, MiniMax",
+        "isPrivate": false,
+        "isArchived": false,
+        "isFork": false,
+        "primaryLanguage": {
+          "name": "TypeScript"
+        },
+        "pushedAt": "2026-07-17T17:38:03Z",
+        "updatedAt": "2026-07-17T17:38:07Z",
+        "createdAt": "2026-05-11T08:19:22Z",
+        "defaultBranchRef": {
+          "name": "main"
+        },
+        "homepageUrl": "https://harzva.github.io/ChinaAI-Roadmaps/",
+        "stargazerCount": 0,
+        "forkCount": 0,
+        "repositoryTopics": [
+          "agentic-ai",
+          "ai",
+          "china-ai",
+          "deepseek",
+          "glm",
+          "kimi",
+          "llm",
+          "minimax",
+          "open-llm",
+          "open-weight-models",
+          "papers",
+          "roadmap",
+          "svg"
+        ],
+        "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/ChinaAI-Roadmaps",
+        "pages": {
+          "enabled": true,
+          "url": "https://harzva.github.io/ChinaAI-Roadmaps/",
+          "status": "built",
+          "source": {
+            "branch": "main",
+            "path": "/"
+          },
+          "httpsEnforced": true
+        },
+        "latestRelease": null
+      },
+      {
         "name": "harzva-release-hub",
         "nameWithOwner": "Harzva/harzva-release-hub",
         "url": "https://github.com/Harzva/harzva-release-hub",
@@ -546,8 +594,8 @@
         "primaryLanguage": {
           "name": "Python"
         },
-        "pushedAt": "2026-07-16T05:59:07Z",
-        "updatedAt": "2026-07-16T05:59:14Z",
+        "pushedAt": "2026-07-17T05:57:52Z",
+        "updatedAt": "2026-07-17T05:57:56Z",
         "createdAt": "2026-05-14T09:29:34Z",
         "defaultBranchRef": {
           "name": "main"
@@ -580,8 +628,8 @@
         "primaryLanguage": {
           "name": "Python"
         },
-        "pushedAt": "2026-07-16T05:50:11Z",
-        "updatedAt": "2026-07-16T05:50:17Z",
+        "pushedAt": "2026-07-17T05:54:00Z",
+        "updatedAt": "2026-07-17T05:54:05Z",
         "createdAt": "2026-05-14T09:29:39Z",
         "defaultBranchRef": {
           "name": "main"
@@ -614,8 +662,8 @@
         "primaryLanguage": {
           "name": "Python"
         },
-        "pushedAt": "2026-07-16T05:49:14Z",
-        "updatedAt": "2026-07-16T05:49:18Z",
+        "pushedAt": "2026-07-17T05:50:30Z",
+        "updatedAt": "2026-07-17T05:50:36Z",
         "createdAt": "2026-05-14T09:27:13Z",
         "defaultBranchRef": {
           "name": "main"
@@ -725,13 +773,13 @@
           "name": "Dart"
         },
         "pushedAt": "2026-07-13T20:04:32Z",
-        "updatedAt": "2026-07-14T15:19:10Z",
+        "updatedAt": "2026-07-17T21:43:56Z",
         "createdAt": "2026-05-12T08:19:17Z",
         "defaultBranchRef": {
           "name": "main"
         },
         "homepageUrl": "",
-        "stargazerCount": 168,
+        "stargazerCount": 160,
         "forkCount": 4,
         "repositoryTopics": [],
         "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/mobilecode",
@@ -771,7 +819,7 @@
               "name": "mobilecode-v0.1.0.apk",
               "url": "https://github.com/Harzva/mobilecode/releases/download/v0.1.0/mobilecode-v0.1.0.apk",
               "size": 53051517,
-              "downloadCount": 35,
+              "downloadCount": 38,
               "contentType": "application/vnd.android.package-archive"
             }
           ]
@@ -802,54 +850,6 @@
         "pages": {
           "enabled": true,
           "url": "https://harzva.github.io/IssueTrending/",
-          "status": "built",
-          "source": {
-            "branch": "main",
-            "path": "/"
-          },
-          "httpsEnforced": true
-        },
-        "latestRelease": null
-      },
-      {
-        "name": "ChinaAI-Roadmaps",
-        "nameWithOwner": "Harzva/ChinaAI-Roadmaps",
-        "url": "https://github.com/Harzva/ChinaAI-Roadmaps",
-        "description": "Technical roadmaps for China's open and open-weight LLM companies: GLM, Kimi, DeepSeek, MiniMax",
-        "isPrivate": false,
-        "isArchived": false,
-        "isFork": false,
-        "primaryLanguage": {
-          "name": "TypeScript"
-        },
-        "pushedAt": "2026-06-24T09:01:42Z",
-        "updatedAt": "2026-06-24T09:01:55Z",
-        "createdAt": "2026-05-11T08:19:22Z",
-        "defaultBranchRef": {
-          "name": "main"
-        },
-        "homepageUrl": "https://harzva.github.io/ChinaAI-Roadmaps/",
-        "stargazerCount": 0,
-        "forkCount": 0,
-        "repositoryTopics": [
-          "agentic-ai",
-          "ai",
-          "china-ai",
-          "deepseek",
-          "glm",
-          "kimi",
-          "llm",
-          "minimax",
-          "open-llm",
-          "open-weight-models",
-          "papers",
-          "roadmap",
-          "svg"
-        ],
-        "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/ChinaAI-Roadmaps",
-        "pages": {
-          "enabled": true,
-          "url": "https://harzva.github.io/ChinaAI-Roadmaps/",
           "status": "built",
           "source": {
             "branch": "main",
@@ -1273,8 +1273,8 @@
         "primaryLanguage": {
           "name": "Python"
         },
-        "pushedAt": "2026-07-16T05:49:17Z",
-        "updatedAt": "2026-07-16T05:49:21Z",
+        "pushedAt": "2026-07-17T05:50:23Z",
+        "updatedAt": "2026-07-17T05:50:27Z",
         "createdAt": "2026-05-14T09:29:45Z",
         "defaultBranchRef": {
           "name": "main"
@@ -3649,7 +3649,7 @@
       "assetName": "mobilecode-v0.1.0.apk",
       "assetUrl": "https://github.com/Harzva/mobilecode/releases/download/v0.1.0/mobilecode-v0.1.0.apk",
       "size": 53051517,
-      "downloadCount": 35,
+      "downloadCount": 38,
       "kind": "Android APK",
       "functionCategory": "Mobile Apps",
       "releaseName": "MobileCode v0.1.0 Android APK",
@@ -3742,7 +3742,7 @@
         "assetName": "mobilecode-v0.1.0.apk",
         "assetUrl": "https://github.com/Harzva/mobilecode/releases/download/v0.1.0/mobilecode-v0.1.0.apk",
         "size": 53051517,
-        "downloadCount": 35,
+        "downloadCount": 38,
         "kind": "Android APK",
         "functionCategory": "Mobile Apps",
         "releaseName": "MobileCode v0.1.0 Android APK",
@@ -3969,8 +3969,8 @@
       "primaryLanguage": {
         "name": "TypeScript"
       },
-      "pushedAt": "2026-07-17T04:25:01Z",
-      "updatedAt": "2026-07-17T04:25:04Z",
+      "pushedAt": "2026-07-18T04:14:25Z",
+      "updatedAt": "2026-07-18T04:14:29Z",
       "createdAt": "2026-05-12T09:49:47Z",
       "defaultBranchRef": {
         "name": "main"
@@ -4208,8 +4208,8 @@
       "primaryLanguage": {
         "name": "TypeScript"
       },
-      "pushedAt": "2026-06-24T09:01:42Z",
-      "updatedAt": "2026-06-24T09:01:55Z",
+      "pushedAt": "2026-07-17T17:38:03Z",
+      "updatedAt": "2026-07-17T17:38:07Z",
       "createdAt": "2026-05-11T08:19:22Z",
       "defaultBranchRef": {
         "name": "main"
@@ -4484,8 +4484,8 @@
       "primaryLanguage": {
         "name": "Python"
       },
-      "pushedAt": "2026-07-16T05:50:11Z",
-      "updatedAt": "2026-07-16T05:50:17Z",
+      "pushedAt": "2026-07-17T05:54:00Z",
+      "updatedAt": "2026-07-17T05:54:05Z",
       "createdAt": "2026-05-14T09:29:39Z",
       "defaultBranchRef": {
         "name": "main"
@@ -4518,8 +4518,8 @@
       "primaryLanguage": {
         "name": "Python"
       },
-      "pushedAt": "2026-07-16T05:49:14Z",
-      "updatedAt": "2026-07-16T05:49:18Z",
+      "pushedAt": "2026-07-17T05:50:30Z",
+      "updatedAt": "2026-07-17T05:50:36Z",
       "createdAt": "2026-05-14T09:27:13Z",
       "defaultBranchRef": {
         "name": "main"
@@ -4552,8 +4552,8 @@
       "primaryLanguage": {
         "name": "Python"
       },
-      "pushedAt": "2026-07-16T05:59:07Z",
-      "updatedAt": "2026-07-16T05:59:14Z",
+      "pushedAt": "2026-07-17T05:57:52Z",
+      "updatedAt": "2026-07-17T05:57:56Z",
       "createdAt": "2026-05-14T09:29:34Z",
       "defaultBranchRef": {
         "name": "main"
@@ -4586,8 +4586,8 @@
       "primaryLanguage": {
         "name": "Python"
       },
-      "pushedAt": "2026-07-16T05:49:17Z",
-      "updatedAt": "2026-07-16T05:49:21Z",
+      "pushedAt": "2026-07-17T05:50:23Z",
+      "updatedAt": "2026-07-17T05:50:27Z",
       "createdAt": "2026-05-14T09:29:45Z",
       "defaultBranchRef": {
         "name": "main"
@@ -4688,8 +4688,8 @@
       "primaryLanguage": {
         "name": "TypeScript"
       },
-      "pushedAt": "2026-07-17T03:45:05Z",
-      "updatedAt": "2026-07-17T03:45:08Z",
+      "pushedAt": "2026-07-18T03:40:12Z",
+      "updatedAt": "2026-07-18T03:40:16Z",
       "createdAt": "2026-04-01T03:55:26Z",
       "defaultBranchRef": {
         "name": "main"
@@ -4776,13 +4776,13 @@
         "name": "Dart"
       },
       "pushedAt": "2026-07-13T20:04:32Z",
-      "updatedAt": "2026-07-14T15:19:10Z",
+      "updatedAt": "2026-07-17T21:43:56Z",
       "createdAt": "2026-05-12T08:19:17Z",
       "defaultBranchRef": {
         "name": "main"
       },
       "homepageUrl": "",
-      "stargazerCount": 168,
+      "stargazerCount": 160,
       "forkCount": 4,
       "repositoryTopics": [],
       "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/mobilecode",
@@ -4822,7 +4822,7 @@
             "name": "mobilecode-v0.1.0.apk",
             "url": "https://github.com/Harzva/mobilecode/releases/download/v0.1.0/mobilecode-v0.1.0.apk",
             "size": 53051517,
-            "downloadCount": 35,
+            "downloadCount": 38,
             "contentType": "application/vnd.android.package-archive"
           }
         ]
@@ -5217,8 +5217,8 @@
       "primaryLanguage": {
         "name": "TypeScript"
       },
-      "pushedAt": "2026-07-17T03:45:05Z",
-      "updatedAt": "2026-07-17T03:45:08Z",
+      "pushedAt": "2026-07-18T03:40:12Z",
+      "updatedAt": "2026-07-18T03:40:16Z",
       "createdAt": "2026-04-01T03:55:26Z",
       "defaultBranchRef": {
         "name": "main"
@@ -5271,13 +5271,13 @@
         "name": "Dart"
       },
       "pushedAt": "2026-07-13T20:04:32Z",
-      "updatedAt": "2026-07-14T15:19:10Z",
+      "updatedAt": "2026-07-17T21:43:56Z",
       "createdAt": "2026-05-12T08:19:17Z",
       "defaultBranchRef": {
         "name": "main"
       },
       "homepageUrl": "",
-      "stargazerCount": 168,
+      "stargazerCount": 160,
       "forkCount": 4,
       "repositoryTopics": [],
       "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/mobilecode",
@@ -5317,7 +5317,7 @@
             "name": "mobilecode-v0.1.0.apk",
             "url": "https://github.com/Harzva/mobilecode/releases/download/v0.1.0/mobilecode-v0.1.0.apk",
             "size": 53051517,
-            "downloadCount": 35,
+            "downloadCount": 38,
             "contentType": "application/vnd.android.package-archive"
           }
         ]
@@ -5963,8 +5963,8 @@
       "primaryLanguage": {
         "name": "Python"
       },
-      "pushedAt": "2026-07-16T05:49:17Z",
-      "updatedAt": "2026-07-16T05:49:21Z",
+      "pushedAt": "2026-07-17T05:50:23Z",
+      "updatedAt": "2026-07-17T05:50:27Z",
       "createdAt": "2026-05-14T09:29:45Z",
       "defaultBranchRef": {
         "name": "main"
