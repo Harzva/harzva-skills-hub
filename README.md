@@ -14,8 +14,8 @@ A registry of Harzva Codex skills, workflow skills, and agent operating recipes.
 
 | Skill Repository | Language | Updated | Description |
 |---|---:|---:|---|
-| [harzva-skills-hub](https://github.com/Harzva/harzva-skills-hub) | Python | 2026-07-19 | Auto-updating GitHub Pages registry of Harzva Codex skills, workflow skills, and agent recipes. |
-| [CampusAgent-QA](https://github.com/Harzva/CampusAgent-QA) | Java | 2026-07-14 | Agentic campus QA system with RAG retrieval, LLM Wiki memory, and GBrain skills |
+| [CampusAgent-QA](https://github.com/Harzva/CampusAgent-QA) | Java | 2026-07-21 | Agentic campus QA system with RAG retrieval, LLM Wiki memory, and GBrain skills |
+| [harzva-skills-hub](https://github.com/Harzva/harzva-skills-hub) | Python | 2026-07-20 | Auto-updating GitHub Pages registry of Harzva Codex skills, workflow skills, and agent recipes. |
 | [chatgpt2localbridge](https://github.com/Harzva/chatgpt2localbridge) | Swift | 2026-06-26 | Codex/ChatGPT plugin app and OAuth MCP connector for approved local workspaces. |
 | [Oh-Reflective-loop-skills](https://github.com/Harzva/Oh-Reflective-loop-skills) | Python | 2026-06-22 |  |
 | [mcp-skills-hub](https://github.com/Harzva/mcp-skills-hub) | TypeScript | 2026-06-19 | MCP Skills Hub - 汇集50+ Model Context Protocol Skill与Server |
@@ -58,5 +58,5 @@ This MetaRepo refreshes itself with GitHub Actions.
 - Data source: GitHub REST API.
 - Privacy default: public repositories only.
 - Private mode: set `META_INCLUDE_PRIVATE=true` and provide `META_GITHUB_TOKEN` only when the meta repository is private.
-- Generated at: `2026-07-20T06:26:00.842757+00:00`.
+- Generated at: `2026-07-21T06:05:52.519853+00:00`.
 - Private repositories omitted from this public output: `13`.
