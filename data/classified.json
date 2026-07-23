@@ -1,13 +1,13 @@
 {
   "summary": {
-    "generatedAt": "2026-07-22T06:05:01.553059+00:00",
+    "generatedAt": "2026-07-23T06:10:22.240234+00:00",
     "owner": "Harzva",
     "mode": "skills",
-    "publicRepositories": 108,
+    "publicRepositories": 109,
     "forks": 36,
     "pages": 25,
     "releases": 7,
-    "skills": 27,
+    "skills": 28,
     "artifacts": 16,
     "privateOmitted": 13
   },
@@ -459,8 +459,8 @@
         "primaryLanguage": {
           "name": "TypeScript"
         },
-        "pushedAt": "2026-07-22T04:34:13Z",
-        "updatedAt": "2026-07-22T04:34:19Z",
+        "pushedAt": "2026-07-23T04:33:41Z",
+        "updatedAt": "2026-07-23T04:33:46Z",
         "createdAt": "2026-05-12T09:49:47Z",
         "defaultBranchRef": {
           "name": "main"
@@ -493,8 +493,8 @@
         "primaryLanguage": {
           "name": "TypeScript"
         },
-        "pushedAt": "2026-07-22T03:54:50Z",
-        "updatedAt": "2026-07-22T03:54:56Z",
+        "pushedAt": "2026-07-23T03:51:26Z",
+        "updatedAt": "2026-07-23T03:51:30Z",
         "createdAt": "2026-04-01T03:55:26Z",
         "defaultBranchRef": {
           "name": "main"
@@ -546,8 +546,8 @@
         "primaryLanguage": {
           "name": "Python"
         },
-        "pushedAt": "2026-07-21T06:08:10Z",
-        "updatedAt": "2026-07-21T06:08:27Z",
+        "pushedAt": "2026-07-22T06:06:41Z",
+        "updatedAt": "2026-07-22T06:07:01Z",
         "createdAt": "2026-05-14T09:29:34Z",
         "defaultBranchRef": {
           "name": "main"
@@ -580,8 +580,8 @@
         "primaryLanguage": {
           "name": "Python"
         },
-        "pushedAt": "2026-07-21T06:07:04Z",
-        "updatedAt": "2026-07-21T06:07:39Z",
+        "pushedAt": "2026-07-22T06:05:41Z",
+        "updatedAt": "2026-07-22T06:05:53Z",
         "createdAt": "2026-05-14T09:29:39Z",
         "defaultBranchRef": {
           "name": "main"
@@ -614,8 +614,8 @@
         "primaryLanguage": {
           "name": "Python"
         },
-        "pushedAt": "2026-07-21T06:06:01Z",
-        "updatedAt": "2026-07-21T06:06:35Z",
+        "pushedAt": "2026-07-22T06:04:55Z",
+        "updatedAt": "2026-07-22T06:05:16Z",
         "createdAt": "2026-05-14T09:27:13Z",
         "defaultBranchRef": {
           "name": "main"
@@ -777,7 +777,7 @@
               "name": "mobilecode-v0.1.0.apk",
               "url": "https://github.com/Harzva/mobilecode/releases/download/v0.1.0/mobilecode-v0.1.0.apk",
               "size": 53051517,
-              "downloadCount": 39,
+              "downloadCount": 40,
               "contentType": "application/vnd.android.package-archive"
             }
           ]
@@ -1254,7 +1254,7 @@
               "name": "codex-managed-agent-1.0.3.vsix",
               "url": "https://github.com/Harzva/codex-managed-agent/releases/download/v1.0.3/codex-managed-agent-1.0.3.vsix",
               "size": 468736,
-              "downloadCount": 4,
+              "downloadCount": 5,
               "contentType": "application/octet-stream"
             }
           ]
@@ -1262,6 +1262,40 @@
       }
     ],
     "Skills and Agent Workflows": [
+      {
+        "name": "codexhome-manager",
+        "nameWithOwner": "Harzva/codexhome-manager",
+        "url": "https://github.com/Harzva/codexhome-manager",
+        "description": "Manage multiple CODEX_HOME directories as isolated Skill Spaces and specialized Agent Households.",
+        "isPrivate": false,
+        "isArchived": false,
+        "isFork": false,
+        "primaryLanguage": {
+          "name": "Rust"
+        },
+        "pushedAt": "2026-07-22T09:33:05Z",
+        "updatedAt": "2026-07-22T09:34:40Z",
+        "createdAt": "2026-07-22T09:13:29Z",
+        "defaultBranchRef": {
+          "name": "main"
+        },
+        "homepageUrl": "",
+        "stargazerCount": 0,
+        "forkCount": 0,
+        "repositoryTopics": [
+          "agent-orchestration",
+          "codex",
+          "codex-cli",
+          "developer-tools",
+          "rust",
+          "tauri"
+        ],
+        "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/codexhome-manager",
+        "pages": {
+          "enabled": false
+        },
+        "latestRelease": null
+      },
       {
         "name": "harzva-skills-hub",
         "nameWithOwner": "Harzva/harzva-skills-hub",
@@ -1273,8 +1307,8 @@
         "primaryLanguage": {
           "name": "Python"
         },
-        "pushedAt": "2026-07-21T06:05:53Z",
-        "updatedAt": "2026-07-21T06:06:18Z",
+        "pushedAt": "2026-07-22T06:05:02Z",
+        "updatedAt": "2026-07-22T06:05:15Z",
         "createdAt": "2026-05-14T09:29:45Z",
         "defaultBranchRef": {
           "name": "main"
@@ -3379,7 +3413,7 @@
       "assetName": "codex-managed-agent-1.0.3.vsix",
       "assetUrl": "https://github.com/Harzva/codex-managed-agent/releases/download/v1.0.3/codex-managed-agent-1.0.3.vsix",
       "size": 468736,
-      "downloadCount": 4,
+      "downloadCount": 5,
       "kind": "Release Asset",
       "functionCategory": "AI Agent Systems",
       "releaseName": "Codex-Managed-Agent v1.0.3",
@@ -3649,7 +3683,7 @@
       "assetName": "mobilecode-v0.1.0.apk",
       "assetUrl": "https://github.com/Harzva/mobilecode/releases/download/v0.1.0/mobilecode-v0.1.0.apk",
       "size": 53051517,
-      "downloadCount": 39,
+      "downloadCount": 40,
       "kind": "Android APK",
       "functionCategory": "Mobile Apps",
       "releaseName": "MobileCode v0.1.0 Android APK",
@@ -3742,7 +3776,7 @@
         "assetName": "mobilecode-v0.1.0.apk",
         "assetUrl": "https://github.com/Harzva/mobilecode/releases/download/v0.1.0/mobilecode-v0.1.0.apk",
         "size": 53051517,
-        "downloadCount": 39,
+        "downloadCount": 40,
         "kind": "Android APK",
         "functionCategory": "Mobile Apps",
         "releaseName": "MobileCode v0.1.0 Android APK",
@@ -3946,7 +3980,7 @@
         "assetName": "codex-managed-agent-1.0.3.vsix",
         "assetUrl": "https://github.com/Harzva/codex-managed-agent/releases/download/v1.0.3/codex-managed-agent-1.0.3.vsix",
         "size": 468736,
-        "downloadCount": 4,
+        "downloadCount": 5,
         "kind": "Release Asset",
         "functionCategory": "AI Agent Systems",
         "releaseName": "Codex-Managed-Agent v1.0.3",
@@ -3969,8 +4003,8 @@
       "primaryLanguage": {
         "name": "TypeScript"
       },
-      "pushedAt": "2026-07-22T04:34:13Z",
-      "updatedAt": "2026-07-22T04:34:19Z",
+      "pushedAt": "2026-07-23T04:33:41Z",
+      "updatedAt": "2026-07-23T04:33:46Z",
       "createdAt": "2026-05-12T09:49:47Z",
       "defaultBranchRef": {
         "name": "main"
@@ -4484,8 +4518,8 @@
       "primaryLanguage": {
         "name": "Python"
       },
-      "pushedAt": "2026-07-21T06:07:04Z",
-      "updatedAt": "2026-07-21T06:07:39Z",
+      "pushedAt": "2026-07-22T06:05:41Z",
+      "updatedAt": "2026-07-22T06:05:53Z",
       "createdAt": "2026-05-14T09:29:39Z",
       "defaultBranchRef": {
         "name": "main"
@@ -4518,8 +4552,8 @@
       "primaryLanguage": {
         "name": "Python"
       },
-      "pushedAt": "2026-07-21T06:06:01Z",
-      "updatedAt": "2026-07-21T06:06:35Z",
+      "pushedAt": "2026-07-22T06:04:55Z",
+      "updatedAt": "2026-07-22T06:05:16Z",
       "createdAt": "2026-05-14T09:27:13Z",
       "defaultBranchRef": {
         "name": "main"
@@ -4552,8 +4586,8 @@
       "primaryLanguage": {
         "name": "Python"
       },
-      "pushedAt": "2026-07-21T06:08:10Z",
-      "updatedAt": "2026-07-21T06:08:27Z",
+      "pushedAt": "2026-07-22T06:06:41Z",
+      "updatedAt": "2026-07-22T06:07:01Z",
       "createdAt": "2026-05-14T09:29:34Z",
       "defaultBranchRef": {
         "name": "main"
@@ -4586,8 +4620,8 @@
       "primaryLanguage": {
         "name": "Python"
       },
-      "pushedAt": "2026-07-21T06:05:53Z",
-      "updatedAt": "2026-07-21T06:06:18Z",
+      "pushedAt": "2026-07-22T06:05:02Z",
+      "updatedAt": "2026-07-22T06:05:15Z",
       "createdAt": "2026-05-14T09:29:45Z",
       "defaultBranchRef": {
         "name": "main"
@@ -4688,8 +4722,8 @@
       "primaryLanguage": {
         "name": "TypeScript"
       },
-      "pushedAt": "2026-07-22T03:54:50Z",
-      "updatedAt": "2026-07-22T03:54:56Z",
+      "pushedAt": "2026-07-23T03:51:26Z",
+      "updatedAt": "2026-07-23T03:51:30Z",
       "createdAt": "2026-04-01T03:55:26Z",
       "defaultBranchRef": {
         "name": "main"
@@ -4822,7 +4856,7 @@
             "name": "mobilecode-v0.1.0.apk",
             "url": "https://github.com/Harzva/mobilecode/releases/download/v0.1.0/mobilecode-v0.1.0.apk",
             "size": 53051517,
-            "downloadCount": 39,
+            "downloadCount": 40,
             "contentType": "application/vnd.android.package-archive"
           }
         ]
@@ -5071,7 +5105,7 @@
             "name": "codex-managed-agent-1.0.3.vsix",
             "url": "https://github.com/Harzva/codex-managed-agent/releases/download/v1.0.3/codex-managed-agent-1.0.3.vsix",
             "size": 468736,
-            "downloadCount": 4,
+            "downloadCount": 5,
             "contentType": "application/octet-stream"
           }
         ]
@@ -5217,8 +5251,8 @@
       "primaryLanguage": {
         "name": "TypeScript"
       },
-      "pushedAt": "2026-07-22T03:54:50Z",
-      "updatedAt": "2026-07-22T03:54:56Z",
+      "pushedAt": "2026-07-23T03:51:26Z",
+      "updatedAt": "2026-07-23T03:51:30Z",
       "createdAt": "2026-04-01T03:55:26Z",
       "defaultBranchRef": {
         "name": "main"
@@ -5317,7 +5351,7 @@
             "name": "mobilecode-v0.1.0.apk",
             "url": "https://github.com/Harzva/mobilecode/releases/download/v0.1.0/mobilecode-v0.1.0.apk",
             "size": 53051517,
-            "downloadCount": 39,
+            "downloadCount": 40,
             "contentType": "application/vnd.android.package-archive"
           }
         ]
@@ -5644,6 +5678,40 @@
       "latestRelease": null
     },
     {
+      "name": "codexhome-manager",
+      "nameWithOwner": "Harzva/codexhome-manager",
+      "url": "https://github.com/Harzva/codexhome-manager",
+      "description": "Manage multiple CODEX_HOME directories as isolated Skill Spaces and specialized Agent Households.",
+      "isPrivate": false,
+      "isArchived": false,
+      "isFork": false,
+      "primaryLanguage": {
+        "name": "Rust"
+      },
+      "pushedAt": "2026-07-22T09:33:05Z",
+      "updatedAt": "2026-07-22T09:34:40Z",
+      "createdAt": "2026-07-22T09:13:29Z",
+      "defaultBranchRef": {
+        "name": "main"
+      },
+      "homepageUrl": "",
+      "stargazerCount": 0,
+      "forkCount": 0,
+      "repositoryTopics": [
+        "agent-orchestration",
+        "codex",
+        "codex-cli",
+        "developer-tools",
+        "rust",
+        "tauri"
+      ],
+      "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/codexhome-manager",
+      "pages": {
+        "enabled": false
+      },
+      "latestRelease": null
+    },
+    {
       "name": "copilot-plugin-cc",
       "nameWithOwner": "Harzva/copilot-plugin-cc",
       "url": "https://github.com/Harzva/copilot-plugin-cc",
@@ -5963,8 +6031,8 @@
       "primaryLanguage": {
         "name": "Python"
       },
-      "pushedAt": "2026-07-21T06:05:53Z",
-      "updatedAt": "2026-07-21T06:06:18Z",
+      "pushedAt": "2026-07-22T06:05:02Z",
+      "updatedAt": "2026-07-22T06:05:15Z",
       "createdAt": "2026-05-14T09:29:45Z",
       "defaultBranchRef": {
         "name": "main"

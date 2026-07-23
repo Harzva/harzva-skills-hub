@@ -190,6 +190,40 @@
     "latestRelease": null
   },
   {
+    "name": "codexhome-manager",
+    "nameWithOwner": "Harzva/codexhome-manager",
+    "url": "https://github.com/Harzva/codexhome-manager",
+    "description": "Manage multiple CODEX_HOME directories as isolated Skill Spaces and specialized Agent Households.",
+    "isPrivate": false,
+    "isArchived": false,
+    "isFork": false,
+    "primaryLanguage": {
+      "name": "Rust"
+    },
+    "pushedAt": "2026-07-22T09:33:05Z",
+    "updatedAt": "2026-07-22T09:34:40Z",
+    "createdAt": "2026-07-22T09:13:29Z",
+    "defaultBranchRef": {
+      "name": "main"
+    },
+    "homepageUrl": "",
+    "stargazerCount": 0,
+    "forkCount": 0,
+    "repositoryTopics": [
+      "agent-orchestration",
+      "codex",
+      "codex-cli",
+      "developer-tools",
+      "rust",
+      "tauri"
+    ],
+    "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/codexhome-manager",
+    "pages": {
+      "enabled": false
+    },
+    "latestRelease": null
+  },
+  {
     "name": "copilot-plugin-cc",
     "nameWithOwner": "Harzva/copilot-plugin-cc",
     "url": "https://github.com/Harzva/copilot-plugin-cc",
@@ -509,8 +543,8 @@
     "primaryLanguage": {
       "name": "Python"
     },
-    "pushedAt": "2026-07-21T06:05:53Z",
-    "updatedAt": "2026-07-21T06:06:18Z",
+    "pushedAt": "2026-07-22T06:05:02Z",
+    "updatedAt": "2026-07-22T06:05:15Z",
     "createdAt": "2026-05-14T09:29:45Z",
     "defaultBranchRef": {
       "name": "main"
