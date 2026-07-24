@@ -1,6 +1,6 @@
 {
   "summary": {
-    "generatedAt": "2026-07-23T06:10:22.240234+00:00",
+    "generatedAt": "2026-07-24T06:04:05.384616+00:00",
     "owner": "Harzva",
     "mode": "skills",
     "publicRepositories": 109,
@@ -459,8 +459,8 @@
         "primaryLanguage": {
           "name": "TypeScript"
         },
-        "pushedAt": "2026-07-23T04:33:41Z",
-        "updatedAt": "2026-07-23T04:33:46Z",
+        "pushedAt": "2026-07-24T04:32:35Z",
+        "updatedAt": "2026-07-24T04:32:39Z",
         "createdAt": "2026-05-12T09:49:47Z",
         "defaultBranchRef": {
           "name": "main"
@@ -493,8 +493,8 @@
         "primaryLanguage": {
           "name": "TypeScript"
         },
-        "pushedAt": "2026-07-23T03:51:26Z",
-        "updatedAt": "2026-07-23T03:51:30Z",
+        "pushedAt": "2026-07-24T03:51:20Z",
+        "updatedAt": "2026-07-24T03:51:30Z",
         "createdAt": "2026-04-01T03:55:26Z",
         "defaultBranchRef": {
           "name": "main"
@@ -546,8 +546,8 @@
         "primaryLanguage": {
           "name": "Python"
         },
-        "pushedAt": "2026-07-22T06:06:41Z",
-        "updatedAt": "2026-07-22T06:07:01Z",
+        "pushedAt": "2026-07-23T06:11:49Z",
+        "updatedAt": "2026-07-23T06:11:57Z",
         "createdAt": "2026-05-14T09:29:34Z",
         "defaultBranchRef": {
           "name": "main"
@@ -580,8 +580,8 @@
         "primaryLanguage": {
           "name": "Python"
         },
-        "pushedAt": "2026-07-22T06:05:41Z",
-        "updatedAt": "2026-07-22T06:05:53Z",
+        "pushedAt": "2026-07-23T06:10:54Z",
+        "updatedAt": "2026-07-23T06:11:06Z",
         "createdAt": "2026-05-14T09:29:39Z",
         "defaultBranchRef": {
           "name": "main"
@@ -614,8 +614,8 @@
         "primaryLanguage": {
           "name": "Python"
         },
-        "pushedAt": "2026-07-22T06:04:55Z",
-        "updatedAt": "2026-07-22T06:05:16Z",
+        "pushedAt": "2026-07-23T06:10:04Z",
+        "updatedAt": "2026-07-23T06:10:30Z",
         "createdAt": "2026-05-14T09:27:13Z",
         "defaultBranchRef": {
           "name": "main"
@@ -1263,6 +1263,40 @@
     ],
     "Skills and Agent Workflows": [
       {
+        "name": "harzva-skills-hub",
+        "nameWithOwner": "Harzva/harzva-skills-hub",
+        "url": "https://github.com/Harzva/harzva-skills-hub",
+        "description": "Auto-updating GitHub Pages registry of Harzva Codex skills, workflow skills, and agent recipes.",
+        "isPrivate": false,
+        "isArchived": false,
+        "isFork": false,
+        "primaryLanguage": {
+          "name": "Python"
+        },
+        "pushedAt": "2026-07-23T06:10:23Z",
+        "updatedAt": "2026-07-23T06:10:49Z",
+        "createdAt": "2026-05-14T09:29:45Z",
+        "defaultBranchRef": {
+          "name": "main"
+        },
+        "homepageUrl": "https://harzva.github.io/harzva-skills-hub/",
+        "stargazerCount": 0,
+        "forkCount": 0,
+        "repositoryTopics": [],
+        "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/harzva-skills-hub",
+        "pages": {
+          "enabled": true,
+          "url": "https://harzva.github.io/harzva-skills-hub/",
+          "status": null,
+          "source": {
+            "branch": "main",
+            "path": "/"
+          },
+          "httpsEnforced": true
+        },
+        "latestRelease": null
+      },
+      {
         "name": "codexhome-manager",
         "nameWithOwner": "Harzva/codexhome-manager",
         "url": "https://github.com/Harzva/codexhome-manager",
@@ -1293,40 +1327,6 @@
         "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/codexhome-manager",
         "pages": {
           "enabled": false
-        },
-        "latestRelease": null
-      },
-      {
-        "name": "harzva-skills-hub",
-        "nameWithOwner": "Harzva/harzva-skills-hub",
-        "url": "https://github.com/Harzva/harzva-skills-hub",
-        "description": "Auto-updating GitHub Pages registry of Harzva Codex skills, workflow skills, and agent recipes.",
-        "isPrivate": false,
-        "isArchived": false,
-        "isFork": false,
-        "primaryLanguage": {
-          "name": "Python"
-        },
-        "pushedAt": "2026-07-22T06:05:02Z",
-        "updatedAt": "2026-07-22T06:05:15Z",
-        "createdAt": "2026-05-14T09:29:45Z",
-        "defaultBranchRef": {
-          "name": "main"
-        },
-        "homepageUrl": "https://harzva.github.io/harzva-skills-hub/",
-        "stargazerCount": 0,
-        "forkCount": 0,
-        "repositoryTopics": [],
-        "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/harzva-skills-hub",
-        "pages": {
-          "enabled": true,
-          "url": "https://harzva.github.io/harzva-skills-hub/",
-          "status": null,
-          "source": {
-            "branch": "main",
-            "path": "/"
-          },
-          "httpsEnforced": true
         },
         "latestRelease": null
       },
@@ -1508,7 +1508,7 @@
               "name": "journal-skill-suites-v2.7.0.zip",
               "url": "https://github.com/Harzva/pami-skill-suites/releases/download/v2.7.0/journal-skill-suites-v2.7.0.zip",
               "size": 148992508,
-              "downloadCount": 1,
+              "downloadCount": 2,
               "contentType": "application/zip"
             },
             {
@@ -3467,7 +3467,7 @@
       "assetName": "journal-skill-suites-v2.7.0.zip",
       "assetUrl": "https://github.com/Harzva/pami-skill-suites/releases/download/v2.7.0/journal-skill-suites-v2.7.0.zip",
       "size": 148992508,
-      "downloadCount": 1,
+      "downloadCount": 2,
       "kind": "Archive",
       "functionCategory": "AI Agent Systems",
       "releaseName": "PAMI Skill Suites v2.7.0",
@@ -3944,7 +3944,7 @@
         "assetName": "journal-skill-suites-v2.7.0.zip",
         "assetUrl": "https://github.com/Harzva/pami-skill-suites/releases/download/v2.7.0/journal-skill-suites-v2.7.0.zip",
         "size": 148992508,
-        "downloadCount": 1,
+        "downloadCount": 2,
         "kind": "Archive",
         "functionCategory": "AI Agent Systems",
         "releaseName": "PAMI Skill Suites v2.7.0",
@@ -4003,8 +4003,8 @@
       "primaryLanguage": {
         "name": "TypeScript"
       },
-      "pushedAt": "2026-07-23T04:33:41Z",
-      "updatedAt": "2026-07-23T04:33:46Z",
+      "pushedAt": "2026-07-24T04:32:35Z",
+      "updatedAt": "2026-07-24T04:32:39Z",
       "createdAt": "2026-05-12T09:49:47Z",
       "defaultBranchRef": {
         "name": "main"
@@ -4518,8 +4518,8 @@
       "primaryLanguage": {
         "name": "Python"
       },
-      "pushedAt": "2026-07-22T06:05:41Z",
-      "updatedAt": "2026-07-22T06:05:53Z",
+      "pushedAt": "2026-07-23T06:10:54Z",
+      "updatedAt": "2026-07-23T06:11:06Z",
       "createdAt": "2026-05-14T09:29:39Z",
       "defaultBranchRef": {
         "name": "main"
@@ -4552,8 +4552,8 @@
       "primaryLanguage": {
         "name": "Python"
       },
-      "pushedAt": "2026-07-22T06:04:55Z",
-      "updatedAt": "2026-07-22T06:05:16Z",
+      "pushedAt": "2026-07-23T06:10:04Z",
+      "updatedAt": "2026-07-23T06:10:30Z",
       "createdAt": "2026-05-14T09:27:13Z",
       "defaultBranchRef": {
         "name": "main"
@@ -4586,8 +4586,8 @@
       "primaryLanguage": {
         "name": "Python"
       },
-      "pushedAt": "2026-07-22T06:06:41Z",
-      "updatedAt": "2026-07-22T06:07:01Z",
+      "pushedAt": "2026-07-23T06:11:49Z",
+      "updatedAt": "2026-07-23T06:11:57Z",
       "createdAt": "2026-05-14T09:29:34Z",
       "defaultBranchRef": {
         "name": "main"
@@ -4620,8 +4620,8 @@
       "primaryLanguage": {
         "name": "Python"
       },
-      "pushedAt": "2026-07-22T06:05:02Z",
-      "updatedAt": "2026-07-22T06:05:15Z",
+      "pushedAt": "2026-07-23T06:10:23Z",
+      "updatedAt": "2026-07-23T06:10:49Z",
       "createdAt": "2026-05-14T09:29:45Z",
       "defaultBranchRef": {
         "name": "main"
@@ -4722,8 +4722,8 @@
       "primaryLanguage": {
         "name": "TypeScript"
       },
-      "pushedAt": "2026-07-23T03:51:26Z",
-      "updatedAt": "2026-07-23T03:51:30Z",
+      "pushedAt": "2026-07-24T03:51:20Z",
+      "updatedAt": "2026-07-24T03:51:30Z",
       "createdAt": "2026-04-01T03:55:26Z",
       "defaultBranchRef": {
         "name": "main"
@@ -4962,7 +4962,7 @@
             "name": "journal-skill-suites-v2.7.0.zip",
             "url": "https://github.com/Harzva/pami-skill-suites/releases/download/v2.7.0/journal-skill-suites-v2.7.0.zip",
             "size": 148992508,
-            "downloadCount": 1,
+            "downloadCount": 2,
             "contentType": "application/zip"
           },
           {
@@ -5251,8 +5251,8 @@
       "primaryLanguage": {
         "name": "TypeScript"
       },
-      "pushedAt": "2026-07-23T03:51:26Z",
-      "updatedAt": "2026-07-23T03:51:30Z",
+      "pushedAt": "2026-07-24T03:51:20Z",
+      "updatedAt": "2026-07-24T03:51:30Z",
       "createdAt": "2026-04-01T03:55:26Z",
       "defaultBranchRef": {
         "name": "main"
@@ -5415,7 +5415,7 @@
             "name": "journal-skill-suites-v2.7.0.zip",
             "url": "https://github.com/Harzva/pami-skill-suites/releases/download/v2.7.0/journal-skill-suites-v2.7.0.zip",
             "size": 148992508,
-            "downloadCount": 1,
+            "downloadCount": 2,
             "contentType": "application/zip"
           },
           {
@@ -6031,8 +6031,8 @@
       "primaryLanguage": {
         "name": "Python"
       },
-      "pushedAt": "2026-07-22T06:05:02Z",
-      "updatedAt": "2026-07-22T06:05:15Z",
+      "pushedAt": "2026-07-23T06:10:23Z",
+      "updatedAt": "2026-07-23T06:10:49Z",
       "createdAt": "2026-05-14T09:29:45Z",
       "defaultBranchRef": {
         "name": "main"
@@ -6171,7 +6171,7 @@
             "name": "journal-skill-suites-v2.7.0.zip",
             "url": "https://github.com/Harzva/pami-skill-suites/releases/download/v2.7.0/journal-skill-suites-v2.7.0.zip",
             "size": 148992508,
-            "downloadCount": 1,
+            "downloadCount": 2,
             "contentType": "application/zip"
           },
           {
