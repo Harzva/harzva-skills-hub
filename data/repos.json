@@ -89,8 +89,8 @@
     "primaryLanguage": {
       "name": "TypeScript"
     },
-    "pushedAt": "2026-07-24T04:32:35Z",
-    "updatedAt": "2026-07-24T04:32:39Z",
+    "pushedAt": "2026-07-25T04:27:55Z",
+    "updatedAt": "2026-07-25T04:28:05Z",
     "createdAt": "2026-05-12T09:49:47Z",
     "defaultBranchRef": {
       "name": "main"
@@ -1369,8 +1369,8 @@
     "primaryLanguage": {
       "name": "Python"
     },
-    "pushedAt": "2026-07-23T06:10:54Z",
-    "updatedAt": "2026-07-23T06:11:06Z",
+    "pushedAt": "2026-07-24T06:05:15Z",
+    "updatedAt": "2026-07-24T06:05:27Z",
     "createdAt": "2026-05-14T09:29:39Z",
     "defaultBranchRef": {
       "name": "main"
@@ -1403,8 +1403,8 @@
     "primaryLanguage": {
       "name": "Python"
     },
-    "pushedAt": "2026-07-23T06:10:04Z",
-    "updatedAt": "2026-07-23T06:10:30Z",
+    "pushedAt": "2026-07-24T06:04:29Z",
+    "updatedAt": "2026-07-24T06:04:52Z",
     "createdAt": "2026-05-14T09:27:13Z",
     "defaultBranchRef": {
       "name": "main"
@@ -1437,8 +1437,8 @@
     "primaryLanguage": {
       "name": "Python"
     },
-    "pushedAt": "2026-07-23T06:11:49Z",
-    "updatedAt": "2026-07-23T06:11:57Z",
+    "pushedAt": "2026-07-24T06:06:14Z",
+    "updatedAt": "2026-07-24T06:06:28Z",
     "createdAt": "2026-05-14T09:29:34Z",
     "defaultBranchRef": {
       "name": "main"
@@ -1471,8 +1471,8 @@
     "primaryLanguage": {
       "name": "Python"
     },
-    "pushedAt": "2026-07-23T06:10:23Z",
-    "updatedAt": "2026-07-23T06:10:49Z",
+    "pushedAt": "2026-07-24T06:04:06Z",
+    "updatedAt": "2026-07-24T06:04:16Z",
     "createdAt": "2026-05-14T09:29:45Z",
     "defaultBranchRef": {
       "name": "main"
@@ -1656,6 +1656,55 @@
     "latestRelease": null
   },
   {
+    "name": "LDB",
+    "nameWithOwner": "Harzva/LDB",
+    "url": "https://github.com/Harzva/LDB",
+    "description": "Logits DeBiasing for Few-Shot Learning: audited code, protocol, evidence, and project page",
+    "isPrivate": false,
+    "isArchived": false,
+    "isFork": false,
+    "primaryLanguage": {
+      "name": "Python"
+    },
+    "pushedAt": "2026-07-24T10:56:18Z",
+    "updatedAt": "2026-07-24T10:56:44Z",
+    "createdAt": "2026-07-24T07:00:50Z",
+    "defaultBranchRef": {
+      "name": "main"
+    },
+    "homepageUrl": "https://harzva.github.io/LDB/",
+    "stargazerCount": 1,
+    "forkCount": 0,
+    "repositoryTopics": [
+      "calibration",
+      "clip",
+      "few-shot-learning",
+      "pytorch",
+      "reproducible-research",
+      "vision-language-model"
+    ],
+    "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/LDB",
+    "pages": {
+      "enabled": true,
+      "url": "https://harzva.github.io/LDB/",
+      "status": "built",
+      "source": {
+        "branch": "gh-pages",
+        "path": "/"
+      },
+      "httpsEnforced": true
+    },
+    "latestRelease": {
+      "name": "LDB v0.1.0 — Initial public release",
+      "tagName": "v0.1.0",
+      "url": "https://github.com/Harzva/LDB/releases/tag/v0.1.0",
+      "publishedAt": "2026-07-24T07:04:43Z",
+      "prerelease": false,
+      "draft": false,
+      "assets": []
+    }
+  },
+  {
     "name": "learn-likecc",
     "nameWithOwner": "Harzva/learn-likecc",
     "url": "https://github.com/Harzva/learn-likecc",
@@ -1666,14 +1715,14 @@
     "primaryLanguage": {
       "name": "TypeScript"
     },
-    "pushedAt": "2026-07-24T03:51:20Z",
-    "updatedAt": "2026-07-24T03:51:30Z",
+    "pushedAt": "2026-07-25T03:45:29Z",
+    "updatedAt": "2026-07-25T03:45:45Z",
     "createdAt": "2026-04-01T03:55:26Z",
     "defaultBranchRef": {
       "name": "main"
     },
     "homepageUrl": "",
-    "stargazerCount": 57,
+    "stargazerCount": 58,
     "forkCount": 11,
     "repositoryTopics": [
       "agent-loop",
