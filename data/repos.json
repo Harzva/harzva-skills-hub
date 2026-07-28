@@ -89,8 +89,8 @@
     "primaryLanguage": {
       "name": "TypeScript"
     },
-    "pushedAt": "2026-07-27T04:51:42Z",
-    "updatedAt": "2026-07-27T04:52:27Z",
+    "pushedAt": "2026-07-28T04:28:09Z",
+    "updatedAt": "2026-07-28T04:28:20Z",
     "createdAt": "2026-05-12T09:49:47Z",
     "defaultBranchRef": {
       "name": "main"
@@ -705,8 +705,8 @@
     "primaryLanguage": {
       "name": "Rust"
     },
-    "pushedAt": "2026-07-22T09:33:05Z",
-    "updatedAt": "2026-07-22T09:34:40Z",
+    "pushedAt": "2026-07-27T19:10:40Z",
+    "updatedAt": "2026-07-27T18:50:00Z",
     "createdAt": "2026-07-22T09:13:29Z",
     "defaultBranchRef": {
       "name": "main"
@@ -953,8 +953,8 @@
     "primaryLanguage": {
       "name": "JavaScript"
     },
-    "pushedAt": "2026-07-21T05:36:22Z",
-    "updatedAt": "2026-07-21T05:36:39Z",
+    "pushedAt": "2026-07-28T05:32:10Z",
+    "updatedAt": "2026-07-28T05:33:14Z",
     "createdAt": "2026-06-19T08:47:36Z",
     "defaultBranchRef": {
       "name": "main"
@@ -1369,8 +1369,8 @@
     "primaryLanguage": {
       "name": "Python"
     },
-    "pushedAt": "2026-07-26T06:15:34Z",
-    "updatedAt": "2026-07-26T06:15:54Z",
+    "pushedAt": "2026-07-27T06:43:18Z",
+    "updatedAt": "2026-07-27T06:43:23Z",
     "createdAt": "2026-05-14T09:29:39Z",
     "defaultBranchRef": {
       "name": "main"
@@ -1403,8 +1403,8 @@
     "primaryLanguage": {
       "name": "Python"
     },
-    "pushedAt": "2026-07-26T06:14:22Z",
-    "updatedAt": "2026-07-26T06:14:26Z",
+    "pushedAt": "2026-07-27T06:41:47Z",
+    "updatedAt": "2026-07-27T06:42:26Z",
     "createdAt": "2026-05-14T09:27:13Z",
     "defaultBranchRef": {
       "name": "main"
@@ -1437,8 +1437,8 @@
     "primaryLanguage": {
       "name": "Python"
     },
-    "pushedAt": "2026-07-26T06:17:01Z",
-    "updatedAt": "2026-07-26T06:17:10Z",
+    "pushedAt": "2026-07-27T06:44:41Z",
+    "updatedAt": "2026-07-27T06:44:45Z",
     "createdAt": "2026-05-14T09:29:34Z",
     "defaultBranchRef": {
       "name": "main"
@@ -1471,8 +1471,8 @@
     "primaryLanguage": {
       "name": "Python"
     },
-    "pushedAt": "2026-07-26T06:15:18Z",
-    "updatedAt": "2026-07-26T06:15:39Z",
+    "pushedAt": "2026-07-27T06:42:38Z",
+    "updatedAt": "2026-07-27T06:43:11Z",
     "createdAt": "2026-05-14T09:29:45Z",
     "defaultBranchRef": {
       "name": "main"
@@ -1667,13 +1667,13 @@
       "name": "Python"
     },
     "pushedAt": "2026-07-24T10:56:18Z",
-    "updatedAt": "2026-07-24T10:56:44Z",
+    "updatedAt": "2026-07-27T13:46:59Z",
     "createdAt": "2026-07-24T07:00:50Z",
     "defaultBranchRef": {
       "name": "main"
     },
     "homepageUrl": "https://harzva.github.io/LDB/",
-    "stargazerCount": 1,
+    "stargazerCount": 0,
     "forkCount": 0,
     "repositoryTopics": [
       "calibration",
@@ -1715,8 +1715,8 @@
     "primaryLanguage": {
       "name": "TypeScript"
     },
-    "pushedAt": "2026-07-27T04:11:42Z",
-    "updatedAt": "2026-07-27T04:12:18Z",
+    "pushedAt": "2026-07-28T03:44:09Z",
+    "updatedAt": "2026-07-28T03:44:32Z",
     "createdAt": "2026-04-01T03:55:26Z",
     "defaultBranchRef": {
       "name": "main"
@@ -1756,6 +1756,40 @@
       "draft": false,
       "assets": []
     }
+  },
+  {
+    "name": "licheng-jiao-research-atlas",
+    "nameWithOwner": "Harzva/licheng-jiao-research-atlas",
+    "url": "https://github.com/Harzva/licheng-jiao-research-atlas",
+    "description": "Interactive academic atlas of Prof. Licheng Jiao: publications, research evolution, and collaboration network.",
+    "isPrivate": false,
+    "isArchived": false,
+    "isFork": false,
+    "primaryLanguage": {
+      "name": "JavaScript"
+    },
+    "pushedAt": "2026-07-28T04:35:29Z",
+    "updatedAt": "2026-07-28T04:35:59Z",
+    "createdAt": "2026-07-28T03:26:45Z",
+    "defaultBranchRef": {
+      "name": "main"
+    },
+    "homepageUrl": "",
+    "stargazerCount": 0,
+    "forkCount": 0,
+    "repositoryTopics": [],
+    "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/licheng-jiao-research-atlas",
+    "pages": {
+      "enabled": true,
+      "url": "https://harzva.github.io/licheng-jiao-research-atlas/",
+      "status": "built",
+      "source": {
+        "branch": "main",
+        "path": "/"
+      },
+      "httpsEnforced": true
+    },
+    "latestRelease": null
   },
   {
     "name": "loloop-skill",
