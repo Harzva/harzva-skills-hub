@@ -1,6 +1,6 @@
 {
   "summary": {
-    "generatedAt": "2026-07-28T06:03:25.276746+00:00",
+    "generatedAt": "2026-07-29T06:07:15.757524+00:00",
     "owner": "Harzva",
     "mode": "skills",
     "publicRepositories": 111,
@@ -449,74 +449,6 @@
     ],
     "Pages and Live Demos": [
       {
-        "name": "game-ddl",
-        "nameWithOwner": "Harzva/game-ddl",
-        "url": "https://github.com/Harzva/game-ddl",
-        "description": "Game DDL topic family mirror with esports, game versions, and Steam upcoming releases",
-        "isPrivate": false,
-        "isArchived": false,
-        "isFork": false,
-        "primaryLanguage": {
-          "name": "JavaScript"
-        },
-        "pushedAt": "2026-07-28T05:32:10Z",
-        "updatedAt": "2026-07-28T05:33:14Z",
-        "createdAt": "2026-06-19T08:47:36Z",
-        "defaultBranchRef": {
-          "name": "main"
-        },
-        "homepageUrl": "",
-        "stargazerCount": 0,
-        "forkCount": 0,
-        "repositoryTopics": [],
-        "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/game-ddl",
-        "pages": {
-          "enabled": true,
-          "url": "https://harzva.github.io/game-ddl/",
-          "status": null,
-          "source": {
-            "branch": "main",
-            "path": "/"
-          },
-          "httpsEnforced": true
-        },
-        "latestRelease": null
-      },
-      {
-        "name": "licheng-jiao-research-atlas",
-        "nameWithOwner": "Harzva/licheng-jiao-research-atlas",
-        "url": "https://github.com/Harzva/licheng-jiao-research-atlas",
-        "description": "Interactive academic atlas of Prof. Licheng Jiao: publications, research evolution, and collaboration network.",
-        "isPrivate": false,
-        "isArchived": false,
-        "isFork": false,
-        "primaryLanguage": {
-          "name": "JavaScript"
-        },
-        "pushedAt": "2026-07-28T04:35:29Z",
-        "updatedAt": "2026-07-28T04:35:59Z",
-        "createdAt": "2026-07-28T03:26:45Z",
-        "defaultBranchRef": {
-          "name": "main"
-        },
-        "homepageUrl": "",
-        "stargazerCount": 0,
-        "forkCount": 0,
-        "repositoryTopics": [],
-        "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/licheng-jiao-research-atlas",
-        "pages": {
-          "enabled": true,
-          "url": "https://harzva.github.io/licheng-jiao-research-atlas/",
-          "status": "built",
-          "source": {
-            "branch": "main",
-            "path": "/"
-          },
-          "httpsEnforced": true
-        },
-        "latestRelease": null
-      },
-      {
         "name": "Agent-Job-Interview",
         "nameWithOwner": "Harzva/Agent-Job-Interview",
         "url": "https://github.com/Harzva/Agent-Job-Interview",
@@ -527,8 +459,8 @@
         "primaryLanguage": {
           "name": "TypeScript"
         },
-        "pushedAt": "2026-07-28T04:28:09Z",
-        "updatedAt": "2026-07-28T04:28:20Z",
+        "pushedAt": "2026-07-29T04:30:34Z",
+        "updatedAt": "2026-07-29T04:31:19Z",
         "createdAt": "2026-05-12T09:49:47Z",
         "defaultBranchRef": {
           "name": "main"
@@ -561,14 +493,14 @@
         "primaryLanguage": {
           "name": "TypeScript"
         },
-        "pushedAt": "2026-07-28T03:44:09Z",
-        "updatedAt": "2026-07-28T03:44:32Z",
+        "pushedAt": "2026-07-29T03:47:32Z",
+        "updatedAt": "2026-07-29T04:26:19Z",
         "createdAt": "2026-04-01T03:55:26Z",
         "defaultBranchRef": {
           "name": "main"
         },
         "homepageUrl": "",
-        "stargazerCount": 58,
+        "stargazerCount": 59,
         "forkCount": 11,
         "repositoryTopics": [
           "agent-loop",
@@ -604,6 +536,40 @@
         }
       },
       {
+        "name": "licheng-jiao-research-atlas",
+        "nameWithOwner": "Harzva/licheng-jiao-research-atlas",
+        "url": "https://github.com/Harzva/licheng-jiao-research-atlas",
+        "description": "Interactive academic atlas of Prof. Licheng Jiao: publications, research evolution, and collaboration network.",
+        "isPrivate": false,
+        "isArchived": false,
+        "isFork": false,
+        "primaryLanguage": {
+          "name": "JavaScript"
+        },
+        "pushedAt": "2026-07-28T07:52:27Z",
+        "updatedAt": "2026-07-28T07:53:29Z",
+        "createdAt": "2026-07-28T03:26:45Z",
+        "defaultBranchRef": {
+          "name": "main"
+        },
+        "homepageUrl": "",
+        "stargazerCount": 0,
+        "forkCount": 0,
+        "repositoryTopics": [],
+        "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/licheng-jiao-research-atlas",
+        "pages": {
+          "enabled": true,
+          "url": "https://harzva.github.io/licheng-jiao-research-atlas/",
+          "status": "built",
+          "source": {
+            "branch": "main",
+            "path": "/"
+          },
+          "httpsEnforced": true
+        },
+        "latestRelease": null
+      },
+      {
         "name": "harzva-release-hub",
         "nameWithOwner": "Harzva/harzva-release-hub",
         "url": "https://github.com/Harzva/harzva-release-hub",
@@ -614,8 +580,8 @@
         "primaryLanguage": {
           "name": "Python"
         },
-        "pushedAt": "2026-07-27T06:44:41Z",
-        "updatedAt": "2026-07-27T06:44:45Z",
+        "pushedAt": "2026-07-28T06:05:31Z",
+        "updatedAt": "2026-07-28T06:05:54Z",
         "createdAt": "2026-05-14T09:29:34Z",
         "defaultBranchRef": {
           "name": "main"
@@ -648,8 +614,8 @@
         "primaryLanguage": {
           "name": "Python"
         },
-        "pushedAt": "2026-07-27T06:43:18Z",
-        "updatedAt": "2026-07-27T06:43:23Z",
+        "pushedAt": "2026-07-28T06:04:33Z",
+        "updatedAt": "2026-07-28T06:04:55Z",
         "createdAt": "2026-05-14T09:29:39Z",
         "defaultBranchRef": {
           "name": "main"
@@ -682,8 +648,8 @@
         "primaryLanguage": {
           "name": "Python"
         },
-        "pushedAt": "2026-07-27T06:41:47Z",
-        "updatedAt": "2026-07-27T06:42:26Z",
+        "pushedAt": "2026-07-28T06:03:04Z",
+        "updatedAt": "2026-07-28T06:03:22Z",
         "createdAt": "2026-05-14T09:27:13Z",
         "defaultBranchRef": {
           "name": "main"
@@ -696,6 +662,40 @@
         "pages": {
           "enabled": true,
           "url": "https://harzva.github.io/harzva-project-atlas/",
+          "status": null,
+          "source": {
+            "branch": "main",
+            "path": "/"
+          },
+          "httpsEnforced": true
+        },
+        "latestRelease": null
+      },
+      {
+        "name": "game-ddl",
+        "nameWithOwner": "Harzva/game-ddl",
+        "url": "https://github.com/Harzva/game-ddl",
+        "description": "Game DDL topic family mirror with esports, game versions, and Steam upcoming releases",
+        "isPrivate": false,
+        "isArchived": false,
+        "isFork": false,
+        "primaryLanguage": {
+          "name": "JavaScript"
+        },
+        "pushedAt": "2026-07-28T05:32:10Z",
+        "updatedAt": "2026-07-28T05:33:14Z",
+        "createdAt": "2026-06-19T08:47:36Z",
+        "defaultBranchRef": {
+          "name": "main"
+        },
+        "homepageUrl": "",
+        "stargazerCount": 0,
+        "forkCount": 0,
+        "repositoryTopics": [],
+        "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/game-ddl",
+        "pages": {
+          "enabled": true,
+          "url": "https://harzva.github.io/game-ddl/",
           "status": null,
           "source": {
             "branch": "main",
@@ -1346,6 +1346,40 @@
     ],
     "Skills and Agent Workflows": [
       {
+        "name": "harzva-skills-hub",
+        "nameWithOwner": "Harzva/harzva-skills-hub",
+        "url": "https://github.com/Harzva/harzva-skills-hub",
+        "description": "Auto-updating GitHub Pages registry of Harzva Codex skills, workflow skills, and agent recipes.",
+        "isPrivate": false,
+        "isArchived": false,
+        "isFork": false,
+        "primaryLanguage": {
+          "name": "Python"
+        },
+        "pushedAt": "2026-07-28T06:03:26Z",
+        "updatedAt": "2026-07-28T06:03:47Z",
+        "createdAt": "2026-05-14T09:29:45Z",
+        "defaultBranchRef": {
+          "name": "main"
+        },
+        "homepageUrl": "https://harzva.github.io/harzva-skills-hub/",
+        "stargazerCount": 0,
+        "forkCount": 0,
+        "repositoryTopics": [],
+        "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/harzva-skills-hub",
+        "pages": {
+          "enabled": true,
+          "url": "https://harzva.github.io/harzva-skills-hub/",
+          "status": null,
+          "source": {
+            "branch": "main",
+            "path": "/"
+          },
+          "httpsEnforced": true
+        },
+        "latestRelease": null
+      },
+      {
         "name": "codexhome-manager",
         "nameWithOwner": "Harzva/codexhome-manager",
         "url": "https://github.com/Harzva/codexhome-manager",
@@ -1376,40 +1410,6 @@
         "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/codexhome-manager",
         "pages": {
           "enabled": false
-        },
-        "latestRelease": null
-      },
-      {
-        "name": "harzva-skills-hub",
-        "nameWithOwner": "Harzva/harzva-skills-hub",
-        "url": "https://github.com/Harzva/harzva-skills-hub",
-        "description": "Auto-updating GitHub Pages registry of Harzva Codex skills, workflow skills, and agent recipes.",
-        "isPrivate": false,
-        "isArchived": false,
-        "isFork": false,
-        "primaryLanguage": {
-          "name": "Python"
-        },
-        "pushedAt": "2026-07-27T06:42:38Z",
-        "updatedAt": "2026-07-27T06:43:11Z",
-        "createdAt": "2026-05-14T09:29:45Z",
-        "defaultBranchRef": {
-          "name": "main"
-        },
-        "homepageUrl": "https://harzva.github.io/harzva-skills-hub/",
-        "stargazerCount": 0,
-        "forkCount": 0,
-        "repositoryTopics": [],
-        "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/harzva-skills-hub",
-        "pages": {
-          "enabled": true,
-          "url": "https://harzva.github.io/harzva-skills-hub/",
-          "status": null,
-          "source": {
-            "branch": "main",
-            "path": "/"
-          },
-          "httpsEnforced": true
         },
         "latestRelease": null
       },
@@ -4086,8 +4086,8 @@
       "primaryLanguage": {
         "name": "TypeScript"
       },
-      "pushedAt": "2026-07-28T04:28:09Z",
-      "updatedAt": "2026-07-28T04:28:20Z",
+      "pushedAt": "2026-07-29T04:30:34Z",
+      "updatedAt": "2026-07-29T04:31:19Z",
       "createdAt": "2026-05-12T09:49:47Z",
       "defaultBranchRef": {
         "name": "main"
@@ -4601,8 +4601,8 @@
       "primaryLanguage": {
         "name": "Python"
       },
-      "pushedAt": "2026-07-27T06:43:18Z",
-      "updatedAt": "2026-07-27T06:43:23Z",
+      "pushedAt": "2026-07-28T06:04:33Z",
+      "updatedAt": "2026-07-28T06:04:55Z",
       "createdAt": "2026-05-14T09:29:39Z",
       "defaultBranchRef": {
         "name": "main"
@@ -4635,8 +4635,8 @@
       "primaryLanguage": {
         "name": "Python"
       },
-      "pushedAt": "2026-07-27T06:41:47Z",
-      "updatedAt": "2026-07-27T06:42:26Z",
+      "pushedAt": "2026-07-28T06:03:04Z",
+      "updatedAt": "2026-07-28T06:03:22Z",
       "createdAt": "2026-05-14T09:27:13Z",
       "defaultBranchRef": {
         "name": "main"
@@ -4669,8 +4669,8 @@
       "primaryLanguage": {
         "name": "Python"
       },
-      "pushedAt": "2026-07-27T06:44:41Z",
-      "updatedAt": "2026-07-27T06:44:45Z",
+      "pushedAt": "2026-07-28T06:05:31Z",
+      "updatedAt": "2026-07-28T06:05:54Z",
       "createdAt": "2026-05-14T09:29:34Z",
       "defaultBranchRef": {
         "name": "main"
@@ -4703,8 +4703,8 @@
       "primaryLanguage": {
         "name": "Python"
       },
-      "pushedAt": "2026-07-27T06:42:38Z",
-      "updatedAt": "2026-07-27T06:43:11Z",
+      "pushedAt": "2026-07-28T06:03:26Z",
+      "updatedAt": "2026-07-28T06:03:47Z",
       "createdAt": "2026-05-14T09:29:45Z",
       "defaultBranchRef": {
         "name": "main"
@@ -4854,14 +4854,14 @@
       "primaryLanguage": {
         "name": "TypeScript"
       },
-      "pushedAt": "2026-07-28T03:44:09Z",
-      "updatedAt": "2026-07-28T03:44:32Z",
+      "pushedAt": "2026-07-29T03:47:32Z",
+      "updatedAt": "2026-07-29T04:26:19Z",
       "createdAt": "2026-04-01T03:55:26Z",
       "defaultBranchRef": {
         "name": "main"
       },
       "homepageUrl": "",
-      "stargazerCount": 58,
+      "stargazerCount": 59,
       "forkCount": 11,
       "repositoryTopics": [
         "agent-loop",
@@ -4907,8 +4907,8 @@
       "primaryLanguage": {
         "name": "JavaScript"
       },
-      "pushedAt": "2026-07-28T04:35:29Z",
-      "updatedAt": "2026-07-28T04:35:59Z",
+      "pushedAt": "2026-07-28T07:52:27Z",
+      "updatedAt": "2026-07-28T07:53:29Z",
       "createdAt": "2026-07-28T03:26:45Z",
       "defaultBranchRef": {
         "name": "main"
@@ -5466,14 +5466,14 @@
       "primaryLanguage": {
         "name": "TypeScript"
       },
-      "pushedAt": "2026-07-28T03:44:09Z",
-      "updatedAt": "2026-07-28T03:44:32Z",
+      "pushedAt": "2026-07-29T03:47:32Z",
+      "updatedAt": "2026-07-29T04:26:19Z",
       "createdAt": "2026-04-01T03:55:26Z",
       "defaultBranchRef": {
         "name": "main"
       },
       "homepageUrl": "",
-      "stargazerCount": 58,
+      "stargazerCount": 59,
       "forkCount": 11,
       "repositoryTopics": [
         "agent-loop",
@@ -6246,8 +6246,8 @@
       "primaryLanguage": {
         "name": "Python"
       },
-      "pushedAt": "2026-07-27T06:42:38Z",
-      "updatedAt": "2026-07-27T06:43:11Z",
+      "pushedAt": "2026-07-28T06:03:26Z",
+      "updatedAt": "2026-07-28T06:03:47Z",
       "createdAt": "2026-05-14T09:29:45Z",
       "defaultBranchRef": {
         "name": "main"
