@@ -1,6 +1,6 @@
 {
   "summary": {
-    "generatedAt": "2026-08-03T06:34:44.761287+00:00",
+    "generatedAt": "2026-08-04T06:04:20.520463+00:00",
     "owner": "Harzva",
     "mode": "skills",
     "publicRepositories": 112,
@@ -449,6 +449,40 @@
     ],
     "Pages and Live Demos": [
       {
+        "name": "game-ddl",
+        "nameWithOwner": "Harzva/game-ddl",
+        "url": "https://github.com/Harzva/game-ddl",
+        "description": "Game DDL topic family mirror with esports, game versions, and Steam upcoming releases",
+        "isPrivate": false,
+        "isArchived": false,
+        "isFork": false,
+        "primaryLanguage": {
+          "name": "JavaScript"
+        },
+        "pushedAt": "2026-08-04T05:32:23Z",
+        "updatedAt": "2026-08-04T05:33:10Z",
+        "createdAt": "2026-06-19T08:47:36Z",
+        "defaultBranchRef": {
+          "name": "main"
+        },
+        "homepageUrl": "",
+        "stargazerCount": 0,
+        "forkCount": 0,
+        "repositoryTopics": [],
+        "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/game-ddl",
+        "pages": {
+          "enabled": true,
+          "url": "https://harzva.github.io/game-ddl/",
+          "status": null,
+          "source": {
+            "branch": "main",
+            "path": "/"
+          },
+          "httpsEnforced": true
+        },
+        "latestRelease": null
+      },
+      {
         "name": "Agent-Job-Interview",
         "nameWithOwner": "Harzva/Agent-Job-Interview",
         "url": "https://github.com/Harzva/Agent-Job-Interview",
@@ -459,8 +493,8 @@
         "primaryLanguage": {
           "name": "TypeScript"
         },
-        "pushedAt": "2026-08-03T04:46:53Z",
-        "updatedAt": "2026-08-03T04:47:02Z",
+        "pushedAt": "2026-08-04T04:30:34Z",
+        "updatedAt": "2026-08-04T04:31:07Z",
         "createdAt": "2026-05-12T09:49:47Z",
         "defaultBranchRef": {
           "name": "main"
@@ -493,14 +527,14 @@
         "primaryLanguage": {
           "name": "TypeScript"
         },
-        "pushedAt": "2026-08-03T04:04:09Z",
-        "updatedAt": "2026-08-03T04:04:46Z",
+        "pushedAt": "2026-08-04T03:45:38Z",
+        "updatedAt": "2026-08-04T03:47:48Z",
         "createdAt": "2026-04-01T03:55:26Z",
         "defaultBranchRef": {
           "name": "main"
         },
         "homepageUrl": "",
-        "stargazerCount": 59,
+        "stargazerCount": 60,
         "forkCount": 11,
         "repositoryTopics": [
           "agent-loop",
@@ -546,8 +580,8 @@
         "primaryLanguage": {
           "name": "Python"
         },
-        "pushedAt": "2026-08-02T06:14:02Z",
-        "updatedAt": "2026-08-02T06:14:46Z",
+        "pushedAt": "2026-08-03T06:39:35Z",
+        "updatedAt": "2026-08-03T06:40:58Z",
         "createdAt": "2026-05-14T09:29:34Z",
         "defaultBranchRef": {
           "name": "main"
@@ -570,40 +604,6 @@
         "latestRelease": null
       },
       {
-        "name": "harzva-project-atlas",
-        "nameWithOwner": "Harzva/harzva-project-atlas",
-        "url": "https://github.com/Harzva/harzva-project-atlas",
-        "description": "Download-first MetaRepo atlas for Harzva APK, EXE, package, archive, and release asset links.",
-        "isPrivate": false,
-        "isArchived": false,
-        "isFork": false,
-        "primaryLanguage": {
-          "name": "Python"
-        },
-        "pushedAt": "2026-08-02T06:12:35Z",
-        "updatedAt": "2026-08-02T06:13:20Z",
-        "createdAt": "2026-05-14T09:27:13Z",
-        "defaultBranchRef": {
-          "name": "main"
-        },
-        "homepageUrl": "https://harzva.github.io/harzva-project-atlas/",
-        "stargazerCount": 0,
-        "forkCount": 0,
-        "repositoryTopics": [],
-        "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/harzva-project-atlas",
-        "pages": {
-          "enabled": true,
-          "url": "https://harzva.github.io/harzva-project-atlas/",
-          "status": null,
-          "source": {
-            "branch": "main",
-            "path": "/"
-          },
-          "httpsEnforced": true
-        },
-        "latestRelease": null
-      },
-      {
         "name": "harzva-pages-hub",
         "nameWithOwner": "Harzva/harzva-pages-hub",
         "url": "https://github.com/Harzva/harzva-pages-hub",
@@ -614,8 +614,8 @@
         "primaryLanguage": {
           "name": "Python"
         },
-        "pushedAt": "2026-08-02T06:12:21Z",
-        "updatedAt": "2026-08-02T06:12:30Z",
+        "pushedAt": "2026-08-03T06:35:52Z",
+        "updatedAt": "2026-08-03T06:36:16Z",
         "createdAt": "2026-05-14T09:29:39Z",
         "defaultBranchRef": {
           "name": "main"
@@ -628,6 +628,40 @@
         "pages": {
           "enabled": true,
           "url": "https://harzva.github.io/harzva-pages-hub/",
+          "status": null,
+          "source": {
+            "branch": "main",
+            "path": "/"
+          },
+          "httpsEnforced": true
+        },
+        "latestRelease": null
+      },
+      {
+        "name": "harzva-project-atlas",
+        "nameWithOwner": "Harzva/harzva-project-atlas",
+        "url": "https://github.com/Harzva/harzva-project-atlas",
+        "description": "Download-first MetaRepo atlas for Harzva APK, EXE, package, archive, and release asset links.",
+        "isPrivate": false,
+        "isArchived": false,
+        "isFork": false,
+        "primaryLanguage": {
+          "name": "Python"
+        },
+        "pushedAt": "2026-08-03T06:34:12Z",
+        "updatedAt": "2026-08-03T06:34:24Z",
+        "createdAt": "2026-05-14T09:27:13Z",
+        "defaultBranchRef": {
+          "name": "main"
+        },
+        "homepageUrl": "https://harzva.github.io/harzva-project-atlas/",
+        "stargazerCount": 0,
+        "forkCount": 0,
+        "repositoryTopics": [],
+        "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/harzva-project-atlas",
+        "pages": {
+          "enabled": true,
+          "url": "https://harzva.github.io/harzva-project-atlas/",
           "status": null,
           "source": {
             "branch": "main",
@@ -769,40 +803,6 @@
           "enabled": true,
           "url": "https://harzva.github.io/licheng-jiao-research-atlas/",
           "status": "built",
-          "source": {
-            "branch": "main",
-            "path": "/"
-          },
-          "httpsEnforced": true
-        },
-        "latestRelease": null
-      },
-      {
-        "name": "game-ddl",
-        "nameWithOwner": "Harzva/game-ddl",
-        "url": "https://github.com/Harzva/game-ddl",
-        "description": "Game DDL topic family mirror with esports, game versions, and Steam upcoming releases",
-        "isPrivate": false,
-        "isArchived": false,
-        "isFork": false,
-        "primaryLanguage": {
-          "name": "JavaScript"
-        },
-        "pushedAt": "2026-07-28T05:32:10Z",
-        "updatedAt": "2026-07-28T05:33:14Z",
-        "createdAt": "2026-06-19T08:47:36Z",
-        "defaultBranchRef": {
-          "name": "main"
-        },
-        "homepageUrl": "",
-        "stargazerCount": 0,
-        "forkCount": 0,
-        "repositoryTopics": [],
-        "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/game-ddl",
-        "pages": {
-          "enabled": true,
-          "url": "https://harzva.github.io/game-ddl/",
-          "status": null,
           "source": {
             "branch": "main",
             "path": "/"
@@ -1346,6 +1346,46 @@
     ],
     "Skills and Agent Workflows": [
       {
+        "name": "CampusAgent-QA",
+        "nameWithOwner": "Harzva/CampusAgent-QA",
+        "url": "https://github.com/Harzva/CampusAgent-QA",
+        "description": "Agentic campus QA system with RAG retrieval, LLM Wiki memory, and GBrain skills",
+        "isPrivate": false,
+        "isArchived": false,
+        "isFork": false,
+        "primaryLanguage": {
+          "name": "Java"
+        },
+        "pushedAt": "2026-08-04T02:23:52Z",
+        "updatedAt": "2026-05-16T08:28:57Z",
+        "createdAt": "2026-05-11T08:22:16Z",
+        "defaultBranchRef": {
+          "name": "main"
+        },
+        "homepageUrl": "https://harzva.github.io/CampusAgent-QA/",
+        "stargazerCount": 0,
+        "forkCount": 0,
+        "repositoryTopics": [
+          "agent",
+          "campus-qa",
+          "rag",
+          "spring-boot",
+          "vue"
+        ],
+        "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/CampusAgent-QA",
+        "pages": {
+          "enabled": true,
+          "url": "https://harzva.github.io/CampusAgent-QA/",
+          "status": null,
+          "source": {
+            "branch": "main",
+            "path": "/"
+          },
+          "httpsEnforced": true
+        },
+        "latestRelease": null
+      },
+      {
         "name": "harzva-skills-hub",
         "nameWithOwner": "Harzva/harzva-skills-hub",
         "url": "https://github.com/Harzva/harzva-skills-hub",
@@ -1356,8 +1396,8 @@
         "primaryLanguage": {
           "name": "Python"
         },
-        "pushedAt": "2026-08-02T06:12:03Z",
-        "updatedAt": "2026-08-02T06:12:13Z",
+        "pushedAt": "2026-08-03T06:34:45Z",
+        "updatedAt": "2026-08-03T06:35:33Z",
         "createdAt": "2026-05-14T09:29:45Z",
         "defaultBranchRef": {
           "name": "main"
@@ -1410,46 +1450,6 @@
         "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/codexhome-manager",
         "pages": {
           "enabled": false
-        },
-        "latestRelease": null
-      },
-      {
-        "name": "CampusAgent-QA",
-        "nameWithOwner": "Harzva/CampusAgent-QA",
-        "url": "https://github.com/Harzva/CampusAgent-QA",
-        "description": "Agentic campus QA system with RAG retrieval, LLM Wiki memory, and GBrain skills",
-        "isPrivate": false,
-        "isArchived": false,
-        "isFork": false,
-        "primaryLanguage": {
-          "name": "Java"
-        },
-        "pushedAt": "2026-07-21T02:24:23Z",
-        "updatedAt": "2026-05-16T08:28:57Z",
-        "createdAt": "2026-05-11T08:22:16Z",
-        "defaultBranchRef": {
-          "name": "main"
-        },
-        "homepageUrl": "https://harzva.github.io/CampusAgent-QA/",
-        "stargazerCount": 0,
-        "forkCount": 0,
-        "repositoryTopics": [
-          "agent",
-          "campus-qa",
-          "rag",
-          "spring-boot",
-          "vue"
-        ],
-        "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/CampusAgent-QA",
-        "pages": {
-          "enabled": true,
-          "url": "https://harzva.github.io/CampusAgent-QA/",
-          "status": null,
-          "source": {
-            "branch": "main",
-            "path": "/"
-          },
-          "httpsEnforced": true
         },
         "latestRelease": null
       },
@@ -4119,8 +4119,8 @@
       "primaryLanguage": {
         "name": "TypeScript"
       },
-      "pushedAt": "2026-08-03T04:46:53Z",
-      "updatedAt": "2026-08-03T04:47:02Z",
+      "pushedAt": "2026-08-04T04:30:34Z",
+      "updatedAt": "2026-08-04T04:31:07Z",
       "createdAt": "2026-05-12T09:49:47Z",
       "defaultBranchRef": {
         "name": "main"
@@ -4228,7 +4228,7 @@
       "primaryLanguage": {
         "name": "Java"
       },
-      "pushedAt": "2026-07-21T02:24:23Z",
+      "pushedAt": "2026-08-04T02:23:52Z",
       "updatedAt": "2026-05-16T08:28:57Z",
       "createdAt": "2026-05-11T08:22:16Z",
       "defaultBranchRef": {
@@ -4481,8 +4481,8 @@
       "primaryLanguage": {
         "name": "JavaScript"
       },
-      "pushedAt": "2026-07-28T05:32:10Z",
-      "updatedAt": "2026-07-28T05:33:14Z",
+      "pushedAt": "2026-08-04T05:32:23Z",
+      "updatedAt": "2026-08-04T05:33:10Z",
       "createdAt": "2026-06-19T08:47:36Z",
       "defaultBranchRef": {
         "name": "main"
@@ -4634,8 +4634,8 @@
       "primaryLanguage": {
         "name": "Python"
       },
-      "pushedAt": "2026-08-02T06:12:21Z",
-      "updatedAt": "2026-08-02T06:12:30Z",
+      "pushedAt": "2026-08-03T06:35:52Z",
+      "updatedAt": "2026-08-03T06:36:16Z",
       "createdAt": "2026-05-14T09:29:39Z",
       "defaultBranchRef": {
         "name": "main"
@@ -4668,8 +4668,8 @@
       "primaryLanguage": {
         "name": "Python"
       },
-      "pushedAt": "2026-08-02T06:12:35Z",
-      "updatedAt": "2026-08-02T06:13:20Z",
+      "pushedAt": "2026-08-03T06:34:12Z",
+      "updatedAt": "2026-08-03T06:34:24Z",
       "createdAt": "2026-05-14T09:27:13Z",
       "defaultBranchRef": {
         "name": "main"
@@ -4702,8 +4702,8 @@
       "primaryLanguage": {
         "name": "Python"
       },
-      "pushedAt": "2026-08-02T06:14:02Z",
-      "updatedAt": "2026-08-02T06:14:46Z",
+      "pushedAt": "2026-08-03T06:39:35Z",
+      "updatedAt": "2026-08-03T06:40:58Z",
       "createdAt": "2026-05-14T09:29:34Z",
       "defaultBranchRef": {
         "name": "main"
@@ -4736,8 +4736,8 @@
       "primaryLanguage": {
         "name": "Python"
       },
-      "pushedAt": "2026-08-02T06:12:03Z",
-      "updatedAt": "2026-08-02T06:12:13Z",
+      "pushedAt": "2026-08-03T06:34:45Z",
+      "updatedAt": "2026-08-03T06:35:33Z",
       "createdAt": "2026-05-14T09:29:45Z",
       "defaultBranchRef": {
         "name": "main"
@@ -4887,14 +4887,14 @@
       "primaryLanguage": {
         "name": "TypeScript"
       },
-      "pushedAt": "2026-08-03T04:04:09Z",
-      "updatedAt": "2026-08-03T04:04:46Z",
+      "pushedAt": "2026-08-04T03:45:38Z",
+      "updatedAt": "2026-08-04T03:47:48Z",
       "createdAt": "2026-04-01T03:55:26Z",
       "defaultBranchRef": {
         "name": "main"
       },
       "homepageUrl": "",
-      "stargazerCount": 59,
+      "stargazerCount": 60,
       "forkCount": 11,
       "repositoryTopics": [
         "agent-loop",
@@ -5499,14 +5499,14 @@
       "primaryLanguage": {
         "name": "TypeScript"
       },
-      "pushedAt": "2026-08-03T04:04:09Z",
-      "updatedAt": "2026-08-03T04:04:46Z",
+      "pushedAt": "2026-08-04T03:45:38Z",
+      "updatedAt": "2026-08-04T03:47:48Z",
       "createdAt": "2026-04-01T03:55:26Z",
       "defaultBranchRef": {
         "name": "main"
       },
       "homepageUrl": "",
-      "stargazerCount": 59,
+      "stargazerCount": 60,
       "forkCount": 11,
       "repositoryTopics": [
         "agent-loop",
@@ -5850,7 +5850,7 @@
       "primaryLanguage": {
         "name": "Java"
       },
-      "pushedAt": "2026-07-21T02:24:23Z",
+      "pushedAt": "2026-08-04T02:23:52Z",
       "updatedAt": "2026-05-16T08:28:57Z",
       "createdAt": "2026-05-11T08:22:16Z",
       "defaultBranchRef": {
@@ -6279,8 +6279,8 @@
       "primaryLanguage": {
         "name": "Python"
       },
-      "pushedAt": "2026-08-02T06:12:03Z",
-      "updatedAt": "2026-08-02T06:12:13Z",
+      "pushedAt": "2026-08-03T06:34:45Z",
+      "updatedAt": "2026-08-03T06:35:33Z",
       "createdAt": "2026-05-14T09:29:45Z",
       "defaultBranchRef": {
         "name": "main"
