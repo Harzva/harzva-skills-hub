@@ -1,6 +1,6 @@
 {
   "summary": {
-    "generatedAt": "2026-08-06T06:04:32.327260+00:00",
+    "generatedAt": "2026-08-07T05:02:40.509497+00:00",
     "owner": "Harzva",
     "mode": "skills",
     "publicRepositories": 112,
@@ -459,8 +459,8 @@
         "primaryLanguage": {
           "name": "TypeScript"
         },
-        "pushedAt": "2026-08-06T04:31:00Z",
-        "updatedAt": "2026-08-06T04:31:48Z",
+        "pushedAt": "2026-08-07T04:03:22Z",
+        "updatedAt": "2026-08-07T04:04:16Z",
         "createdAt": "2026-05-12T09:49:47Z",
         "defaultBranchRef": {
           "name": "main"
@@ -493,8 +493,8 @@
         "primaryLanguage": {
           "name": "TypeScript"
         },
-        "pushedAt": "2026-08-06T03:47:36Z",
-        "updatedAt": "2026-08-06T03:47:50Z",
+        "pushedAt": "2026-08-07T03:24:23Z",
+        "updatedAt": "2026-08-07T03:24:41Z",
         "createdAt": "2026-04-01T03:55:26Z",
         "defaultBranchRef": {
           "name": "main"
@@ -536,6 +536,112 @@
         }
       },
       {
+        "name": "mobilecore",
+        "nameWithOwner": "Harzva/mobilecore",
+        "url": "https://github.com/Harzva/mobilecore",
+        "description": "Android local LLM runtime with GGUF, llama.cpp, OpenAI-compatible API, benchmarks, and device-aware recommendations.",
+        "isPrivate": false,
+        "isArchived": false,
+        "isFork": false,
+        "primaryLanguage": {
+          "name": "Kotlin"
+        },
+        "pushedAt": "2026-08-07T02:41:45Z",
+        "updatedAt": "2026-08-07T02:41:59Z",
+        "createdAt": "2026-06-21T04:05:44Z",
+        "defaultBranchRef": {
+          "name": "main"
+        },
+        "homepageUrl": "",
+        "stargazerCount": 1,
+        "forkCount": 0,
+        "repositoryTopics": [
+          "android",
+          "gguf",
+          "kotlin",
+          "llama-cpp",
+          "local-llm",
+          "mobile-ai",
+          "openai-compatible-api"
+        ],
+        "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/mobilecore",
+        "pages": {
+          "enabled": true,
+          "url": "https://harzva.github.io/mobilecore/",
+          "status": null,
+          "source": {
+            "branch": "main",
+            "path": "/"
+          },
+          "httpsEnforced": true
+        },
+        "latestRelease": null
+      },
+      {
+        "name": "mobilecode",
+        "nameWithOwner": "Harzva/mobilecode",
+        "url": "https://github.com/Harzva/mobilecode",
+        "description": "MobileCode - AI coding workspace for mobile devices",
+        "isPrivate": false,
+        "isArchived": false,
+        "isFork": false,
+        "primaryLanguage": {
+          "name": "Dart"
+        },
+        "pushedAt": "2026-08-07T01:23:26Z",
+        "updatedAt": "2026-07-20T19:38:32Z",
+        "createdAt": "2026-05-12T08:19:17Z",
+        "defaultBranchRef": {
+          "name": "main"
+        },
+        "homepageUrl": "",
+        "stargazerCount": 80,
+        "forkCount": 4,
+        "repositoryTopics": [],
+        "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/mobilecode",
+        "pages": {
+          "enabled": true,
+          "url": "https://harzva.github.io/mobilecode/",
+          "status": null,
+          "source": {
+            "branch": "main",
+            "path": "/"
+          },
+          "httpsEnforced": true
+        },
+        "latestRelease": {
+          "name": "MobileCode v0.1.0 Android APK",
+          "tagName": "v0.1.0",
+          "url": "https://github.com/Harzva/mobilecode/releases/tag/v0.1.0",
+          "publishedAt": "2026-05-12T08:19:46Z",
+          "prerelease": false,
+          "draft": false,
+          "assets": [
+            {
+              "name": "mobilecode-ios-simulator-v0.1.0.zip",
+              "url": "https://github.com/Harzva/mobilecode/releases/download/v0.1.0/mobilecode-ios-simulator-v0.1.0.zip",
+              "size": 52882447,
+              "downloadCount": 3,
+              "contentType": "application/zip"
+            },
+            {
+              "name": "mobilecode-site-v0.1.0.zip",
+              "url": "https://github.com/Harzva/mobilecode/releases/download/v0.1.0/mobilecode-site-v0.1.0.zip",
+              "size": 224820,
+              "downloadCount": 3,
+              "contentType": "application/zip"
+            },
+            {
+              "name": "mobilecode-v0.1.0.apk",
+              "url": "https://github.com/Harzva/mobilecode/releases/download/v0.1.0/mobilecode-v0.1.0.apk",
+              "size": 53051517,
+              "downloadCount": 51,
+              "contentType": "application/vnd.android.package-archive"
+            }
+          ]
+        }
+      },
+      {
         "name": "harzva-release-hub",
         "nameWithOwner": "Harzva/harzva-release-hub",
         "url": "https://github.com/Harzva/harzva-release-hub",
@@ -546,8 +652,8 @@
         "primaryLanguage": {
           "name": "Python"
         },
-        "pushedAt": "2026-08-05T06:02:56Z",
-        "updatedAt": "2026-08-05T06:04:33Z",
+        "pushedAt": "2026-08-06T06:06:36Z",
+        "updatedAt": "2026-08-06T06:07:08Z",
         "createdAt": "2026-05-14T09:29:34Z",
         "defaultBranchRef": {
           "name": "main"
@@ -580,8 +686,8 @@
         "primaryLanguage": {
           "name": "Python"
         },
-        "pushedAt": "2026-08-05T06:02:45Z",
-        "updatedAt": "2026-08-05T06:02:56Z",
+        "pushedAt": "2026-08-06T06:05:54Z",
+        "updatedAt": "2026-08-06T06:06:06Z",
         "createdAt": "2026-05-14T09:29:39Z",
         "defaultBranchRef": {
           "name": "main"
@@ -614,8 +720,8 @@
         "primaryLanguage": {
           "name": "Python"
         },
-        "pushedAt": "2026-08-05T06:00:53Z",
-        "updatedAt": "2026-08-05T06:01:40Z",
+        "pushedAt": "2026-08-06T06:04:17Z",
+        "updatedAt": "2026-08-06T06:05:36Z",
         "createdAt": "2026-05-14T09:27:13Z",
         "defaultBranchRef": {
           "name": "main"
@@ -670,112 +776,6 @@
           "httpsEnforced": true
         },
         "latestRelease": null
-      },
-      {
-        "name": "mobilecore",
-        "nameWithOwner": "Harzva/mobilecore",
-        "url": "https://github.com/Harzva/mobilecore",
-        "description": "Android local LLM runtime with GGUF, llama.cpp, OpenAI-compatible API, benchmarks, and device-aware recommendations.",
-        "isPrivate": false,
-        "isArchived": false,
-        "isFork": false,
-        "primaryLanguage": {
-          "name": "Kotlin"
-        },
-        "pushedAt": "2026-08-01T06:38:21Z",
-        "updatedAt": "2026-08-01T06:38:25Z",
-        "createdAt": "2026-06-21T04:05:44Z",
-        "defaultBranchRef": {
-          "name": "main"
-        },
-        "homepageUrl": "",
-        "stargazerCount": 1,
-        "forkCount": 0,
-        "repositoryTopics": [
-          "android",
-          "gguf",
-          "kotlin",
-          "llama-cpp",
-          "local-llm",
-          "mobile-ai",
-          "openai-compatible-api"
-        ],
-        "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/mobilecore",
-        "pages": {
-          "enabled": true,
-          "url": "https://harzva.github.io/mobilecore/",
-          "status": null,
-          "source": {
-            "branch": "main",
-            "path": "/"
-          },
-          "httpsEnforced": true
-        },
-        "latestRelease": null
-      },
-      {
-        "name": "mobilecode",
-        "nameWithOwner": "Harzva/mobilecode",
-        "url": "https://github.com/Harzva/mobilecode",
-        "description": "MobileCode - AI coding workspace for mobile devices",
-        "isPrivate": false,
-        "isArchived": false,
-        "isFork": false,
-        "primaryLanguage": {
-          "name": "Dart"
-        },
-        "pushedAt": "2026-08-01T04:53:21Z",
-        "updatedAt": "2026-07-20T19:38:32Z",
-        "createdAt": "2026-05-12T08:19:17Z",
-        "defaultBranchRef": {
-          "name": "main"
-        },
-        "homepageUrl": "",
-        "stargazerCount": 80,
-        "forkCount": 4,
-        "repositoryTopics": [],
-        "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/mobilecode",
-        "pages": {
-          "enabled": true,
-          "url": "https://harzva.github.io/mobilecode/",
-          "status": null,
-          "source": {
-            "branch": "main",
-            "path": "/"
-          },
-          "httpsEnforced": true
-        },
-        "latestRelease": {
-          "name": "MobileCode v0.1.0 Android APK",
-          "tagName": "v0.1.0",
-          "url": "https://github.com/Harzva/mobilecode/releases/tag/v0.1.0",
-          "publishedAt": "2026-05-12T08:19:46Z",
-          "prerelease": false,
-          "draft": false,
-          "assets": [
-            {
-              "name": "mobilecode-ios-simulator-v0.1.0.zip",
-              "url": "https://github.com/Harzva/mobilecode/releases/download/v0.1.0/mobilecode-ios-simulator-v0.1.0.zip",
-              "size": 52882447,
-              "downloadCount": 3,
-              "contentType": "application/zip"
-            },
-            {
-              "name": "mobilecode-site-v0.1.0.zip",
-              "url": "https://github.com/Harzva/mobilecode/releases/download/v0.1.0/mobilecode-site-v0.1.0.zip",
-              "size": 224820,
-              "downloadCount": 3,
-              "contentType": "application/zip"
-            },
-            {
-              "name": "mobilecode-v0.1.0.apk",
-              "url": "https://github.com/Harzva/mobilecode/releases/download/v0.1.0/mobilecode-v0.1.0.apk",
-              "size": 53051517,
-              "downloadCount": 48,
-              "contentType": "application/vnd.android.package-archive"
-            }
-          ]
-        }
       },
       {
         "name": "licheng-jiao-research-atlas",
@@ -1346,6 +1346,40 @@
     ],
     "Skills and Agent Workflows": [
       {
+        "name": "harzva-skills-hub",
+        "nameWithOwner": "Harzva/harzva-skills-hub",
+        "url": "https://github.com/Harzva/harzva-skills-hub",
+        "description": "Auto-updating GitHub Pages registry of Harzva Codex skills, workflow skills, and agent recipes.",
+        "isPrivate": false,
+        "isArchived": false,
+        "isFork": false,
+        "primaryLanguage": {
+          "name": "Python"
+        },
+        "pushedAt": "2026-08-06T06:04:33Z",
+        "updatedAt": "2026-08-06T06:05:57Z",
+        "createdAt": "2026-05-14T09:29:45Z",
+        "defaultBranchRef": {
+          "name": "main"
+        },
+        "homepageUrl": "https://harzva.github.io/harzva-skills-hub/",
+        "stargazerCount": 0,
+        "forkCount": 0,
+        "repositoryTopics": [],
+        "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/harzva-skills-hub",
+        "pages": {
+          "enabled": true,
+          "url": "https://harzva.github.io/harzva-skills-hub/",
+          "status": null,
+          "source": {
+            "branch": "main",
+            "path": "/"
+          },
+          "httpsEnforced": true
+        },
+        "latestRelease": null
+      },
+      {
         "name": "codexhome-manager",
         "nameWithOwner": "Harzva/codexhome-manager",
         "url": "https://github.com/Harzva/codexhome-manager",
@@ -1376,40 +1410,6 @@
         "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/codexhome-manager",
         "pages": {
           "enabled": false
-        },
-        "latestRelease": null
-      },
-      {
-        "name": "harzva-skills-hub",
-        "nameWithOwner": "Harzva/harzva-skills-hub",
-        "url": "https://github.com/Harzva/harzva-skills-hub",
-        "description": "Auto-updating GitHub Pages registry of Harzva Codex skills, workflow skills, and agent recipes.",
-        "isPrivate": false,
-        "isArchived": false,
-        "isFork": false,
-        "primaryLanguage": {
-          "name": "Python"
-        },
-        "pushedAt": "2026-08-05T06:03:37Z",
-        "updatedAt": "2026-08-05T06:03:57Z",
-        "createdAt": "2026-05-14T09:29:45Z",
-        "defaultBranchRef": {
-          "name": "main"
-        },
-        "homepageUrl": "https://harzva.github.io/harzva-skills-hub/",
-        "stargazerCount": 0,
-        "forkCount": 0,
-        "repositoryTopics": [],
-        "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/harzva-skills-hub",
-        "pages": {
-          "enabled": true,
-          "url": "https://harzva.github.io/harzva-skills-hub/",
-          "status": null,
-          "source": {
-            "branch": "main",
-            "path": "/"
-          },
-          "httpsEnforced": true
         },
         "latestRelease": null
       },
@@ -3799,7 +3799,7 @@
       "assetName": "mobilecode-v0.1.0.apk",
       "assetUrl": "https://github.com/Harzva/mobilecode/releases/download/v0.1.0/mobilecode-v0.1.0.apk",
       "size": 53051517,
-      "downloadCount": 48,
+      "downloadCount": 51,
       "kind": "Android APK",
       "functionCategory": "Mobile Apps",
       "releaseName": "MobileCode v0.1.0 Android APK",
@@ -3892,7 +3892,7 @@
         "assetName": "mobilecode-v0.1.0.apk",
         "assetUrl": "https://github.com/Harzva/mobilecode/releases/download/v0.1.0/mobilecode-v0.1.0.apk",
         "size": 53051517,
-        "downloadCount": 48,
+        "downloadCount": 51,
         "kind": "Android APK",
         "functionCategory": "Mobile Apps",
         "releaseName": "MobileCode v0.1.0 Android APK",
@@ -4119,8 +4119,8 @@
       "primaryLanguage": {
         "name": "TypeScript"
       },
-      "pushedAt": "2026-08-06T04:31:00Z",
-      "updatedAt": "2026-08-06T04:31:48Z",
+      "pushedAt": "2026-08-07T04:03:22Z",
+      "updatedAt": "2026-08-07T04:04:16Z",
       "createdAt": "2026-05-12T09:49:47Z",
       "defaultBranchRef": {
         "name": "main"
@@ -4634,8 +4634,8 @@
       "primaryLanguage": {
         "name": "Python"
       },
-      "pushedAt": "2026-08-05T06:02:45Z",
-      "updatedAt": "2026-08-05T06:02:56Z",
+      "pushedAt": "2026-08-06T06:05:54Z",
+      "updatedAt": "2026-08-06T06:06:06Z",
       "createdAt": "2026-05-14T09:29:39Z",
       "defaultBranchRef": {
         "name": "main"
@@ -4668,8 +4668,8 @@
       "primaryLanguage": {
         "name": "Python"
       },
-      "pushedAt": "2026-08-05T06:00:53Z",
-      "updatedAt": "2026-08-05T06:01:40Z",
+      "pushedAt": "2026-08-06T06:04:17Z",
+      "updatedAt": "2026-08-06T06:05:36Z",
       "createdAt": "2026-05-14T09:27:13Z",
       "defaultBranchRef": {
         "name": "main"
@@ -4702,8 +4702,8 @@
       "primaryLanguage": {
         "name": "Python"
       },
-      "pushedAt": "2026-08-05T06:02:56Z",
-      "updatedAt": "2026-08-05T06:04:33Z",
+      "pushedAt": "2026-08-06T06:06:36Z",
+      "updatedAt": "2026-08-06T06:07:08Z",
       "createdAt": "2026-05-14T09:29:34Z",
       "defaultBranchRef": {
         "name": "main"
@@ -4736,8 +4736,8 @@
       "primaryLanguage": {
         "name": "Python"
       },
-      "pushedAt": "2026-08-05T06:03:37Z",
-      "updatedAt": "2026-08-05T06:03:57Z",
+      "pushedAt": "2026-08-06T06:04:33Z",
+      "updatedAt": "2026-08-06T06:05:57Z",
       "createdAt": "2026-05-14T09:29:45Z",
       "defaultBranchRef": {
         "name": "main"
@@ -4887,8 +4887,8 @@
       "primaryLanguage": {
         "name": "TypeScript"
       },
-      "pushedAt": "2026-08-06T03:47:36Z",
-      "updatedAt": "2026-08-06T03:47:50Z",
+      "pushedAt": "2026-08-07T03:24:23Z",
+      "updatedAt": "2026-08-07T03:24:41Z",
       "createdAt": "2026-04-01T03:55:26Z",
       "defaultBranchRef": {
         "name": "main"
@@ -5008,7 +5008,7 @@
       "primaryLanguage": {
         "name": "Dart"
       },
-      "pushedAt": "2026-08-01T04:53:21Z",
+      "pushedAt": "2026-08-07T01:23:26Z",
       "updatedAt": "2026-07-20T19:38:32Z",
       "createdAt": "2026-05-12T08:19:17Z",
       "defaultBranchRef": {
@@ -5055,7 +5055,7 @@
             "name": "mobilecode-v0.1.0.apk",
             "url": "https://github.com/Harzva/mobilecode/releases/download/v0.1.0/mobilecode-v0.1.0.apk",
             "size": 53051517,
-            "downloadCount": 48,
+            "downloadCount": 51,
             "contentType": "application/vnd.android.package-archive"
           }
         ]
@@ -5072,8 +5072,8 @@
       "primaryLanguage": {
         "name": "Kotlin"
       },
-      "pushedAt": "2026-08-01T06:38:21Z",
-      "updatedAt": "2026-08-01T06:38:25Z",
+      "pushedAt": "2026-08-07T02:41:45Z",
+      "updatedAt": "2026-08-07T02:41:59Z",
       "createdAt": "2026-06-21T04:05:44Z",
       "defaultBranchRef": {
         "name": "main"
@@ -5499,8 +5499,8 @@
       "primaryLanguage": {
         "name": "TypeScript"
       },
-      "pushedAt": "2026-08-06T03:47:36Z",
-      "updatedAt": "2026-08-06T03:47:50Z",
+      "pushedAt": "2026-08-07T03:24:23Z",
+      "updatedAt": "2026-08-07T03:24:41Z",
       "createdAt": "2026-04-01T03:55:26Z",
       "defaultBranchRef": {
         "name": "main"
@@ -5552,7 +5552,7 @@
       "primaryLanguage": {
         "name": "Dart"
       },
-      "pushedAt": "2026-08-01T04:53:21Z",
+      "pushedAt": "2026-08-07T01:23:26Z",
       "updatedAt": "2026-07-20T19:38:32Z",
       "createdAt": "2026-05-12T08:19:17Z",
       "defaultBranchRef": {
@@ -5599,7 +5599,7 @@
             "name": "mobilecode-v0.1.0.apk",
             "url": "https://github.com/Harzva/mobilecode/releases/download/v0.1.0/mobilecode-v0.1.0.apk",
             "size": 53051517,
-            "downloadCount": 48,
+            "downloadCount": 51,
             "contentType": "application/vnd.android.package-archive"
           }
         ]
@@ -6279,8 +6279,8 @@
       "primaryLanguage": {
         "name": "Python"
       },
-      "pushedAt": "2026-08-05T06:03:37Z",
-      "updatedAt": "2026-08-05T06:03:57Z",
+      "pushedAt": "2026-08-06T06:04:33Z",
+      "updatedAt": "2026-08-06T06:05:57Z",
       "createdAt": "2026-05-14T09:29:45Z",
       "defaultBranchRef": {
         "name": "main"
