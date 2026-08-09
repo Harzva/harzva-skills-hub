@@ -1,6 +1,6 @@
 {
   "summary": {
-    "generatedAt": "2026-08-08T04:28:50.503844+00:00",
+    "generatedAt": "2026-08-09T04:36:25.883966+00:00",
     "owner": "Harzva",
     "mode": "skills",
     "publicRepositories": 112,
@@ -449,40 +449,6 @@
     ],
     "Pages and Live Demos": [
       {
-        "name": "harzva-project-atlas",
-        "nameWithOwner": "Harzva/harzva-project-atlas",
-        "url": "https://github.com/Harzva/harzva-project-atlas",
-        "description": "Download-first MetaRepo atlas for Harzva APK, EXE, package, archive, and release asset links.",
-        "isPrivate": false,
-        "isArchived": false,
-        "isFork": false,
-        "primaryLanguage": {
-          "name": "Python"
-        },
-        "pushedAt": "2026-08-08T04:21:35Z",
-        "updatedAt": "2026-08-08T04:21:39Z",
-        "createdAt": "2026-05-14T09:27:13Z",
-        "defaultBranchRef": {
-          "name": "main"
-        },
-        "homepageUrl": "https://harzva.github.io/harzva-project-atlas/",
-        "stargazerCount": 0,
-        "forkCount": 0,
-        "repositoryTopics": [],
-        "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/harzva-project-atlas",
-        "pages": {
-          "enabled": true,
-          "url": "https://harzva.github.io/harzva-project-atlas/",
-          "status": null,
-          "source": {
-            "branch": "main",
-            "path": "/"
-          },
-          "httpsEnforced": true
-        },
-        "latestRelease": null
-      },
-      {
         "name": "Agent-Job-Interview",
         "nameWithOwner": "Harzva/Agent-Job-Interview",
         "url": "https://github.com/Harzva/Agent-Job-Interview",
@@ -493,14 +459,14 @@
         "primaryLanguage": {
           "name": "TypeScript"
         },
-        "pushedAt": "2026-08-08T03:00:45Z",
-        "updatedAt": "2026-08-08T03:00:51Z",
+        "pushedAt": "2026-08-09T03:07:48Z",
+        "updatedAt": "2026-08-09T03:07:51Z",
         "createdAt": "2026-05-12T09:49:47Z",
         "defaultBranchRef": {
           "name": "main"
         },
         "homepageUrl": "https://harzva.github.io/Agent-Job-Interview/",
-        "stargazerCount": 2,
+        "stargazerCount": 3,
         "forkCount": 0,
         "repositoryTopics": [],
         "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/Agent-Job-Interview",
@@ -527,8 +493,8 @@
         "primaryLanguage": {
           "name": "TypeScript"
         },
-        "pushedAt": "2026-08-08T02:26:36Z",
-        "updatedAt": "2026-08-08T02:26:40Z",
+        "pushedAt": "2026-08-09T02:34:06Z",
+        "updatedAt": "2026-08-09T02:34:09Z",
         "createdAt": "2026-04-01T03:55:26Z",
         "defaultBranchRef": {
           "name": "main"
@@ -580,8 +546,8 @@
         "primaryLanguage": {
           "name": "Python"
         },
-        "pushedAt": "2026-08-07T05:04:51Z",
-        "updatedAt": "2026-08-07T05:06:04Z",
+        "pushedAt": "2026-08-08T04:30:49Z",
+        "updatedAt": "2026-08-08T04:30:53Z",
         "createdAt": "2026-05-14T09:29:34Z",
         "defaultBranchRef": {
           "name": "main"
@@ -614,8 +580,8 @@
         "primaryLanguage": {
           "name": "Python"
         },
-        "pushedAt": "2026-08-07T05:03:30Z",
-        "updatedAt": "2026-08-07T05:03:52Z",
+        "pushedAt": "2026-08-08T04:29:16Z",
+        "updatedAt": "2026-08-08T04:29:19Z",
         "createdAt": "2026-05-14T09:29:39Z",
         "defaultBranchRef": {
           "name": "main"
@@ -628,6 +594,40 @@
         "pages": {
           "enabled": true,
           "url": "https://harzva.github.io/harzva-pages-hub/",
+          "status": null,
+          "source": {
+            "branch": "main",
+            "path": "/"
+          },
+          "httpsEnforced": true
+        },
+        "latestRelease": null
+      },
+      {
+        "name": "harzva-project-atlas",
+        "nameWithOwner": "Harzva/harzva-project-atlas",
+        "url": "https://github.com/Harzva/harzva-project-atlas",
+        "description": "Download-first MetaRepo atlas for Harzva APK, EXE, package, archive, and release asset links.",
+        "isPrivate": false,
+        "isArchived": false,
+        "isFork": false,
+        "primaryLanguage": {
+          "name": "Python"
+        },
+        "pushedAt": "2026-08-08T04:21:35Z",
+        "updatedAt": "2026-08-08T04:21:39Z",
+        "createdAt": "2026-05-14T09:27:13Z",
+        "defaultBranchRef": {
+          "name": "main"
+        },
+        "homepageUrl": "https://harzva.github.io/harzva-project-atlas/",
+        "stargazerCount": 0,
+        "forkCount": 0,
+        "repositoryTopics": [],
+        "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/harzva-project-atlas",
+        "pages": {
+          "enabled": true,
+          "url": "https://harzva.github.io/harzva-project-atlas/",
           "status": null,
           "source": {
             "branch": "main",
@@ -1356,8 +1356,8 @@
         "primaryLanguage": {
           "name": "Python"
         },
-        "pushedAt": "2026-08-07T05:02:41Z",
-        "updatedAt": "2026-08-07T05:03:45Z",
+        "pushedAt": "2026-08-08T04:28:51Z",
+        "updatedAt": "2026-08-08T04:28:55Z",
         "createdAt": "2026-05-14T09:29:45Z",
         "defaultBranchRef": {
           "name": "main"
@@ -1465,13 +1465,13 @@
           "name": "Swift"
         },
         "pushedAt": "2026-06-26T08:56:22Z",
-        "updatedAt": "2026-08-07T20:15:11Z",
+        "updatedAt": "2026-08-08T13:14:25Z",
         "createdAt": "2026-06-19T02:26:19Z",
         "defaultBranchRef": {
           "name": "main"
         },
         "homepageUrl": "https://harzva.github.io/chatgpt2localbridge/",
-        "stargazerCount": 123,
+        "stargazerCount": 122,
         "forkCount": 0,
         "repositoryTopics": [
           "chatgpt",
@@ -4119,14 +4119,14 @@
       "primaryLanguage": {
         "name": "TypeScript"
       },
-      "pushedAt": "2026-08-08T03:00:45Z",
-      "updatedAt": "2026-08-08T03:00:51Z",
+      "pushedAt": "2026-08-09T03:07:48Z",
+      "updatedAt": "2026-08-09T03:07:51Z",
       "createdAt": "2026-05-12T09:49:47Z",
       "defaultBranchRef": {
         "name": "main"
       },
       "homepageUrl": "https://harzva.github.io/Agent-Job-Interview/",
-      "stargazerCount": 2,
+      "stargazerCount": 3,
       "forkCount": 0,
       "repositoryTopics": [],
       "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/Agent-Job-Interview",
@@ -4313,13 +4313,13 @@
         "name": "Swift"
       },
       "pushedAt": "2026-06-26T08:56:22Z",
-      "updatedAt": "2026-08-07T20:15:11Z",
+      "updatedAt": "2026-08-08T13:14:25Z",
       "createdAt": "2026-06-19T02:26:19Z",
       "defaultBranchRef": {
         "name": "main"
       },
       "homepageUrl": "https://harzva.github.io/chatgpt2localbridge/",
-      "stargazerCount": 123,
+      "stargazerCount": 122,
       "forkCount": 0,
       "repositoryTopics": [
         "chatgpt",
@@ -4634,8 +4634,8 @@
       "primaryLanguage": {
         "name": "Python"
       },
-      "pushedAt": "2026-08-07T05:03:30Z",
-      "updatedAt": "2026-08-07T05:03:52Z",
+      "pushedAt": "2026-08-08T04:29:16Z",
+      "updatedAt": "2026-08-08T04:29:19Z",
       "createdAt": "2026-05-14T09:29:39Z",
       "defaultBranchRef": {
         "name": "main"
@@ -4702,8 +4702,8 @@
       "primaryLanguage": {
         "name": "Python"
       },
-      "pushedAt": "2026-08-07T05:04:51Z",
-      "updatedAt": "2026-08-07T05:06:04Z",
+      "pushedAt": "2026-08-08T04:30:49Z",
+      "updatedAt": "2026-08-08T04:30:53Z",
       "createdAt": "2026-05-14T09:29:34Z",
       "defaultBranchRef": {
         "name": "main"
@@ -4736,8 +4736,8 @@
       "primaryLanguage": {
         "name": "Python"
       },
-      "pushedAt": "2026-08-07T05:02:41Z",
-      "updatedAt": "2026-08-07T05:03:45Z",
+      "pushedAt": "2026-08-08T04:28:51Z",
+      "updatedAt": "2026-08-08T04:28:55Z",
       "createdAt": "2026-05-14T09:29:45Z",
       "defaultBranchRef": {
         "name": "main"
@@ -4887,8 +4887,8 @@
       "primaryLanguage": {
         "name": "TypeScript"
       },
-      "pushedAt": "2026-08-08T02:26:36Z",
-      "updatedAt": "2026-08-08T02:26:40Z",
+      "pushedAt": "2026-08-09T02:34:06Z",
+      "updatedAt": "2026-08-09T02:34:09Z",
       "createdAt": "2026-04-01T03:55:26Z",
       "defaultBranchRef": {
         "name": "main"
@@ -5499,8 +5499,8 @@
       "primaryLanguage": {
         "name": "TypeScript"
       },
-      "pushedAt": "2026-08-08T02:26:36Z",
-      "updatedAt": "2026-08-08T02:26:40Z",
+      "pushedAt": "2026-08-09T02:34:06Z",
+      "updatedAt": "2026-08-09T02:34:09Z",
       "createdAt": "2026-04-01T03:55:26Z",
       "defaultBranchRef": {
         "name": "main"
@@ -5891,13 +5891,13 @@
         "name": "Swift"
       },
       "pushedAt": "2026-06-26T08:56:22Z",
-      "updatedAt": "2026-08-07T20:15:11Z",
+      "updatedAt": "2026-08-08T13:14:25Z",
       "createdAt": "2026-06-19T02:26:19Z",
       "defaultBranchRef": {
         "name": "main"
       },
       "homepageUrl": "https://harzva.github.io/chatgpt2localbridge/",
-      "stargazerCount": 123,
+      "stargazerCount": 122,
       "forkCount": 0,
       "repositoryTopics": [
         "chatgpt",
@@ -6279,8 +6279,8 @@
       "primaryLanguage": {
         "name": "Python"
       },
-      "pushedAt": "2026-08-07T05:02:41Z",
-      "updatedAt": "2026-08-07T05:03:45Z",
+      "pushedAt": "2026-08-08T04:28:51Z",
+      "updatedAt": "2026-08-08T04:28:55Z",
       "createdAt": "2026-05-14T09:29:45Z",
       "defaultBranchRef": {
         "name": "main"
