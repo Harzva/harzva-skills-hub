@@ -89,8 +89,8 @@
     "primaryLanguage": {
       "name": "TypeScript"
     },
-    "pushedAt": "2026-08-09T03:07:48Z",
-    "updatedAt": "2026-08-09T03:07:51Z",
+    "pushedAt": "2026-08-10T03:18:36Z",
+    "updatedAt": "2026-08-10T03:18:39Z",
     "createdAt": "2026-05-12T09:49:47Z",
     "defaultBranchRef": {
       "name": "main"
@@ -136,6 +136,40 @@
     "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/agent-lens-vscode-extension",
     "pages": {
       "enabled": false
+    },
+    "latestRelease": null
+  },
+  {
+    "name": "AgenticResearchLab",
+    "nameWithOwner": "Harzva/AgenticResearchLab",
+    "url": "https://github.com/Harzva/AgenticResearchLab",
+    "description": "Evidence-grounded research intelligence for Agentic AI papers, code, retrieval, and project-to-paper proposals.",
+    "isPrivate": false,
+    "isArchived": false,
+    "isFork": false,
+    "primaryLanguage": {
+      "name": "Python"
+    },
+    "pushedAt": "2026-08-09T16:35:23Z",
+    "updatedAt": "2026-08-09T13:31:00Z",
+    "createdAt": "2026-08-09T13:17:56Z",
+    "defaultBranchRef": {
+      "name": "main"
+    },
+    "homepageUrl": "https://harzva.github.io/AgenticResearchLab/",
+    "stargazerCount": 0,
+    "forkCount": 0,
+    "repositoryTopics": [],
+    "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/AgenticResearchLab",
+    "pages": {
+      "enabled": true,
+      "url": "https://harzva.github.io/AgenticResearchLab/",
+      "status": null,
+      "source": {
+        "branch": "main",
+        "path": "/"
+      },
+      "httpsEnforced": true
     },
     "latestRelease": null
   },
@@ -1402,8 +1436,8 @@
     "primaryLanguage": {
       "name": "Python"
     },
-    "pushedAt": "2026-08-08T04:29:16Z",
-    "updatedAt": "2026-08-08T04:29:19Z",
+    "pushedAt": "2026-08-09T04:38:07Z",
+    "updatedAt": "2026-08-09T04:38:12Z",
     "createdAt": "2026-05-14T09:29:39Z",
     "defaultBranchRef": {
       "name": "main"
@@ -1436,8 +1470,8 @@
     "primaryLanguage": {
       "name": "Python"
     },
-    "pushedAt": "2026-08-08T04:21:35Z",
-    "updatedAt": "2026-08-08T04:21:39Z",
+    "pushedAt": "2026-08-09T04:36:11Z",
+    "updatedAt": "2026-08-09T04:36:15Z",
     "createdAt": "2026-05-14T09:27:13Z",
     "defaultBranchRef": {
       "name": "main"
@@ -1470,8 +1504,8 @@
     "primaryLanguage": {
       "name": "Python"
     },
-    "pushedAt": "2026-08-08T04:30:49Z",
-    "updatedAt": "2026-08-08T04:30:53Z",
+    "pushedAt": "2026-08-09T04:39:38Z",
+    "updatedAt": "2026-08-09T04:39:41Z",
     "createdAt": "2026-05-14T09:29:34Z",
     "defaultBranchRef": {
       "name": "main"
@@ -1504,8 +1538,8 @@
     "primaryLanguage": {
       "name": "Python"
     },
-    "pushedAt": "2026-08-08T04:28:51Z",
-    "updatedAt": "2026-08-08T04:28:55Z",
+    "pushedAt": "2026-08-09T04:36:26Z",
+    "updatedAt": "2026-08-09T04:36:30Z",
     "createdAt": "2026-05-14T09:29:45Z",
     "defaultBranchRef": {
       "name": "main"
@@ -1748,8 +1782,8 @@
     "primaryLanguage": {
       "name": "TypeScript"
     },
-    "pushedAt": "2026-08-09T02:34:06Z",
-    "updatedAt": "2026-08-09T02:34:09Z",
+    "pushedAt": "2026-08-10T02:39:29Z",
+    "updatedAt": "2026-08-10T02:39:47Z",
     "createdAt": "2026-04-01T03:55:26Z",
     "defaultBranchRef": {
       "name": "main"
@@ -1996,6 +2030,33 @@
     "latestRelease": null
   },
   {
+    "name": "mobile-model-playground",
+    "nameWithOwner": "Harzva/mobile-model-playground",
+    "url": "https://github.com/Harzva/mobile-model-playground",
+    "description": "Reproducible mobile model adaptation, provenance, validation, and distribution hub. Contributions and PRs welcome.",
+    "isPrivate": false,
+    "isArchived": false,
+    "isFork": false,
+    "primaryLanguage": {
+      "name": "Python"
+    },
+    "pushedAt": "2026-08-09T13:23:27Z",
+    "updatedAt": "2026-08-09T13:23:51Z",
+    "createdAt": "2026-08-09T09:03:30Z",
+    "defaultBranchRef": {
+      "name": "main"
+    },
+    "homepageUrl": "",
+    "stargazerCount": 0,
+    "forkCount": 0,
+    "repositoryTopics": [],
+    "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/mobile-model-playground",
+    "pages": {
+      "enabled": false
+    },
+    "latestRelease": null
+  },
+  {
     "name": "mobilecode",
     "nameWithOwner": "Harzva/mobilecode",
     "url": "https://github.com/Harzva/mobilecode",
@@ -2070,8 +2131,8 @@
     "primaryLanguage": {
       "name": "Kotlin"
     },
-    "pushedAt": "2026-08-07T02:41:45Z",
-    "updatedAt": "2026-08-07T02:41:59Z",
+    "pushedAt": "2026-08-09T16:19:31Z",
+    "updatedAt": "2026-08-09T16:19:35Z",
     "createdAt": "2026-06-21T04:05:44Z",
     "defaultBranchRef": {
       "name": "main"
