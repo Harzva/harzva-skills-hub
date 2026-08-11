@@ -89,8 +89,8 @@
     "primaryLanguage": {
       "name": "TypeScript"
     },
-    "pushedAt": "2026-08-10T03:18:36Z",
-    "updatedAt": "2026-08-10T03:18:39Z",
+    "pushedAt": "2026-08-11T03:11:24Z",
+    "updatedAt": "2026-08-11T03:11:28Z",
     "createdAt": "2026-05-12T09:49:47Z",
     "defaultBranchRef": {
       "name": "main"
@@ -312,6 +312,33 @@
     "latestRelease": null
   },
   {
+    "name": "ascend-modelagent-completed",
+    "nameWithOwner": "Harzva/ascend-modelagent-completed",
+    "url": "https://github.com/Harzva/ascend-modelagent-completed",
+    "description": "Machine-readable Ascend Model Agent completion and competition feedback loop",
+    "isPrivate": false,
+    "isArchived": false,
+    "isFork": false,
+    "primaryLanguage": {
+      "name": "Python"
+    },
+    "pushedAt": "2026-08-11T03:21:58Z",
+    "updatedAt": "2026-08-11T03:22:02Z",
+    "createdAt": "2026-08-10T19:15:50Z",
+    "defaultBranchRef": {
+      "name": "main"
+    },
+    "homepageUrl": "",
+    "stargazerCount": 0,
+    "forkCount": 0,
+    "repositoryTopics": [],
+    "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/ascend-modelagent-completed",
+    "pages": {
+      "enabled": false
+    },
+    "latestRelease": null
+  },
+  {
     "name": "Awesome-Bayesian-Meta-learning",
     "nameWithOwner": "Harzva/Awesome-Bayesian-Meta-learning",
     "url": "https://github.com/Harzva/Awesome-Bayesian-Meta-learning",
@@ -519,13 +546,13 @@
       "name": "Swift"
     },
     "pushedAt": "2026-06-26T08:56:22Z",
-    "updatedAt": "2026-08-08T13:14:25Z",
+    "updatedAt": "2026-08-10T17:43:40Z",
     "createdAt": "2026-06-19T02:26:19Z",
     "defaultBranchRef": {
       "name": "main"
     },
     "homepageUrl": "https://harzva.github.io/chatgpt2localbridge/",
-    "stargazerCount": 122,
+    "stargazerCount": 113,
     "forkCount": 0,
     "repositoryTopics": [
       "chatgpt",
@@ -1020,8 +1047,8 @@
     "primaryLanguage": {
       "name": "JavaScript"
     },
-    "pushedAt": "2026-08-04T05:32:23Z",
-    "updatedAt": "2026-08-04T05:33:10Z",
+    "pushedAt": "2026-08-11T04:02:58Z",
+    "updatedAt": "2026-08-11T04:03:02Z",
     "createdAt": "2026-06-19T08:47:36Z",
     "defaultBranchRef": {
       "name": "main"
@@ -1436,8 +1463,8 @@
     "primaryLanguage": {
       "name": "Python"
     },
-    "pushedAt": "2026-08-09T04:38:07Z",
-    "updatedAt": "2026-08-09T04:38:12Z",
+    "pushedAt": "2026-08-10T04:55:50Z",
+    "updatedAt": "2026-08-10T04:56:02Z",
     "createdAt": "2026-05-14T09:29:39Z",
     "defaultBranchRef": {
       "name": "main"
@@ -1470,8 +1497,8 @@
     "primaryLanguage": {
       "name": "Python"
     },
-    "pushedAt": "2026-08-09T04:36:11Z",
-    "updatedAt": "2026-08-09T04:36:15Z",
+    "pushedAt": "2026-08-10T04:54:24Z",
+    "updatedAt": "2026-08-10T04:54:48Z",
     "createdAt": "2026-05-14T09:27:13Z",
     "defaultBranchRef": {
       "name": "main"
@@ -1504,8 +1531,8 @@
     "primaryLanguage": {
       "name": "Python"
     },
-    "pushedAt": "2026-08-09T04:39:38Z",
-    "updatedAt": "2026-08-09T04:39:41Z",
+    "pushedAt": "2026-08-10T04:57:00Z",
+    "updatedAt": "2026-08-10T04:57:04Z",
     "createdAt": "2026-05-14T09:29:34Z",
     "defaultBranchRef": {
       "name": "main"
@@ -1538,8 +1565,8 @@
     "primaryLanguage": {
       "name": "Python"
     },
-    "pushedAt": "2026-08-09T04:36:26Z",
-    "updatedAt": "2026-08-09T04:36:30Z",
+    "pushedAt": "2026-08-10T04:54:09Z",
+    "updatedAt": "2026-08-10T04:54:18Z",
     "createdAt": "2026-05-14T09:29:45Z",
     "defaultBranchRef": {
       "name": "main"
@@ -1782,14 +1809,14 @@
     "primaryLanguage": {
       "name": "TypeScript"
     },
-    "pushedAt": "2026-08-10T02:39:29Z",
-    "updatedAt": "2026-08-10T02:39:47Z",
+    "pushedAt": "2026-08-11T02:32:46Z",
+    "updatedAt": "2026-08-11T02:32:50Z",
     "createdAt": "2026-04-01T03:55:26Z",
     "defaultBranchRef": {
       "name": "main"
     },
     "homepageUrl": "",
-    "stargazerCount": 59,
+    "stargazerCount": 57,
     "forkCount": 11,
     "repositoryTopics": [
       "agent-loop",
@@ -2068,13 +2095,13 @@
       "name": "Dart"
     },
     "pushedAt": "2026-08-07T01:23:26Z",
-    "updatedAt": "2026-08-07T20:15:07Z",
+    "updatedAt": "2026-08-10T17:41:32Z",
     "createdAt": "2026-05-12T08:19:17Z",
     "defaultBranchRef": {
       "name": "main"
     },
     "homepageUrl": "",
-    "stargazerCount": 79,
+    "stargazerCount": 78,
     "forkCount": 4,
     "repositoryTopics": [],
     "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/mobilecode",
@@ -2114,7 +2141,7 @@
           "name": "mobilecode-v0.1.0.apk",
           "url": "https://github.com/Harzva/mobilecode/releases/download/v0.1.0/mobilecode-v0.1.0.apk",
           "size": 53051517,
-          "downloadCount": 55,
+          "downloadCount": 56,
           "contentType": "application/vnd.android.package-archive"
         }
       ]
