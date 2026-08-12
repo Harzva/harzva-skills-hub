@@ -1,6 +1,6 @@
 {
   "summary": {
-    "generatedAt": "2026-08-11T04:39:53.792162+00:00",
+    "generatedAt": "2026-08-12T05:02:26.831855+00:00",
     "owner": "Harzva",
     "mode": "skills",
     "publicRepositories": 115,
@@ -24,8 +24,8 @@
         "primaryLanguage": {
           "name": "Python"
         },
-        "pushedAt": "2026-08-11T03:21:58Z",
-        "updatedAt": "2026-08-11T03:22:02Z",
+        "pushedAt": "2026-08-11T14:06:04Z",
+        "updatedAt": "2026-08-11T14:09:41Z",
         "createdAt": "2026-08-10T19:15:50Z",
         "defaultBranchRef": {
           "name": "main"
@@ -476,40 +476,6 @@
     ],
     "Pages and Live Demos": [
       {
-        "name": "game-ddl",
-        "nameWithOwner": "Harzva/game-ddl",
-        "url": "https://github.com/Harzva/game-ddl",
-        "description": "Game DDL topic family mirror with esports, game versions, and Steam upcoming releases",
-        "isPrivate": false,
-        "isArchived": false,
-        "isFork": false,
-        "primaryLanguage": {
-          "name": "JavaScript"
-        },
-        "pushedAt": "2026-08-11T04:02:58Z",
-        "updatedAt": "2026-08-11T04:03:02Z",
-        "createdAt": "2026-06-19T08:47:36Z",
-        "defaultBranchRef": {
-          "name": "main"
-        },
-        "homepageUrl": "",
-        "stargazerCount": 0,
-        "forkCount": 0,
-        "repositoryTopics": [],
-        "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/game-ddl",
-        "pages": {
-          "enabled": true,
-          "url": "https://harzva.github.io/game-ddl/",
-          "status": null,
-          "source": {
-            "branch": "main",
-            "path": "/"
-          },
-          "httpsEnforced": true
-        },
-        "latestRelease": null
-      },
-      {
         "name": "Agent-Job-Interview",
         "nameWithOwner": "Harzva/Agent-Job-Interview",
         "url": "https://github.com/Harzva/Agent-Job-Interview",
@@ -520,8 +486,8 @@
         "primaryLanguage": {
           "name": "TypeScript"
         },
-        "pushedAt": "2026-08-11T03:11:24Z",
-        "updatedAt": "2026-08-11T03:11:28Z",
+        "pushedAt": "2026-08-12T03:29:05Z",
+        "updatedAt": "2026-08-12T03:29:09Z",
         "createdAt": "2026-05-12T09:49:47Z",
         "defaultBranchRef": {
           "name": "main"
@@ -554,8 +520,8 @@
         "primaryLanguage": {
           "name": "TypeScript"
         },
-        "pushedAt": "2026-08-11T02:32:46Z",
-        "updatedAt": "2026-08-11T02:32:50Z",
+        "pushedAt": "2026-08-12T03:02:43Z",
+        "updatedAt": "2026-08-12T03:02:47Z",
         "createdAt": "2026-04-01T03:55:26Z",
         "defaultBranchRef": {
           "name": "main"
@@ -607,8 +573,8 @@
         "primaryLanguage": {
           "name": "Python"
         },
-        "pushedAt": "2026-08-10T04:57:00Z",
-        "updatedAt": "2026-08-10T04:57:04Z",
+        "pushedAt": "2026-08-11T04:43:25Z",
+        "updatedAt": "2026-08-11T04:43:28Z",
         "createdAt": "2026-05-14T09:29:34Z",
         "defaultBranchRef": {
           "name": "main"
@@ -641,8 +607,8 @@
         "primaryLanguage": {
           "name": "Python"
         },
-        "pushedAt": "2026-08-10T04:55:50Z",
-        "updatedAt": "2026-08-10T04:56:02Z",
+        "pushedAt": "2026-08-11T04:40:44Z",
+        "updatedAt": "2026-08-11T04:40:48Z",
         "createdAt": "2026-05-14T09:29:39Z",
         "defaultBranchRef": {
           "name": "main"
@@ -675,8 +641,8 @@
         "primaryLanguage": {
           "name": "Python"
         },
-        "pushedAt": "2026-08-10T04:54:24Z",
-        "updatedAt": "2026-08-10T04:54:48Z",
+        "pushedAt": "2026-08-11T04:39:51Z",
+        "updatedAt": "2026-08-11T04:39:55Z",
         "createdAt": "2026-05-14T09:27:13Z",
         "defaultBranchRef": {
           "name": "main"
@@ -689,6 +655,40 @@
         "pages": {
           "enabled": true,
           "url": "https://harzva.github.io/harzva-project-atlas/",
+          "status": null,
+          "source": {
+            "branch": "main",
+            "path": "/"
+          },
+          "httpsEnforced": true
+        },
+        "latestRelease": null
+      },
+      {
+        "name": "game-ddl",
+        "nameWithOwner": "Harzva/game-ddl",
+        "url": "https://github.com/Harzva/game-ddl",
+        "description": "Game DDL topic family mirror with esports, game versions, and Steam upcoming releases",
+        "isPrivate": false,
+        "isArchived": false,
+        "isFork": false,
+        "primaryLanguage": {
+          "name": "JavaScript"
+        },
+        "pushedAt": "2026-08-11T04:02:58Z",
+        "updatedAt": "2026-08-11T04:03:02Z",
+        "createdAt": "2026-06-19T08:47:36Z",
+        "defaultBranchRef": {
+          "name": "main"
+        },
+        "homepageUrl": "",
+        "stargazerCount": 0,
+        "forkCount": 0,
+        "repositoryTopics": [],
+        "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/game-ddl",
+        "pages": {
+          "enabled": true,
+          "url": "https://harzva.github.io/game-ddl/",
           "status": null,
           "source": {
             "branch": "main",
@@ -1417,8 +1417,8 @@
         "primaryLanguage": {
           "name": "Python"
         },
-        "pushedAt": "2026-08-10T04:54:09Z",
-        "updatedAt": "2026-08-10T04:54:18Z",
+        "pushedAt": "2026-08-11T04:39:54Z",
+        "updatedAt": "2026-08-11T04:39:58Z",
         "createdAt": "2026-05-14T09:29:45Z",
         "defaultBranchRef": {
           "name": "main"
@@ -4209,8 +4209,8 @@
       "primaryLanguage": {
         "name": "TypeScript"
       },
-      "pushedAt": "2026-08-11T03:11:24Z",
-      "updatedAt": "2026-08-11T03:11:28Z",
+      "pushedAt": "2026-08-12T03:29:05Z",
+      "updatedAt": "2026-08-12T03:29:09Z",
       "createdAt": "2026-05-12T09:49:47Z",
       "defaultBranchRef": {
         "name": "main"
@@ -4758,8 +4758,8 @@
       "primaryLanguage": {
         "name": "Python"
       },
-      "pushedAt": "2026-08-10T04:55:50Z",
-      "updatedAt": "2026-08-10T04:56:02Z",
+      "pushedAt": "2026-08-11T04:40:44Z",
+      "updatedAt": "2026-08-11T04:40:48Z",
       "createdAt": "2026-05-14T09:29:39Z",
       "defaultBranchRef": {
         "name": "main"
@@ -4792,8 +4792,8 @@
       "primaryLanguage": {
         "name": "Python"
       },
-      "pushedAt": "2026-08-10T04:54:24Z",
-      "updatedAt": "2026-08-10T04:54:48Z",
+      "pushedAt": "2026-08-11T04:39:51Z",
+      "updatedAt": "2026-08-11T04:39:55Z",
       "createdAt": "2026-05-14T09:27:13Z",
       "defaultBranchRef": {
         "name": "main"
@@ -4826,8 +4826,8 @@
       "primaryLanguage": {
         "name": "Python"
       },
-      "pushedAt": "2026-08-10T04:57:00Z",
-      "updatedAt": "2026-08-10T04:57:04Z",
+      "pushedAt": "2026-08-11T04:43:25Z",
+      "updatedAt": "2026-08-11T04:43:28Z",
       "createdAt": "2026-05-14T09:29:34Z",
       "defaultBranchRef": {
         "name": "main"
@@ -4860,8 +4860,8 @@
       "primaryLanguage": {
         "name": "Python"
       },
-      "pushedAt": "2026-08-10T04:54:09Z",
-      "updatedAt": "2026-08-10T04:54:18Z",
+      "pushedAt": "2026-08-11T04:39:54Z",
+      "updatedAt": "2026-08-11T04:39:58Z",
       "createdAt": "2026-05-14T09:29:45Z",
       "defaultBranchRef": {
         "name": "main"
@@ -5011,8 +5011,8 @@
       "primaryLanguage": {
         "name": "TypeScript"
       },
-      "pushedAt": "2026-08-11T02:32:46Z",
-      "updatedAt": "2026-08-11T02:32:50Z",
+      "pushedAt": "2026-08-12T03:02:43Z",
+      "updatedAt": "2026-08-12T03:02:47Z",
       "createdAt": "2026-04-01T03:55:26Z",
       "defaultBranchRef": {
         "name": "main"
@@ -5623,8 +5623,8 @@
       "primaryLanguage": {
         "name": "TypeScript"
       },
-      "pushedAt": "2026-08-11T02:32:46Z",
-      "updatedAt": "2026-08-11T02:32:50Z",
+      "pushedAt": "2026-08-12T03:02:43Z",
+      "updatedAt": "2026-08-12T03:02:47Z",
       "createdAt": "2026-04-01T03:55:26Z",
       "defaultBranchRef": {
         "name": "main"
@@ -6403,8 +6403,8 @@
       "primaryLanguage": {
         "name": "Python"
       },
-      "pushedAt": "2026-08-10T04:54:09Z",
-      "updatedAt": "2026-08-10T04:54:18Z",
+      "pushedAt": "2026-08-11T04:39:54Z",
+      "updatedAt": "2026-08-11T04:39:58Z",
       "createdAt": "2026-05-14T09:29:45Z",
       "defaultBranchRef": {
         "name": "main"
