@@ -1,6 +1,6 @@
 {
   "summary": {
-    "generatedAt": "2026-08-13T05:04:34.401004+00:00",
+    "generatedAt": "2026-08-14T05:02:32.096493+00:00",
     "owner": "Harzva",
     "mode": "skills",
     "publicRepositories": 115,
@@ -486,8 +486,8 @@
         "primaryLanguage": {
           "name": "TypeScript"
         },
-        "pushedAt": "2026-08-13T03:32:56Z",
-        "updatedAt": "2026-08-13T03:33:00Z",
+        "pushedAt": "2026-08-14T03:29:45Z",
+        "updatedAt": "2026-08-14T03:29:48Z",
         "createdAt": "2026-05-12T09:49:47Z",
         "defaultBranchRef": {
           "name": "main"
@@ -520,8 +520,8 @@
         "primaryLanguage": {
           "name": "TypeScript"
         },
-        "pushedAt": "2026-08-13T03:05:52Z",
-        "updatedAt": "2026-08-13T03:05:55Z",
+        "pushedAt": "2026-08-14T03:04:36Z",
+        "updatedAt": "2026-08-14T03:04:39Z",
         "createdAt": "2026-04-01T03:55:26Z",
         "defaultBranchRef": {
           "name": "main"
@@ -573,8 +573,8 @@
         "primaryLanguage": {
           "name": "Python"
         },
-        "pushedAt": "2026-08-12T05:07:55Z",
-        "updatedAt": "2026-08-12T05:08:01Z",
+        "pushedAt": "2026-08-13T05:10:23Z",
+        "updatedAt": "2026-08-13T05:10:34Z",
         "createdAt": "2026-05-14T09:29:34Z",
         "defaultBranchRef": {
           "name": "main"
@@ -607,8 +607,8 @@
         "primaryLanguage": {
           "name": "Python"
         },
-        "pushedAt": "2026-08-12T05:04:20Z",
-        "updatedAt": "2026-08-12T05:04:23Z",
+        "pushedAt": "2026-08-13T05:06:07Z",
+        "updatedAt": "2026-08-13T05:06:11Z",
         "createdAt": "2026-05-14T09:29:39Z",
         "defaultBranchRef": {
           "name": "main"
@@ -641,8 +641,8 @@
         "primaryLanguage": {
           "name": "Python"
         },
-        "pushedAt": "2026-08-12T05:01:55Z",
-        "updatedAt": "2026-08-12T05:02:00Z",
+        "pushedAt": "2026-08-13T05:04:16Z",
+        "updatedAt": "2026-08-13T05:04:24Z",
         "createdAt": "2026-05-14T09:27:13Z",
         "defaultBranchRef": {
           "name": "main"
@@ -1407,6 +1407,40 @@
     ],
     "Skills and Agent Workflows": [
       {
+        "name": "harzva-skills-hub",
+        "nameWithOwner": "Harzva/harzva-skills-hub",
+        "url": "https://github.com/Harzva/harzva-skills-hub",
+        "description": "Auto-updating GitHub Pages registry of Harzva Codex skills, workflow skills, and agent recipes.",
+        "isPrivate": false,
+        "isArchived": false,
+        "isFork": false,
+        "primaryLanguage": {
+          "name": "Python"
+        },
+        "pushedAt": "2026-08-13T05:04:35Z",
+        "updatedAt": "2026-08-13T05:04:40Z",
+        "createdAt": "2026-05-14T09:29:45Z",
+        "defaultBranchRef": {
+          "name": "main"
+        },
+        "homepageUrl": "https://harzva.github.io/harzva-skills-hub/",
+        "stargazerCount": 0,
+        "forkCount": 0,
+        "repositoryTopics": [],
+        "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/harzva-skills-hub",
+        "pages": {
+          "enabled": true,
+          "url": "https://harzva.github.io/harzva-skills-hub/",
+          "status": null,
+          "source": {
+            "branch": "main",
+            "path": "/"
+          },
+          "httpsEnforced": true
+        },
+        "latestRelease": null
+      },
+      {
         "name": "codexhome-manager",
         "nameWithOwner": "Harzva/codexhome-manager",
         "url": "https://github.com/Harzva/codexhome-manager",
@@ -1437,40 +1471,6 @@
         "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/codexhome-manager",
         "pages": {
           "enabled": false
-        },
-        "latestRelease": null
-      },
-      {
-        "name": "harzva-skills-hub",
-        "nameWithOwner": "Harzva/harzva-skills-hub",
-        "url": "https://github.com/Harzva/harzva-skills-hub",
-        "description": "Auto-updating GitHub Pages registry of Harzva Codex skills, workflow skills, and agent recipes.",
-        "isPrivate": false,
-        "isArchived": false,
-        "isFork": false,
-        "primaryLanguage": {
-          "name": "Python"
-        },
-        "pushedAt": "2026-08-12T05:02:28Z",
-        "updatedAt": "2026-08-12T05:02:50Z",
-        "createdAt": "2026-05-14T09:29:45Z",
-        "defaultBranchRef": {
-          "name": "main"
-        },
-        "homepageUrl": "https://harzva.github.io/harzva-skills-hub/",
-        "stargazerCount": 0,
-        "forkCount": 0,
-        "repositoryTopics": [],
-        "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/harzva-skills-hub",
-        "pages": {
-          "enabled": true,
-          "url": "https://harzva.github.io/harzva-skills-hub/",
-          "status": null,
-          "source": {
-            "branch": "main",
-            "path": "/"
-          },
-          "httpsEnforced": true
         },
         "latestRelease": null
       },
@@ -4209,8 +4209,8 @@
       "primaryLanguage": {
         "name": "TypeScript"
       },
-      "pushedAt": "2026-08-13T03:32:56Z",
-      "updatedAt": "2026-08-13T03:33:00Z",
+      "pushedAt": "2026-08-14T03:29:45Z",
+      "updatedAt": "2026-08-14T03:29:48Z",
       "createdAt": "2026-05-12T09:49:47Z",
       "defaultBranchRef": {
         "name": "main"
@@ -4758,8 +4758,8 @@
       "primaryLanguage": {
         "name": "Python"
       },
-      "pushedAt": "2026-08-12T05:04:20Z",
-      "updatedAt": "2026-08-12T05:04:23Z",
+      "pushedAt": "2026-08-13T05:06:07Z",
+      "updatedAt": "2026-08-13T05:06:11Z",
       "createdAt": "2026-05-14T09:29:39Z",
       "defaultBranchRef": {
         "name": "main"
@@ -4792,8 +4792,8 @@
       "primaryLanguage": {
         "name": "Python"
       },
-      "pushedAt": "2026-08-12T05:01:55Z",
-      "updatedAt": "2026-08-12T05:02:00Z",
+      "pushedAt": "2026-08-13T05:04:16Z",
+      "updatedAt": "2026-08-13T05:04:24Z",
       "createdAt": "2026-05-14T09:27:13Z",
       "defaultBranchRef": {
         "name": "main"
@@ -4826,8 +4826,8 @@
       "primaryLanguage": {
         "name": "Python"
       },
-      "pushedAt": "2026-08-12T05:07:55Z",
-      "updatedAt": "2026-08-12T05:08:01Z",
+      "pushedAt": "2026-08-13T05:10:23Z",
+      "updatedAt": "2026-08-13T05:10:34Z",
       "createdAt": "2026-05-14T09:29:34Z",
       "defaultBranchRef": {
         "name": "main"
@@ -4860,8 +4860,8 @@
       "primaryLanguage": {
         "name": "Python"
       },
-      "pushedAt": "2026-08-12T05:02:28Z",
-      "updatedAt": "2026-08-12T05:02:50Z",
+      "pushedAt": "2026-08-13T05:04:35Z",
+      "updatedAt": "2026-08-13T05:04:40Z",
       "createdAt": "2026-05-14T09:29:45Z",
       "defaultBranchRef": {
         "name": "main"
@@ -5011,8 +5011,8 @@
       "primaryLanguage": {
         "name": "TypeScript"
       },
-      "pushedAt": "2026-08-13T03:05:52Z",
-      "updatedAt": "2026-08-13T03:05:55Z",
+      "pushedAt": "2026-08-14T03:04:36Z",
+      "updatedAt": "2026-08-14T03:04:39Z",
       "createdAt": "2026-04-01T03:55:26Z",
       "defaultBranchRef": {
         "name": "main"
@@ -5623,8 +5623,8 @@
       "primaryLanguage": {
         "name": "TypeScript"
       },
-      "pushedAt": "2026-08-13T03:05:52Z",
-      "updatedAt": "2026-08-13T03:05:55Z",
+      "pushedAt": "2026-08-14T03:04:36Z",
+      "updatedAt": "2026-08-14T03:04:39Z",
       "createdAt": "2026-04-01T03:55:26Z",
       "defaultBranchRef": {
         "name": "main"
@@ -6403,8 +6403,8 @@
       "primaryLanguage": {
         "name": "Python"
       },
-      "pushedAt": "2026-08-12T05:02:28Z",
-      "updatedAt": "2026-08-12T05:02:50Z",
+      "pushedAt": "2026-08-13T05:04:35Z",
+      "updatedAt": "2026-08-13T05:04:40Z",
       "createdAt": "2026-05-14T09:29:45Z",
       "defaultBranchRef": {
         "name": "main"
