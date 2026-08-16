@@ -89,8 +89,8 @@
     "primaryLanguage": {
       "name": "TypeScript"
     },
-    "pushedAt": "2026-08-15T02:19:05Z",
-    "updatedAt": "2026-08-15T02:19:08Z",
+    "pushedAt": "2026-08-16T02:34:29Z",
+    "updatedAt": "2026-08-16T02:34:32Z",
     "createdAt": "2026-05-12T09:49:47Z",
     "defaultBranchRef": {
       "name": "main"
@@ -546,13 +546,13 @@
       "name": "Swift"
     },
     "pushedAt": "2026-06-26T08:56:22Z",
-    "updatedAt": "2026-08-10T17:43:40Z",
+    "updatedAt": "2026-08-15T23:47:13Z",
     "createdAt": "2026-06-19T02:26:19Z",
     "defaultBranchRef": {
       "name": "main"
     },
     "homepageUrl": "https://harzva.github.io/chatgpt2localbridge/",
-    "stargazerCount": 113,
+    "stargazerCount": 107,
     "forkCount": 0,
     "repositoryTopics": [
       "chatgpt",
@@ -861,13 +861,13 @@
       "name": "Python"
     },
     "pushedAt": "2026-05-14T14:33:35Z",
-    "updatedAt": "2026-05-14T14:35:54Z",
+    "updatedAt": "2026-08-15T15:43:51Z",
     "createdAt": "2026-05-14T09:13:53Z",
     "defaultBranchRef": {
       "name": "main"
     },
     "homepageUrl": "https://harzva.github.io/design-md-flow/",
-    "stargazerCount": 0,
+    "stargazerCount": 1,
     "forkCount": 0,
     "repositoryTopics": [
       "agent-skills",
@@ -1463,8 +1463,8 @@
     "primaryLanguage": {
       "name": "Python"
     },
-    "pushedAt": "2026-08-14T05:03:31Z",
-    "updatedAt": "2026-08-14T05:03:34Z",
+    "pushedAt": "2026-08-15T03:55:51Z",
+    "updatedAt": "2026-08-15T03:55:57Z",
     "createdAt": "2026-05-14T09:29:39Z",
     "defaultBranchRef": {
       "name": "main"
@@ -1497,8 +1497,8 @@
     "primaryLanguage": {
       "name": "Python"
     },
-    "pushedAt": "2026-08-14T05:01:45Z",
-    "updatedAt": "2026-08-14T05:01:52Z",
+    "pushedAt": "2026-08-15T03:53:40Z",
+    "updatedAt": "2026-08-15T03:53:45Z",
     "createdAt": "2026-05-14T09:27:13Z",
     "defaultBranchRef": {
       "name": "main"
@@ -1531,8 +1531,8 @@
     "primaryLanguage": {
       "name": "Python"
     },
-    "pushedAt": "2026-08-14T05:06:52Z",
-    "updatedAt": "2026-08-14T05:07:05Z",
+    "pushedAt": "2026-08-15T03:57:04Z",
+    "updatedAt": "2026-08-15T03:57:09Z",
     "createdAt": "2026-05-14T09:29:34Z",
     "defaultBranchRef": {
       "name": "main"
@@ -1565,8 +1565,8 @@
     "primaryLanguage": {
       "name": "Python"
     },
-    "pushedAt": "2026-08-14T05:02:33Z",
-    "updatedAt": "2026-08-14T05:02:37Z",
+    "pushedAt": "2026-08-15T03:54:20Z",
+    "updatedAt": "2026-08-15T03:54:27Z",
     "createdAt": "2026-05-14T09:29:45Z",
     "defaultBranchRef": {
       "name": "main"
@@ -1809,8 +1809,8 @@
     "primaryLanguage": {
       "name": "TypeScript"
     },
-    "pushedAt": "2026-08-15T01:54:54Z",
-    "updatedAt": "2026-08-15T01:54:59Z",
+    "pushedAt": "2026-08-16T02:03:02Z",
+    "updatedAt": "2026-08-16T02:03:15Z",
     "createdAt": "2026-04-01T03:55:26Z",
     "defaultBranchRef": {
       "name": "main"
