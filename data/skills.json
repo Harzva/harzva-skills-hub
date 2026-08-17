@@ -325,6 +325,77 @@
     "latestRelease": null
   },
   {
+    "name": "dsh-groupx",
+    "nameWithOwner": "Harzva/dsh-groupx",
+    "url": "https://github.com/Harzva/dsh-groupx",
+    "description": "Native GroupX multi-agent room integration for DeepSeek Harness",
+    "isPrivate": false,
+    "isArchived": false,
+    "isFork": false,
+    "primaryLanguage": {
+      "name": "TypeScript"
+    },
+    "pushedAt": "2026-08-17T01:04:00Z",
+    "updatedAt": "2026-08-17T01:04:19Z",
+    "createdAt": "2026-08-17T01:02:56Z",
+    "defaultBranchRef": {
+      "name": "main"
+    },
+    "homepageUrl": "",
+    "stargazerCount": 0,
+    "forkCount": 0,
+    "repositoryTopics": [
+      "acp",
+      "agent-collaboration",
+      "agent-harness",
+      "deepseek-harness",
+      "dsh",
+      "dsh-plugin",
+      "groupx",
+      "multi-agent"
+    ],
+    "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/dsh-groupx",
+    "pages": {
+      "enabled": false
+    },
+    "latestRelease": null
+  },
+  {
+    "name": "dsh-research-lab",
+    "nameWithOwner": "Harzva/dsh-research-lab",
+    "url": "https://github.com/Harzva/dsh-research-lab",
+    "description": "DSH-native multi-runtime baseline, ablation, and reproducible evaluation control plane",
+    "isPrivate": false,
+    "isArchived": false,
+    "isFork": false,
+    "primaryLanguage": {
+      "name": "TypeScript"
+    },
+    "pushedAt": "2026-08-17T00:59:28Z",
+    "updatedAt": "2026-08-17T00:59:32Z",
+    "createdAt": "2026-08-17T00:55:54Z",
+    "defaultBranchRef": {
+      "name": "main"
+    },
+    "homepageUrl": "",
+    "stargazerCount": 0,
+    "forkCount": 0,
+    "repositoryTopics": [
+      "ablation-study",
+      "agent-evaluation",
+      "deepseek-harness",
+      "dsh",
+      "dsh-plugin",
+      "dsh-research-lab",
+      "reasoning-runtime"
+    ],
+    "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/dsh-research-lab",
+    "pages": {
+      "enabled": false
+    },
+    "latestRelease": null
+  },
+  {
     "name": "everything-agent-cli-to-claude-code",
     "nameWithOwner": "Harzva/everything-agent-cli-to-claude-code",
     "url": "https://github.com/Harzva/everything-agent-cli-to-claude-code",
@@ -533,6 +604,50 @@
     "latestRelease": null
   },
   {
+    "name": "harness-flow-hub",
+    "nameWithOwner": "Harzva/harness-flow-hub",
+    "url": "https://github.com/Harzva/harness-flow-hub",
+    "description": "DSH Flow and plugin hub for DeepSeek Harness Agent Stacks",
+    "isPrivate": false,
+    "isArchived": false,
+    "isFork": false,
+    "primaryLanguage": {
+      "name": "JavaScript"
+    },
+    "pushedAt": "2026-08-16T23:51:41Z",
+    "updatedAt": "2026-08-16T23:51:45Z",
+    "createdAt": "2026-08-16T10:20:34Z",
+    "defaultBranchRef": {
+      "name": "main"
+    },
+    "homepageUrl": "https://harzva.github.io/harness-flow-hub/",
+    "stargazerCount": 0,
+    "forkCount": 0,
+    "repositoryTopics": [
+      "agent-stack",
+      "deepseek-harness",
+      "dsh",
+      "dsh-flow",
+      "dsh-flow-hub",
+      "dsh-hub",
+      "dsh-plugin",
+      "harness-flow",
+      "plugin-registry"
+    ],
+    "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/harness-flow-hub",
+    "pages": {
+      "enabled": true,
+      "url": "https://harzva.github.io/harness-flow-hub/",
+      "status": null,
+      "source": {
+        "branch": "main",
+        "path": "/"
+      },
+      "httpsEnforced": true
+    },
+    "latestRelease": null
+  },
+  {
     "name": "harzva-skills-hub",
     "nameWithOwner": "Harzva/harzva-skills-hub",
     "url": "https://github.com/Harzva/harzva-skills-hub",
@@ -543,8 +658,8 @@
     "primaryLanguage": {
       "name": "Python"
     },
-    "pushedAt": "2026-08-15T03:54:20Z",
-    "updatedAt": "2026-08-15T03:54:27Z",
+    "pushedAt": "2026-08-16T03:59:06Z",
+    "updatedAt": "2026-08-16T03:59:09Z",
     "createdAt": "2026-05-14T09:29:45Z",
     "defaultBranchRef": {
       "name": "main"
