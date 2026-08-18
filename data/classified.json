@@ -1,6 +1,6 @@
 {
   "summary": {
-    "generatedAt": "2026-08-17T04:02:56.446833+00:00",
+    "generatedAt": "2026-08-18T03:58:21.738537+00:00",
     "owner": "Harzva",
     "mode": "skills",
     "publicRepositories": 120,
@@ -24,8 +24,8 @@
         "primaryLanguage": {
           "name": "Python"
         },
-        "pushedAt": "2026-08-11T14:06:04Z",
-        "updatedAt": "2026-08-11T14:09:41Z",
+        "pushedAt": "2026-08-18T03:07:57Z",
+        "updatedAt": "2026-08-18T03:08:31Z",
         "createdAt": "2026-08-10T19:15:50Z",
         "defaultBranchRef": {
           "name": "main"
@@ -476,6 +476,40 @@
     ],
     "Pages and Live Demos": [
       {
+        "name": "game-ddl",
+        "nameWithOwner": "Harzva/game-ddl",
+        "url": "https://github.com/Harzva/game-ddl",
+        "description": "Game DDL topic family mirror with esports, game versions, and Steam upcoming releases",
+        "isPrivate": false,
+        "isArchived": false,
+        "isFork": false,
+        "primaryLanguage": {
+          "name": "JavaScript"
+        },
+        "pushedAt": "2026-08-18T03:23:48Z",
+        "updatedAt": "2026-08-18T03:24:26Z",
+        "createdAt": "2026-06-19T08:47:36Z",
+        "defaultBranchRef": {
+          "name": "main"
+        },
+        "homepageUrl": "",
+        "stargazerCount": 0,
+        "forkCount": 0,
+        "repositoryTopics": [],
+        "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/game-ddl",
+        "pages": {
+          "enabled": true,
+          "url": "https://harzva.github.io/game-ddl/",
+          "status": null,
+          "source": {
+            "branch": "main",
+            "path": "/"
+          },
+          "httpsEnforced": true
+        },
+        "latestRelease": null
+      },
+      {
         "name": "Agent-Job-Interview",
         "nameWithOwner": "Harzva/Agent-Job-Interview",
         "url": "https://github.com/Harzva/Agent-Job-Interview",
@@ -486,8 +520,8 @@
         "primaryLanguage": {
           "name": "TypeScript"
         },
-        "pushedAt": "2026-08-17T02:33:56Z",
-        "updatedAt": "2026-08-17T02:34:03Z",
+        "pushedAt": "2026-08-18T02:28:52Z",
+        "updatedAt": "2026-08-18T02:29:34Z",
         "createdAt": "2026-05-12T09:49:47Z",
         "defaultBranchRef": {
           "name": "main"
@@ -520,8 +554,8 @@
         "primaryLanguage": {
           "name": "TypeScript"
         },
-        "pushedAt": "2026-08-17T01:59:16Z",
-        "updatedAt": "2026-08-17T01:59:27Z",
+        "pushedAt": "2026-08-18T01:55:57Z",
+        "updatedAt": "2026-08-18T01:56:04Z",
         "createdAt": "2026-04-01T03:55:26Z",
         "defaultBranchRef": {
           "name": "main"
@@ -573,8 +607,8 @@
         "primaryLanguage": {
           "name": "Python"
         },
-        "pushedAt": "2026-08-16T04:03:11Z",
-        "updatedAt": "2026-08-16T04:03:17Z",
+        "pushedAt": "2026-08-17T04:06:07Z",
+        "updatedAt": "2026-08-17T04:06:14Z",
         "createdAt": "2026-05-14T09:29:34Z",
         "defaultBranchRef": {
           "name": "main"
@@ -607,8 +641,8 @@
         "primaryLanguage": {
           "name": "Python"
         },
-        "pushedAt": "2026-08-16T04:00:13Z",
-        "updatedAt": "2026-08-16T04:00:39Z",
+        "pushedAt": "2026-08-17T04:03:34Z",
+        "updatedAt": "2026-08-17T04:03:42Z",
         "createdAt": "2026-05-14T09:29:39Z",
         "defaultBranchRef": {
           "name": "main"
@@ -641,8 +675,8 @@
         "primaryLanguage": {
           "name": "Python"
         },
-        "pushedAt": "2026-08-16T03:59:34Z",
-        "updatedAt": "2026-08-16T03:59:38Z",
+        "pushedAt": "2026-08-17T04:01:58Z",
+        "updatedAt": "2026-08-17T04:02:18Z",
         "createdAt": "2026-05-14T09:27:13Z",
         "defaultBranchRef": {
           "name": "main"
@@ -655,40 +689,6 @@
         "pages": {
           "enabled": true,
           "url": "https://harzva.github.io/harzva-project-atlas/",
-          "status": null,
-          "source": {
-            "branch": "main",
-            "path": "/"
-          },
-          "httpsEnforced": true
-        },
-        "latestRelease": null
-      },
-      {
-        "name": "game-ddl",
-        "nameWithOwner": "Harzva/game-ddl",
-        "url": "https://github.com/Harzva/game-ddl",
-        "description": "Game DDL topic family mirror with esports, game versions, and Steam upcoming releases",
-        "isPrivate": false,
-        "isArchived": false,
-        "isFork": false,
-        "primaryLanguage": {
-          "name": "JavaScript"
-        },
-        "pushedAt": "2026-08-11T04:02:58Z",
-        "updatedAt": "2026-08-11T04:03:02Z",
-        "createdAt": "2026-06-19T08:47:36Z",
-        "defaultBranchRef": {
-          "name": "main"
-        },
-        "homepageUrl": "",
-        "stargazerCount": 0,
-        "forkCount": 0,
-        "repositoryTopics": [],
-        "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/game-ddl",
-        "pages": {
-          "enabled": true,
-          "url": "https://harzva.github.io/game-ddl/",
           "status": null,
           "source": {
             "branch": "main",
@@ -884,13 +884,13 @@
           "name": "Python"
         },
         "pushedAt": "2026-07-24T10:56:18Z",
-        "updatedAt": "2026-07-27T13:46:59Z",
+        "updatedAt": "2026-08-17T16:38:59Z",
         "createdAt": "2026-07-24T07:00:50Z",
         "defaultBranchRef": {
           "name": "main"
         },
         "homepageUrl": "https://harzva.github.io/LDB/",
-        "stargazerCount": 0,
+        "stargazerCount": 1,
         "forkCount": 0,
         "repositoryTopics": [
           "calibration",
@@ -1407,6 +1407,40 @@
     ],
     "Skills and Agent Workflows": [
       {
+        "name": "harzva-skills-hub",
+        "nameWithOwner": "Harzva/harzva-skills-hub",
+        "url": "https://github.com/Harzva/harzva-skills-hub",
+        "description": "Auto-updating GitHub Pages registry of Harzva Codex skills, workflow skills, and agent recipes.",
+        "isPrivate": false,
+        "isArchived": false,
+        "isFork": false,
+        "primaryLanguage": {
+          "name": "Python"
+        },
+        "pushedAt": "2026-08-17T04:02:57Z",
+        "updatedAt": "2026-08-17T04:03:51Z",
+        "createdAt": "2026-05-14T09:29:45Z",
+        "defaultBranchRef": {
+          "name": "main"
+        },
+        "homepageUrl": "https://harzva.github.io/harzva-skills-hub/",
+        "stargazerCount": 0,
+        "forkCount": 0,
+        "repositoryTopics": [],
+        "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/harzva-skills-hub",
+        "pages": {
+          "enabled": true,
+          "url": "https://harzva.github.io/harzva-skills-hub/",
+          "status": null,
+          "source": {
+            "branch": "main",
+            "path": "/"
+          },
+          "httpsEnforced": true
+        },
+        "latestRelease": null
+      },
+      {
         "name": "dsh-groupx",
         "nameWithOwner": "Harzva/dsh-groupx",
         "url": "https://github.com/Harzva/dsh-groupx",
@@ -1512,40 +1546,6 @@
         "pages": {
           "enabled": true,
           "url": "https://harzva.github.io/harness-flow-hub/",
-          "status": null,
-          "source": {
-            "branch": "main",
-            "path": "/"
-          },
-          "httpsEnforced": true
-        },
-        "latestRelease": null
-      },
-      {
-        "name": "harzva-skills-hub",
-        "nameWithOwner": "Harzva/harzva-skills-hub",
-        "url": "https://github.com/Harzva/harzva-skills-hub",
-        "description": "Auto-updating GitHub Pages registry of Harzva Codex skills, workflow skills, and agent recipes.",
-        "isPrivate": false,
-        "isArchived": false,
-        "isFork": false,
-        "primaryLanguage": {
-          "name": "Python"
-        },
-        "pushedAt": "2026-08-16T03:59:06Z",
-        "updatedAt": "2026-08-16T03:59:09Z",
-        "createdAt": "2026-05-14T09:29:45Z",
-        "defaultBranchRef": {
-          "name": "main"
-        },
-        "homepageUrl": "https://harzva.github.io/harzva-skills-hub/",
-        "stargazerCount": 0,
-        "forkCount": 0,
-        "repositoryTopics": [],
-        "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/harzva-skills-hub",
-        "pages": {
-          "enabled": true,
-          "url": "https://harzva.github.io/harzva-skills-hub/",
           "status": null,
           "source": {
             "branch": "main",
@@ -4385,8 +4385,8 @@
       "primaryLanguage": {
         "name": "TypeScript"
       },
-      "pushedAt": "2026-08-17T02:33:56Z",
-      "updatedAt": "2026-08-17T02:34:03Z",
+      "pushedAt": "2026-08-18T02:28:52Z",
+      "updatedAt": "2026-08-18T02:29:34Z",
       "createdAt": "2026-05-12T09:49:47Z",
       "defaultBranchRef": {
         "name": "main"
@@ -4781,8 +4781,8 @@
       "primaryLanguage": {
         "name": "JavaScript"
       },
-      "pushedAt": "2026-08-11T04:02:58Z",
-      "updatedAt": "2026-08-11T04:03:02Z",
+      "pushedAt": "2026-08-18T03:23:48Z",
+      "updatedAt": "2026-08-18T03:24:26Z",
       "createdAt": "2026-06-19T08:47:36Z",
       "defaultBranchRef": {
         "name": "main"
@@ -4978,8 +4978,8 @@
       "primaryLanguage": {
         "name": "Python"
       },
-      "pushedAt": "2026-08-16T04:00:13Z",
-      "updatedAt": "2026-08-16T04:00:39Z",
+      "pushedAt": "2026-08-17T04:03:34Z",
+      "updatedAt": "2026-08-17T04:03:42Z",
       "createdAt": "2026-05-14T09:29:39Z",
       "defaultBranchRef": {
         "name": "main"
@@ -5012,8 +5012,8 @@
       "primaryLanguage": {
         "name": "Python"
       },
-      "pushedAt": "2026-08-16T03:59:34Z",
-      "updatedAt": "2026-08-16T03:59:38Z",
+      "pushedAt": "2026-08-17T04:01:58Z",
+      "updatedAt": "2026-08-17T04:02:18Z",
       "createdAt": "2026-05-14T09:27:13Z",
       "defaultBranchRef": {
         "name": "main"
@@ -5046,8 +5046,8 @@
       "primaryLanguage": {
         "name": "Python"
       },
-      "pushedAt": "2026-08-16T04:03:11Z",
-      "updatedAt": "2026-08-16T04:03:17Z",
+      "pushedAt": "2026-08-17T04:06:07Z",
+      "updatedAt": "2026-08-17T04:06:14Z",
       "createdAt": "2026-05-14T09:29:34Z",
       "defaultBranchRef": {
         "name": "main"
@@ -5080,8 +5080,8 @@
       "primaryLanguage": {
         "name": "Python"
       },
-      "pushedAt": "2026-08-16T03:59:06Z",
-      "updatedAt": "2026-08-16T03:59:09Z",
+      "pushedAt": "2026-08-17T04:02:57Z",
+      "updatedAt": "2026-08-17T04:03:51Z",
       "createdAt": "2026-05-14T09:29:45Z",
       "defaultBranchRef": {
         "name": "main"
@@ -5183,13 +5183,13 @@
         "name": "Python"
       },
       "pushedAt": "2026-07-24T10:56:18Z",
-      "updatedAt": "2026-07-27T13:46:59Z",
+      "updatedAt": "2026-08-17T16:38:59Z",
       "createdAt": "2026-07-24T07:00:50Z",
       "defaultBranchRef": {
         "name": "main"
       },
       "homepageUrl": "https://harzva.github.io/LDB/",
-      "stargazerCount": 0,
+      "stargazerCount": 1,
       "forkCount": 0,
       "repositoryTopics": [
         "calibration",
@@ -5231,8 +5231,8 @@
       "primaryLanguage": {
         "name": "TypeScript"
       },
-      "pushedAt": "2026-08-17T01:59:16Z",
-      "updatedAt": "2026-08-17T01:59:27Z",
+      "pushedAt": "2026-08-18T01:55:57Z",
+      "updatedAt": "2026-08-18T01:56:04Z",
       "createdAt": "2026-04-01T03:55:26Z",
       "defaultBranchRef": {
         "name": "main"
@@ -5829,13 +5829,13 @@
         "name": "Python"
       },
       "pushedAt": "2026-07-24T10:56:18Z",
-      "updatedAt": "2026-07-27T13:46:59Z",
+      "updatedAt": "2026-08-17T16:38:59Z",
       "createdAt": "2026-07-24T07:00:50Z",
       "defaultBranchRef": {
         "name": "main"
       },
       "homepageUrl": "https://harzva.github.io/LDB/",
-      "stargazerCount": 0,
+      "stargazerCount": 1,
       "forkCount": 0,
       "repositoryTopics": [
         "calibration",
@@ -5877,8 +5877,8 @@
       "primaryLanguage": {
         "name": "TypeScript"
       },
-      "pushedAt": "2026-08-17T01:59:16Z",
-      "updatedAt": "2026-08-17T01:59:27Z",
+      "pushedAt": "2026-08-18T01:55:57Z",
+      "updatedAt": "2026-08-18T01:56:04Z",
       "createdAt": "2026-04-01T03:55:26Z",
       "defaultBranchRef": {
         "name": "main"
@@ -6772,8 +6772,8 @@
       "primaryLanguage": {
         "name": "Python"
       },
-      "pushedAt": "2026-08-16T03:59:06Z",
-      "updatedAt": "2026-08-16T03:59:09Z",
+      "pushedAt": "2026-08-17T04:02:57Z",
+      "updatedAt": "2026-08-17T04:03:51Z",
       "createdAt": "2026-05-14T09:29:45Z",
       "defaultBranchRef": {
         "name": "main"
