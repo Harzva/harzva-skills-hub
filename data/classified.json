@@ -1,13 +1,13 @@
 {
   "summary": {
-    "generatedAt": "2026-08-18T03:58:21.738537+00:00",
+    "generatedAt": "2026-08-19T03:58:45.576961+00:00",
     "owner": "Harzva",
     "mode": "skills",
-    "publicRepositories": 120,
-    "forks": 37,
+    "publicRepositories": 122,
+    "forks": 38,
     "pages": 30,
     "releases": 8,
-    "skills": 31,
+    "skills": 33,
     "artifacts": 16,
     "privateOmitted": 13
   },
@@ -24,8 +24,8 @@
         "primaryLanguage": {
           "name": "Python"
         },
-        "pushedAt": "2026-08-18T03:07:57Z",
-        "updatedAt": "2026-08-18T03:08:31Z",
+        "pushedAt": "2026-08-18T09:09:14Z",
+        "updatedAt": "2026-08-18T09:10:28Z",
         "createdAt": "2026-08-10T19:15:50Z",
         "defaultBranchRef": {
           "name": "main"
@@ -476,40 +476,6 @@
     ],
     "Pages and Live Demos": [
       {
-        "name": "game-ddl",
-        "nameWithOwner": "Harzva/game-ddl",
-        "url": "https://github.com/Harzva/game-ddl",
-        "description": "Game DDL topic family mirror with esports, game versions, and Steam upcoming releases",
-        "isPrivate": false,
-        "isArchived": false,
-        "isFork": false,
-        "primaryLanguage": {
-          "name": "JavaScript"
-        },
-        "pushedAt": "2026-08-18T03:23:48Z",
-        "updatedAt": "2026-08-18T03:24:26Z",
-        "createdAt": "2026-06-19T08:47:36Z",
-        "defaultBranchRef": {
-          "name": "main"
-        },
-        "homepageUrl": "",
-        "stargazerCount": 0,
-        "forkCount": 0,
-        "repositoryTopics": [],
-        "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/game-ddl",
-        "pages": {
-          "enabled": true,
-          "url": "https://harzva.github.io/game-ddl/",
-          "status": null,
-          "source": {
-            "branch": "main",
-            "path": "/"
-          },
-          "httpsEnforced": true
-        },
-        "latestRelease": null
-      },
-      {
         "name": "Agent-Job-Interview",
         "nameWithOwner": "Harzva/Agent-Job-Interview",
         "url": "https://github.com/Harzva/Agent-Job-Interview",
@@ -520,8 +486,8 @@
         "primaryLanguage": {
           "name": "TypeScript"
         },
-        "pushedAt": "2026-08-18T02:28:52Z",
-        "updatedAt": "2026-08-18T02:29:34Z",
+        "pushedAt": "2026-08-19T02:31:51Z",
+        "updatedAt": "2026-08-19T02:32:29Z",
         "createdAt": "2026-05-12T09:49:47Z",
         "defaultBranchRef": {
           "name": "main"
@@ -554,15 +520,15 @@
         "primaryLanguage": {
           "name": "TypeScript"
         },
-        "pushedAt": "2026-08-18T01:55:57Z",
-        "updatedAt": "2026-08-18T01:56:04Z",
+        "pushedAt": "2026-08-19T01:58:06Z",
+        "updatedAt": "2026-08-19T01:58:25Z",
         "createdAt": "2026-04-01T03:55:26Z",
         "defaultBranchRef": {
           "name": "main"
         },
         "homepageUrl": "",
         "stargazerCount": 57,
-        "forkCount": 11,
+        "forkCount": 9,
         "repositoryTopics": [
           "agent-loop",
           "ai-coding",
@@ -607,8 +573,8 @@
         "primaryLanguage": {
           "name": "Python"
         },
-        "pushedAt": "2026-08-17T04:06:07Z",
-        "updatedAt": "2026-08-17T04:06:14Z",
+        "pushedAt": "2026-08-18T04:01:25Z",
+        "updatedAt": "2026-08-18T04:01:54Z",
         "createdAt": "2026-05-14T09:29:34Z",
         "defaultBranchRef": {
           "name": "main"
@@ -641,8 +607,8 @@
         "primaryLanguage": {
           "name": "Python"
         },
-        "pushedAt": "2026-08-17T04:03:34Z",
-        "updatedAt": "2026-08-17T04:03:42Z",
+        "pushedAt": "2026-08-18T03:59:31Z",
+        "updatedAt": "2026-08-18T03:59:53Z",
         "createdAt": "2026-05-14T09:29:39Z",
         "defaultBranchRef": {
           "name": "main"
@@ -675,8 +641,8 @@
         "primaryLanguage": {
           "name": "Python"
         },
-        "pushedAt": "2026-08-17T04:01:58Z",
-        "updatedAt": "2026-08-17T04:02:18Z",
+        "pushedAt": "2026-08-18T03:57:57Z",
+        "updatedAt": "2026-08-18T03:58:12Z",
         "createdAt": "2026-05-14T09:27:13Z",
         "defaultBranchRef": {
           "name": "main"
@@ -689,6 +655,40 @@
         "pages": {
           "enabled": true,
           "url": "https://harzva.github.io/harzva-project-atlas/",
+          "status": null,
+          "source": {
+            "branch": "main",
+            "path": "/"
+          },
+          "httpsEnforced": true
+        },
+        "latestRelease": null
+      },
+      {
+        "name": "game-ddl",
+        "nameWithOwner": "Harzva/game-ddl",
+        "url": "https://github.com/Harzva/game-ddl",
+        "description": "Game DDL topic family mirror with esports, game versions, and Steam upcoming releases",
+        "isPrivate": false,
+        "isArchived": false,
+        "isFork": false,
+        "primaryLanguage": {
+          "name": "JavaScript"
+        },
+        "pushedAt": "2026-08-18T03:23:48Z",
+        "updatedAt": "2026-08-18T03:24:26Z",
+        "createdAt": "2026-06-19T08:47:36Z",
+        "defaultBranchRef": {
+          "name": "main"
+        },
+        "homepageUrl": "",
+        "stargazerCount": 0,
+        "forkCount": 0,
+        "repositoryTopics": [],
+        "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/game-ddl",
+        "pages": {
+          "enabled": true,
+          "url": "https://harzva.github.io/game-ddl/",
           "status": null,
           "source": {
             "branch": "main",
@@ -751,7 +751,7 @@
         },
         "homepageUrl": "",
         "stargazerCount": 1,
-        "forkCount": 0,
+        "forkCount": 1,
         "repositoryTopics": [
           "android",
           "gguf",
@@ -1407,6 +1407,39 @@
     ],
     "Skills and Agent Workflows": [
       {
+        "name": "dsh-maclens",
+        "nameWithOwner": "Harzva/dsh-maclens",
+        "url": "https://github.com/Harzva/dsh-maclens",
+        "description": "Bridge Apple on-device Vision framework (macOS) into DeepSeek Harness: OCR, image classification, face detection, document layout as local dsh tools. No network, no API key.",
+        "isPrivate": false,
+        "isArchived": false,
+        "isFork": false,
+        "primaryLanguage": {
+          "name": "Swift"
+        },
+        "pushedAt": "2026-08-18T18:41:13Z",
+        "updatedAt": "2026-08-18T18:43:29Z",
+        "createdAt": "2026-08-18T17:03:14Z",
+        "defaultBranchRef": {
+          "name": "main"
+        },
+        "homepageUrl": "",
+        "stargazerCount": 0,
+        "forkCount": 0,
+        "repositoryTopics": [
+          "deepseek-harness",
+          "dsh-plugin",
+          "macos",
+          "ocr",
+          "vision"
+        ],
+        "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/dsh-maclens",
+        "pages": {
+          "enabled": false
+        },
+        "latestRelease": null
+      },
+      {
         "name": "harzva-skills-hub",
         "nameWithOwner": "Harzva/harzva-skills-hub",
         "url": "https://github.com/Harzva/harzva-skills-hub",
@@ -1417,8 +1450,8 @@
         "primaryLanguage": {
           "name": "Python"
         },
-        "pushedAt": "2026-08-17T04:02:57Z",
-        "updatedAt": "2026-08-17T04:03:51Z",
+        "pushedAt": "2026-08-18T03:58:22Z",
+        "updatedAt": "2026-08-18T03:58:33Z",
         "createdAt": "2026-05-14T09:29:45Z",
         "defaultBranchRef": {
           "name": "main"
@@ -2841,6 +2874,31 @@
       }
     ],
     "Forks": [
+      {
+        "name": "awesome-dsh-plugin",
+        "nameWithOwner": "Harzva/awesome-dsh-plugin",
+        "url": "https://github.com/Harzva/awesome-dsh-plugin",
+        "description": "A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件精选列表",
+        "isPrivate": false,
+        "isArchived": false,
+        "isFork": true,
+        "primaryLanguage": null,
+        "pushedAt": "2026-08-18T20:59:45Z",
+        "updatedAt": "2026-08-18T18:20:10Z",
+        "createdAt": "2026-08-18T18:20:10Z",
+        "defaultBranchRef": {
+          "name": "main"
+        },
+        "homepageUrl": "https://awesome-dsh-plugin.com",
+        "stargazerCount": 0,
+        "forkCount": 0,
+        "repositoryTopics": [],
+        "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/awesome-dsh-plugin",
+        "pages": {
+          "enabled": false
+        },
+        "latestRelease": null
+      },
       {
         "name": "GroupX",
         "nameWithOwner": "Harzva/GroupX",
@@ -4385,8 +4443,8 @@
       "primaryLanguage": {
         "name": "TypeScript"
       },
-      "pushedAt": "2026-08-18T02:28:52Z",
-      "updatedAt": "2026-08-18T02:29:34Z",
+      "pushedAt": "2026-08-19T02:31:51Z",
+      "updatedAt": "2026-08-19T02:32:29Z",
       "createdAt": "2026-05-12T09:49:47Z",
       "defaultBranchRef": {
         "name": "main"
@@ -4978,8 +5036,8 @@
       "primaryLanguage": {
         "name": "Python"
       },
-      "pushedAt": "2026-08-17T04:03:34Z",
-      "updatedAt": "2026-08-17T04:03:42Z",
+      "pushedAt": "2026-08-18T03:59:31Z",
+      "updatedAt": "2026-08-18T03:59:53Z",
       "createdAt": "2026-05-14T09:29:39Z",
       "defaultBranchRef": {
         "name": "main"
@@ -5012,8 +5070,8 @@
       "primaryLanguage": {
         "name": "Python"
       },
-      "pushedAt": "2026-08-17T04:01:58Z",
-      "updatedAt": "2026-08-17T04:02:18Z",
+      "pushedAt": "2026-08-18T03:57:57Z",
+      "updatedAt": "2026-08-18T03:58:12Z",
       "createdAt": "2026-05-14T09:27:13Z",
       "defaultBranchRef": {
         "name": "main"
@@ -5046,8 +5104,8 @@
       "primaryLanguage": {
         "name": "Python"
       },
-      "pushedAt": "2026-08-17T04:06:07Z",
-      "updatedAt": "2026-08-17T04:06:14Z",
+      "pushedAt": "2026-08-18T04:01:25Z",
+      "updatedAt": "2026-08-18T04:01:54Z",
       "createdAt": "2026-05-14T09:29:34Z",
       "defaultBranchRef": {
         "name": "main"
@@ -5080,8 +5138,8 @@
       "primaryLanguage": {
         "name": "Python"
       },
-      "pushedAt": "2026-08-17T04:02:57Z",
-      "updatedAt": "2026-08-17T04:03:51Z",
+      "pushedAt": "2026-08-18T03:58:22Z",
+      "updatedAt": "2026-08-18T03:58:33Z",
       "createdAt": "2026-05-14T09:29:45Z",
       "defaultBranchRef": {
         "name": "main"
@@ -5231,15 +5289,15 @@
       "primaryLanguage": {
         "name": "TypeScript"
       },
-      "pushedAt": "2026-08-18T01:55:57Z",
-      "updatedAt": "2026-08-18T01:56:04Z",
+      "pushedAt": "2026-08-19T01:58:06Z",
+      "updatedAt": "2026-08-19T01:58:25Z",
       "createdAt": "2026-04-01T03:55:26Z",
       "defaultBranchRef": {
         "name": "main"
       },
       "homepageUrl": "",
       "stargazerCount": 57,
-      "forkCount": 11,
+      "forkCount": 9,
       "repositoryTopics": [
         "agent-loop",
         "ai-coding",
@@ -5424,7 +5482,7 @@
       },
       "homepageUrl": "",
       "stargazerCount": 1,
-      "forkCount": 0,
+      "forkCount": 1,
       "repositoryTopics": [
         "android",
         "gguf",
@@ -5877,15 +5935,15 @@
       "primaryLanguage": {
         "name": "TypeScript"
       },
-      "pushedAt": "2026-08-18T01:55:57Z",
-      "updatedAt": "2026-08-18T01:56:04Z",
+      "pushedAt": "2026-08-19T01:58:06Z",
+      "updatedAt": "2026-08-19T01:58:25Z",
       "createdAt": "2026-04-01T03:55:26Z",
       "defaultBranchRef": {
         "name": "main"
       },
       "homepageUrl": "",
       "stargazerCount": 57,
-      "forkCount": 11,
+      "forkCount": 9,
       "repositoryTopics": [
         "agent-loop",
         "ai-coding",
@@ -6475,6 +6533,39 @@
       "latestRelease": null
     },
     {
+      "name": "dsh-maclens",
+      "nameWithOwner": "Harzva/dsh-maclens",
+      "url": "https://github.com/Harzva/dsh-maclens",
+      "description": "Bridge Apple on-device Vision framework (macOS) into DeepSeek Harness: OCR, image classification, face detection, document layout as local dsh tools. No network, no API key.",
+      "isPrivate": false,
+      "isArchived": false,
+      "isFork": false,
+      "primaryLanguage": {
+        "name": "Swift"
+      },
+      "pushedAt": "2026-08-18T18:41:13Z",
+      "updatedAt": "2026-08-18T18:43:29Z",
+      "createdAt": "2026-08-18T17:03:14Z",
+      "defaultBranchRef": {
+        "name": "main"
+      },
+      "homepageUrl": "",
+      "stargazerCount": 0,
+      "forkCount": 0,
+      "repositoryTopics": [
+        "deepseek-harness",
+        "dsh-plugin",
+        "macos",
+        "ocr",
+        "vision"
+      ],
+      "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/dsh-maclens",
+      "pages": {
+        "enabled": false
+      },
+      "latestRelease": null
+    },
+    {
       "name": "dsh-research-lab",
       "nameWithOwner": "Harzva/dsh-research-lab",
       "url": "https://github.com/Harzva/dsh-research-lab",
@@ -6772,8 +6863,8 @@
       "primaryLanguage": {
         "name": "Python"
       },
-      "pushedAt": "2026-08-17T04:02:57Z",
-      "updatedAt": "2026-08-17T04:03:51Z",
+      "pushedAt": "2026-08-18T03:58:22Z",
+      "updatedAt": "2026-08-18T03:58:33Z",
       "createdAt": "2026-05-14T09:29:45Z",
       "defaultBranchRef": {
         "name": "main"
@@ -7109,6 +7200,31 @@
       "latestRelease": null
     },
     {
+      "name": "awesome-dsh-plugin",
+      "nameWithOwner": "Harzva/awesome-dsh-plugin",
+      "url": "https://github.com/Harzva/awesome-dsh-plugin",
+      "description": "A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件精选列表",
+      "isPrivate": false,
+      "isArchived": false,
+      "isFork": true,
+      "primaryLanguage": null,
+      "pushedAt": "2026-08-18T20:59:45Z",
+      "updatedAt": "2026-08-18T18:20:10Z",
+      "createdAt": "2026-08-18T18:20:10Z",
+      "defaultBranchRef": {
+        "name": "main"
+      },
+      "homepageUrl": "https://awesome-dsh-plugin.com",
+      "stargazerCount": 0,
+      "forkCount": 0,
+      "repositoryTopics": [],
+      "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/awesome-dsh-plugin",
+      "pages": {
+        "enabled": false
+      },
+      "latestRelease": null
+    },
+    {
       "name": "image2_UI_skill",
       "nameWithOwner": "Harzva/image2_UI_skill",
       "url": "https://github.com/Harzva/image2_UI_skill",
@@ -7162,6 +7278,31 @@
     }
   ],
   "forks": [
+    {
+      "name": "awesome-dsh-plugin",
+      "nameWithOwner": "Harzva/awesome-dsh-plugin",
+      "url": "https://github.com/Harzva/awesome-dsh-plugin",
+      "description": "A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件精选列表",
+      "isPrivate": false,
+      "isArchived": false,
+      "isFork": true,
+      "primaryLanguage": null,
+      "pushedAt": "2026-08-18T20:59:45Z",
+      "updatedAt": "2026-08-18T18:20:10Z",
+      "createdAt": "2026-08-18T18:20:10Z",
+      "defaultBranchRef": {
+        "name": "main"
+      },
+      "homepageUrl": "https://awesome-dsh-plugin.com",
+      "stargazerCount": 0,
+      "forkCount": 0,
+      "repositoryTopics": [],
+      "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/awesome-dsh-plugin",
+      "pages": {
+        "enabled": false
+      },
+      "latestRelease": null
+    },
     {
       "name": "awesome-obsidian",
       "nameWithOwner": "Harzva/awesome-obsidian",

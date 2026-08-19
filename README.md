@@ -6,7 +6,7 @@ A registry of Harzva Codex skills, workflow skills, and agent operating recipes.
 
 [Live Skill Board](https://harzva.github.io/harzva-skills-hub/) | [Project Atlas](https://github.com/Harzva/harzva-project-atlas)
 
-![Skills](https://img.shields.io/badge/skills-31-6B8E23?style=for-the-badge) ![Auto Update](https://img.shields.io/badge/update-daily-111111?style=for-the-badge)
+![Skills](https://img.shields.io/badge/skills-33-6B8E23?style=for-the-badge) ![Auto Update](https://img.shields.io/badge/update-daily-111111?style=for-the-badge)
 
 </div>
 
@@ -14,7 +14,9 @@ A registry of Harzva Codex skills, workflow skills, and agent operating recipes.
 
 | Skill Repository | Language | Updated | Description |
 |---|---:|---:|---|
-| [harzva-skills-hub](https://github.com/Harzva/harzva-skills-hub) | Python | 2026-08-17 | Auto-updating GitHub Pages registry of Harzva Codex skills, workflow skills, and agent recipes. |
+| [awesome-dsh-plugin](https://github.com/Harzva/awesome-dsh-plugin) | Mixed | 2026-08-18 | A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件精选列表 |
+| [dsh-maclens](https://github.com/Harzva/dsh-maclens) | Swift | 2026-08-18 | Bridge Apple on-device Vision framework (macOS) into DeepSeek Harness: OCR, image classification, face detection, document layout as local dsh tools. No network, no API key. |
+| [harzva-skills-hub](https://github.com/Harzva/harzva-skills-hub) | Python | 2026-08-18 | Auto-updating GitHub Pages registry of Harzva Codex skills, workflow skills, and agent recipes. |
 | [dsh-groupx](https://github.com/Harzva/dsh-groupx) | TypeScript | 2026-08-17 | Native GroupX multi-agent room integration for DeepSeek Harness |
 | [dsh-research-lab](https://github.com/Harzva/dsh-research-lab) | TypeScript | 2026-08-17 | DSH-native multi-runtime baseline, ablation, and reproducible evaluation control plane |
 | [harness-flow-hub](https://github.com/Harzva/harness-flow-hub) | JavaScript | 2026-08-16 | DSH Flow and plugin hub for DeepSeek Harness Agent Stacks |
@@ -62,5 +64,5 @@ This MetaRepo refreshes itself with GitHub Actions.
 - Data source: GitHub REST API.
 - Privacy default: public repositories only.
 - Private mode: set `META_INCLUDE_PRIVATE=true` and provide `META_GITHUB_TOKEN` only when the meta repository is private.
-- Generated at: `2026-08-18T03:58:21.738537+00:00`.
+- Generated at: `2026-08-19T03:58:45.576961+00:00`.
 - Private repositories omitted from this public output: `13`.

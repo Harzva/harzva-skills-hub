@@ -361,6 +361,39 @@
     "latestRelease": null
   },
   {
+    "name": "dsh-maclens",
+    "nameWithOwner": "Harzva/dsh-maclens",
+    "url": "https://github.com/Harzva/dsh-maclens",
+    "description": "Bridge Apple on-device Vision framework (macOS) into DeepSeek Harness: OCR, image classification, face detection, document layout as local dsh tools. No network, no API key.",
+    "isPrivate": false,
+    "isArchived": false,
+    "isFork": false,
+    "primaryLanguage": {
+      "name": "Swift"
+    },
+    "pushedAt": "2026-08-18T18:41:13Z",
+    "updatedAt": "2026-08-18T18:43:29Z",
+    "createdAt": "2026-08-18T17:03:14Z",
+    "defaultBranchRef": {
+      "name": "main"
+    },
+    "homepageUrl": "",
+    "stargazerCount": 0,
+    "forkCount": 0,
+    "repositoryTopics": [
+      "deepseek-harness",
+      "dsh-plugin",
+      "macos",
+      "ocr",
+      "vision"
+    ],
+    "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/dsh-maclens",
+    "pages": {
+      "enabled": false
+    },
+    "latestRelease": null
+  },
+  {
     "name": "dsh-research-lab",
     "nameWithOwner": "Harzva/dsh-research-lab",
     "url": "https://github.com/Harzva/dsh-research-lab",
@@ -658,8 +691,8 @@
     "primaryLanguage": {
       "name": "Python"
     },
-    "pushedAt": "2026-08-17T04:02:57Z",
-    "updatedAt": "2026-08-17T04:03:51Z",
+    "pushedAt": "2026-08-18T03:58:22Z",
+    "updatedAt": "2026-08-18T03:58:33Z",
     "createdAt": "2026-05-14T09:29:45Z",
     "defaultBranchRef": {
       "name": "main"
@@ -989,6 +1022,31 @@
     "forkCount": 0,
     "repositoryTopics": [],
     "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/zhihu-publish-skill",
+    "pages": {
+      "enabled": false
+    },
+    "latestRelease": null
+  },
+  {
+    "name": "awesome-dsh-plugin",
+    "nameWithOwner": "Harzva/awesome-dsh-plugin",
+    "url": "https://github.com/Harzva/awesome-dsh-plugin",
+    "description": "A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件精选列表",
+    "isPrivate": false,
+    "isArchived": false,
+    "isFork": true,
+    "primaryLanguage": null,
+    "pushedAt": "2026-08-18T20:59:45Z",
+    "updatedAt": "2026-08-18T18:20:10Z",
+    "createdAt": "2026-08-18T18:20:10Z",
+    "defaultBranchRef": {
+      "name": "main"
+    },
+    "homepageUrl": "https://awesome-dsh-plugin.com",
+    "stargazerCount": 0,
+    "forkCount": 0,
+    "repositoryTopics": [],
+    "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/awesome-dsh-plugin",
     "pages": {
       "enabled": false
     },
