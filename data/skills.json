@@ -394,6 +394,53 @@
     "latestRelease": null
   },
   {
+    "name": "dsh-obsidian",
+    "nameWithOwner": "Harzva/dsh-obsidian",
+    "url": "https://github.com/Harzva/dsh-obsidian",
+    "description": null,
+    "isPrivate": false,
+    "isArchived": false,
+    "isFork": false,
+    "primaryLanguage": {
+      "name": "TypeScript"
+    },
+    "pushedAt": "2026-08-19T12:05:35Z",
+    "updatedAt": "2026-08-19T12:09:07Z",
+    "createdAt": "2026-08-19T12:01:13Z",
+    "defaultBranchRef": {
+      "name": "main"
+    },
+    "homepageUrl": "",
+    "stargazerCount": 0,
+    "forkCount": 0,
+    "repositoryTopics": [
+      "dsh-plugin",
+      "knowledge-graph",
+      "obsidian"
+    ],
+    "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/dsh-obsidian",
+    "pages": {
+      "enabled": false
+    },
+    "latestRelease": {
+      "name": "dsh-obsidian v0.1.0-alpha.0",
+      "tagName": "v0.1.0-alpha.0",
+      "url": "https://github.com/Harzva/dsh-obsidian/releases/tag/v0.1.0-alpha.0",
+      "publishedAt": "2026-08-19T12:01:44Z",
+      "prerelease": false,
+      "draft": false,
+      "assets": [
+        {
+          "name": "harness-flow-dsh-obsidian-0.1.0-alpha.0.tgz",
+          "url": "https://github.com/Harzva/dsh-obsidian/releases/download/v0.1.0-alpha.0/harness-flow-dsh-obsidian-0.1.0-alpha.0.tgz",
+          "size": 21393,
+          "downloadCount": 0,
+          "contentType": "application/x-gtar"
+        }
+      ]
+    }
+  },
+  {
     "name": "dsh-research-lab",
     "nameWithOwner": "Harzva/dsh-research-lab",
     "url": "https://github.com/Harzva/dsh-research-lab",
@@ -427,6 +474,83 @@
       "enabled": false
     },
     "latestRelease": null
+  },
+  {
+    "name": "dsh-session-context-menu",
+    "nameWithOwner": "Harzva/dsh-session-context-menu",
+    "url": "https://github.com/Harzva/dsh-session-context-menu",
+    "description": "Lifecycle-safe Codex-style Session context actions for DeepSeek Harness.",
+    "isPrivate": false,
+    "isArchived": false,
+    "isFork": false,
+    "primaryLanguage": {
+      "name": "JavaScript"
+    },
+    "pushedAt": "2026-08-19T09:16:14Z",
+    "updatedAt": "2026-08-19T09:18:52Z",
+    "createdAt": "2026-08-19T09:16:10Z",
+    "defaultBranchRef": {
+      "name": "main"
+    },
+    "homepageUrl": "",
+    "stargazerCount": 0,
+    "forkCount": 0,
+    "repositoryTopics": [
+      "context-menu",
+      "deepseek-harness",
+      "dsh-plugin",
+      "session-management"
+    ],
+    "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/dsh-session-context-menu",
+    "pages": {
+      "enabled": false
+    },
+    "latestRelease": null
+  },
+  {
+    "name": "dsh-uvm",
+    "nameWithOwner": "Harzva/dsh-uvm",
+    "url": "https://github.com/Harzva/dsh-uvm",
+    "description": "DSH-native uv environment manager: create/sync/run Python venvs from DSH Web, pip fallback, read-only conda visibility",
+    "isPrivate": false,
+    "isArchived": false,
+    "isFork": false,
+    "primaryLanguage": {
+      "name": "TypeScript"
+    },
+    "pushedAt": "2026-08-19T12:23:53Z",
+    "updatedAt": "2026-08-19T12:25:06Z",
+    "createdAt": "2026-08-19T12:01:31Z",
+    "defaultBranchRef": {
+      "name": "main"
+    },
+    "homepageUrl": "",
+    "stargazerCount": 0,
+    "forkCount": 0,
+    "repositoryTopics": [
+      "dsh-plugin"
+    ],
+    "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/dsh-uvm",
+    "pages": {
+      "enabled": false
+    },
+    "latestRelease": {
+      "name": "dsh-uvm v0.1.0-alpha.1",
+      "tagName": "v0.1.0-alpha.1",
+      "url": "https://github.com/Harzva/dsh-uvm/releases/tag/v0.1.0-alpha.1",
+      "publishedAt": "2026-08-19T12:23:53Z",
+      "prerelease": false,
+      "draft": false,
+      "assets": [
+        {
+          "name": "harness-flow-dsh-uvm-0.1.0-alpha.1.tgz",
+          "url": "https://github.com/Harzva/dsh-uvm/releases/download/v0.1.0-alpha.1/harness-flow-dsh-uvm-0.1.0-alpha.1.tgz",
+          "size": 21023,
+          "downloadCount": 1,
+          "contentType": "application/x-gtar"
+        }
+      ]
+    }
   },
   {
     "name": "everything-agent-cli-to-claude-code",
@@ -544,13 +668,13 @@
       "name": "Python"
     },
     "pushedAt": "2026-05-18T13:46:04Z",
-    "updatedAt": "2026-05-18T13:46:38Z",
+    "updatedAt": "2026-08-19T21:10:01Z",
     "createdAt": "2026-05-14T10:34:15Z",
     "defaultBranchRef": {
       "name": "main"
     },
     "homepageUrl": "",
-    "stargazerCount": 0,
+    "stargazerCount": 1,
     "forkCount": 0,
     "repositoryTopics": [
       "automation",
@@ -691,8 +815,8 @@
     "primaryLanguage": {
       "name": "Python"
     },
-    "pushedAt": "2026-08-18T03:58:22Z",
-    "updatedAt": "2026-08-18T03:58:33Z",
+    "pushedAt": "2026-08-19T03:58:46Z",
+    "updatedAt": "2026-08-19T03:58:59Z",
     "createdAt": "2026-05-14T09:29:45Z",
     "defaultBranchRef": {
       "name": "main"
@@ -1035,9 +1159,11 @@
     "isPrivate": false,
     "isArchived": false,
     "isFork": true,
-    "primaryLanguage": null,
-    "pushedAt": "2026-08-18T20:59:45Z",
-    "updatedAt": "2026-08-18T18:20:10Z",
+    "primaryLanguage": {
+      "name": "Python"
+    },
+    "pushedAt": "2026-08-19T14:48:52Z",
+    "updatedAt": "2026-08-19T12:05:11Z",
     "createdAt": "2026-08-18T18:20:10Z",
     "defaultBranchRef": {
       "name": "main"
@@ -1047,6 +1173,31 @@
     "forkCount": 0,
     "repositoryTopics": [],
     "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/awesome-dsh-plugin",
+    "pages": {
+      "enabled": false
+    },
+    "latestRelease": null
+  },
+  {
+    "name": "deepseek-harness",
+    "nameWithOwner": "Harzva/deepseek-harness",
+    "url": "https://github.com/Harzva/deepseek-harness",
+    "description": "DeepSeek Harness: Everything is a Plugin.",
+    "isPrivate": false,
+    "isArchived": false,
+    "isFork": true,
+    "primaryLanguage": null,
+    "pushedAt": "2026-08-20T02:07:21Z",
+    "updatedAt": "2026-08-19T09:20:15Z",
+    "createdAt": "2026-08-19T09:20:15Z",
+    "defaultBranchRef": {
+      "name": "master"
+    },
+    "homepageUrl": "https://deepseek.com/harness",
+    "stargazerCount": 0,
+    "forkCount": 0,
+    "repositoryTopics": [],
+    "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/deepseek-harness",
     "pages": {
       "enabled": false
     },

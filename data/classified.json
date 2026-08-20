@@ -1,14 +1,14 @@
 {
   "summary": {
-    "generatedAt": "2026-08-19T03:58:45.576961+00:00",
+    "generatedAt": "2026-08-20T03:58:41.049276+00:00",
     "owner": "Harzva",
     "mode": "skills",
-    "publicRepositories": 122,
-    "forks": 38,
+    "publicRepositories": 126,
+    "forks": 39,
     "pages": 30,
-    "releases": 8,
-    "skills": 33,
-    "artifacts": 16,
+    "releases": 10,
+    "skills": 37,
+    "artifacts": 18,
     "privateOmitted": 13
   },
   "categories": {
@@ -486,14 +486,14 @@
         "primaryLanguage": {
           "name": "TypeScript"
         },
-        "pushedAt": "2026-08-19T02:31:51Z",
-        "updatedAt": "2026-08-19T02:32:29Z",
+        "pushedAt": "2026-08-20T02:30:45Z",
+        "updatedAt": "2026-08-20T02:30:56Z",
         "createdAt": "2026-05-12T09:49:47Z",
         "defaultBranchRef": {
           "name": "main"
         },
         "homepageUrl": "https://harzva.github.io/Agent-Job-Interview/",
-        "stargazerCount": 3,
+        "stargazerCount": 4,
         "forkCount": 0,
         "repositoryTopics": [],
         "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/Agent-Job-Interview",
@@ -520,15 +520,15 @@
         "primaryLanguage": {
           "name": "TypeScript"
         },
-        "pushedAt": "2026-08-19T01:58:06Z",
-        "updatedAt": "2026-08-19T01:58:25Z",
+        "pushedAt": "2026-08-20T01:56:39Z",
+        "updatedAt": "2026-08-20T01:57:26Z",
         "createdAt": "2026-04-01T03:55:26Z",
         "defaultBranchRef": {
           "name": "main"
         },
         "homepageUrl": "",
         "stargazerCount": 57,
-        "forkCount": 9,
+        "forkCount": 8,
         "repositoryTopics": [
           "agent-loop",
           "ai-coding",
@@ -573,8 +573,8 @@
         "primaryLanguage": {
           "name": "Python"
         },
-        "pushedAt": "2026-08-18T04:01:25Z",
-        "updatedAt": "2026-08-18T04:01:54Z",
+        "pushedAt": "2026-08-19T04:02:13Z",
+        "updatedAt": "2026-08-19T04:04:16Z",
         "createdAt": "2026-05-14T09:29:34Z",
         "defaultBranchRef": {
           "name": "main"
@@ -607,8 +607,8 @@
         "primaryLanguage": {
           "name": "Python"
         },
-        "pushedAt": "2026-08-18T03:59:31Z",
-        "updatedAt": "2026-08-18T03:59:53Z",
+        "pushedAt": "2026-08-19T03:59:25Z",
+        "updatedAt": "2026-08-19T03:59:34Z",
         "createdAt": "2026-05-14T09:29:39Z",
         "defaultBranchRef": {
           "name": "main"
@@ -641,8 +641,8 @@
         "primaryLanguage": {
           "name": "Python"
         },
-        "pushedAt": "2026-08-18T03:57:57Z",
-        "updatedAt": "2026-08-18T03:58:12Z",
+        "pushedAt": "2026-08-19T03:58:30Z",
+        "updatedAt": "2026-08-19T03:59:25Z",
         "createdAt": "2026-05-14T09:27:13Z",
         "defaultBranchRef": {
           "name": "main"
@@ -832,7 +832,7 @@
               "name": "mobilecode-v0.1.0.apk",
               "url": "https://github.com/Harzva/mobilecode/releases/download/v0.1.0/mobilecode-v0.1.0.apk",
               "size": 53051517,
-              "downloadCount": 58,
+              "downloadCount": 61,
               "contentType": "application/vnd.android.package-archive"
             }
           ]
@@ -1407,6 +1407,164 @@
     ],
     "Skills and Agent Workflows": [
       {
+        "name": "dsh-uvm",
+        "nameWithOwner": "Harzva/dsh-uvm",
+        "url": "https://github.com/Harzva/dsh-uvm",
+        "description": "DSH-native uv environment manager: create/sync/run Python venvs from DSH Web, pip fallback, read-only conda visibility",
+        "isPrivate": false,
+        "isArchived": false,
+        "isFork": false,
+        "primaryLanguage": {
+          "name": "TypeScript"
+        },
+        "pushedAt": "2026-08-19T12:23:53Z",
+        "updatedAt": "2026-08-19T12:25:06Z",
+        "createdAt": "2026-08-19T12:01:31Z",
+        "defaultBranchRef": {
+          "name": "main"
+        },
+        "homepageUrl": "",
+        "stargazerCount": 0,
+        "forkCount": 0,
+        "repositoryTopics": [
+          "dsh-plugin"
+        ],
+        "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/dsh-uvm",
+        "pages": {
+          "enabled": false
+        },
+        "latestRelease": {
+          "name": "dsh-uvm v0.1.0-alpha.1",
+          "tagName": "v0.1.0-alpha.1",
+          "url": "https://github.com/Harzva/dsh-uvm/releases/tag/v0.1.0-alpha.1",
+          "publishedAt": "2026-08-19T12:23:53Z",
+          "prerelease": false,
+          "draft": false,
+          "assets": [
+            {
+              "name": "harness-flow-dsh-uvm-0.1.0-alpha.1.tgz",
+              "url": "https://github.com/Harzva/dsh-uvm/releases/download/v0.1.0-alpha.1/harness-flow-dsh-uvm-0.1.0-alpha.1.tgz",
+              "size": 21023,
+              "downloadCount": 1,
+              "contentType": "application/x-gtar"
+            }
+          ]
+        }
+      },
+      {
+        "name": "dsh-obsidian",
+        "nameWithOwner": "Harzva/dsh-obsidian",
+        "url": "https://github.com/Harzva/dsh-obsidian",
+        "description": null,
+        "isPrivate": false,
+        "isArchived": false,
+        "isFork": false,
+        "primaryLanguage": {
+          "name": "TypeScript"
+        },
+        "pushedAt": "2026-08-19T12:05:35Z",
+        "updatedAt": "2026-08-19T12:09:07Z",
+        "createdAt": "2026-08-19T12:01:13Z",
+        "defaultBranchRef": {
+          "name": "main"
+        },
+        "homepageUrl": "",
+        "stargazerCount": 0,
+        "forkCount": 0,
+        "repositoryTopics": [
+          "dsh-plugin",
+          "knowledge-graph",
+          "obsidian"
+        ],
+        "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/dsh-obsidian",
+        "pages": {
+          "enabled": false
+        },
+        "latestRelease": {
+          "name": "dsh-obsidian v0.1.0-alpha.0",
+          "tagName": "v0.1.0-alpha.0",
+          "url": "https://github.com/Harzva/dsh-obsidian/releases/tag/v0.1.0-alpha.0",
+          "publishedAt": "2026-08-19T12:01:44Z",
+          "prerelease": false,
+          "draft": false,
+          "assets": [
+            {
+              "name": "harness-flow-dsh-obsidian-0.1.0-alpha.0.tgz",
+              "url": "https://github.com/Harzva/dsh-obsidian/releases/download/v0.1.0-alpha.0/harness-flow-dsh-obsidian-0.1.0-alpha.0.tgz",
+              "size": 21393,
+              "downloadCount": 0,
+              "contentType": "application/x-gtar"
+            }
+          ]
+        }
+      },
+      {
+        "name": "dsh-session-context-menu",
+        "nameWithOwner": "Harzva/dsh-session-context-menu",
+        "url": "https://github.com/Harzva/dsh-session-context-menu",
+        "description": "Lifecycle-safe Codex-style Session context actions for DeepSeek Harness.",
+        "isPrivate": false,
+        "isArchived": false,
+        "isFork": false,
+        "primaryLanguage": {
+          "name": "JavaScript"
+        },
+        "pushedAt": "2026-08-19T09:16:14Z",
+        "updatedAt": "2026-08-19T09:18:52Z",
+        "createdAt": "2026-08-19T09:16:10Z",
+        "defaultBranchRef": {
+          "name": "main"
+        },
+        "homepageUrl": "",
+        "stargazerCount": 0,
+        "forkCount": 0,
+        "repositoryTopics": [
+          "context-menu",
+          "deepseek-harness",
+          "dsh-plugin",
+          "session-management"
+        ],
+        "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/dsh-session-context-menu",
+        "pages": {
+          "enabled": false
+        },
+        "latestRelease": null
+      },
+      {
+        "name": "harzva-skills-hub",
+        "nameWithOwner": "Harzva/harzva-skills-hub",
+        "url": "https://github.com/Harzva/harzva-skills-hub",
+        "description": "Auto-updating GitHub Pages registry of Harzva Codex skills, workflow skills, and agent recipes.",
+        "isPrivate": false,
+        "isArchived": false,
+        "isFork": false,
+        "primaryLanguage": {
+          "name": "Python"
+        },
+        "pushedAt": "2026-08-19T03:58:46Z",
+        "updatedAt": "2026-08-19T03:58:59Z",
+        "createdAt": "2026-05-14T09:29:45Z",
+        "defaultBranchRef": {
+          "name": "main"
+        },
+        "homepageUrl": "https://harzva.github.io/harzva-skills-hub/",
+        "stargazerCount": 0,
+        "forkCount": 0,
+        "repositoryTopics": [],
+        "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/harzva-skills-hub",
+        "pages": {
+          "enabled": true,
+          "url": "https://harzva.github.io/harzva-skills-hub/",
+          "status": null,
+          "source": {
+            "branch": "main",
+            "path": "/"
+          },
+          "httpsEnforced": true
+        },
+        "latestRelease": null
+      },
+      {
         "name": "dsh-maclens",
         "nameWithOwner": "Harzva/dsh-maclens",
         "url": "https://github.com/Harzva/dsh-maclens",
@@ -1436,40 +1594,6 @@
         "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/dsh-maclens",
         "pages": {
           "enabled": false
-        },
-        "latestRelease": null
-      },
-      {
-        "name": "harzva-skills-hub",
-        "nameWithOwner": "Harzva/harzva-skills-hub",
-        "url": "https://github.com/Harzva/harzva-skills-hub",
-        "description": "Auto-updating GitHub Pages registry of Harzva Codex skills, workflow skills, and agent recipes.",
-        "isPrivate": false,
-        "isArchived": false,
-        "isFork": false,
-        "primaryLanguage": {
-          "name": "Python"
-        },
-        "pushedAt": "2026-08-18T03:58:22Z",
-        "updatedAt": "2026-08-18T03:58:33Z",
-        "createdAt": "2026-05-14T09:29:45Z",
-        "defaultBranchRef": {
-          "name": "main"
-        },
-        "homepageUrl": "https://harzva.github.io/harzva-skills-hub/",
-        "stargazerCount": 0,
-        "forkCount": 0,
-        "repositoryTopics": [],
-        "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/harzva-skills-hub",
-        "pages": {
-          "enabled": true,
-          "url": "https://harzva.github.io/harzva-skills-hub/",
-          "status": null,
-          "source": {
-            "branch": "main",
-            "path": "/"
-          },
-          "httpsEnforced": true
         },
         "latestRelease": null
       },
@@ -1958,13 +2082,13 @@
           "name": "Python"
         },
         "pushedAt": "2026-05-18T13:46:04Z",
-        "updatedAt": "2026-05-18T13:46:38Z",
+        "updatedAt": "2026-08-19T21:10:01Z",
         "createdAt": "2026-05-14T10:34:15Z",
         "defaultBranchRef": {
           "name": "main"
         },
         "homepageUrl": "",
-        "stargazerCount": 0,
+        "stargazerCount": 1,
         "forkCount": 0,
         "repositoryTopics": [
           "automation",
@@ -2875,6 +2999,31 @@
     ],
     "Forks": [
       {
+        "name": "deepseek-harness",
+        "nameWithOwner": "Harzva/deepseek-harness",
+        "url": "https://github.com/Harzva/deepseek-harness",
+        "description": "DeepSeek Harness: Everything is a Plugin.",
+        "isPrivate": false,
+        "isArchived": false,
+        "isFork": true,
+        "primaryLanguage": null,
+        "pushedAt": "2026-08-20T02:07:21Z",
+        "updatedAt": "2026-08-19T09:20:15Z",
+        "createdAt": "2026-08-19T09:20:15Z",
+        "defaultBranchRef": {
+          "name": "master"
+        },
+        "homepageUrl": "https://deepseek.com/harness",
+        "stargazerCount": 0,
+        "forkCount": 0,
+        "repositoryTopics": [],
+        "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/deepseek-harness",
+        "pages": {
+          "enabled": false
+        },
+        "latestRelease": null
+      },
+      {
         "name": "awesome-dsh-plugin",
         "nameWithOwner": "Harzva/awesome-dsh-plugin",
         "url": "https://github.com/Harzva/awesome-dsh-plugin",
@@ -2882,9 +3031,11 @@
         "isPrivate": false,
         "isArchived": false,
         "isFork": true,
-        "primaryLanguage": null,
-        "pushedAt": "2026-08-18T20:59:45Z",
-        "updatedAt": "2026-08-18T18:20:10Z",
+        "primaryLanguage": {
+          "name": "Python"
+        },
+        "pushedAt": "2026-08-19T14:48:52Z",
+        "updatedAt": "2026-08-19T12:05:11Z",
         "createdAt": "2026-08-18T18:20:10Z",
         "defaultBranchRef": {
           "name": "main"
@@ -4043,6 +4194,42 @@
       "isFork": false
     },
     {
+      "repo": "Harzva/dsh-uvm",
+      "repoName": "dsh-uvm",
+      "repoUrl": "https://github.com/Harzva/dsh-uvm",
+      "description": "DSH-native uv environment manager: create/sync/run Python venvs from DSH Web, pip fallback, read-only conda visibility",
+      "language": "TypeScript",
+      "assetName": "harness-flow-dsh-uvm-0.1.0-alpha.1.tgz",
+      "assetUrl": "https://github.com/Harzva/dsh-uvm/releases/download/v0.1.0-alpha.1/harness-flow-dsh-uvm-0.1.0-alpha.1.tgz",
+      "size": 21023,
+      "downloadCount": 1,
+      "kind": "Archive",
+      "functionCategory": "General Utilities",
+      "releaseName": "dsh-uvm v0.1.0-alpha.1",
+      "tagName": "v0.1.0-alpha.1",
+      "releaseUrl": "https://github.com/Harzva/dsh-uvm/releases/tag/v0.1.0-alpha.1",
+      "publishedAt": "2026-08-19T12:23:53Z",
+      "isFork": false
+    },
+    {
+      "repo": "Harzva/dsh-obsidian",
+      "repoName": "dsh-obsidian",
+      "repoUrl": "https://github.com/Harzva/dsh-obsidian",
+      "description": null,
+      "language": "TypeScript",
+      "assetName": "harness-flow-dsh-obsidian-0.1.0-alpha.0.tgz",
+      "assetUrl": "https://github.com/Harzva/dsh-obsidian/releases/download/v0.1.0-alpha.0/harness-flow-dsh-obsidian-0.1.0-alpha.0.tgz",
+      "size": 21393,
+      "downloadCount": 0,
+      "kind": "Archive",
+      "functionCategory": "Learning and Knowledge",
+      "releaseName": "dsh-obsidian v0.1.0-alpha.0",
+      "tagName": "v0.1.0-alpha.0",
+      "releaseUrl": "https://github.com/Harzva/dsh-obsidian/releases/tag/v0.1.0-alpha.0",
+      "publishedAt": "2026-08-19T12:01:44Z",
+      "isFork": false
+    },
+    {
       "repo": "Harzva/GitReleaseMarket",
       "repoName": "GitReleaseMarket",
       "repoUrl": "https://github.com/Harzva/GitReleaseMarket",
@@ -4123,7 +4310,7 @@
       "assetName": "mobilecode-v0.1.0.apk",
       "assetUrl": "https://github.com/Harzva/mobilecode/releases/download/v0.1.0/mobilecode-v0.1.0.apk",
       "size": 53051517,
-      "downloadCount": 58,
+      "downloadCount": 61,
       "kind": "Android APK",
       "functionCategory": "Mobile Apps",
       "releaseName": "MobileCode v0.1.0 Android APK",
@@ -4216,7 +4403,7 @@
         "assetName": "mobilecode-v0.1.0.apk",
         "assetUrl": "https://github.com/Harzva/mobilecode/releases/download/v0.1.0/mobilecode-v0.1.0.apk",
         "size": 53051517,
-        "downloadCount": 58,
+        "downloadCount": 61,
         "kind": "Android APK",
         "functionCategory": "Mobile Apps",
         "releaseName": "MobileCode v0.1.0 Android APK",
@@ -4429,6 +4616,46 @@
         "publishedAt": "2026-04-16T14:25:37Z",
         "isFork": false
       }
+    ],
+    "Learning and Knowledge": [
+      {
+        "repo": "Harzva/dsh-obsidian",
+        "repoName": "dsh-obsidian",
+        "repoUrl": "https://github.com/Harzva/dsh-obsidian",
+        "description": null,
+        "language": "TypeScript",
+        "assetName": "harness-flow-dsh-obsidian-0.1.0-alpha.0.tgz",
+        "assetUrl": "https://github.com/Harzva/dsh-obsidian/releases/download/v0.1.0-alpha.0/harness-flow-dsh-obsidian-0.1.0-alpha.0.tgz",
+        "size": 21393,
+        "downloadCount": 0,
+        "kind": "Archive",
+        "functionCategory": "Learning and Knowledge",
+        "releaseName": "dsh-obsidian v0.1.0-alpha.0",
+        "tagName": "v0.1.0-alpha.0",
+        "releaseUrl": "https://github.com/Harzva/dsh-obsidian/releases/tag/v0.1.0-alpha.0",
+        "publishedAt": "2026-08-19T12:01:44Z",
+        "isFork": false
+      }
+    ],
+    "General Utilities": [
+      {
+        "repo": "Harzva/dsh-uvm",
+        "repoName": "dsh-uvm",
+        "repoUrl": "https://github.com/Harzva/dsh-uvm",
+        "description": "DSH-native uv environment manager: create/sync/run Python venvs from DSH Web, pip fallback, read-only conda visibility",
+        "language": "TypeScript",
+        "assetName": "harness-flow-dsh-uvm-0.1.0-alpha.1.tgz",
+        "assetUrl": "https://github.com/Harzva/dsh-uvm/releases/download/v0.1.0-alpha.1/harness-flow-dsh-uvm-0.1.0-alpha.1.tgz",
+        "size": 21023,
+        "downloadCount": 1,
+        "kind": "Archive",
+        "functionCategory": "General Utilities",
+        "releaseName": "dsh-uvm v0.1.0-alpha.1",
+        "tagName": "v0.1.0-alpha.1",
+        "releaseUrl": "https://github.com/Harzva/dsh-uvm/releases/tag/v0.1.0-alpha.1",
+        "publishedAt": "2026-08-19T12:23:53Z",
+        "isFork": false
+      }
     ]
   },
   "pages": [
@@ -4443,14 +4670,14 @@
       "primaryLanguage": {
         "name": "TypeScript"
       },
-      "pushedAt": "2026-08-19T02:31:51Z",
-      "updatedAt": "2026-08-19T02:32:29Z",
+      "pushedAt": "2026-08-20T02:30:45Z",
+      "updatedAt": "2026-08-20T02:30:56Z",
       "createdAt": "2026-05-12T09:49:47Z",
       "defaultBranchRef": {
         "name": "main"
       },
       "homepageUrl": "https://harzva.github.io/Agent-Job-Interview/",
-      "stargazerCount": 3,
+      "stargazerCount": 4,
       "forkCount": 0,
       "repositoryTopics": [],
       "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/Agent-Job-Interview",
@@ -5036,8 +5263,8 @@
       "primaryLanguage": {
         "name": "Python"
       },
-      "pushedAt": "2026-08-18T03:59:31Z",
-      "updatedAt": "2026-08-18T03:59:53Z",
+      "pushedAt": "2026-08-19T03:59:25Z",
+      "updatedAt": "2026-08-19T03:59:34Z",
       "createdAt": "2026-05-14T09:29:39Z",
       "defaultBranchRef": {
         "name": "main"
@@ -5070,8 +5297,8 @@
       "primaryLanguage": {
         "name": "Python"
       },
-      "pushedAt": "2026-08-18T03:57:57Z",
-      "updatedAt": "2026-08-18T03:58:12Z",
+      "pushedAt": "2026-08-19T03:58:30Z",
+      "updatedAt": "2026-08-19T03:59:25Z",
       "createdAt": "2026-05-14T09:27:13Z",
       "defaultBranchRef": {
         "name": "main"
@@ -5104,8 +5331,8 @@
       "primaryLanguage": {
         "name": "Python"
       },
-      "pushedAt": "2026-08-18T04:01:25Z",
-      "updatedAt": "2026-08-18T04:01:54Z",
+      "pushedAt": "2026-08-19T04:02:13Z",
+      "updatedAt": "2026-08-19T04:04:16Z",
       "createdAt": "2026-05-14T09:29:34Z",
       "defaultBranchRef": {
         "name": "main"
@@ -5138,8 +5365,8 @@
       "primaryLanguage": {
         "name": "Python"
       },
-      "pushedAt": "2026-08-18T03:58:22Z",
-      "updatedAt": "2026-08-18T03:58:33Z",
+      "pushedAt": "2026-08-19T03:58:46Z",
+      "updatedAt": "2026-08-19T03:58:59Z",
       "createdAt": "2026-05-14T09:29:45Z",
       "defaultBranchRef": {
         "name": "main"
@@ -5289,15 +5516,15 @@
       "primaryLanguage": {
         "name": "TypeScript"
       },
-      "pushedAt": "2026-08-19T01:58:06Z",
-      "updatedAt": "2026-08-19T01:58:25Z",
+      "pushedAt": "2026-08-20T01:56:39Z",
+      "updatedAt": "2026-08-20T01:57:26Z",
       "createdAt": "2026-04-01T03:55:26Z",
       "defaultBranchRef": {
         "name": "main"
       },
       "homepageUrl": "",
       "stargazerCount": 57,
-      "forkCount": 9,
+      "forkCount": 8,
       "repositoryTopics": [
         "agent-loop",
         "ai-coding",
@@ -5457,7 +5684,7 @@
             "name": "mobilecode-v0.1.0.apk",
             "url": "https://github.com/Harzva/mobilecode/releases/download/v0.1.0/mobilecode-v0.1.0.apk",
             "size": 53051517,
-            "downloadCount": 58,
+            "downloadCount": 61,
             "contentType": "application/vnd.android.package-archive"
           }
         ]
@@ -5747,6 +5974,98 @@
       }
     },
     {
+      "name": "dsh-obsidian",
+      "nameWithOwner": "Harzva/dsh-obsidian",
+      "url": "https://github.com/Harzva/dsh-obsidian",
+      "description": null,
+      "isPrivate": false,
+      "isArchived": false,
+      "isFork": false,
+      "primaryLanguage": {
+        "name": "TypeScript"
+      },
+      "pushedAt": "2026-08-19T12:05:35Z",
+      "updatedAt": "2026-08-19T12:09:07Z",
+      "createdAt": "2026-08-19T12:01:13Z",
+      "defaultBranchRef": {
+        "name": "main"
+      },
+      "homepageUrl": "",
+      "stargazerCount": 0,
+      "forkCount": 0,
+      "repositoryTopics": [
+        "dsh-plugin",
+        "knowledge-graph",
+        "obsidian"
+      ],
+      "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/dsh-obsidian",
+      "pages": {
+        "enabled": false
+      },
+      "latestRelease": {
+        "name": "dsh-obsidian v0.1.0-alpha.0",
+        "tagName": "v0.1.0-alpha.0",
+        "url": "https://github.com/Harzva/dsh-obsidian/releases/tag/v0.1.0-alpha.0",
+        "publishedAt": "2026-08-19T12:01:44Z",
+        "prerelease": false,
+        "draft": false,
+        "assets": [
+          {
+            "name": "harness-flow-dsh-obsidian-0.1.0-alpha.0.tgz",
+            "url": "https://github.com/Harzva/dsh-obsidian/releases/download/v0.1.0-alpha.0/harness-flow-dsh-obsidian-0.1.0-alpha.0.tgz",
+            "size": 21393,
+            "downloadCount": 0,
+            "contentType": "application/x-gtar"
+          }
+        ]
+      }
+    },
+    {
+      "name": "dsh-uvm",
+      "nameWithOwner": "Harzva/dsh-uvm",
+      "url": "https://github.com/Harzva/dsh-uvm",
+      "description": "DSH-native uv environment manager: create/sync/run Python venvs from DSH Web, pip fallback, read-only conda visibility",
+      "isPrivate": false,
+      "isArchived": false,
+      "isFork": false,
+      "primaryLanguage": {
+        "name": "TypeScript"
+      },
+      "pushedAt": "2026-08-19T12:23:53Z",
+      "updatedAt": "2026-08-19T12:25:06Z",
+      "createdAt": "2026-08-19T12:01:31Z",
+      "defaultBranchRef": {
+        "name": "main"
+      },
+      "homepageUrl": "",
+      "stargazerCount": 0,
+      "forkCount": 0,
+      "repositoryTopics": [
+        "dsh-plugin"
+      ],
+      "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/dsh-uvm",
+      "pages": {
+        "enabled": false
+      },
+      "latestRelease": {
+        "name": "dsh-uvm v0.1.0-alpha.1",
+        "tagName": "v0.1.0-alpha.1",
+        "url": "https://github.com/Harzva/dsh-uvm/releases/tag/v0.1.0-alpha.1",
+        "publishedAt": "2026-08-19T12:23:53Z",
+        "prerelease": false,
+        "draft": false,
+        "assets": [
+          {
+            "name": "harness-flow-dsh-uvm-0.1.0-alpha.1.tgz",
+            "url": "https://github.com/Harzva/dsh-uvm/releases/download/v0.1.0-alpha.1/harness-flow-dsh-uvm-0.1.0-alpha.1.tgz",
+            "size": 21023,
+            "downloadCount": 1,
+            "contentType": "application/x-gtar"
+          }
+        ]
+      }
+    },
+    {
       "name": "github-management-suite",
       "nameWithOwner": "Harzva/github-management-suite",
       "url": "https://github.com/Harzva/github-management-suite",
@@ -5935,15 +6254,15 @@
       "primaryLanguage": {
         "name": "TypeScript"
       },
-      "pushedAt": "2026-08-19T01:58:06Z",
-      "updatedAt": "2026-08-19T01:58:25Z",
+      "pushedAt": "2026-08-20T01:56:39Z",
+      "updatedAt": "2026-08-20T01:57:26Z",
       "createdAt": "2026-04-01T03:55:26Z",
       "defaultBranchRef": {
         "name": "main"
       },
       "homepageUrl": "",
       "stargazerCount": 57,
-      "forkCount": 9,
+      "forkCount": 8,
       "repositoryTopics": [
         "agent-loop",
         "ai-coding",
@@ -6035,7 +6354,7 @@
             "name": "mobilecode-v0.1.0.apk",
             "url": "https://github.com/Harzva/mobilecode/releases/download/v0.1.0/mobilecode-v0.1.0.apk",
             "size": 53051517,
-            "downloadCount": 58,
+            "downloadCount": 61,
             "contentType": "application/vnd.android.package-archive"
           }
         ]
@@ -6566,6 +6885,53 @@
       "latestRelease": null
     },
     {
+      "name": "dsh-obsidian",
+      "nameWithOwner": "Harzva/dsh-obsidian",
+      "url": "https://github.com/Harzva/dsh-obsidian",
+      "description": null,
+      "isPrivate": false,
+      "isArchived": false,
+      "isFork": false,
+      "primaryLanguage": {
+        "name": "TypeScript"
+      },
+      "pushedAt": "2026-08-19T12:05:35Z",
+      "updatedAt": "2026-08-19T12:09:07Z",
+      "createdAt": "2026-08-19T12:01:13Z",
+      "defaultBranchRef": {
+        "name": "main"
+      },
+      "homepageUrl": "",
+      "stargazerCount": 0,
+      "forkCount": 0,
+      "repositoryTopics": [
+        "dsh-plugin",
+        "knowledge-graph",
+        "obsidian"
+      ],
+      "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/dsh-obsidian",
+      "pages": {
+        "enabled": false
+      },
+      "latestRelease": {
+        "name": "dsh-obsidian v0.1.0-alpha.0",
+        "tagName": "v0.1.0-alpha.0",
+        "url": "https://github.com/Harzva/dsh-obsidian/releases/tag/v0.1.0-alpha.0",
+        "publishedAt": "2026-08-19T12:01:44Z",
+        "prerelease": false,
+        "draft": false,
+        "assets": [
+          {
+            "name": "harness-flow-dsh-obsidian-0.1.0-alpha.0.tgz",
+            "url": "https://github.com/Harzva/dsh-obsidian/releases/download/v0.1.0-alpha.0/harness-flow-dsh-obsidian-0.1.0-alpha.0.tgz",
+            "size": 21393,
+            "downloadCount": 0,
+            "contentType": "application/x-gtar"
+          }
+        ]
+      }
+    },
+    {
       "name": "dsh-research-lab",
       "nameWithOwner": "Harzva/dsh-research-lab",
       "url": "https://github.com/Harzva/dsh-research-lab",
@@ -6599,6 +6965,83 @@
         "enabled": false
       },
       "latestRelease": null
+    },
+    {
+      "name": "dsh-session-context-menu",
+      "nameWithOwner": "Harzva/dsh-session-context-menu",
+      "url": "https://github.com/Harzva/dsh-session-context-menu",
+      "description": "Lifecycle-safe Codex-style Session context actions for DeepSeek Harness.",
+      "isPrivate": false,
+      "isArchived": false,
+      "isFork": false,
+      "primaryLanguage": {
+        "name": "JavaScript"
+      },
+      "pushedAt": "2026-08-19T09:16:14Z",
+      "updatedAt": "2026-08-19T09:18:52Z",
+      "createdAt": "2026-08-19T09:16:10Z",
+      "defaultBranchRef": {
+        "name": "main"
+      },
+      "homepageUrl": "",
+      "stargazerCount": 0,
+      "forkCount": 0,
+      "repositoryTopics": [
+        "context-menu",
+        "deepseek-harness",
+        "dsh-plugin",
+        "session-management"
+      ],
+      "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/dsh-session-context-menu",
+      "pages": {
+        "enabled": false
+      },
+      "latestRelease": null
+    },
+    {
+      "name": "dsh-uvm",
+      "nameWithOwner": "Harzva/dsh-uvm",
+      "url": "https://github.com/Harzva/dsh-uvm",
+      "description": "DSH-native uv environment manager: create/sync/run Python venvs from DSH Web, pip fallback, read-only conda visibility",
+      "isPrivate": false,
+      "isArchived": false,
+      "isFork": false,
+      "primaryLanguage": {
+        "name": "TypeScript"
+      },
+      "pushedAt": "2026-08-19T12:23:53Z",
+      "updatedAt": "2026-08-19T12:25:06Z",
+      "createdAt": "2026-08-19T12:01:31Z",
+      "defaultBranchRef": {
+        "name": "main"
+      },
+      "homepageUrl": "",
+      "stargazerCount": 0,
+      "forkCount": 0,
+      "repositoryTopics": [
+        "dsh-plugin"
+      ],
+      "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/dsh-uvm",
+      "pages": {
+        "enabled": false
+      },
+      "latestRelease": {
+        "name": "dsh-uvm v0.1.0-alpha.1",
+        "tagName": "v0.1.0-alpha.1",
+        "url": "https://github.com/Harzva/dsh-uvm/releases/tag/v0.1.0-alpha.1",
+        "publishedAt": "2026-08-19T12:23:53Z",
+        "prerelease": false,
+        "draft": false,
+        "assets": [
+          {
+            "name": "harness-flow-dsh-uvm-0.1.0-alpha.1.tgz",
+            "url": "https://github.com/Harzva/dsh-uvm/releases/download/v0.1.0-alpha.1/harness-flow-dsh-uvm-0.1.0-alpha.1.tgz",
+            "size": 21023,
+            "downloadCount": 1,
+            "contentType": "application/x-gtar"
+          }
+        ]
+      }
     },
     {
       "name": "everything-agent-cli-to-claude-code",
@@ -6716,13 +7159,13 @@
         "name": "Python"
       },
       "pushedAt": "2026-05-18T13:46:04Z",
-      "updatedAt": "2026-05-18T13:46:38Z",
+      "updatedAt": "2026-08-19T21:10:01Z",
       "createdAt": "2026-05-14T10:34:15Z",
       "defaultBranchRef": {
         "name": "main"
       },
       "homepageUrl": "",
-      "stargazerCount": 0,
+      "stargazerCount": 1,
       "forkCount": 0,
       "repositoryTopics": [
         "automation",
@@ -6863,8 +7306,8 @@
       "primaryLanguage": {
         "name": "Python"
       },
-      "pushedAt": "2026-08-18T03:58:22Z",
-      "updatedAt": "2026-08-18T03:58:33Z",
+      "pushedAt": "2026-08-19T03:58:46Z",
+      "updatedAt": "2026-08-19T03:58:59Z",
       "createdAt": "2026-05-14T09:29:45Z",
       "defaultBranchRef": {
         "name": "main"
@@ -7207,9 +7650,11 @@
       "isPrivate": false,
       "isArchived": false,
       "isFork": true,
-      "primaryLanguage": null,
-      "pushedAt": "2026-08-18T20:59:45Z",
-      "updatedAt": "2026-08-18T18:20:10Z",
+      "primaryLanguage": {
+        "name": "Python"
+      },
+      "pushedAt": "2026-08-19T14:48:52Z",
+      "updatedAt": "2026-08-19T12:05:11Z",
       "createdAt": "2026-08-18T18:20:10Z",
       "defaultBranchRef": {
         "name": "main"
@@ -7219,6 +7664,31 @@
       "forkCount": 0,
       "repositoryTopics": [],
       "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/awesome-dsh-plugin",
+      "pages": {
+        "enabled": false
+      },
+      "latestRelease": null
+    },
+    {
+      "name": "deepseek-harness",
+      "nameWithOwner": "Harzva/deepseek-harness",
+      "url": "https://github.com/Harzva/deepseek-harness",
+      "description": "DeepSeek Harness: Everything is a Plugin.",
+      "isPrivate": false,
+      "isArchived": false,
+      "isFork": true,
+      "primaryLanguage": null,
+      "pushedAt": "2026-08-20T02:07:21Z",
+      "updatedAt": "2026-08-19T09:20:15Z",
+      "createdAt": "2026-08-19T09:20:15Z",
+      "defaultBranchRef": {
+        "name": "master"
+      },
+      "homepageUrl": "https://deepseek.com/harness",
+      "stargazerCount": 0,
+      "forkCount": 0,
+      "repositoryTopics": [],
+      "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/deepseek-harness",
       "pages": {
         "enabled": false
       },
@@ -7286,9 +7756,11 @@
       "isPrivate": false,
       "isArchived": false,
       "isFork": true,
-      "primaryLanguage": null,
-      "pushedAt": "2026-08-18T20:59:45Z",
-      "updatedAt": "2026-08-18T18:20:10Z",
+      "primaryLanguage": {
+        "name": "Python"
+      },
+      "pushedAt": "2026-08-19T14:48:52Z",
+      "updatedAt": "2026-08-19T12:05:11Z",
       "createdAt": "2026-08-18T18:20:10Z",
       "defaultBranchRef": {
         "name": "main"
@@ -7448,6 +7920,31 @@
       "forkCount": 0,
       "repositoryTopics": [],
       "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/CMeKGCrawler",
+      "pages": {
+        "enabled": false
+      },
+      "latestRelease": null
+    },
+    {
+      "name": "deepseek-harness",
+      "nameWithOwner": "Harzva/deepseek-harness",
+      "url": "https://github.com/Harzva/deepseek-harness",
+      "description": "DeepSeek Harness: Everything is a Plugin.",
+      "isPrivate": false,
+      "isArchived": false,
+      "isFork": true,
+      "primaryLanguage": null,
+      "pushedAt": "2026-08-20T02:07:21Z",
+      "updatedAt": "2026-08-19T09:20:15Z",
+      "createdAt": "2026-08-19T09:20:15Z",
+      "defaultBranchRef": {
+        "name": "master"
+      },
+      "homepageUrl": "https://deepseek.com/harness",
+      "stargazerCount": 0,
+      "forkCount": 0,
+      "repositoryTopics": [],
+      "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/deepseek-harness",
       "pages": {
         "enabled": false
       },
