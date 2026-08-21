@@ -1,14 +1,14 @@
 {
   "summary": {
-    "generatedAt": "2026-08-20T03:58:41.049276+00:00",
+    "generatedAt": "2026-08-21T04:00:45.345263+00:00",
     "owner": "Harzva",
     "mode": "skills",
-    "publicRepositories": 126,
+    "publicRepositories": 128,
     "forks": 39,
     "pages": 30,
-    "releases": 10,
-    "skills": 37,
-    "artifacts": 18,
+    "releases": 12,
+    "skills": 39,
+    "artifacts": 20,
     "privateOmitted": 13
   },
   "categories": {
@@ -486,8 +486,8 @@
         "primaryLanguage": {
           "name": "TypeScript"
         },
-        "pushedAt": "2026-08-20T02:30:45Z",
-        "updatedAt": "2026-08-20T02:30:56Z",
+        "pushedAt": "2026-08-21T02:36:52Z",
+        "updatedAt": "2026-08-21T02:36:59Z",
         "createdAt": "2026-05-12T09:49:47Z",
         "defaultBranchRef": {
           "name": "main"
@@ -520,8 +520,8 @@
         "primaryLanguage": {
           "name": "TypeScript"
         },
-        "pushedAt": "2026-08-20T01:56:39Z",
-        "updatedAt": "2026-08-20T01:57:26Z",
+        "pushedAt": "2026-08-21T02:05:08Z",
+        "updatedAt": "2026-08-21T02:05:25Z",
         "createdAt": "2026-04-01T03:55:26Z",
         "defaultBranchRef": {
           "name": "main"
@@ -573,8 +573,8 @@
         "primaryLanguage": {
           "name": "Python"
         },
-        "pushedAt": "2026-08-19T04:02:13Z",
-        "updatedAt": "2026-08-19T04:04:16Z",
+        "pushedAt": "2026-08-20T04:02:27Z",
+        "updatedAt": "2026-08-20T04:03:16Z",
         "createdAt": "2026-05-14T09:29:34Z",
         "defaultBranchRef": {
           "name": "main"
@@ -607,8 +607,8 @@
         "primaryLanguage": {
           "name": "Python"
         },
-        "pushedAt": "2026-08-19T03:59:25Z",
-        "updatedAt": "2026-08-19T03:59:34Z",
+        "pushedAt": "2026-08-20T04:00:18Z",
+        "updatedAt": "2026-08-20T04:01:37Z",
         "createdAt": "2026-05-14T09:29:39Z",
         "defaultBranchRef": {
           "name": "main"
@@ -641,8 +641,8 @@
         "primaryLanguage": {
           "name": "Python"
         },
-        "pushedAt": "2026-08-19T03:58:30Z",
-        "updatedAt": "2026-08-19T03:59:25Z",
+        "pushedAt": "2026-08-20T03:58:50Z",
+        "updatedAt": "2026-08-20T03:59:03Z",
         "createdAt": "2026-05-14T09:27:13Z",
         "defaultBranchRef": {
           "name": "main"
@@ -1407,6 +1407,130 @@
     ],
     "Skills and Agent Workflows": [
       {
+        "name": "dsh-cli-store",
+        "nameWithOwner": "Harzva/dsh-cli-store",
+        "url": "https://github.com/Harzva/dsh-cli-store",
+        "description": null,
+        "isPrivate": false,
+        "isArchived": false,
+        "isFork": false,
+        "primaryLanguage": {
+          "name": "JavaScript"
+        },
+        "pushedAt": "2026-08-20T16:21:56Z",
+        "updatedAt": "2026-08-20T16:24:14Z",
+        "createdAt": "2026-08-20T14:54:57Z",
+        "defaultBranchRef": {
+          "name": "main"
+        },
+        "homepageUrl": "",
+        "stargazerCount": 0,
+        "forkCount": 0,
+        "repositoryTopics": [
+          "dsh-plugin"
+        ],
+        "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/dsh-cli-store",
+        "pages": {
+          "enabled": false
+        },
+        "latestRelease": {
+          "name": "dsh-cli-store v0.3.0",
+          "tagName": "v0.3.0",
+          "url": "https://github.com/Harzva/dsh-cli-store/releases/tag/v0.3.0",
+          "publishedAt": "2026-08-20T16:21:57Z",
+          "prerelease": false,
+          "draft": false,
+          "assets": [
+            {
+              "name": "dsh-cli-store-0.3.0.tgz",
+              "url": "https://github.com/Harzva/dsh-cli-store/releases/download/v0.3.0/dsh-cli-store-0.3.0.tgz",
+              "size": 24798,
+              "downloadCount": 0,
+              "contentType": "application/x-gtar"
+            }
+          ]
+        }
+      },
+      {
+        "name": "dsh-j-space",
+        "nameWithOwner": "Harzva/dsh-j-space",
+        "url": "https://github.com/Harzva/dsh-j-space",
+        "description": null,
+        "isPrivate": false,
+        "isArchived": false,
+        "isFork": false,
+        "primaryLanguage": {
+          "name": "Python"
+        },
+        "pushedAt": "2026-08-20T06:40:46Z",
+        "updatedAt": "2026-08-20T06:40:50Z",
+        "createdAt": "2026-08-20T06:40:24Z",
+        "defaultBranchRef": {
+          "name": "main"
+        },
+        "homepageUrl": "",
+        "stargazerCount": 0,
+        "forkCount": 0,
+        "repositoryTopics": [
+          "dsh-plugin"
+        ],
+        "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/dsh-j-space",
+        "pages": {
+          "enabled": false
+        },
+        "latestRelease": {
+          "name": "dsh-j-space v0.1.0",
+          "tagName": "v0.1.0",
+          "url": "https://github.com/Harzva/dsh-j-space/releases/tag/v0.1.0",
+          "publishedAt": "2026-08-20T06:40:46Z",
+          "prerelease": false,
+          "draft": false,
+          "assets": [
+            {
+              "name": "dsh-j-space-0.1.0.tgz",
+              "url": "https://github.com/Harzva/dsh-j-space/releases/download/v0.1.0/dsh-j-space-0.1.0.tgz",
+              "size": 88972,
+              "downloadCount": 6,
+              "contentType": "application/x-gtar"
+            }
+          ]
+        }
+      },
+      {
+        "name": "harzva-skills-hub",
+        "nameWithOwner": "Harzva/harzva-skills-hub",
+        "url": "https://github.com/Harzva/harzva-skills-hub",
+        "description": "Auto-updating GitHub Pages registry of Harzva Codex skills, workflow skills, and agent recipes.",
+        "isPrivate": false,
+        "isArchived": false,
+        "isFork": false,
+        "primaryLanguage": {
+          "name": "Python"
+        },
+        "pushedAt": "2026-08-20T03:58:42Z",
+        "updatedAt": "2026-08-20T03:59:04Z",
+        "createdAt": "2026-05-14T09:29:45Z",
+        "defaultBranchRef": {
+          "name": "main"
+        },
+        "homepageUrl": "https://harzva.github.io/harzva-skills-hub/",
+        "stargazerCount": 0,
+        "forkCount": 0,
+        "repositoryTopics": [],
+        "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/harzva-skills-hub",
+        "pages": {
+          "enabled": true,
+          "url": "https://harzva.github.io/harzva-skills-hub/",
+          "status": null,
+          "source": {
+            "branch": "main",
+            "path": "/"
+          },
+          "httpsEnforced": true
+        },
+        "latestRelease": null
+      },
+      {
         "name": "dsh-uvm",
         "nameWithOwner": "Harzva/dsh-uvm",
         "url": "https://github.com/Harzva/dsh-uvm",
@@ -1527,40 +1651,6 @@
         "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/dsh-session-context-menu",
         "pages": {
           "enabled": false
-        },
-        "latestRelease": null
-      },
-      {
-        "name": "harzva-skills-hub",
-        "nameWithOwner": "Harzva/harzva-skills-hub",
-        "url": "https://github.com/Harzva/harzva-skills-hub",
-        "description": "Auto-updating GitHub Pages registry of Harzva Codex skills, workflow skills, and agent recipes.",
-        "isPrivate": false,
-        "isArchived": false,
-        "isFork": false,
-        "primaryLanguage": {
-          "name": "Python"
-        },
-        "pushedAt": "2026-08-19T03:58:46Z",
-        "updatedAt": "2026-08-19T03:58:59Z",
-        "createdAt": "2026-05-14T09:29:45Z",
-        "defaultBranchRef": {
-          "name": "main"
-        },
-        "homepageUrl": "https://harzva.github.io/harzva-skills-hub/",
-        "stargazerCount": 0,
-        "forkCount": 0,
-        "repositoryTopics": [],
-        "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/harzva-skills-hub",
-        "pages": {
-          "enabled": true,
-          "url": "https://harzva.github.io/harzva-skills-hub/",
-          "status": null,
-          "source": {
-            "branch": "main",
-            "path": "/"
-          },
-          "httpsEnforced": true
         },
         "latestRelease": null
       },
@@ -2999,6 +3089,33 @@
     ],
     "Forks": [
       {
+        "name": "awesome-dsh-plugin",
+        "nameWithOwner": "Harzva/awesome-dsh-plugin",
+        "url": "https://github.com/Harzva/awesome-dsh-plugin",
+        "description": "A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件精选列表",
+        "isPrivate": false,
+        "isArchived": false,
+        "isFork": true,
+        "primaryLanguage": {
+          "name": "Python"
+        },
+        "pushedAt": "2026-08-20T16:23:34Z",
+        "updatedAt": "2026-08-19T12:05:11Z",
+        "createdAt": "2026-08-18T18:20:10Z",
+        "defaultBranchRef": {
+          "name": "main"
+        },
+        "homepageUrl": "https://awesome-dsh-plugin.com",
+        "stargazerCount": 0,
+        "forkCount": 0,
+        "repositoryTopics": [],
+        "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/awesome-dsh-plugin",
+        "pages": {
+          "enabled": false
+        },
+        "latestRelease": null
+      },
+      {
         "name": "deepseek-harness",
         "nameWithOwner": "Harzva/deepseek-harness",
         "url": "https://github.com/Harzva/deepseek-harness",
@@ -3018,33 +3135,6 @@
         "forkCount": 0,
         "repositoryTopics": [],
         "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/deepseek-harness",
-        "pages": {
-          "enabled": false
-        },
-        "latestRelease": null
-      },
-      {
-        "name": "awesome-dsh-plugin",
-        "nameWithOwner": "Harzva/awesome-dsh-plugin",
-        "url": "https://github.com/Harzva/awesome-dsh-plugin",
-        "description": "A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件精选列表",
-        "isPrivate": false,
-        "isArchived": false,
-        "isFork": true,
-        "primaryLanguage": {
-          "name": "Python"
-        },
-        "pushedAt": "2026-08-19T14:48:52Z",
-        "updatedAt": "2026-08-19T12:05:11Z",
-        "createdAt": "2026-08-18T18:20:10Z",
-        "defaultBranchRef": {
-          "name": "main"
-        },
-        "homepageUrl": "https://awesome-dsh-plugin.com",
-        "stargazerCount": 0,
-        "forkCount": 0,
-        "repositoryTopics": [],
-        "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/awesome-dsh-plugin",
         "pages": {
           "enabled": false
         },
@@ -4086,6 +4176,24 @@
       "isFork": false
     },
     {
+      "repo": "Harzva/dsh-cli-store",
+      "repoName": "dsh-cli-store",
+      "repoUrl": "https://github.com/Harzva/dsh-cli-store",
+      "description": null,
+      "language": "JavaScript",
+      "assetName": "dsh-cli-store-0.3.0.tgz",
+      "assetUrl": "https://github.com/Harzva/dsh-cli-store/releases/download/v0.3.0/dsh-cli-store-0.3.0.tgz",
+      "size": 24798,
+      "downloadCount": 0,
+      "kind": "Archive",
+      "functionCategory": "CLI and Infrastructure",
+      "releaseName": "dsh-cli-store v0.3.0",
+      "tagName": "v0.3.0",
+      "releaseUrl": "https://github.com/Harzva/dsh-cli-store/releases/tag/v0.3.0",
+      "publishedAt": "2026-08-20T16:21:57Z",
+      "isFork": false
+    },
+    {
       "repo": "Harzva/GitReleaseMarket",
       "repoName": "GitReleaseMarket",
       "repoUrl": "https://github.com/Harzva/GitReleaseMarket",
@@ -4191,6 +4299,24 @@
       "tagName": "v0.6.6",
       "releaseUrl": "https://github.com/Harzva/RepoAtlas/releases/tag/v0.6.6",
       "publishedAt": "2026-05-21T03:12:10Z",
+      "isFork": false
+    },
+    {
+      "repo": "Harzva/dsh-j-space",
+      "repoName": "dsh-j-space",
+      "repoUrl": "https://github.com/Harzva/dsh-j-space",
+      "description": null,
+      "language": "Python",
+      "assetName": "dsh-j-space-0.1.0.tgz",
+      "assetUrl": "https://github.com/Harzva/dsh-j-space/releases/download/v0.1.0/dsh-j-space-0.1.0.tgz",
+      "size": 88972,
+      "downloadCount": 6,
+      "kind": "Archive",
+      "functionCategory": "General Utilities",
+      "releaseName": "dsh-j-space v0.1.0",
+      "tagName": "v0.1.0",
+      "releaseUrl": "https://github.com/Harzva/dsh-j-space/releases/tag/v0.1.0",
+      "publishedAt": "2026-08-20T06:40:46Z",
       "isFork": false
     },
     {
@@ -4507,6 +4633,24 @@
     ],
     "CLI and Infrastructure": [
       {
+        "repo": "Harzva/dsh-cli-store",
+        "repoName": "dsh-cli-store",
+        "repoUrl": "https://github.com/Harzva/dsh-cli-store",
+        "description": null,
+        "language": "JavaScript",
+        "assetName": "dsh-cli-store-0.3.0.tgz",
+        "assetUrl": "https://github.com/Harzva/dsh-cli-store/releases/download/v0.3.0/dsh-cli-store-0.3.0.tgz",
+        "size": 24798,
+        "downloadCount": 0,
+        "kind": "Archive",
+        "functionCategory": "CLI and Infrastructure",
+        "releaseName": "dsh-cli-store v0.3.0",
+        "tagName": "v0.3.0",
+        "releaseUrl": "https://github.com/Harzva/dsh-cli-store/releases/tag/v0.3.0",
+        "publishedAt": "2026-08-20T16:21:57Z",
+        "isFork": false
+      },
+      {
         "repo": "Harzva/GitReleaseMarket",
         "repoName": "GitReleaseMarket",
         "repoUrl": "https://github.com/Harzva/GitReleaseMarket",
@@ -4639,6 +4783,24 @@
     ],
     "General Utilities": [
       {
+        "repo": "Harzva/dsh-j-space",
+        "repoName": "dsh-j-space",
+        "repoUrl": "https://github.com/Harzva/dsh-j-space",
+        "description": null,
+        "language": "Python",
+        "assetName": "dsh-j-space-0.1.0.tgz",
+        "assetUrl": "https://github.com/Harzva/dsh-j-space/releases/download/v0.1.0/dsh-j-space-0.1.0.tgz",
+        "size": 88972,
+        "downloadCount": 6,
+        "kind": "Archive",
+        "functionCategory": "General Utilities",
+        "releaseName": "dsh-j-space v0.1.0",
+        "tagName": "v0.1.0",
+        "releaseUrl": "https://github.com/Harzva/dsh-j-space/releases/tag/v0.1.0",
+        "publishedAt": "2026-08-20T06:40:46Z",
+        "isFork": false
+      },
+      {
         "repo": "Harzva/dsh-uvm",
         "repoName": "dsh-uvm",
         "repoUrl": "https://github.com/Harzva/dsh-uvm",
@@ -4670,8 +4832,8 @@
       "primaryLanguage": {
         "name": "TypeScript"
       },
-      "pushedAt": "2026-08-20T02:30:45Z",
-      "updatedAt": "2026-08-20T02:30:56Z",
+      "pushedAt": "2026-08-21T02:36:52Z",
+      "updatedAt": "2026-08-21T02:36:59Z",
       "createdAt": "2026-05-12T09:49:47Z",
       "defaultBranchRef": {
         "name": "main"
@@ -5263,8 +5425,8 @@
       "primaryLanguage": {
         "name": "Python"
       },
-      "pushedAt": "2026-08-19T03:59:25Z",
-      "updatedAt": "2026-08-19T03:59:34Z",
+      "pushedAt": "2026-08-20T04:00:18Z",
+      "updatedAt": "2026-08-20T04:01:37Z",
       "createdAt": "2026-05-14T09:29:39Z",
       "defaultBranchRef": {
         "name": "main"
@@ -5297,8 +5459,8 @@
       "primaryLanguage": {
         "name": "Python"
       },
-      "pushedAt": "2026-08-19T03:58:30Z",
-      "updatedAt": "2026-08-19T03:59:25Z",
+      "pushedAt": "2026-08-20T03:58:50Z",
+      "updatedAt": "2026-08-20T03:59:03Z",
       "createdAt": "2026-05-14T09:27:13Z",
       "defaultBranchRef": {
         "name": "main"
@@ -5331,8 +5493,8 @@
       "primaryLanguage": {
         "name": "Python"
       },
-      "pushedAt": "2026-08-19T04:02:13Z",
-      "updatedAt": "2026-08-19T04:04:16Z",
+      "pushedAt": "2026-08-20T04:02:27Z",
+      "updatedAt": "2026-08-20T04:03:16Z",
       "createdAt": "2026-05-14T09:29:34Z",
       "defaultBranchRef": {
         "name": "main"
@@ -5365,8 +5527,8 @@
       "primaryLanguage": {
         "name": "Python"
       },
-      "pushedAt": "2026-08-19T03:58:46Z",
-      "updatedAt": "2026-08-19T03:58:59Z",
+      "pushedAt": "2026-08-20T03:58:42Z",
+      "updatedAt": "2026-08-20T03:59:04Z",
       "createdAt": "2026-05-14T09:29:45Z",
       "defaultBranchRef": {
         "name": "main"
@@ -5516,8 +5678,8 @@
       "primaryLanguage": {
         "name": "TypeScript"
       },
-      "pushedAt": "2026-08-20T01:56:39Z",
-      "updatedAt": "2026-08-20T01:57:26Z",
+      "pushedAt": "2026-08-21T02:05:08Z",
+      "updatedAt": "2026-08-21T02:05:25Z",
       "createdAt": "2026-04-01T03:55:26Z",
       "defaultBranchRef": {
         "name": "main"
@@ -5974,6 +6136,96 @@
       }
     },
     {
+      "name": "dsh-cli-store",
+      "nameWithOwner": "Harzva/dsh-cli-store",
+      "url": "https://github.com/Harzva/dsh-cli-store",
+      "description": null,
+      "isPrivate": false,
+      "isArchived": false,
+      "isFork": false,
+      "primaryLanguage": {
+        "name": "JavaScript"
+      },
+      "pushedAt": "2026-08-20T16:21:56Z",
+      "updatedAt": "2026-08-20T16:24:14Z",
+      "createdAt": "2026-08-20T14:54:57Z",
+      "defaultBranchRef": {
+        "name": "main"
+      },
+      "homepageUrl": "",
+      "stargazerCount": 0,
+      "forkCount": 0,
+      "repositoryTopics": [
+        "dsh-plugin"
+      ],
+      "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/dsh-cli-store",
+      "pages": {
+        "enabled": false
+      },
+      "latestRelease": {
+        "name": "dsh-cli-store v0.3.0",
+        "tagName": "v0.3.0",
+        "url": "https://github.com/Harzva/dsh-cli-store/releases/tag/v0.3.0",
+        "publishedAt": "2026-08-20T16:21:57Z",
+        "prerelease": false,
+        "draft": false,
+        "assets": [
+          {
+            "name": "dsh-cli-store-0.3.0.tgz",
+            "url": "https://github.com/Harzva/dsh-cli-store/releases/download/v0.3.0/dsh-cli-store-0.3.0.tgz",
+            "size": 24798,
+            "downloadCount": 0,
+            "contentType": "application/x-gtar"
+          }
+        ]
+      }
+    },
+    {
+      "name": "dsh-j-space",
+      "nameWithOwner": "Harzva/dsh-j-space",
+      "url": "https://github.com/Harzva/dsh-j-space",
+      "description": null,
+      "isPrivate": false,
+      "isArchived": false,
+      "isFork": false,
+      "primaryLanguage": {
+        "name": "Python"
+      },
+      "pushedAt": "2026-08-20T06:40:46Z",
+      "updatedAt": "2026-08-20T06:40:50Z",
+      "createdAt": "2026-08-20T06:40:24Z",
+      "defaultBranchRef": {
+        "name": "main"
+      },
+      "homepageUrl": "",
+      "stargazerCount": 0,
+      "forkCount": 0,
+      "repositoryTopics": [
+        "dsh-plugin"
+      ],
+      "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/dsh-j-space",
+      "pages": {
+        "enabled": false
+      },
+      "latestRelease": {
+        "name": "dsh-j-space v0.1.0",
+        "tagName": "v0.1.0",
+        "url": "https://github.com/Harzva/dsh-j-space/releases/tag/v0.1.0",
+        "publishedAt": "2026-08-20T06:40:46Z",
+        "prerelease": false,
+        "draft": false,
+        "assets": [
+          {
+            "name": "dsh-j-space-0.1.0.tgz",
+            "url": "https://github.com/Harzva/dsh-j-space/releases/download/v0.1.0/dsh-j-space-0.1.0.tgz",
+            "size": 88972,
+            "downloadCount": 6,
+            "contentType": "application/x-gtar"
+          }
+        ]
+      }
+    },
+    {
       "name": "dsh-obsidian",
       "nameWithOwner": "Harzva/dsh-obsidian",
       "url": "https://github.com/Harzva/dsh-obsidian",
@@ -6254,8 +6506,8 @@
       "primaryLanguage": {
         "name": "TypeScript"
       },
-      "pushedAt": "2026-08-20T01:56:39Z",
-      "updatedAt": "2026-08-20T01:57:26Z",
+      "pushedAt": "2026-08-21T02:05:08Z",
+      "updatedAt": "2026-08-21T02:05:25Z",
       "createdAt": "2026-04-01T03:55:26Z",
       "defaultBranchRef": {
         "name": "main"
@@ -6816,6 +7068,51 @@
       "latestRelease": null
     },
     {
+      "name": "dsh-cli-store",
+      "nameWithOwner": "Harzva/dsh-cli-store",
+      "url": "https://github.com/Harzva/dsh-cli-store",
+      "description": null,
+      "isPrivate": false,
+      "isArchived": false,
+      "isFork": false,
+      "primaryLanguage": {
+        "name": "JavaScript"
+      },
+      "pushedAt": "2026-08-20T16:21:56Z",
+      "updatedAt": "2026-08-20T16:24:14Z",
+      "createdAt": "2026-08-20T14:54:57Z",
+      "defaultBranchRef": {
+        "name": "main"
+      },
+      "homepageUrl": "",
+      "stargazerCount": 0,
+      "forkCount": 0,
+      "repositoryTopics": [
+        "dsh-plugin"
+      ],
+      "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/dsh-cli-store",
+      "pages": {
+        "enabled": false
+      },
+      "latestRelease": {
+        "name": "dsh-cli-store v0.3.0",
+        "tagName": "v0.3.0",
+        "url": "https://github.com/Harzva/dsh-cli-store/releases/tag/v0.3.0",
+        "publishedAt": "2026-08-20T16:21:57Z",
+        "prerelease": false,
+        "draft": false,
+        "assets": [
+          {
+            "name": "dsh-cli-store-0.3.0.tgz",
+            "url": "https://github.com/Harzva/dsh-cli-store/releases/download/v0.3.0/dsh-cli-store-0.3.0.tgz",
+            "size": 24798,
+            "downloadCount": 0,
+            "contentType": "application/x-gtar"
+          }
+        ]
+      }
+    },
+    {
       "name": "dsh-groupx",
       "nameWithOwner": "Harzva/dsh-groupx",
       "url": "https://github.com/Harzva/dsh-groupx",
@@ -6850,6 +7147,51 @@
         "enabled": false
       },
       "latestRelease": null
+    },
+    {
+      "name": "dsh-j-space",
+      "nameWithOwner": "Harzva/dsh-j-space",
+      "url": "https://github.com/Harzva/dsh-j-space",
+      "description": null,
+      "isPrivate": false,
+      "isArchived": false,
+      "isFork": false,
+      "primaryLanguage": {
+        "name": "Python"
+      },
+      "pushedAt": "2026-08-20T06:40:46Z",
+      "updatedAt": "2026-08-20T06:40:50Z",
+      "createdAt": "2026-08-20T06:40:24Z",
+      "defaultBranchRef": {
+        "name": "main"
+      },
+      "homepageUrl": "",
+      "stargazerCount": 0,
+      "forkCount": 0,
+      "repositoryTopics": [
+        "dsh-plugin"
+      ],
+      "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/dsh-j-space",
+      "pages": {
+        "enabled": false
+      },
+      "latestRelease": {
+        "name": "dsh-j-space v0.1.0",
+        "tagName": "v0.1.0",
+        "url": "https://github.com/Harzva/dsh-j-space/releases/tag/v0.1.0",
+        "publishedAt": "2026-08-20T06:40:46Z",
+        "prerelease": false,
+        "draft": false,
+        "assets": [
+          {
+            "name": "dsh-j-space-0.1.0.tgz",
+            "url": "https://github.com/Harzva/dsh-j-space/releases/download/v0.1.0/dsh-j-space-0.1.0.tgz",
+            "size": 88972,
+            "downloadCount": 6,
+            "contentType": "application/x-gtar"
+          }
+        ]
+      }
     },
     {
       "name": "dsh-maclens",
@@ -7306,8 +7648,8 @@
       "primaryLanguage": {
         "name": "Python"
       },
-      "pushedAt": "2026-08-19T03:58:46Z",
-      "updatedAt": "2026-08-19T03:58:59Z",
+      "pushedAt": "2026-08-20T03:58:42Z",
+      "updatedAt": "2026-08-20T03:59:04Z",
       "createdAt": "2026-05-14T09:29:45Z",
       "defaultBranchRef": {
         "name": "main"
@@ -7653,7 +7995,7 @@
       "primaryLanguage": {
         "name": "Python"
       },
-      "pushedAt": "2026-08-19T14:48:52Z",
+      "pushedAt": "2026-08-20T16:23:34Z",
       "updatedAt": "2026-08-19T12:05:11Z",
       "createdAt": "2026-08-18T18:20:10Z",
       "defaultBranchRef": {
@@ -7759,7 +8101,7 @@
       "primaryLanguage": {
         "name": "Python"
       },
-      "pushedAt": "2026-08-19T14:48:52Z",
+      "pushedAt": "2026-08-20T16:23:34Z",
       "updatedAt": "2026-08-19T12:05:11Z",
       "createdAt": "2026-08-18T18:20:10Z",
       "defaultBranchRef": {
