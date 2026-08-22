@@ -1,14 +1,14 @@
 {
   "summary": {
-    "generatedAt": "2026-08-21T04:00:45.345263+00:00",
+    "generatedAt": "2026-08-22T03:56:19.163939+00:00",
     "owner": "Harzva",
     "mode": "skills",
-    "publicRepositories": 128,
+    "publicRepositories": 131,
     "forks": 39,
     "pages": 30,
-    "releases": 12,
-    "skills": 39,
-    "artifacts": 20,
+    "releases": 14,
+    "skills": 42,
+    "artifacts": 22,
     "privateOmitted": 13
   },
   "categories": {
@@ -486,8 +486,8 @@
         "primaryLanguage": {
           "name": "TypeScript"
         },
-        "pushedAt": "2026-08-21T02:36:52Z",
-        "updatedAt": "2026-08-21T02:36:59Z",
+        "pushedAt": "2026-08-22T02:28:40Z",
+        "updatedAt": "2026-08-22T02:28:46Z",
         "createdAt": "2026-05-12T09:49:47Z",
         "defaultBranchRef": {
           "name": "main"
@@ -520,8 +520,8 @@
         "primaryLanguage": {
           "name": "TypeScript"
         },
-        "pushedAt": "2026-08-21T02:05:08Z",
-        "updatedAt": "2026-08-21T02:05:25Z",
+        "pushedAt": "2026-08-22T01:55:49Z",
+        "updatedAt": "2026-08-22T01:55:58Z",
         "createdAt": "2026-04-01T03:55:26Z",
         "defaultBranchRef": {
           "name": "main"
@@ -573,8 +573,8 @@
         "primaryLanguage": {
           "name": "Python"
         },
-        "pushedAt": "2026-08-20T04:02:27Z",
-        "updatedAt": "2026-08-20T04:03:16Z",
+        "pushedAt": "2026-08-21T04:04:43Z",
+        "updatedAt": "2026-08-21T04:04:58Z",
         "createdAt": "2026-05-14T09:29:34Z",
         "defaultBranchRef": {
           "name": "main"
@@ -607,8 +607,8 @@
         "primaryLanguage": {
           "name": "Python"
         },
-        "pushedAt": "2026-08-20T04:00:18Z",
-        "updatedAt": "2026-08-20T04:01:37Z",
+        "pushedAt": "2026-08-21T04:03:02Z",
+        "updatedAt": "2026-08-21T04:03:42Z",
         "createdAt": "2026-05-14T09:29:39Z",
         "defaultBranchRef": {
           "name": "main"
@@ -641,8 +641,8 @@
         "primaryLanguage": {
           "name": "Python"
         },
-        "pushedAt": "2026-08-20T03:58:50Z",
-        "updatedAt": "2026-08-20T03:59:03Z",
+        "pushedAt": "2026-08-21T04:00:44Z",
+        "updatedAt": "2026-08-21T04:01:46Z",
         "createdAt": "2026-05-14T09:27:13Z",
         "defaultBranchRef": {
           "name": "main"
@@ -832,7 +832,7 @@
               "name": "mobilecode-v0.1.0.apk",
               "url": "https://github.com/Harzva/mobilecode/releases/download/v0.1.0/mobilecode-v0.1.0.apk",
               "size": 53051517,
-              "downloadCount": 61,
+              "downloadCount": 62,
               "contentType": "application/vnd.android.package-archive"
             }
           ]
@@ -1407,6 +1407,161 @@
     ],
     "Skills and Agent Workflows": [
       {
+        "name": "dsh-voice",
+        "nameWithOwner": "Harzva/dsh-voice",
+        "url": "https://github.com/Harzva/dsh-voice",
+        "description": null,
+        "isPrivate": false,
+        "isArchived": false,
+        "isFork": false,
+        "primaryLanguage": {
+          "name": "TypeScript"
+        },
+        "pushedAt": "2026-08-21T09:43:09Z",
+        "updatedAt": "2026-08-21T09:47:30Z",
+        "createdAt": "2026-08-21T09:42:54Z",
+        "defaultBranchRef": {
+          "name": "main"
+        },
+        "homepageUrl": "",
+        "stargazerCount": 0,
+        "forkCount": 0,
+        "repositoryTopics": [
+          "dsh-plugin"
+        ],
+        "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/dsh-voice",
+        "pages": {
+          "enabled": false
+        },
+        "latestRelease": {
+          "name": "dsh-voice v0.1.0",
+          "tagName": "v0.1.0",
+          "url": "https://github.com/Harzva/dsh-voice/releases/tag/v0.1.0",
+          "publishedAt": "2026-08-21T09:43:09Z",
+          "prerelease": false,
+          "draft": false,
+          "assets": [
+            {
+              "name": "harness-flow-dsh-voice-0.1.0.tgz",
+              "url": "https://github.com/Harzva/dsh-voice/releases/download/v0.1.0/harness-flow-dsh-voice-0.1.0.tgz",
+              "size": 47395,
+              "downloadCount": 0,
+              "contentType": "application/x-gtar"
+            }
+          ]
+        }
+      },
+      {
+        "name": "dsh-control-plane",
+        "nameWithOwner": "Harzva/dsh-control-plane",
+        "url": "https://github.com/Harzva/dsh-control-plane",
+        "description": null,
+        "isPrivate": false,
+        "isArchived": false,
+        "isFork": false,
+        "primaryLanguage": {
+          "name": "JavaScript"
+        },
+        "pushedAt": "2026-08-21T09:18:29Z",
+        "updatedAt": "2026-08-21T09:19:10Z",
+        "createdAt": "2026-08-21T08:50:04Z",
+        "defaultBranchRef": {
+          "name": "main"
+        },
+        "homepageUrl": "",
+        "stargazerCount": 0,
+        "forkCount": 0,
+        "repositoryTopics": [
+          "dsh-plugin"
+        ],
+        "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/dsh-control-plane",
+        "pages": {
+          "enabled": false
+        },
+        "latestRelease": {
+          "name": "dsh-control-plane v0.1.0",
+          "tagName": "v0.1.0",
+          "url": "https://github.com/Harzva/dsh-control-plane/releases/tag/v0.1.0",
+          "publishedAt": "2026-08-21T08:50:55Z",
+          "prerelease": false,
+          "draft": false,
+          "assets": [
+            {
+              "name": "dsh-control-plane-0.1.0.tgz",
+              "url": "https://github.com/Harzva/dsh-control-plane/releases/download/v0.1.0/dsh-control-plane-0.1.0.tgz",
+              "size": 106806,
+              "downloadCount": 2,
+              "contentType": "application/x-gtar"
+            }
+          ]
+        }
+      },
+      {
+        "name": "dsh-plugin-registry",
+        "nameWithOwner": "Harzva/dsh-plugin-registry",
+        "url": "https://github.com/Harzva/dsh-plugin-registry",
+        "description": "Public-safe, first-party registry for Harzva-maintained DeepSeek Harness plugins",
+        "isPrivate": false,
+        "isArchived": false,
+        "isFork": false,
+        "primaryLanguage": {
+          "name": "JavaScript"
+        },
+        "pushedAt": "2026-08-21T09:18:17Z",
+        "updatedAt": "2026-08-21T09:20:43Z",
+        "createdAt": "2026-08-21T09:14:34Z",
+        "defaultBranchRef": {
+          "name": "main"
+        },
+        "homepageUrl": "",
+        "stargazerCount": 0,
+        "forkCount": 0,
+        "repositoryTopics": [
+          "deepseek-harness",
+          "dsh-plugin",
+          "plugin-registry"
+        ],
+        "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/dsh-plugin-registry",
+        "pages": {
+          "enabled": false
+        },
+        "latestRelease": null
+      },
+      {
+        "name": "harzva-skills-hub",
+        "nameWithOwner": "Harzva/harzva-skills-hub",
+        "url": "https://github.com/Harzva/harzva-skills-hub",
+        "description": "Auto-updating GitHub Pages registry of Harzva Codex skills, workflow skills, and agent recipes.",
+        "isPrivate": false,
+        "isArchived": false,
+        "isFork": false,
+        "primaryLanguage": {
+          "name": "Python"
+        },
+        "pushedAt": "2026-08-21T04:00:46Z",
+        "updatedAt": "2026-08-21T04:01:14Z",
+        "createdAt": "2026-05-14T09:29:45Z",
+        "defaultBranchRef": {
+          "name": "main"
+        },
+        "homepageUrl": "https://harzva.github.io/harzva-skills-hub/",
+        "stargazerCount": 0,
+        "forkCount": 0,
+        "repositoryTopics": [],
+        "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/harzva-skills-hub",
+        "pages": {
+          "enabled": true,
+          "url": "https://harzva.github.io/harzva-skills-hub/",
+          "status": null,
+          "source": {
+            "branch": "main",
+            "path": "/"
+          },
+          "httpsEnforced": true
+        },
+        "latestRelease": null
+      },
+      {
         "name": "dsh-cli-store",
         "nameWithOwner": "Harzva/dsh-cli-store",
         "url": "https://github.com/Harzva/dsh-cli-store",
@@ -1495,40 +1650,6 @@
             }
           ]
         }
-      },
-      {
-        "name": "harzva-skills-hub",
-        "nameWithOwner": "Harzva/harzva-skills-hub",
-        "url": "https://github.com/Harzva/harzva-skills-hub",
-        "description": "Auto-updating GitHub Pages registry of Harzva Codex skills, workflow skills, and agent recipes.",
-        "isPrivate": false,
-        "isArchived": false,
-        "isFork": false,
-        "primaryLanguage": {
-          "name": "Python"
-        },
-        "pushedAt": "2026-08-20T03:58:42Z",
-        "updatedAt": "2026-08-20T03:59:04Z",
-        "createdAt": "2026-05-14T09:29:45Z",
-        "defaultBranchRef": {
-          "name": "main"
-        },
-        "homepageUrl": "https://harzva.github.io/harzva-skills-hub/",
-        "stargazerCount": 0,
-        "forkCount": 0,
-        "repositoryTopics": [],
-        "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/harzva-skills-hub",
-        "pages": {
-          "enabled": true,
-          "url": "https://harzva.github.io/harzva-skills-hub/",
-          "status": null,
-          "source": {
-            "branch": "main",
-            "path": "/"
-          },
-          "httpsEnforced": true
-        },
-        "latestRelease": null
       },
       {
         "name": "dsh-uvm",
@@ -1888,13 +2009,13 @@
           "name": "Swift"
         },
         "pushedAt": "2026-06-26T08:56:22Z",
-        "updatedAt": "2026-08-15T23:47:13Z",
+        "updatedAt": "2026-08-21T13:38:53Z",
         "createdAt": "2026-06-19T02:26:19Z",
         "defaultBranchRef": {
           "name": "main"
         },
         "homepageUrl": "https://harzva.github.io/chatgpt2localbridge/",
-        "stargazerCount": 107,
+        "stargazerCount": 106,
         "forkCount": 0,
         "repositoryTopics": [
           "chatgpt",
@@ -3099,7 +3220,7 @@
         "primaryLanguage": {
           "name": "Python"
         },
-        "pushedAt": "2026-08-20T16:23:34Z",
+        "pushedAt": "2026-08-21T09:00:25Z",
         "updatedAt": "2026-08-19T12:05:11Z",
         "createdAt": "2026-08-18T18:20:10Z",
         "defaultBranchRef": {
@@ -4302,6 +4423,24 @@
       "isFork": false
     },
     {
+      "repo": "Harzva/dsh-control-plane",
+      "repoName": "dsh-control-plane",
+      "repoUrl": "https://github.com/Harzva/dsh-control-plane",
+      "description": null,
+      "language": "JavaScript",
+      "assetName": "dsh-control-plane-0.1.0.tgz",
+      "assetUrl": "https://github.com/Harzva/dsh-control-plane/releases/download/v0.1.0/dsh-control-plane-0.1.0.tgz",
+      "size": 106806,
+      "downloadCount": 2,
+      "kind": "Archive",
+      "functionCategory": "General Utilities",
+      "releaseName": "dsh-control-plane v0.1.0",
+      "tagName": "v0.1.0",
+      "releaseUrl": "https://github.com/Harzva/dsh-control-plane/releases/tag/v0.1.0",
+      "publishedAt": "2026-08-21T08:50:55Z",
+      "isFork": false
+    },
+    {
       "repo": "Harzva/dsh-j-space",
       "repoName": "dsh-j-space",
       "repoUrl": "https://github.com/Harzva/dsh-j-space",
@@ -4335,6 +4474,24 @@
       "tagName": "v0.1.0-alpha.1",
       "releaseUrl": "https://github.com/Harzva/dsh-uvm/releases/tag/v0.1.0-alpha.1",
       "publishedAt": "2026-08-19T12:23:53Z",
+      "isFork": false
+    },
+    {
+      "repo": "Harzva/dsh-voice",
+      "repoName": "dsh-voice",
+      "repoUrl": "https://github.com/Harzva/dsh-voice",
+      "description": null,
+      "language": "TypeScript",
+      "assetName": "harness-flow-dsh-voice-0.1.0.tgz",
+      "assetUrl": "https://github.com/Harzva/dsh-voice/releases/download/v0.1.0/harness-flow-dsh-voice-0.1.0.tgz",
+      "size": 47395,
+      "downloadCount": 0,
+      "kind": "Archive",
+      "functionCategory": "General Utilities",
+      "releaseName": "dsh-voice v0.1.0",
+      "tagName": "v0.1.0",
+      "releaseUrl": "https://github.com/Harzva/dsh-voice/releases/tag/v0.1.0",
+      "publishedAt": "2026-08-21T09:43:09Z",
       "isFork": false
     },
     {
@@ -4436,7 +4593,7 @@
       "assetName": "mobilecode-v0.1.0.apk",
       "assetUrl": "https://github.com/Harzva/mobilecode/releases/download/v0.1.0/mobilecode-v0.1.0.apk",
       "size": 53051517,
-      "downloadCount": 61,
+      "downloadCount": 62,
       "kind": "Android APK",
       "functionCategory": "Mobile Apps",
       "releaseName": "MobileCode v0.1.0 Android APK",
@@ -4529,7 +4686,7 @@
         "assetName": "mobilecode-v0.1.0.apk",
         "assetUrl": "https://github.com/Harzva/mobilecode/releases/download/v0.1.0/mobilecode-v0.1.0.apk",
         "size": 53051517,
-        "downloadCount": 61,
+        "downloadCount": 62,
         "kind": "Android APK",
         "functionCategory": "Mobile Apps",
         "releaseName": "MobileCode v0.1.0 Android APK",
@@ -4783,6 +4940,42 @@
     ],
     "General Utilities": [
       {
+        "repo": "Harzva/dsh-voice",
+        "repoName": "dsh-voice",
+        "repoUrl": "https://github.com/Harzva/dsh-voice",
+        "description": null,
+        "language": "TypeScript",
+        "assetName": "harness-flow-dsh-voice-0.1.0.tgz",
+        "assetUrl": "https://github.com/Harzva/dsh-voice/releases/download/v0.1.0/harness-flow-dsh-voice-0.1.0.tgz",
+        "size": 47395,
+        "downloadCount": 0,
+        "kind": "Archive",
+        "functionCategory": "General Utilities",
+        "releaseName": "dsh-voice v0.1.0",
+        "tagName": "v0.1.0",
+        "releaseUrl": "https://github.com/Harzva/dsh-voice/releases/tag/v0.1.0",
+        "publishedAt": "2026-08-21T09:43:09Z",
+        "isFork": false
+      },
+      {
+        "repo": "Harzva/dsh-control-plane",
+        "repoName": "dsh-control-plane",
+        "repoUrl": "https://github.com/Harzva/dsh-control-plane",
+        "description": null,
+        "language": "JavaScript",
+        "assetName": "dsh-control-plane-0.1.0.tgz",
+        "assetUrl": "https://github.com/Harzva/dsh-control-plane/releases/download/v0.1.0/dsh-control-plane-0.1.0.tgz",
+        "size": 106806,
+        "downloadCount": 2,
+        "kind": "Archive",
+        "functionCategory": "General Utilities",
+        "releaseName": "dsh-control-plane v0.1.0",
+        "tagName": "v0.1.0",
+        "releaseUrl": "https://github.com/Harzva/dsh-control-plane/releases/tag/v0.1.0",
+        "publishedAt": "2026-08-21T08:50:55Z",
+        "isFork": false
+      },
+      {
         "repo": "Harzva/dsh-j-space",
         "repoName": "dsh-j-space",
         "repoUrl": "https://github.com/Harzva/dsh-j-space",
@@ -4832,8 +5025,8 @@
       "primaryLanguage": {
         "name": "TypeScript"
       },
-      "pushedAt": "2026-08-21T02:36:52Z",
-      "updatedAt": "2026-08-21T02:36:59Z",
+      "pushedAt": "2026-08-22T02:28:40Z",
+      "updatedAt": "2026-08-22T02:28:46Z",
       "createdAt": "2026-05-12T09:49:47Z",
       "defaultBranchRef": {
         "name": "main"
@@ -5060,13 +5253,13 @@
         "name": "Swift"
       },
       "pushedAt": "2026-06-26T08:56:22Z",
-      "updatedAt": "2026-08-15T23:47:13Z",
+      "updatedAt": "2026-08-21T13:38:53Z",
       "createdAt": "2026-06-19T02:26:19Z",
       "defaultBranchRef": {
         "name": "main"
       },
       "homepageUrl": "https://harzva.github.io/chatgpt2localbridge/",
-      "stargazerCount": 107,
+      "stargazerCount": 106,
       "forkCount": 0,
       "repositoryTopics": [
         "chatgpt",
@@ -5425,8 +5618,8 @@
       "primaryLanguage": {
         "name": "Python"
       },
-      "pushedAt": "2026-08-20T04:00:18Z",
-      "updatedAt": "2026-08-20T04:01:37Z",
+      "pushedAt": "2026-08-21T04:03:02Z",
+      "updatedAt": "2026-08-21T04:03:42Z",
       "createdAt": "2026-05-14T09:29:39Z",
       "defaultBranchRef": {
         "name": "main"
@@ -5459,8 +5652,8 @@
       "primaryLanguage": {
         "name": "Python"
       },
-      "pushedAt": "2026-08-20T03:58:50Z",
-      "updatedAt": "2026-08-20T03:59:03Z",
+      "pushedAt": "2026-08-21T04:00:44Z",
+      "updatedAt": "2026-08-21T04:01:46Z",
       "createdAt": "2026-05-14T09:27:13Z",
       "defaultBranchRef": {
         "name": "main"
@@ -5493,8 +5686,8 @@
       "primaryLanguage": {
         "name": "Python"
       },
-      "pushedAt": "2026-08-20T04:02:27Z",
-      "updatedAt": "2026-08-20T04:03:16Z",
+      "pushedAt": "2026-08-21T04:04:43Z",
+      "updatedAt": "2026-08-21T04:04:58Z",
       "createdAt": "2026-05-14T09:29:34Z",
       "defaultBranchRef": {
         "name": "main"
@@ -5527,8 +5720,8 @@
       "primaryLanguage": {
         "name": "Python"
       },
-      "pushedAt": "2026-08-20T03:58:42Z",
-      "updatedAt": "2026-08-20T03:59:04Z",
+      "pushedAt": "2026-08-21T04:00:46Z",
+      "updatedAt": "2026-08-21T04:01:14Z",
       "createdAt": "2026-05-14T09:29:45Z",
       "defaultBranchRef": {
         "name": "main"
@@ -5678,8 +5871,8 @@
       "primaryLanguage": {
         "name": "TypeScript"
       },
-      "pushedAt": "2026-08-21T02:05:08Z",
-      "updatedAt": "2026-08-21T02:05:25Z",
+      "pushedAt": "2026-08-22T01:55:49Z",
+      "updatedAt": "2026-08-22T01:55:58Z",
       "createdAt": "2026-04-01T03:55:26Z",
       "defaultBranchRef": {
         "name": "main"
@@ -5846,7 +6039,7 @@
             "name": "mobilecode-v0.1.0.apk",
             "url": "https://github.com/Harzva/mobilecode/releases/download/v0.1.0/mobilecode-v0.1.0.apk",
             "size": 53051517,
-            "downloadCount": 61,
+            "downloadCount": 62,
             "contentType": "application/vnd.android.package-archive"
           }
         ]
@@ -6181,6 +6374,51 @@
       }
     },
     {
+      "name": "dsh-control-plane",
+      "nameWithOwner": "Harzva/dsh-control-plane",
+      "url": "https://github.com/Harzva/dsh-control-plane",
+      "description": null,
+      "isPrivate": false,
+      "isArchived": false,
+      "isFork": false,
+      "primaryLanguage": {
+        "name": "JavaScript"
+      },
+      "pushedAt": "2026-08-21T09:18:29Z",
+      "updatedAt": "2026-08-21T09:19:10Z",
+      "createdAt": "2026-08-21T08:50:04Z",
+      "defaultBranchRef": {
+        "name": "main"
+      },
+      "homepageUrl": "",
+      "stargazerCount": 0,
+      "forkCount": 0,
+      "repositoryTopics": [
+        "dsh-plugin"
+      ],
+      "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/dsh-control-plane",
+      "pages": {
+        "enabled": false
+      },
+      "latestRelease": {
+        "name": "dsh-control-plane v0.1.0",
+        "tagName": "v0.1.0",
+        "url": "https://github.com/Harzva/dsh-control-plane/releases/tag/v0.1.0",
+        "publishedAt": "2026-08-21T08:50:55Z",
+        "prerelease": false,
+        "draft": false,
+        "assets": [
+          {
+            "name": "dsh-control-plane-0.1.0.tgz",
+            "url": "https://github.com/Harzva/dsh-control-plane/releases/download/v0.1.0/dsh-control-plane-0.1.0.tgz",
+            "size": 106806,
+            "downloadCount": 2,
+            "contentType": "application/x-gtar"
+          }
+        ]
+      }
+    },
+    {
       "name": "dsh-j-space",
       "nameWithOwner": "Harzva/dsh-j-space",
       "url": "https://github.com/Harzva/dsh-j-space",
@@ -6312,6 +6550,51 @@
             "url": "https://github.com/Harzva/dsh-uvm/releases/download/v0.1.0-alpha.1/harness-flow-dsh-uvm-0.1.0-alpha.1.tgz",
             "size": 21023,
             "downloadCount": 1,
+            "contentType": "application/x-gtar"
+          }
+        ]
+      }
+    },
+    {
+      "name": "dsh-voice",
+      "nameWithOwner": "Harzva/dsh-voice",
+      "url": "https://github.com/Harzva/dsh-voice",
+      "description": null,
+      "isPrivate": false,
+      "isArchived": false,
+      "isFork": false,
+      "primaryLanguage": {
+        "name": "TypeScript"
+      },
+      "pushedAt": "2026-08-21T09:43:09Z",
+      "updatedAt": "2026-08-21T09:47:30Z",
+      "createdAt": "2026-08-21T09:42:54Z",
+      "defaultBranchRef": {
+        "name": "main"
+      },
+      "homepageUrl": "",
+      "stargazerCount": 0,
+      "forkCount": 0,
+      "repositoryTopics": [
+        "dsh-plugin"
+      ],
+      "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/dsh-voice",
+      "pages": {
+        "enabled": false
+      },
+      "latestRelease": {
+        "name": "dsh-voice v0.1.0",
+        "tagName": "v0.1.0",
+        "url": "https://github.com/Harzva/dsh-voice/releases/tag/v0.1.0",
+        "publishedAt": "2026-08-21T09:43:09Z",
+        "prerelease": false,
+        "draft": false,
+        "assets": [
+          {
+            "name": "harness-flow-dsh-voice-0.1.0.tgz",
+            "url": "https://github.com/Harzva/dsh-voice/releases/download/v0.1.0/harness-flow-dsh-voice-0.1.0.tgz",
+            "size": 47395,
+            "downloadCount": 0,
             "contentType": "application/x-gtar"
           }
         ]
@@ -6506,8 +6789,8 @@
       "primaryLanguage": {
         "name": "TypeScript"
       },
-      "pushedAt": "2026-08-21T02:05:08Z",
-      "updatedAt": "2026-08-21T02:05:25Z",
+      "pushedAt": "2026-08-22T01:55:49Z",
+      "updatedAt": "2026-08-22T01:55:58Z",
       "createdAt": "2026-04-01T03:55:26Z",
       "defaultBranchRef": {
         "name": "main"
@@ -6606,7 +6889,7 @@
             "name": "mobilecode-v0.1.0.apk",
             "url": "https://github.com/Harzva/mobilecode/releases/download/v0.1.0/mobilecode-v0.1.0.apk",
             "size": 53051517,
-            "downloadCount": 61,
+            "downloadCount": 62,
             "contentType": "application/vnd.android.package-archive"
           }
         ]
@@ -6898,13 +7181,13 @@
         "name": "Swift"
       },
       "pushedAt": "2026-06-26T08:56:22Z",
-      "updatedAt": "2026-08-15T23:47:13Z",
+      "updatedAt": "2026-08-21T13:38:53Z",
       "createdAt": "2026-06-19T02:26:19Z",
       "defaultBranchRef": {
         "name": "main"
       },
       "homepageUrl": "https://harzva.github.io/chatgpt2localbridge/",
-      "stargazerCount": 107,
+      "stargazerCount": 106,
       "forkCount": 0,
       "repositoryTopics": [
         "chatgpt",
@@ -7113,6 +7396,51 @@
       }
     },
     {
+      "name": "dsh-control-plane",
+      "nameWithOwner": "Harzva/dsh-control-plane",
+      "url": "https://github.com/Harzva/dsh-control-plane",
+      "description": null,
+      "isPrivate": false,
+      "isArchived": false,
+      "isFork": false,
+      "primaryLanguage": {
+        "name": "JavaScript"
+      },
+      "pushedAt": "2026-08-21T09:18:29Z",
+      "updatedAt": "2026-08-21T09:19:10Z",
+      "createdAt": "2026-08-21T08:50:04Z",
+      "defaultBranchRef": {
+        "name": "main"
+      },
+      "homepageUrl": "",
+      "stargazerCount": 0,
+      "forkCount": 0,
+      "repositoryTopics": [
+        "dsh-plugin"
+      ],
+      "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/dsh-control-plane",
+      "pages": {
+        "enabled": false
+      },
+      "latestRelease": {
+        "name": "dsh-control-plane v0.1.0",
+        "tagName": "v0.1.0",
+        "url": "https://github.com/Harzva/dsh-control-plane/releases/tag/v0.1.0",
+        "publishedAt": "2026-08-21T08:50:55Z",
+        "prerelease": false,
+        "draft": false,
+        "assets": [
+          {
+            "name": "dsh-control-plane-0.1.0.tgz",
+            "url": "https://github.com/Harzva/dsh-control-plane/releases/download/v0.1.0/dsh-control-plane-0.1.0.tgz",
+            "size": 106806,
+            "downloadCount": 2,
+            "contentType": "application/x-gtar"
+          }
+        ]
+      }
+    },
+    {
       "name": "dsh-groupx",
       "nameWithOwner": "Harzva/dsh-groupx",
       "url": "https://github.com/Harzva/dsh-groupx",
@@ -7274,6 +7602,37 @@
       }
     },
     {
+      "name": "dsh-plugin-registry",
+      "nameWithOwner": "Harzva/dsh-plugin-registry",
+      "url": "https://github.com/Harzva/dsh-plugin-registry",
+      "description": "Public-safe, first-party registry for Harzva-maintained DeepSeek Harness plugins",
+      "isPrivate": false,
+      "isArchived": false,
+      "isFork": false,
+      "primaryLanguage": {
+        "name": "JavaScript"
+      },
+      "pushedAt": "2026-08-21T09:18:17Z",
+      "updatedAt": "2026-08-21T09:20:43Z",
+      "createdAt": "2026-08-21T09:14:34Z",
+      "defaultBranchRef": {
+        "name": "main"
+      },
+      "homepageUrl": "",
+      "stargazerCount": 0,
+      "forkCount": 0,
+      "repositoryTopics": [
+        "deepseek-harness",
+        "dsh-plugin",
+        "plugin-registry"
+      ],
+      "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/dsh-plugin-registry",
+      "pages": {
+        "enabled": false
+      },
+      "latestRelease": null
+    },
+    {
       "name": "dsh-research-lab",
       "nameWithOwner": "Harzva/dsh-research-lab",
       "url": "https://github.com/Harzva/dsh-research-lab",
@@ -7380,6 +7739,51 @@
             "url": "https://github.com/Harzva/dsh-uvm/releases/download/v0.1.0-alpha.1/harness-flow-dsh-uvm-0.1.0-alpha.1.tgz",
             "size": 21023,
             "downloadCount": 1,
+            "contentType": "application/x-gtar"
+          }
+        ]
+      }
+    },
+    {
+      "name": "dsh-voice",
+      "nameWithOwner": "Harzva/dsh-voice",
+      "url": "https://github.com/Harzva/dsh-voice",
+      "description": null,
+      "isPrivate": false,
+      "isArchived": false,
+      "isFork": false,
+      "primaryLanguage": {
+        "name": "TypeScript"
+      },
+      "pushedAt": "2026-08-21T09:43:09Z",
+      "updatedAt": "2026-08-21T09:47:30Z",
+      "createdAt": "2026-08-21T09:42:54Z",
+      "defaultBranchRef": {
+        "name": "main"
+      },
+      "homepageUrl": "",
+      "stargazerCount": 0,
+      "forkCount": 0,
+      "repositoryTopics": [
+        "dsh-plugin"
+      ],
+      "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/dsh-voice",
+      "pages": {
+        "enabled": false
+      },
+      "latestRelease": {
+        "name": "dsh-voice v0.1.0",
+        "tagName": "v0.1.0",
+        "url": "https://github.com/Harzva/dsh-voice/releases/tag/v0.1.0",
+        "publishedAt": "2026-08-21T09:43:09Z",
+        "prerelease": false,
+        "draft": false,
+        "assets": [
+          {
+            "name": "harness-flow-dsh-voice-0.1.0.tgz",
+            "url": "https://github.com/Harzva/dsh-voice/releases/download/v0.1.0/harness-flow-dsh-voice-0.1.0.tgz",
+            "size": 47395,
+            "downloadCount": 0,
             "contentType": "application/x-gtar"
           }
         ]
@@ -7648,8 +8052,8 @@
       "primaryLanguage": {
         "name": "Python"
       },
-      "pushedAt": "2026-08-20T03:58:42Z",
-      "updatedAt": "2026-08-20T03:59:04Z",
+      "pushedAt": "2026-08-21T04:00:46Z",
+      "updatedAt": "2026-08-21T04:01:14Z",
       "createdAt": "2026-05-14T09:29:45Z",
       "defaultBranchRef": {
         "name": "main"
@@ -7995,7 +8399,7 @@
       "primaryLanguage": {
         "name": "Python"
       },
-      "pushedAt": "2026-08-20T16:23:34Z",
+      "pushedAt": "2026-08-21T09:00:25Z",
       "updatedAt": "2026-08-19T12:05:11Z",
       "createdAt": "2026-08-18T18:20:10Z",
       "defaultBranchRef": {
@@ -8101,7 +8505,7 @@
       "primaryLanguage": {
         "name": "Python"
       },
-      "pushedAt": "2026-08-20T16:23:34Z",
+      "pushedAt": "2026-08-21T09:00:25Z",
       "updatedAt": "2026-08-19T12:05:11Z",
       "createdAt": "2026-08-18T18:20:10Z",
       "defaultBranchRef": {

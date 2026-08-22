@@ -6,7 +6,7 @@ A registry of Harzva Codex skills, workflow skills, and agent operating recipes.
 
 [Live Skill Board](https://harzva.github.io/harzva-skills-hub/) | [Project Atlas](https://github.com/Harzva/harzva-project-atlas)
 
-![Skills](https://img.shields.io/badge/skills-39-6B8E23?style=for-the-badge) ![Auto Update](https://img.shields.io/badge/update-daily-111111?style=for-the-badge)
+![Skills](https://img.shields.io/badge/skills-42-6B8E23?style=for-the-badge) ![Auto Update](https://img.shields.io/badge/update-daily-111111?style=for-the-badge)
 
 </div>
 
@@ -14,10 +14,13 @@ A registry of Harzva Codex skills, workflow skills, and agent operating recipes.
 
 | Skill Repository | Language | Updated | Description |
 |---|---:|---:|---|
-| [awesome-dsh-plugin](https://github.com/Harzva/awesome-dsh-plugin) | Python | 2026-08-20 | A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件精选列表 |
+| [dsh-voice](https://github.com/Harzva/dsh-voice) | TypeScript | 2026-08-21 |  |
+| [dsh-control-plane](https://github.com/Harzva/dsh-control-plane) | JavaScript | 2026-08-21 |  |
+| [dsh-plugin-registry](https://github.com/Harzva/dsh-plugin-registry) | JavaScript | 2026-08-21 | Public-safe, first-party registry for Harzva-maintained DeepSeek Harness plugins |
+| [awesome-dsh-plugin](https://github.com/Harzva/awesome-dsh-plugin) | Python | 2026-08-21 | A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件精选列表 |
+| [harzva-skills-hub](https://github.com/Harzva/harzva-skills-hub) | Python | 2026-08-21 | Auto-updating GitHub Pages registry of Harzva Codex skills, workflow skills, and agent recipes. |
 | [dsh-cli-store](https://github.com/Harzva/dsh-cli-store) | JavaScript | 2026-08-20 |  |
 | [dsh-j-space](https://github.com/Harzva/dsh-j-space) | Python | 2026-08-20 |  |
-| [harzva-skills-hub](https://github.com/Harzva/harzva-skills-hub) | Python | 2026-08-20 | Auto-updating GitHub Pages registry of Harzva Codex skills, workflow skills, and agent recipes. |
 | [deepseek-harness](https://github.com/Harzva/deepseek-harness) | Mixed | 2026-08-20 | DeepSeek Harness: Everything is a Plugin. |
 | [dsh-uvm](https://github.com/Harzva/dsh-uvm) | TypeScript | 2026-08-19 | DSH-native uv environment manager: create/sync/run Python venvs from DSH Web, pip fallback, read-only conda visibility |
 | [dsh-obsidian](https://github.com/Harzva/dsh-obsidian) | TypeScript | 2026-08-19 |  |
@@ -70,5 +73,5 @@ This MetaRepo refreshes itself with GitHub Actions.
 - Data source: GitHub REST API.
 - Privacy default: public repositories only.
 - Private mode: set `META_INCLUDE_PRIVATE=true` and provide `META_GITHUB_TOKEN` only when the meta repository is private.
-- Generated at: `2026-08-21T04:00:45.345263+00:00`.
+- Generated at: `2026-08-22T03:56:19.163939+00:00`.
 - Private repositories omitted from this public output: `13`.

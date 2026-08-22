@@ -216,6 +216,24 @@
     "isFork": false
   },
   {
+    "repo": "Harzva/dsh-control-plane",
+    "repoName": "dsh-control-plane",
+    "repoUrl": "https://github.com/Harzva/dsh-control-plane",
+    "description": null,
+    "language": "JavaScript",
+    "assetName": "dsh-control-plane-0.1.0.tgz",
+    "assetUrl": "https://github.com/Harzva/dsh-control-plane/releases/download/v0.1.0/dsh-control-plane-0.1.0.tgz",
+    "size": 106806,
+    "downloadCount": 2,
+    "kind": "Archive",
+    "functionCategory": "General Utilities",
+    "releaseName": "dsh-control-plane v0.1.0",
+    "tagName": "v0.1.0",
+    "releaseUrl": "https://github.com/Harzva/dsh-control-plane/releases/tag/v0.1.0",
+    "publishedAt": "2026-08-21T08:50:55Z",
+    "isFork": false
+  },
+  {
     "repo": "Harzva/dsh-j-space",
     "repoName": "dsh-j-space",
     "repoUrl": "https://github.com/Harzva/dsh-j-space",
@@ -249,6 +267,24 @@
     "tagName": "v0.1.0-alpha.1",
     "releaseUrl": "https://github.com/Harzva/dsh-uvm/releases/tag/v0.1.0-alpha.1",
     "publishedAt": "2026-08-19T12:23:53Z",
+    "isFork": false
+  },
+  {
+    "repo": "Harzva/dsh-voice",
+    "repoName": "dsh-voice",
+    "repoUrl": "https://github.com/Harzva/dsh-voice",
+    "description": null,
+    "language": "TypeScript",
+    "assetName": "harness-flow-dsh-voice-0.1.0.tgz",
+    "assetUrl": "https://github.com/Harzva/dsh-voice/releases/download/v0.1.0/harness-flow-dsh-voice-0.1.0.tgz",
+    "size": 47395,
+    "downloadCount": 0,
+    "kind": "Archive",
+    "functionCategory": "General Utilities",
+    "releaseName": "dsh-voice v0.1.0",
+    "tagName": "v0.1.0",
+    "releaseUrl": "https://github.com/Harzva/dsh-voice/releases/tag/v0.1.0",
+    "publishedAt": "2026-08-21T09:43:09Z",
     "isFork": false
   },
   {
@@ -350,7 +386,7 @@
     "assetName": "mobilecode-v0.1.0.apk",
     "assetUrl": "https://github.com/Harzva/mobilecode/releases/download/v0.1.0/mobilecode-v0.1.0.apk",
     "size": 53051517,
-    "downloadCount": 61,
+    "downloadCount": 62,
     "kind": "Android APK",
     "functionCategory": "Mobile Apps",
     "releaseName": "MobileCode v0.1.0 Android APK",
