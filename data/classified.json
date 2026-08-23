@@ -1,6 +1,6 @@
 {
   "summary": {
-    "generatedAt": "2026-08-22T03:56:19.163939+00:00",
+    "generatedAt": "2026-08-23T04:01:06.880917+00:00",
     "owner": "Harzva",
     "mode": "skills",
     "publicRepositories": 131,
@@ -486,8 +486,8 @@
         "primaryLanguage": {
           "name": "TypeScript"
         },
-        "pushedAt": "2026-08-22T02:28:40Z",
-        "updatedAt": "2026-08-22T02:28:46Z",
+        "pushedAt": "2026-08-23T02:37:12Z",
+        "updatedAt": "2026-08-23T02:37:44Z",
         "createdAt": "2026-05-12T09:49:47Z",
         "defaultBranchRef": {
           "name": "main"
@@ -520,15 +520,15 @@
         "primaryLanguage": {
           "name": "TypeScript"
         },
-        "pushedAt": "2026-08-22T01:55:49Z",
-        "updatedAt": "2026-08-22T01:55:58Z",
+        "pushedAt": "2026-08-23T02:07:29Z",
+        "updatedAt": "2026-08-23T02:07:34Z",
         "createdAt": "2026-04-01T03:55:26Z",
         "defaultBranchRef": {
           "name": "main"
         },
         "homepageUrl": "",
         "stargazerCount": 57,
-        "forkCount": 8,
+        "forkCount": 6,
         "repositoryTopics": [
           "agent-loop",
           "ai-coding",
@@ -573,8 +573,8 @@
         "primaryLanguage": {
           "name": "Python"
         },
-        "pushedAt": "2026-08-21T04:04:43Z",
-        "updatedAt": "2026-08-21T04:04:58Z",
+        "pushedAt": "2026-08-22T03:59:04Z",
+        "updatedAt": "2026-08-22T03:59:10Z",
         "createdAt": "2026-05-14T09:29:34Z",
         "defaultBranchRef": {
           "name": "main"
@@ -607,8 +607,8 @@
         "primaryLanguage": {
           "name": "Python"
         },
-        "pushedAt": "2026-08-21T04:03:02Z",
-        "updatedAt": "2026-08-21T04:03:42Z",
+        "pushedAt": "2026-08-22T03:56:59Z",
+        "updatedAt": "2026-08-22T03:57:03Z",
         "createdAt": "2026-05-14T09:29:39Z",
         "defaultBranchRef": {
           "name": "main"
@@ -641,8 +641,8 @@
         "primaryLanguage": {
           "name": "Python"
         },
-        "pushedAt": "2026-08-21T04:00:44Z",
-        "updatedAt": "2026-08-21T04:01:46Z",
+        "pushedAt": "2026-08-22T03:56:02Z",
+        "updatedAt": "2026-08-22T03:56:20Z",
         "createdAt": "2026-05-14T09:27:13Z",
         "defaultBranchRef": {
           "name": "main"
@@ -1407,6 +1407,40 @@
     ],
     "Skills and Agent Workflows": [
       {
+        "name": "harzva-skills-hub",
+        "nameWithOwner": "Harzva/harzva-skills-hub",
+        "url": "https://github.com/Harzva/harzva-skills-hub",
+        "description": "Auto-updating GitHub Pages registry of Harzva Codex skills, workflow skills, and agent recipes.",
+        "isPrivate": false,
+        "isArchived": false,
+        "isFork": false,
+        "primaryLanguage": {
+          "name": "Python"
+        },
+        "pushedAt": "2026-08-22T03:56:20Z",
+        "updatedAt": "2026-08-22T03:56:43Z",
+        "createdAt": "2026-05-14T09:29:45Z",
+        "defaultBranchRef": {
+          "name": "main"
+        },
+        "homepageUrl": "https://harzva.github.io/harzva-skills-hub/",
+        "stargazerCount": 0,
+        "forkCount": 0,
+        "repositoryTopics": [],
+        "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/harzva-skills-hub",
+        "pages": {
+          "enabled": true,
+          "url": "https://harzva.github.io/harzva-skills-hub/",
+          "status": null,
+          "source": {
+            "branch": "main",
+            "path": "/"
+          },
+          "httpsEnforced": true
+        },
+        "latestRelease": null
+      },
+      {
         "name": "dsh-voice",
         "nameWithOwner": "Harzva/dsh-voice",
         "url": "https://github.com/Harzva/dsh-voice",
@@ -1524,40 +1558,6 @@
         "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/dsh-plugin-registry",
         "pages": {
           "enabled": false
-        },
-        "latestRelease": null
-      },
-      {
-        "name": "harzva-skills-hub",
-        "nameWithOwner": "Harzva/harzva-skills-hub",
-        "url": "https://github.com/Harzva/harzva-skills-hub",
-        "description": "Auto-updating GitHub Pages registry of Harzva Codex skills, workflow skills, and agent recipes.",
-        "isPrivate": false,
-        "isArchived": false,
-        "isFork": false,
-        "primaryLanguage": {
-          "name": "Python"
-        },
-        "pushedAt": "2026-08-21T04:00:46Z",
-        "updatedAt": "2026-08-21T04:01:14Z",
-        "createdAt": "2026-05-14T09:29:45Z",
-        "defaultBranchRef": {
-          "name": "main"
-        },
-        "homepageUrl": "https://harzva.github.io/harzva-skills-hub/",
-        "stargazerCount": 0,
-        "forkCount": 0,
-        "repositoryTopics": [],
-        "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/harzva-skills-hub",
-        "pages": {
-          "enabled": true,
-          "url": "https://harzva.github.io/harzva-skills-hub/",
-          "status": null,
-          "source": {
-            "branch": "main",
-            "path": "/"
-          },
-          "httpsEnforced": true
         },
         "latestRelease": null
       },
@@ -5025,8 +5025,8 @@
       "primaryLanguage": {
         "name": "TypeScript"
       },
-      "pushedAt": "2026-08-22T02:28:40Z",
-      "updatedAt": "2026-08-22T02:28:46Z",
+      "pushedAt": "2026-08-23T02:37:12Z",
+      "updatedAt": "2026-08-23T02:37:44Z",
       "createdAt": "2026-05-12T09:49:47Z",
       "defaultBranchRef": {
         "name": "main"
@@ -5618,8 +5618,8 @@
       "primaryLanguage": {
         "name": "Python"
       },
-      "pushedAt": "2026-08-21T04:03:02Z",
-      "updatedAt": "2026-08-21T04:03:42Z",
+      "pushedAt": "2026-08-22T03:56:59Z",
+      "updatedAt": "2026-08-22T03:57:03Z",
       "createdAt": "2026-05-14T09:29:39Z",
       "defaultBranchRef": {
         "name": "main"
@@ -5652,8 +5652,8 @@
       "primaryLanguage": {
         "name": "Python"
       },
-      "pushedAt": "2026-08-21T04:00:44Z",
-      "updatedAt": "2026-08-21T04:01:46Z",
+      "pushedAt": "2026-08-22T03:56:02Z",
+      "updatedAt": "2026-08-22T03:56:20Z",
       "createdAt": "2026-05-14T09:27:13Z",
       "defaultBranchRef": {
         "name": "main"
@@ -5686,8 +5686,8 @@
       "primaryLanguage": {
         "name": "Python"
       },
-      "pushedAt": "2026-08-21T04:04:43Z",
-      "updatedAt": "2026-08-21T04:04:58Z",
+      "pushedAt": "2026-08-22T03:59:04Z",
+      "updatedAt": "2026-08-22T03:59:10Z",
       "createdAt": "2026-05-14T09:29:34Z",
       "defaultBranchRef": {
         "name": "main"
@@ -5720,8 +5720,8 @@
       "primaryLanguage": {
         "name": "Python"
       },
-      "pushedAt": "2026-08-21T04:00:46Z",
-      "updatedAt": "2026-08-21T04:01:14Z",
+      "pushedAt": "2026-08-22T03:56:20Z",
+      "updatedAt": "2026-08-22T03:56:43Z",
       "createdAt": "2026-05-14T09:29:45Z",
       "defaultBranchRef": {
         "name": "main"
@@ -5871,15 +5871,15 @@
       "primaryLanguage": {
         "name": "TypeScript"
       },
-      "pushedAt": "2026-08-22T01:55:49Z",
-      "updatedAt": "2026-08-22T01:55:58Z",
+      "pushedAt": "2026-08-23T02:07:29Z",
+      "updatedAt": "2026-08-23T02:07:34Z",
       "createdAt": "2026-04-01T03:55:26Z",
       "defaultBranchRef": {
         "name": "main"
       },
       "homepageUrl": "",
       "stargazerCount": 57,
-      "forkCount": 8,
+      "forkCount": 6,
       "repositoryTopics": [
         "agent-loop",
         "ai-coding",
@@ -6789,15 +6789,15 @@
       "primaryLanguage": {
         "name": "TypeScript"
       },
-      "pushedAt": "2026-08-22T01:55:49Z",
-      "updatedAt": "2026-08-22T01:55:58Z",
+      "pushedAt": "2026-08-23T02:07:29Z",
+      "updatedAt": "2026-08-23T02:07:34Z",
       "createdAt": "2026-04-01T03:55:26Z",
       "defaultBranchRef": {
         "name": "main"
       },
       "homepageUrl": "",
       "stargazerCount": 57,
-      "forkCount": 8,
+      "forkCount": 6,
       "repositoryTopics": [
         "agent-loop",
         "ai-coding",
@@ -8052,8 +8052,8 @@
       "primaryLanguage": {
         "name": "Python"
       },
-      "pushedAt": "2026-08-21T04:00:46Z",
-      "updatedAt": "2026-08-21T04:01:14Z",
+      "pushedAt": "2026-08-22T03:56:20Z",
+      "updatedAt": "2026-08-22T03:56:43Z",
       "createdAt": "2026-05-14T09:29:45Z",
       "defaultBranchRef": {
         "name": "main"
