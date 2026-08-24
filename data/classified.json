@@ -1,14 +1,14 @@
 {
   "summary": {
-    "generatedAt": "2026-08-23T04:01:06.880917+00:00",
+    "generatedAt": "2026-08-24T04:05:51.127024+00:00",
     "owner": "Harzva",
     "mode": "skills",
-    "publicRepositories": 131,
+    "publicRepositories": 132,
     "forks": 39,
     "pages": 30,
-    "releases": 14,
-    "skills": 42,
-    "artifacts": 22,
+    "releases": 15,
+    "skills": 43,
+    "artifacts": 23,
     "privateOmitted": 13
   },
   "categories": {
@@ -486,8 +486,8 @@
         "primaryLanguage": {
           "name": "TypeScript"
         },
-        "pushedAt": "2026-08-23T02:37:12Z",
-        "updatedAt": "2026-08-23T02:37:44Z",
+        "pushedAt": "2026-08-24T02:37:43Z",
+        "updatedAt": "2026-08-24T02:37:51Z",
         "createdAt": "2026-05-12T09:49:47Z",
         "defaultBranchRef": {
           "name": "main"
@@ -520,8 +520,8 @@
         "primaryLanguage": {
           "name": "TypeScript"
         },
-        "pushedAt": "2026-08-23T02:07:29Z",
-        "updatedAt": "2026-08-23T02:07:34Z",
+        "pushedAt": "2026-08-24T02:04:29Z",
+        "updatedAt": "2026-08-24T02:04:37Z",
         "createdAt": "2026-04-01T03:55:26Z",
         "defaultBranchRef": {
           "name": "main"
@@ -573,8 +573,8 @@
         "primaryLanguage": {
           "name": "Python"
         },
-        "pushedAt": "2026-08-22T03:59:04Z",
-        "updatedAt": "2026-08-22T03:59:10Z",
+        "pushedAt": "2026-08-23T04:04:54Z",
+        "updatedAt": "2026-08-23T04:05:42Z",
         "createdAt": "2026-05-14T09:29:34Z",
         "defaultBranchRef": {
           "name": "main"
@@ -607,8 +607,8 @@
         "primaryLanguage": {
           "name": "Python"
         },
-        "pushedAt": "2026-08-22T03:56:59Z",
-        "updatedAt": "2026-08-22T03:57:03Z",
+        "pushedAt": "2026-08-23T04:01:53Z",
+        "updatedAt": "2026-08-23T04:01:58Z",
         "createdAt": "2026-05-14T09:29:39Z",
         "defaultBranchRef": {
           "name": "main"
@@ -641,8 +641,8 @@
         "primaryLanguage": {
           "name": "Python"
         },
-        "pushedAt": "2026-08-22T03:56:02Z",
-        "updatedAt": "2026-08-22T03:56:20Z",
+        "pushedAt": "2026-08-23T04:00:23Z",
+        "updatedAt": "2026-08-23T04:01:00Z",
         "createdAt": "2026-05-14T09:27:13Z",
         "defaultBranchRef": {
           "name": "main"
@@ -1407,6 +1407,54 @@
     ],
     "Skills and Agent Workflows": [
       {
+        "name": "dsh-agent-project-sync",
+        "nameWithOwner": "Harzva/dsh-agent-project-sync",
+        "url": "https://github.com/Harzva/dsh-agent-project-sync",
+        "description": "Synchronize Codex and Claude project directories into native DeepSeek Harness workspaces.",
+        "isPrivate": false,
+        "isArchived": false,
+        "isFork": false,
+        "primaryLanguage": {
+          "name": "JavaScript"
+        },
+        "pushedAt": "2026-08-23T09:05:32Z",
+        "updatedAt": "2026-08-23T09:05:28Z",
+        "createdAt": "2026-08-23T08:55:48Z",
+        "defaultBranchRef": {
+          "name": "main"
+        },
+        "homepageUrl": "",
+        "stargazerCount": 0,
+        "forkCount": 0,
+        "repositoryTopics": [
+          "claude-code",
+          "codex",
+          "deepseek-harness",
+          "dsh-plugin"
+        ],
+        "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/dsh-agent-project-sync",
+        "pages": {
+          "enabled": false
+        },
+        "latestRelease": {
+          "name": "dsh-agent-project-sync v0.1.0",
+          "tagName": "v0.1.0",
+          "url": "https://github.com/Harzva/dsh-agent-project-sync/releases/tag/v0.1.0",
+          "publishedAt": "2026-08-23T09:05:32Z",
+          "prerelease": false,
+          "draft": false,
+          "assets": [
+            {
+              "name": "dsh-agent-project-sync-0.1.0.tgz",
+              "url": "https://github.com/Harzva/dsh-agent-project-sync/releases/download/v0.1.0/dsh-agent-project-sync-0.1.0.tgz",
+              "size": 14057,
+              "downloadCount": 0,
+              "contentType": "application/x-gtar"
+            }
+          ]
+        }
+      },
+      {
         "name": "harzva-skills-hub",
         "nameWithOwner": "Harzva/harzva-skills-hub",
         "url": "https://github.com/Harzva/harzva-skills-hub",
@@ -1417,8 +1465,8 @@
         "primaryLanguage": {
           "name": "Python"
         },
-        "pushedAt": "2026-08-22T03:56:20Z",
-        "updatedAt": "2026-08-22T03:56:43Z",
+        "pushedAt": "2026-08-23T04:01:08Z",
+        "updatedAt": "2026-08-23T04:01:47Z",
         "createdAt": "2026-05-14T09:29:45Z",
         "defaultBranchRef": {
           "name": "main"
@@ -4225,6 +4273,24 @@
       "isFork": false
     },
     {
+      "repo": "Harzva/dsh-agent-project-sync",
+      "repoName": "dsh-agent-project-sync",
+      "repoUrl": "https://github.com/Harzva/dsh-agent-project-sync",
+      "description": "Synchronize Codex and Claude project directories into native DeepSeek Harness workspaces.",
+      "language": "JavaScript",
+      "assetName": "dsh-agent-project-sync-0.1.0.tgz",
+      "assetUrl": "https://github.com/Harzva/dsh-agent-project-sync/releases/download/v0.1.0/dsh-agent-project-sync-0.1.0.tgz",
+      "size": 14057,
+      "downloadCount": 0,
+      "kind": "Archive",
+      "functionCategory": "AI Agent Systems",
+      "releaseName": "dsh-agent-project-sync v0.1.0",
+      "tagName": "v0.1.0",
+      "releaseUrl": "https://github.com/Harzva/dsh-agent-project-sync/releases/tag/v0.1.0",
+      "publishedAt": "2026-08-23T09:05:32Z",
+      "isFork": false
+    },
+    {
       "repo": "Harzva/pami-skill-suites",
       "repoName": "pami-skill-suites",
       "repoUrl": "https://github.com/Harzva/pami-skill-suites",
@@ -4828,6 +4894,24 @@
     ],
     "AI Agent Systems": [
       {
+        "repo": "Harzva/dsh-agent-project-sync",
+        "repoName": "dsh-agent-project-sync",
+        "repoUrl": "https://github.com/Harzva/dsh-agent-project-sync",
+        "description": "Synchronize Codex and Claude project directories into native DeepSeek Harness workspaces.",
+        "language": "JavaScript",
+        "assetName": "dsh-agent-project-sync-0.1.0.tgz",
+        "assetUrl": "https://github.com/Harzva/dsh-agent-project-sync/releases/download/v0.1.0/dsh-agent-project-sync-0.1.0.tgz",
+        "size": 14057,
+        "downloadCount": 0,
+        "kind": "Archive",
+        "functionCategory": "AI Agent Systems",
+        "releaseName": "dsh-agent-project-sync v0.1.0",
+        "tagName": "v0.1.0",
+        "releaseUrl": "https://github.com/Harzva/dsh-agent-project-sync/releases/tag/v0.1.0",
+        "publishedAt": "2026-08-23T09:05:32Z",
+        "isFork": false
+      },
+      {
         "repo": "Harzva/pami-skill-suites",
         "repoName": "pami-skill-suites",
         "repoUrl": "https://github.com/Harzva/pami-skill-suites",
@@ -5025,8 +5109,8 @@
       "primaryLanguage": {
         "name": "TypeScript"
       },
-      "pushedAt": "2026-08-23T02:37:12Z",
-      "updatedAt": "2026-08-23T02:37:44Z",
+      "pushedAt": "2026-08-24T02:37:43Z",
+      "updatedAt": "2026-08-24T02:37:51Z",
       "createdAt": "2026-05-12T09:49:47Z",
       "defaultBranchRef": {
         "name": "main"
@@ -5618,8 +5702,8 @@
       "primaryLanguage": {
         "name": "Python"
       },
-      "pushedAt": "2026-08-22T03:56:59Z",
-      "updatedAt": "2026-08-22T03:57:03Z",
+      "pushedAt": "2026-08-23T04:01:53Z",
+      "updatedAt": "2026-08-23T04:01:58Z",
       "createdAt": "2026-05-14T09:29:39Z",
       "defaultBranchRef": {
         "name": "main"
@@ -5652,8 +5736,8 @@
       "primaryLanguage": {
         "name": "Python"
       },
-      "pushedAt": "2026-08-22T03:56:02Z",
-      "updatedAt": "2026-08-22T03:56:20Z",
+      "pushedAt": "2026-08-23T04:00:23Z",
+      "updatedAt": "2026-08-23T04:01:00Z",
       "createdAt": "2026-05-14T09:27:13Z",
       "defaultBranchRef": {
         "name": "main"
@@ -5686,8 +5770,8 @@
       "primaryLanguage": {
         "name": "Python"
       },
-      "pushedAt": "2026-08-22T03:59:04Z",
-      "updatedAt": "2026-08-22T03:59:10Z",
+      "pushedAt": "2026-08-23T04:04:54Z",
+      "updatedAt": "2026-08-23T04:05:42Z",
       "createdAt": "2026-05-14T09:29:34Z",
       "defaultBranchRef": {
         "name": "main"
@@ -5720,8 +5804,8 @@
       "primaryLanguage": {
         "name": "Python"
       },
-      "pushedAt": "2026-08-22T03:56:20Z",
-      "updatedAt": "2026-08-22T03:56:43Z",
+      "pushedAt": "2026-08-23T04:01:08Z",
+      "updatedAt": "2026-08-23T04:01:47Z",
       "createdAt": "2026-05-14T09:29:45Z",
       "defaultBranchRef": {
         "name": "main"
@@ -5871,8 +5955,8 @@
       "primaryLanguage": {
         "name": "TypeScript"
       },
-      "pushedAt": "2026-08-23T02:07:29Z",
-      "updatedAt": "2026-08-23T02:07:34Z",
+      "pushedAt": "2026-08-24T02:04:29Z",
+      "updatedAt": "2026-08-24T02:04:37Z",
       "createdAt": "2026-04-01T03:55:26Z",
       "defaultBranchRef": {
         "name": "main"
@@ -6324,6 +6408,54 @@
             "size": 468736,
             "downloadCount": 5,
             "contentType": "application/octet-stream"
+          }
+        ]
+      }
+    },
+    {
+      "name": "dsh-agent-project-sync",
+      "nameWithOwner": "Harzva/dsh-agent-project-sync",
+      "url": "https://github.com/Harzva/dsh-agent-project-sync",
+      "description": "Synchronize Codex and Claude project directories into native DeepSeek Harness workspaces.",
+      "isPrivate": false,
+      "isArchived": false,
+      "isFork": false,
+      "primaryLanguage": {
+        "name": "JavaScript"
+      },
+      "pushedAt": "2026-08-23T09:05:32Z",
+      "updatedAt": "2026-08-23T09:05:28Z",
+      "createdAt": "2026-08-23T08:55:48Z",
+      "defaultBranchRef": {
+        "name": "main"
+      },
+      "homepageUrl": "",
+      "stargazerCount": 0,
+      "forkCount": 0,
+      "repositoryTopics": [
+        "claude-code",
+        "codex",
+        "deepseek-harness",
+        "dsh-plugin"
+      ],
+      "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/dsh-agent-project-sync",
+      "pages": {
+        "enabled": false
+      },
+      "latestRelease": {
+        "name": "dsh-agent-project-sync v0.1.0",
+        "tagName": "v0.1.0",
+        "url": "https://github.com/Harzva/dsh-agent-project-sync/releases/tag/v0.1.0",
+        "publishedAt": "2026-08-23T09:05:32Z",
+        "prerelease": false,
+        "draft": false,
+        "assets": [
+          {
+            "name": "dsh-agent-project-sync-0.1.0.tgz",
+            "url": "https://github.com/Harzva/dsh-agent-project-sync/releases/download/v0.1.0/dsh-agent-project-sync-0.1.0.tgz",
+            "size": 14057,
+            "downloadCount": 0,
+            "contentType": "application/x-gtar"
           }
         ]
       }
@@ -6789,8 +6921,8 @@
       "primaryLanguage": {
         "name": "TypeScript"
       },
-      "pushedAt": "2026-08-23T02:07:29Z",
-      "updatedAt": "2026-08-23T02:07:34Z",
+      "pushedAt": "2026-08-24T02:04:29Z",
+      "updatedAt": "2026-08-24T02:04:37Z",
       "createdAt": "2026-04-01T03:55:26Z",
       "defaultBranchRef": {
         "name": "main"
@@ -7349,6 +7481,54 @@
         "httpsEnforced": true
       },
       "latestRelease": null
+    },
+    {
+      "name": "dsh-agent-project-sync",
+      "nameWithOwner": "Harzva/dsh-agent-project-sync",
+      "url": "https://github.com/Harzva/dsh-agent-project-sync",
+      "description": "Synchronize Codex and Claude project directories into native DeepSeek Harness workspaces.",
+      "isPrivate": false,
+      "isArchived": false,
+      "isFork": false,
+      "primaryLanguage": {
+        "name": "JavaScript"
+      },
+      "pushedAt": "2026-08-23T09:05:32Z",
+      "updatedAt": "2026-08-23T09:05:28Z",
+      "createdAt": "2026-08-23T08:55:48Z",
+      "defaultBranchRef": {
+        "name": "main"
+      },
+      "homepageUrl": "",
+      "stargazerCount": 0,
+      "forkCount": 0,
+      "repositoryTopics": [
+        "claude-code",
+        "codex",
+        "deepseek-harness",
+        "dsh-plugin"
+      ],
+      "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/dsh-agent-project-sync",
+      "pages": {
+        "enabled": false
+      },
+      "latestRelease": {
+        "name": "dsh-agent-project-sync v0.1.0",
+        "tagName": "v0.1.0",
+        "url": "https://github.com/Harzva/dsh-agent-project-sync/releases/tag/v0.1.0",
+        "publishedAt": "2026-08-23T09:05:32Z",
+        "prerelease": false,
+        "draft": false,
+        "assets": [
+          {
+            "name": "dsh-agent-project-sync-0.1.0.tgz",
+            "url": "https://github.com/Harzva/dsh-agent-project-sync/releases/download/v0.1.0/dsh-agent-project-sync-0.1.0.tgz",
+            "size": 14057,
+            "downloadCount": 0,
+            "contentType": "application/x-gtar"
+          }
+        ]
+      }
     },
     {
       "name": "dsh-cli-store",
@@ -8052,8 +8232,8 @@
       "primaryLanguage": {
         "name": "Python"
       },
-      "pushedAt": "2026-08-22T03:56:20Z",
-      "updatedAt": "2026-08-22T03:56:43Z",
+      "pushedAt": "2026-08-23T04:01:08Z",
+      "updatedAt": "2026-08-23T04:01:47Z",
       "createdAt": "2026-05-14T09:29:45Z",
       "defaultBranchRef": {
         "name": "main"

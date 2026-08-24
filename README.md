@@ -6,7 +6,7 @@ A registry of Harzva Codex skills, workflow skills, and agent operating recipes.
 
 [Live Skill Board](https://harzva.github.io/harzva-skills-hub/) | [Project Atlas](https://github.com/Harzva/harzva-project-atlas)
 
-![Skills](https://img.shields.io/badge/skills-42-6B8E23?style=for-the-badge) ![Auto Update](https://img.shields.io/badge/update-daily-111111?style=for-the-badge)
+![Skills](https://img.shields.io/badge/skills-43-6B8E23?style=for-the-badge) ![Auto Update](https://img.shields.io/badge/update-daily-111111?style=for-the-badge)
 
 </div>
 
@@ -14,7 +14,8 @@ A registry of Harzva Codex skills, workflow skills, and agent operating recipes.
 
 | Skill Repository | Language | Updated | Description |
 |---|---:|---:|---|
-| [harzva-skills-hub](https://github.com/Harzva/harzva-skills-hub) | Python | 2026-08-22 | Auto-updating GitHub Pages registry of Harzva Codex skills, workflow skills, and agent recipes. |
+| [dsh-agent-project-sync](https://github.com/Harzva/dsh-agent-project-sync) | JavaScript | 2026-08-23 | Synchronize Codex and Claude project directories into native DeepSeek Harness workspaces. |
+| [harzva-skills-hub](https://github.com/Harzva/harzva-skills-hub) | Python | 2026-08-23 | Auto-updating GitHub Pages registry of Harzva Codex skills, workflow skills, and agent recipes. |
 | [dsh-voice](https://github.com/Harzva/dsh-voice) | TypeScript | 2026-08-21 |  |
 | [dsh-control-plane](https://github.com/Harzva/dsh-control-plane) | JavaScript | 2026-08-21 |  |
 | [dsh-plugin-registry](https://github.com/Harzva/dsh-plugin-registry) | JavaScript | 2026-08-21 | Public-safe, first-party registry for Harzva-maintained DeepSeek Harness plugins |
@@ -73,5 +74,5 @@ This MetaRepo refreshes itself with GitHub Actions.
 - Data source: GitHub REST API.
 - Privacy default: public repositories only.
 - Private mode: set `META_INCLUDE_PRIVATE=true` and provide `META_GITHUB_TOKEN` only when the meta repository is private.
-- Generated at: `2026-08-23T04:01:06.880917+00:00`.
+- Generated at: `2026-08-24T04:05:51.127024+00:00`.
 - Private repositories omitted from this public output: `13`.

@@ -89,8 +89,8 @@
     "primaryLanguage": {
       "name": "TypeScript"
     },
-    "pushedAt": "2026-08-23T02:37:12Z",
-    "updatedAt": "2026-08-23T02:37:44Z",
+    "pushedAt": "2026-08-24T02:37:43Z",
+    "updatedAt": "2026-08-24T02:37:51Z",
     "createdAt": "2026-05-12T09:49:47Z",
     "defaultBranchRef": {
       "name": "main"
@@ -916,6 +916,54 @@
       "enabled": false
     },
     "latestRelease": null
+  },
+  {
+    "name": "dsh-agent-project-sync",
+    "nameWithOwner": "Harzva/dsh-agent-project-sync",
+    "url": "https://github.com/Harzva/dsh-agent-project-sync",
+    "description": "Synchronize Codex and Claude project directories into native DeepSeek Harness workspaces.",
+    "isPrivate": false,
+    "isArchived": false,
+    "isFork": false,
+    "primaryLanguage": {
+      "name": "JavaScript"
+    },
+    "pushedAt": "2026-08-23T09:05:32Z",
+    "updatedAt": "2026-08-23T09:05:28Z",
+    "createdAt": "2026-08-23T08:55:48Z",
+    "defaultBranchRef": {
+      "name": "main"
+    },
+    "homepageUrl": "",
+    "stargazerCount": 0,
+    "forkCount": 0,
+    "repositoryTopics": [
+      "claude-code",
+      "codex",
+      "deepseek-harness",
+      "dsh-plugin"
+    ],
+    "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/dsh-agent-project-sync",
+    "pages": {
+      "enabled": false
+    },
+    "latestRelease": {
+      "name": "dsh-agent-project-sync v0.1.0",
+      "tagName": "v0.1.0",
+      "url": "https://github.com/Harzva/dsh-agent-project-sync/releases/tag/v0.1.0",
+      "publishedAt": "2026-08-23T09:05:32Z",
+      "prerelease": false,
+      "draft": false,
+      "assets": [
+        {
+          "name": "dsh-agent-project-sync-0.1.0.tgz",
+          "url": "https://github.com/Harzva/dsh-agent-project-sync/releases/download/v0.1.0/dsh-agent-project-sync-0.1.0.tgz",
+          "size": 14057,
+          "downloadCount": 0,
+          "contentType": "application/x-gtar"
+        }
+      ]
+    }
   },
   {
     "name": "dsh-cli-store",
@@ -1973,8 +2021,8 @@
     "primaryLanguage": {
       "name": "Python"
     },
-    "pushedAt": "2026-08-22T03:56:59Z",
-    "updatedAt": "2026-08-22T03:57:03Z",
+    "pushedAt": "2026-08-23T04:01:53Z",
+    "updatedAt": "2026-08-23T04:01:58Z",
     "createdAt": "2026-05-14T09:29:39Z",
     "defaultBranchRef": {
       "name": "main"
@@ -2007,8 +2055,8 @@
     "primaryLanguage": {
       "name": "Python"
     },
-    "pushedAt": "2026-08-22T03:56:02Z",
-    "updatedAt": "2026-08-22T03:56:20Z",
+    "pushedAt": "2026-08-23T04:00:23Z",
+    "updatedAt": "2026-08-23T04:01:00Z",
     "createdAt": "2026-05-14T09:27:13Z",
     "defaultBranchRef": {
       "name": "main"
@@ -2041,8 +2089,8 @@
     "primaryLanguage": {
       "name": "Python"
     },
-    "pushedAt": "2026-08-22T03:59:04Z",
-    "updatedAt": "2026-08-22T03:59:10Z",
+    "pushedAt": "2026-08-23T04:04:54Z",
+    "updatedAt": "2026-08-23T04:05:42Z",
     "createdAt": "2026-05-14T09:29:34Z",
     "defaultBranchRef": {
       "name": "main"
@@ -2075,8 +2123,8 @@
     "primaryLanguage": {
       "name": "Python"
     },
-    "pushedAt": "2026-08-22T03:56:20Z",
-    "updatedAt": "2026-08-22T03:56:43Z",
+    "pushedAt": "2026-08-23T04:01:08Z",
+    "updatedAt": "2026-08-23T04:01:47Z",
     "createdAt": "2026-05-14T09:29:45Z",
     "defaultBranchRef": {
       "name": "main"
@@ -2319,8 +2367,8 @@
     "primaryLanguage": {
       "name": "TypeScript"
     },
-    "pushedAt": "2026-08-23T02:07:29Z",
-    "updatedAt": "2026-08-23T02:07:34Z",
+    "pushedAt": "2026-08-24T02:04:29Z",
+    "updatedAt": "2026-08-24T02:04:37Z",
     "createdAt": "2026-04-01T03:55:26Z",
     "defaultBranchRef": {
       "name": "main"

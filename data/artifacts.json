@@ -18,6 +18,24 @@
     "isFork": false
   },
   {
+    "repo": "Harzva/dsh-agent-project-sync",
+    "repoName": "dsh-agent-project-sync",
+    "repoUrl": "https://github.com/Harzva/dsh-agent-project-sync",
+    "description": "Synchronize Codex and Claude project directories into native DeepSeek Harness workspaces.",
+    "language": "JavaScript",
+    "assetName": "dsh-agent-project-sync-0.1.0.tgz",
+    "assetUrl": "https://github.com/Harzva/dsh-agent-project-sync/releases/download/v0.1.0/dsh-agent-project-sync-0.1.0.tgz",
+    "size": 14057,
+    "downloadCount": 0,
+    "kind": "Archive",
+    "functionCategory": "AI Agent Systems",
+    "releaseName": "dsh-agent-project-sync v0.1.0",
+    "tagName": "v0.1.0",
+    "releaseUrl": "https://github.com/Harzva/dsh-agent-project-sync/releases/tag/v0.1.0",
+    "publishedAt": "2026-08-23T09:05:32Z",
+    "isFork": false
+  },
+  {
     "repo": "Harzva/pami-skill-suites",
     "repoName": "pami-skill-suites",
     "repoUrl": "https://github.com/Harzva/pami-skill-suites",

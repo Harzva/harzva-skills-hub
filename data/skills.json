@@ -325,6 +325,54 @@
     "latestRelease": null
   },
   {
+    "name": "dsh-agent-project-sync",
+    "nameWithOwner": "Harzva/dsh-agent-project-sync",
+    "url": "https://github.com/Harzva/dsh-agent-project-sync",
+    "description": "Synchronize Codex and Claude project directories into native DeepSeek Harness workspaces.",
+    "isPrivate": false,
+    "isArchived": false,
+    "isFork": false,
+    "primaryLanguage": {
+      "name": "JavaScript"
+    },
+    "pushedAt": "2026-08-23T09:05:32Z",
+    "updatedAt": "2026-08-23T09:05:28Z",
+    "createdAt": "2026-08-23T08:55:48Z",
+    "defaultBranchRef": {
+      "name": "main"
+    },
+    "homepageUrl": "",
+    "stargazerCount": 0,
+    "forkCount": 0,
+    "repositoryTopics": [
+      "claude-code",
+      "codex",
+      "deepseek-harness",
+      "dsh-plugin"
+    ],
+    "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/dsh-agent-project-sync",
+    "pages": {
+      "enabled": false
+    },
+    "latestRelease": {
+      "name": "dsh-agent-project-sync v0.1.0",
+      "tagName": "v0.1.0",
+      "url": "https://github.com/Harzva/dsh-agent-project-sync/releases/tag/v0.1.0",
+      "publishedAt": "2026-08-23T09:05:32Z",
+      "prerelease": false,
+      "draft": false,
+      "assets": [
+        {
+          "name": "dsh-agent-project-sync-0.1.0.tgz",
+          "url": "https://github.com/Harzva/dsh-agent-project-sync/releases/download/v0.1.0/dsh-agent-project-sync-0.1.0.tgz",
+          "size": 14057,
+          "downloadCount": 0,
+          "contentType": "application/x-gtar"
+        }
+      ]
+    }
+  },
+  {
     "name": "dsh-cli-store",
     "nameWithOwner": "Harzva/dsh-cli-store",
     "url": "https://github.com/Harzva/dsh-cli-store",
@@ -1026,8 +1074,8 @@
     "primaryLanguage": {
       "name": "Python"
     },
-    "pushedAt": "2026-08-22T03:56:20Z",
-    "updatedAt": "2026-08-22T03:56:43Z",
+    "pushedAt": "2026-08-23T04:01:08Z",
+    "updatedAt": "2026-08-23T04:01:47Z",
     "createdAt": "2026-05-14T09:29:45Z",
     "defaultBranchRef": {
       "name": "main"
