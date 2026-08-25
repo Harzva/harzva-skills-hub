@@ -14,12 +14,12 @@ A registry of Harzva Codex skills, workflow skills, and agent operating recipes.
 
 | Skill Repository | Language | Updated | Description |
 |---|---:|---:|---|
+| [awesome-dsh-plugin](https://github.com/Harzva/awesome-dsh-plugin) | Python | 2026-08-24 | A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件精选列表 |
+| [harzva-skills-hub](https://github.com/Harzva/harzva-skills-hub) | Python | 2026-08-24 | Auto-updating GitHub Pages registry of Harzva Codex skills, workflow skills, and agent recipes. |
 | [dsh-agent-project-sync](https://github.com/Harzva/dsh-agent-project-sync) | JavaScript | 2026-08-23 | Synchronize Codex and Claude project directories into native DeepSeek Harness workspaces. |
-| [harzva-skills-hub](https://github.com/Harzva/harzva-skills-hub) | Python | 2026-08-23 | Auto-updating GitHub Pages registry of Harzva Codex skills, workflow skills, and agent recipes. |
 | [dsh-voice](https://github.com/Harzva/dsh-voice) | TypeScript | 2026-08-21 |  |
 | [dsh-control-plane](https://github.com/Harzva/dsh-control-plane) | JavaScript | 2026-08-21 |  |
 | [dsh-plugin-registry](https://github.com/Harzva/dsh-plugin-registry) | JavaScript | 2026-08-21 | Public-safe, first-party registry for Harzva-maintained DeepSeek Harness plugins |
-| [awesome-dsh-plugin](https://github.com/Harzva/awesome-dsh-plugin) | Python | 2026-08-21 | A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件精选列表 |
 | [dsh-cli-store](https://github.com/Harzva/dsh-cli-store) | JavaScript | 2026-08-20 |  |
 | [dsh-j-space](https://github.com/Harzva/dsh-j-space) | Python | 2026-08-20 |  |
 | [deepseek-harness](https://github.com/Harzva/deepseek-harness) | Mixed | 2026-08-20 | DeepSeek Harness: Everything is a Plugin. |
@@ -74,5 +74,5 @@ This MetaRepo refreshes itself with GitHub Actions.
 - Data source: GitHub REST API.
 - Privacy default: public repositories only.
 - Private mode: set `META_INCLUDE_PRIVATE=true` and provide `META_GITHUB_TOKEN` only when the meta repository is private.
-- Generated at: `2026-08-24T04:05:51.127024+00:00`.
+- Generated at: `2026-08-25T04:00:07.795255+00:00`.
 - Private repositories omitted from this public output: `13`.
