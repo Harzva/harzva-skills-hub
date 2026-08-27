@@ -14,8 +14,9 @@ A registry of Harzva Codex skills, workflow skills, and agent operating recipes.
 
 | Skill Repository | Language | Updated | Description |
 |---|---:|---:|---|
+| [codexhome-manager](https://github.com/Harzva/codexhome-manager) | Rust | 2026-08-26 | Manage multiple CODEX_HOME directories as isolated Skill Spaces and specialized Agent Households. |
+| [harzva-skills-hub](https://github.com/Harzva/harzva-skills-hub) | Python | 2026-08-26 | Auto-updating GitHub Pages registry of Harzva Codex skills, workflow skills, and agent recipes. |
 | [dsh-cli-store](https://github.com/Harzva/dsh-cli-store) | JavaScript | 2026-08-25 |  |
-| [harzva-skills-hub](https://github.com/Harzva/harzva-skills-hub) | Python | 2026-08-25 | Auto-updating GitHub Pages registry of Harzva Codex skills, workflow skills, and agent recipes. |
 | [awesome-dsh-plugin](https://github.com/Harzva/awesome-dsh-plugin) | Python | 2026-08-24 | A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件精选列表 |
 | [dsh-agent-project-sync](https://github.com/Harzva/dsh-agent-project-sync) | JavaScript | 2026-08-23 | Synchronize Codex and Claude project directories into native DeepSeek Harness workspaces. |
 | [dsh-voice](https://github.com/Harzva/dsh-voice) | TypeScript | 2026-08-21 |  |
@@ -30,7 +31,6 @@ A registry of Harzva Codex skills, workflow skills, and agent operating recipes.
 | [dsh-groupx](https://github.com/Harzva/dsh-groupx) | TypeScript | 2026-08-17 | Native GroupX multi-agent room integration for DeepSeek Harness |
 | [dsh-research-lab](https://github.com/Harzva/dsh-research-lab) | TypeScript | 2026-08-17 | DSH-native multi-runtime baseline, ablation, and reproducible evaluation control plane |
 | [harness-flow-hub](https://github.com/Harzva/harness-flow-hub) | JavaScript | 2026-08-16 | DSH Flow and plugin hub for DeepSeek Harness Agent Stacks |
-| [codexhome-manager](https://github.com/Harzva/codexhome-manager) | Rust | 2026-08-12 | Manage multiple CODEX_HOME directories as isolated Skill Spaces and specialized Agent Households. |
 | [CampusAgent-QA](https://github.com/Harzva/CampusAgent-QA) | Java | 2026-08-04 | Agentic campus QA system with RAG retrieval, LLM Wiki memory, and GBrain skills |
 | [chatgpt2localbridge](https://github.com/Harzva/chatgpt2localbridge) | Swift | 2026-06-26 | Codex/ChatGPT plugin app and OAuth MCP connector for approved local workspaces. |
 | [Oh-Reflective-loop-skills](https://github.com/Harzva/Oh-Reflective-loop-skills) | Python | 2026-06-22 |  |
@@ -74,5 +74,5 @@ This MetaRepo refreshes itself with GitHub Actions.
 - Data source: GitHub REST API.
 - Privacy default: public repositories only.
 - Private mode: set `META_INCLUDE_PRIVATE=true` and provide `META_GITHUB_TOKEN` only when the meta repository is private.
-- Generated at: `2026-08-26T04:03:42.025021+00:00`.
+- Generated at: `2026-08-27T14:12:21.619743+00:00`.
 - Private repositories omitted from this public output: `13`.

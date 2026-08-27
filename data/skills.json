@@ -162,7 +162,7 @@
     },
     "homepageUrl": "https://harzva.github.io/chatgpt2localbridge/",
     "stargazerCount": 107,
-    "forkCount": 0,
+    "forkCount": 1,
     "repositoryTopics": [
       "chatgpt",
       "chatgpt-connector",
@@ -200,7 +200,7 @@
     "primaryLanguage": {
       "name": "Rust"
     },
-    "pushedAt": "2026-08-12T16:24:38Z",
+    "pushedAt": "2026-08-26T16:24:38Z",
     "updatedAt": "2026-07-27T18:50:00Z",
     "createdAt": "2026-07-22T09:13:29Z",
     "defaultBranchRef": {
@@ -366,7 +366,7 @@
           "name": "dsh-agent-project-sync-0.1.0.tgz",
           "url": "https://github.com/Harzva/dsh-agent-project-sync/releases/download/v0.1.0/dsh-agent-project-sync-0.1.0.tgz",
           "size": 14057,
-          "downloadCount": 71,
+          "downloadCount": 151,
           "contentType": "application/x-gtar"
         }
       ]
@@ -411,7 +411,7 @@
           "name": "dsh-cli-store-0.3.0.tgz",
           "url": "https://github.com/Harzva/dsh-cli-store/releases/download/v0.3.0/dsh-cli-store-0.3.0.tgz",
           "size": 24798,
-          "downloadCount": 25,
+          "downloadCount": 100,
           "contentType": "application/x-gtar"
         }
       ]
@@ -760,7 +760,7 @@
           "name": "harness-flow-dsh-uvm-0.1.0-alpha.1.tgz",
           "url": "https://github.com/Harzva/dsh-uvm/releases/download/v0.1.0-alpha.1/harness-flow-dsh-uvm-0.1.0-alpha.1.tgz",
           "size": 21023,
-          "downloadCount": 21,
+          "downloadCount": 100,
           "contentType": "application/x-gtar"
         }
       ]
@@ -1074,8 +1074,8 @@
     "primaryLanguage": {
       "name": "Python"
     },
-    "pushedAt": "2026-08-25T04:00:08Z",
-    "updatedAt": "2026-08-25T04:00:33Z",
+    "pushedAt": "2026-08-26T04:03:43Z",
+    "updatedAt": "2026-08-26T04:04:02Z",
     "createdAt": "2026-05-14T09:29:45Z",
     "defaultBranchRef": {
       "name": "main"

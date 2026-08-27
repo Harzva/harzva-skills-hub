@@ -89,8 +89,8 @@
     "primaryLanguage": {
       "name": "TypeScript"
     },
-    "pushedAt": "2026-08-26T02:38:59Z",
-    "updatedAt": "2026-08-26T02:39:33Z",
+    "pushedAt": "2026-08-27T11:12:12Z",
+    "updatedAt": "2026-08-27T11:20:13Z",
     "createdAt": "2026-05-12T09:49:47Z",
     "defaultBranchRef": {
       "name": "main"
@@ -553,7 +553,7 @@
     },
     "homepageUrl": "https://harzva.github.io/chatgpt2localbridge/",
     "stargazerCount": 107,
-    "forkCount": 0,
+    "forkCount": 1,
     "repositoryTopics": [
       "chatgpt",
       "chatgpt-connector",
@@ -766,7 +766,7 @@
     "primaryLanguage": {
       "name": "Rust"
     },
-    "pushedAt": "2026-08-12T16:24:38Z",
+    "pushedAt": "2026-08-26T16:24:38Z",
     "updatedAt": "2026-07-27T18:50:00Z",
     "createdAt": "2026-07-22T09:13:29Z",
     "defaultBranchRef": {
@@ -959,7 +959,7 @@
           "name": "dsh-agent-project-sync-0.1.0.tgz",
           "url": "https://github.com/Harzva/dsh-agent-project-sync/releases/download/v0.1.0/dsh-agent-project-sync-0.1.0.tgz",
           "size": 14057,
-          "downloadCount": 71,
+          "downloadCount": 151,
           "contentType": "application/x-gtar"
         }
       ]
@@ -1004,7 +1004,7 @@
           "name": "dsh-cli-store-0.3.0.tgz",
           "url": "https://github.com/Harzva/dsh-cli-store/releases/download/v0.3.0/dsh-cli-store-0.3.0.tgz",
           "size": 24798,
-          "downloadCount": 25,
+          "downloadCount": 100,
           "contentType": "application/x-gtar"
         }
       ]
@@ -1380,7 +1380,7 @@
           "name": "harness-flow-dsh-uvm-0.1.0-alpha.1.tgz",
           "url": "https://github.com/Harzva/dsh-uvm/releases/download/v0.1.0-alpha.1/harness-flow-dsh-uvm-0.1.0-alpha.1.tgz",
           "size": 21023,
-          "downloadCount": 21,
+          "downloadCount": 100,
           "contentType": "application/x-gtar"
         }
       ]
@@ -2021,8 +2021,8 @@
     "primaryLanguage": {
       "name": "Python"
     },
-    "pushedAt": "2026-08-25T04:01:03Z",
-    "updatedAt": "2026-08-25T04:02:02Z",
+    "pushedAt": "2026-08-26T04:04:48Z",
+    "updatedAt": "2026-08-26T04:05:34Z",
     "createdAt": "2026-05-14T09:29:39Z",
     "defaultBranchRef": {
       "name": "main"
@@ -2055,8 +2055,8 @@
     "primaryLanguage": {
       "name": "Python"
     },
-    "pushedAt": "2026-08-25T03:59:06Z",
-    "updatedAt": "2026-08-25T03:59:10Z",
+    "pushedAt": "2026-08-26T04:03:07Z",
+    "updatedAt": "2026-08-26T04:03:56Z",
     "createdAt": "2026-05-14T09:27:13Z",
     "defaultBranchRef": {
       "name": "main"
@@ -2089,8 +2089,8 @@
     "primaryLanguage": {
       "name": "Python"
     },
-    "pushedAt": "2026-08-25T04:03:30Z",
-    "updatedAt": "2026-08-25T04:04:08Z",
+    "pushedAt": "2026-08-26T04:06:16Z",
+    "updatedAt": "2026-08-26T04:06:49Z",
     "createdAt": "2026-05-14T09:29:34Z",
     "defaultBranchRef": {
       "name": "main"
@@ -2123,8 +2123,8 @@
     "primaryLanguage": {
       "name": "Python"
     },
-    "pushedAt": "2026-08-25T04:00:08Z",
-    "updatedAt": "2026-08-25T04:00:33Z",
+    "pushedAt": "2026-08-26T04:03:43Z",
+    "updatedAt": "2026-08-26T04:04:02Z",
     "createdAt": "2026-05-14T09:29:45Z",
     "defaultBranchRef": {
       "name": "main"
@@ -2367,8 +2367,8 @@
     "primaryLanguage": {
       "name": "TypeScript"
     },
-    "pushedAt": "2026-08-26T02:06:44Z",
-    "updatedAt": "2026-08-26T02:06:50Z",
+    "pushedAt": "2026-08-27T10:03:41Z",
+    "updatedAt": "2026-08-27T10:12:10Z",
     "createdAt": "2026-04-01T03:55:26Z",
     "defaultBranchRef": {
       "name": "main"
@@ -2653,13 +2653,13 @@
       "name": "Dart"
     },
     "pushedAt": "2026-08-07T01:23:26Z",
-    "updatedAt": "2026-08-10T17:41:32Z",
+    "updatedAt": "2026-08-27T08:20:55Z",
     "createdAt": "2026-05-12T08:19:17Z",
     "defaultBranchRef": {
       "name": "main"
     },
     "homepageUrl": "",
-    "stargazerCount": 78,
+    "stargazerCount": 79,
     "forkCount": 4,
     "repositoryTopics": [],
     "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/mobilecode",
@@ -2685,7 +2685,7 @@
           "name": "mobilecode-ios-simulator-v0.1.0.zip",
           "url": "https://github.com/Harzva/mobilecode/releases/download/v0.1.0/mobilecode-ios-simulator-v0.1.0.zip",
           "size": 52882447,
-          "downloadCount": 3,
+          "downloadCount": 4,
           "contentType": "application/zip"
         },
         {
@@ -2699,7 +2699,7 @@
           "name": "mobilecode-v0.1.0.apk",
           "url": "https://github.com/Harzva/mobilecode/releases/download/v0.1.0/mobilecode-v0.1.0.apk",
           "size": 53051517,
-          "downloadCount": 65,
+          "downloadCount": 70,
           "contentType": "application/vnd.android.package-archive"
         }
       ]
@@ -3480,6 +3480,33 @@
     "latestRelease": null
   },
   {
+    "name": "dsh-computer-use",
+    "nameWithOwner": "Harzva/dsh-computer-use",
+    "url": "https://github.com/Harzva/dsh-computer-use",
+    "description": "为 DeepSeek Harness 提供电脑控制插件：新鲜 Accessibility 观测、过期状态拒绝、作用域权限与安全输入（目前支持macos）｜Accessibility-first macOS Computer Use bundle for DSH with fresh observations, stale-state rejection, scoped permissions, and safe input.",
+    "isPrivate": false,
+    "isArchived": false,
+    "isFork": true,
+    "primaryLanguage": {
+      "name": "TypeScript"
+    },
+    "pushedAt": "2026-08-26T12:32:09Z",
+    "updatedAt": "2026-08-26T12:34:58Z",
+    "createdAt": "2026-08-26T12:23:56Z",
+    "defaultBranchRef": {
+      "name": "main"
+    },
+    "homepageUrl": "",
+    "stargazerCount": 0,
+    "forkCount": 0,
+    "repositoryTopics": [],
+    "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/dsh-computer-use",
+    "pages": {
+      "enabled": false
+    },
+    "latestRelease": null
+  },
+  {
     "name": "floccus",
     "nameWithOwner": "Harzva/floccus",
     "url": "https://github.com/Harzva/floccus",
@@ -3966,6 +3993,31 @@
     "forkCount": 0,
     "repositoryTopics": [],
     "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/Oh-Reflective-loop-skills",
+    "pages": {
+      "enabled": false
+    },
+    "latestRelease": null
+  },
+  {
+    "name": "ohmyCursor",
+    "nameWithOwner": "Harzva/ohmyCursor",
+    "url": "https://github.com/Harzva/ohmyCursor",
+    "description": "Bring Your Own Key for Cursor IDE！",
+    "isPrivate": false,
+    "isArchived": false,
+    "isFork": true,
+    "primaryLanguage": null,
+    "pushedAt": "2026-08-26T15:41:10Z",
+    "updatedAt": "2026-08-27T12:23:16Z",
+    "createdAt": "2026-08-27T12:23:16Z",
+    "defaultBranchRef": {
+      "name": "main"
+    },
+    "homepageUrl": "https://ccursor.cometix.dev",
+    "stargazerCount": 0,
+    "forkCount": 0,
+    "repositoryTopics": [],
+    "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/ohmyCursor",
     "pages": {
       "enabled": false
     },
