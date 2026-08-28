@@ -336,13 +336,13 @@
       "name": "JavaScript"
     },
     "pushedAt": "2026-08-23T09:05:32Z",
-    "updatedAt": "2026-08-25T03:45:30Z",
+    "updatedAt": "2026-08-28T11:00:08Z",
     "createdAt": "2026-08-23T08:55:48Z",
     "defaultBranchRef": {
       "name": "main"
     },
     "homepageUrl": "",
-    "stargazerCount": 1,
+    "stargazerCount": 2,
     "forkCount": 0,
     "repositoryTopics": [
       "claude-code",
@@ -366,7 +366,7 @@
           "name": "dsh-agent-project-sync-0.1.0.tgz",
           "url": "https://github.com/Harzva/dsh-agent-project-sync/releases/download/v0.1.0/dsh-agent-project-sync-0.1.0.tgz",
           "size": 14057,
-          "downloadCount": 151,
+          "downloadCount": 213,
           "contentType": "application/x-gtar"
         }
       ]
@@ -384,13 +384,13 @@
       "name": "JavaScript"
     },
     "pushedAt": "2026-08-25T08:00:46Z",
-    "updatedAt": "2026-08-25T08:03:55Z",
+    "updatedAt": "2026-08-28T11:02:26Z",
     "createdAt": "2026-08-20T14:54:57Z",
     "defaultBranchRef": {
       "name": "main"
     },
     "homepageUrl": "",
-    "stargazerCount": 1,
+    "stargazerCount": 2,
     "forkCount": 0,
     "repositoryTopics": [
       "dsh-plugin"
@@ -411,7 +411,7 @@
           "name": "dsh-cli-store-0.3.0.tgz",
           "url": "https://github.com/Harzva/dsh-cli-store/releases/download/v0.3.0/dsh-cli-store-0.3.0.tgz",
           "size": 24798,
-          "downloadCount": 100,
+          "downloadCount": 161,
           "contentType": "application/x-gtar"
         }
       ]
@@ -733,13 +733,13 @@
       "name": "TypeScript"
     },
     "pushedAt": "2026-08-19T12:23:53Z",
-    "updatedAt": "2026-08-19T12:25:06Z",
+    "updatedAt": "2026-08-28T11:01:47Z",
     "createdAt": "2026-08-19T12:01:31Z",
     "defaultBranchRef": {
       "name": "main"
     },
     "homepageUrl": "",
-    "stargazerCount": 0,
+    "stargazerCount": 1,
     "forkCount": 0,
     "repositoryTopics": [
       "dsh-plugin"
@@ -760,7 +760,7 @@
           "name": "harness-flow-dsh-uvm-0.1.0-alpha.1.tgz",
           "url": "https://github.com/Harzva/dsh-uvm/releases/download/v0.1.0-alpha.1/harness-flow-dsh-uvm-0.1.0-alpha.1.tgz",
           "size": 21023,
-          "downloadCount": 100,
+          "downloadCount": 159,
           "contentType": "application/x-gtar"
         }
       ]
@@ -1074,8 +1074,8 @@
     "primaryLanguage": {
       "name": "Python"
     },
-    "pushedAt": "2026-08-26T04:03:43Z",
-    "updatedAt": "2026-08-26T04:04:02Z",
+    "pushedAt": "2026-08-27T14:12:22Z",
+    "updatedAt": "2026-08-27T14:38:04Z",
     "createdAt": "2026-05-14T09:29:45Z",
     "defaultBranchRef": {
       "name": "main"

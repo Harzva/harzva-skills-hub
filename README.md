@@ -14,8 +14,8 @@ A registry of Harzva Codex skills, workflow skills, and agent operating recipes.
 
 | Skill Repository | Language | Updated | Description |
 |---|---:|---:|---|
+| [harzva-skills-hub](https://github.com/Harzva/harzva-skills-hub) | Python | 2026-08-27 | Auto-updating GitHub Pages registry of Harzva Codex skills, workflow skills, and agent recipes. |
 | [codexhome-manager](https://github.com/Harzva/codexhome-manager) | Rust | 2026-08-26 | Manage multiple CODEX_HOME directories as isolated Skill Spaces and specialized Agent Households. |
-| [harzva-skills-hub](https://github.com/Harzva/harzva-skills-hub) | Python | 2026-08-26 | Auto-updating GitHub Pages registry of Harzva Codex skills, workflow skills, and agent recipes. |
 | [dsh-cli-store](https://github.com/Harzva/dsh-cli-store) | JavaScript | 2026-08-25 |  |
 | [awesome-dsh-plugin](https://github.com/Harzva/awesome-dsh-plugin) | Python | 2026-08-24 | A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件精选列表 |
 | [dsh-agent-project-sync](https://github.com/Harzva/dsh-agent-project-sync) | JavaScript | 2026-08-23 | Synchronize Codex and Claude project directories into native DeepSeek Harness workspaces. |
@@ -74,5 +74,5 @@ This MetaRepo refreshes itself with GitHub Actions.
 - Data source: GitHub REST API.
 - Privacy default: public repositories only.
 - Private mode: set `META_INCLUDE_PRIVATE=true` and provide `META_GITHUB_TOKEN` only when the meta repository is private.
-- Generated at: `2026-08-27T14:12:21.619743+00:00`.
+- Generated at: `2026-08-28T15:23:13.231848+00:00`.
 - Private repositories omitted from this public output: `13`.
