@@ -1,13 +1,13 @@
 {
   "summary": {
-    "generatedAt": "2026-08-28T15:23:13.231848+00:00",
+    "generatedAt": "2026-08-29T10:04:03.245131+00:00",
     "owner": "Harzva",
     "mode": "skills",
-    "publicRepositories": 136,
-    "forks": 42,
+    "publicRepositories": 138,
+    "forks": 44,
     "pages": 30,
-    "releases": 15,
-    "skills": 43,
+    "releases": 16,
+    "skills": 44,
     "artifacts": 23,
     "privateOmitted": 13
   },
@@ -503,40 +503,6 @@
     ],
     "Pages and Live Demos": [
       {
-        "name": "Agent-Job-Interview",
-        "nameWithOwner": "Harzva/Agent-Job-Interview",
-        "url": "https://github.com/Harzva/Agent-Job-Interview",
-        "description": "Agent job interview roadmap and practice training suite.",
-        "isPrivate": false,
-        "isArchived": false,
-        "isFork": false,
-        "primaryLanguage": {
-          "name": "TypeScript"
-        },
-        "pushedAt": "2026-08-28T12:46:42Z",
-        "updatedAt": "2026-08-28T12:48:16Z",
-        "createdAt": "2026-05-12T09:49:47Z",
-        "defaultBranchRef": {
-          "name": "main"
-        },
-        "homepageUrl": "https://harzva.github.io/Agent-Job-Interview/",
-        "stargazerCount": 4,
-        "forkCount": 0,
-        "repositoryTopics": [],
-        "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/Agent-Job-Interview",
-        "pages": {
-          "enabled": true,
-          "url": "https://harzva.github.io/Agent-Job-Interview/",
-          "status": "built",
-          "source": {
-            "branch": "main",
-            "path": "/docs"
-          },
-          "httpsEnforced": true
-        },
-        "latestRelease": null
-      },
-      {
         "name": "learn-likecc",
         "nameWithOwner": "Harzva/learn-likecc",
         "url": "https://github.com/Harzva/learn-likecc",
@@ -547,8 +513,8 @@
         "primaryLanguage": {
           "name": "TypeScript"
         },
-        "pushedAt": "2026-08-28T11:35:11Z",
-        "updatedAt": "2026-08-28T11:37:03Z",
+        "pushedAt": "2026-08-29T07:13:21Z",
+        "updatedAt": "2026-08-29T07:13:28Z",
         "createdAt": "2026-04-01T03:55:26Z",
         "defaultBranchRef": {
           "name": "main"
@@ -590,6 +556,40 @@
         }
       },
       {
+        "name": "Agent-Job-Interview",
+        "nameWithOwner": "Harzva/Agent-Job-Interview",
+        "url": "https://github.com/Harzva/Agent-Job-Interview",
+        "description": "Agent job interview roadmap and practice training suite.",
+        "isPrivate": false,
+        "isArchived": false,
+        "isFork": false,
+        "primaryLanguage": {
+          "name": "TypeScript"
+        },
+        "pushedAt": "2026-08-28T23:02:37Z",
+        "updatedAt": "2026-08-28T23:02:54Z",
+        "createdAt": "2026-05-12T09:49:47Z",
+        "defaultBranchRef": {
+          "name": "main"
+        },
+        "homepageUrl": "https://harzva.github.io/Agent-Job-Interview/",
+        "stargazerCount": 4,
+        "forkCount": 0,
+        "repositoryTopics": [],
+        "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/Agent-Job-Interview",
+        "pages": {
+          "enabled": true,
+          "url": "https://harzva.github.io/Agent-Job-Interview/",
+          "status": "built",
+          "source": {
+            "branch": "main",
+            "path": "/docs"
+          },
+          "httpsEnforced": true
+        },
+        "latestRelease": null
+      },
+      {
         "name": "harzva-release-hub",
         "nameWithOwner": "Harzva/harzva-release-hub",
         "url": "https://github.com/Harzva/harzva-release-hub",
@@ -600,8 +600,8 @@
         "primaryLanguage": {
           "name": "Python"
         },
-        "pushedAt": "2026-08-27T14:18:39Z",
-        "updatedAt": "2026-08-27T14:35:28Z",
+        "pushedAt": "2026-08-28T15:28:00Z",
+        "updatedAt": "2026-08-28T15:32:16Z",
         "createdAt": "2026-05-14T09:29:34Z",
         "defaultBranchRef": {
           "name": "main"
@@ -634,8 +634,8 @@
         "primaryLanguage": {
           "name": "Python"
         },
-        "pushedAt": "2026-08-27T14:14:28Z",
-        "updatedAt": "2026-08-27T14:16:01Z",
+        "pushedAt": "2026-08-28T15:25:19Z",
+        "updatedAt": "2026-08-28T15:28:18Z",
         "createdAt": "2026-05-14T09:29:39Z",
         "defaultBranchRef": {
           "name": "main"
@@ -668,8 +668,8 @@
         "primaryLanguage": {
           "name": "Python"
         },
-        "pushedAt": "2026-08-27T14:12:08Z",
-        "updatedAt": "2026-08-27T14:37:50Z",
+        "pushedAt": "2026-08-28T15:22:06Z",
+        "updatedAt": "2026-08-28T15:27:23Z",
         "createdAt": "2026-05-14T09:27:13Z",
         "defaultBranchRef": {
           "name": "main"
@@ -859,7 +859,7 @@
               "name": "mobilecode-v0.1.0.apk",
               "url": "https://github.com/Harzva/mobilecode/releases/download/v0.1.0/mobilecode-v0.1.0.apk",
               "size": 53051517,
-              "downloadCount": 71,
+              "downloadCount": 72,
               "contentType": "application/vnd.android.package-archive"
             }
           ]
@@ -1074,7 +1074,7 @@
               "name": "gitmarket-android-experimental.apk",
               "url": "https://github.com/Harzva/GitReleaseMarket/releases/download/v0.3.8/gitmarket-android-experimental.apk",
               "size": 15680751,
-              "downloadCount": 1,
+              "downloadCount": 2,
               "contentType": "application/vnd.android.package-archive"
             },
             {
@@ -1434,6 +1434,47 @@
     ],
     "Skills and Agent Workflows": [
       {
+        "name": "dsh-maclens",
+        "nameWithOwner": "Harzva/dsh-maclens",
+        "url": "https://github.com/Harzva/dsh-maclens",
+        "description": "Bridge Apple on-device Vision framework (macOS) into DeepSeek Harness: OCR, image classification, face detection, document layout as local dsh tools. No network, no API key.",
+        "isPrivate": false,
+        "isArchived": false,
+        "isFork": false,
+        "primaryLanguage": {
+          "name": "Swift"
+        },
+        "pushedAt": "2026-08-29T07:18:16Z",
+        "updatedAt": "2026-08-29T07:18:20Z",
+        "createdAt": "2026-08-18T17:03:14Z",
+        "defaultBranchRef": {
+          "name": "main"
+        },
+        "homepageUrl": "",
+        "stargazerCount": 0,
+        "forkCount": 0,
+        "repositoryTopics": [
+          "deepseek-harness",
+          "dsh-plugin",
+          "macos",
+          "ocr",
+          "vision"
+        ],
+        "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/dsh-maclens",
+        "pages": {
+          "enabled": false
+        },
+        "latestRelease": {
+          "name": "dsh-supertool v0.1.0",
+          "tagName": "v0.1.0",
+          "url": "https://github.com/Harzva/dsh-maclens/releases/tag/v0.1.0",
+          "publishedAt": "2026-08-29T07:10:35Z",
+          "prerelease": false,
+          "draft": false,
+          "assets": []
+        }
+      },
+      {
         "name": "harzva-skills-hub",
         "nameWithOwner": "Harzva/harzva-skills-hub",
         "url": "https://github.com/Harzva/harzva-skills-hub",
@@ -1444,8 +1485,8 @@
         "primaryLanguage": {
           "name": "Python"
         },
-        "pushedAt": "2026-08-27T14:12:22Z",
-        "updatedAt": "2026-08-27T14:38:04Z",
+        "pushedAt": "2026-08-28T15:23:14Z",
+        "updatedAt": "2026-08-28T15:27:37Z",
         "createdAt": "2026-05-14T09:29:45Z",
         "defaultBranchRef": {
           "name": "main"
@@ -1540,7 +1581,7 @@
               "name": "dsh-cli-store-0.3.0.tgz",
               "url": "https://github.com/Harzva/dsh-cli-store/releases/download/v0.3.0/dsh-cli-store-0.3.0.tgz",
               "size": 24798,
-              "downloadCount": 161,
+              "downloadCount": 179,
               "contentType": "application/x-gtar"
             }
           ]
@@ -1588,7 +1629,7 @@
               "name": "dsh-agent-project-sync-0.1.0.tgz",
               "url": "https://github.com/Harzva/dsh-agent-project-sync/releases/download/v0.1.0/dsh-agent-project-sync-0.1.0.tgz",
               "size": 14057,
-              "downloadCount": 213,
+              "downloadCount": 235,
               "contentType": "application/x-gtar"
             }
           ]
@@ -1799,7 +1840,7 @@
               "name": "harness-flow-dsh-uvm-0.1.0-alpha.1.tgz",
               "url": "https://github.com/Harzva/dsh-uvm/releases/download/v0.1.0-alpha.1/harness-flow-dsh-uvm-0.1.0-alpha.1.tgz",
               "size": 21023,
-              "downloadCount": 159,
+              "downloadCount": 184,
               "contentType": "application/x-gtar"
             }
           ]
@@ -1879,39 +1920,6 @@
           "session-management"
         ],
         "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/dsh-session-context-menu",
-        "pages": {
-          "enabled": false
-        },
-        "latestRelease": null
-      },
-      {
-        "name": "dsh-maclens",
-        "nameWithOwner": "Harzva/dsh-maclens",
-        "url": "https://github.com/Harzva/dsh-maclens",
-        "description": "Bridge Apple on-device Vision framework (macOS) into DeepSeek Harness: OCR, image classification, face detection, document layout as local dsh tools. No network, no API key.",
-        "isPrivate": false,
-        "isArchived": false,
-        "isFork": false,
-        "primaryLanguage": {
-          "name": "Swift"
-        },
-        "pushedAt": "2026-08-18T18:41:13Z",
-        "updatedAt": "2026-08-18T18:43:29Z",
-        "createdAt": "2026-08-18T17:03:14Z",
-        "defaultBranchRef": {
-          "name": "main"
-        },
-        "homepageUrl": "",
-        "stargazerCount": 0,
-        "forkCount": 0,
-        "repositoryTopics": [
-          "deepseek-harness",
-          "dsh-plugin",
-          "macos",
-          "ocr",
-          "vision"
-        ],
-        "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/dsh-maclens",
         "pages": {
           "enabled": false
         },
@@ -3285,6 +3293,31 @@
     ],
     "Forks": [
       {
+        "name": "dsh-market",
+        "nameWithOwner": "Harzva/dsh-market",
+        "url": "https://github.com/Harzva/dsh-market",
+        "description": "The plugin market inside DeepSeek Harness — browse, search, one-click install · DSH 可视化插件市场",
+        "isPrivate": false,
+        "isArchived": false,
+        "isFork": true,
+        "primaryLanguage": null,
+        "pushedAt": "2026-08-29T07:52:37Z",
+        "updatedAt": "2026-08-29T07:31:09Z",
+        "createdAt": "2026-08-29T07:31:09Z",
+        "defaultBranchRef": {
+          "name": "main"
+        },
+        "homepageUrl": "https://dshmarket.com",
+        "stargazerCount": 0,
+        "forkCount": 0,
+        "repositoryTopics": [],
+        "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/dsh-market",
+        "pages": {
+          "enabled": false
+        },
+        "latestRelease": null
+      },
+      {
         "name": "ohmyCursor",
         "nameWithOwner": "Harzva/ohmyCursor",
         "url": "https://github.com/Harzva/ohmyCursor",
@@ -3358,6 +3391,31 @@
         "forkCount": 0,
         "repositoryTopics": [],
         "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/awesome-dsh-plugin",
+        "pages": {
+          "enabled": false
+        },
+        "latestRelease": null
+      },
+      {
+        "name": "BaiLongma",
+        "nameWithOwner": "Harzva/BaiLongma",
+        "url": "https://github.com/Harzva/BaiLongma",
+        "description": null,
+        "isPrivate": false,
+        "isArchived": false,
+        "isFork": true,
+        "primaryLanguage": null,
+        "pushedAt": "2026-08-22T17:55:53Z",
+        "updatedAt": "2026-08-29T07:35:45Z",
+        "createdAt": "2026-08-29T07:35:45Z",
+        "defaultBranchRef": {
+          "name": "main"
+        },
+        "homepageUrl": "",
+        "stargazerCount": 0,
+        "forkCount": 0,
+        "repositoryTopics": [],
+        "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/BaiLongma",
         "pages": {
           "enabled": false
         },
@@ -4385,7 +4443,7 @@
       "assetName": "dsh-agent-project-sync-0.1.0.tgz",
       "assetUrl": "https://github.com/Harzva/dsh-agent-project-sync/releases/download/v0.1.0/dsh-agent-project-sync-0.1.0.tgz",
       "size": 14057,
-      "downloadCount": 213,
+      "downloadCount": 235,
       "kind": "Archive",
       "functionCategory": "AI Agent Systems",
       "releaseName": "dsh-agent-project-sync v0.1.0",
@@ -4475,7 +4533,7 @@
       "assetName": "dsh-cli-store-0.3.0.tgz",
       "assetUrl": "https://github.com/Harzva/dsh-cli-store/releases/download/v0.3.0/dsh-cli-store-0.3.0.tgz",
       "size": 24798,
-      "downloadCount": 161,
+      "downloadCount": 179,
       "kind": "Archive",
       "functionCategory": "CLI and Infrastructure",
       "releaseName": "dsh-cli-store v0.3.0",
@@ -4637,7 +4695,7 @@
       "assetName": "harness-flow-dsh-uvm-0.1.0-alpha.1.tgz",
       "assetUrl": "https://github.com/Harzva/dsh-uvm/releases/download/v0.1.0-alpha.1/harness-flow-dsh-uvm-0.1.0-alpha.1.tgz",
       "size": 21023,
-      "downloadCount": 159,
+      "downloadCount": 184,
       "kind": "Archive",
       "functionCategory": "General Utilities",
       "releaseName": "dsh-uvm v0.1.0-alpha.1",
@@ -4691,7 +4749,7 @@
       "assetName": "gitmarket-android-experimental.apk",
       "assetUrl": "https://github.com/Harzva/GitReleaseMarket/releases/download/v0.3.8/gitmarket-android-experimental.apk",
       "size": 15680751,
-      "downloadCount": 1,
+      "downloadCount": 2,
       "kind": "Android APK",
       "functionCategory": "Mobile Apps",
       "releaseName": "v0.3.8",
@@ -4763,7 +4821,7 @@
       "assetName": "mobilecode-v0.1.0.apk",
       "assetUrl": "https://github.com/Harzva/mobilecode/releases/download/v0.1.0/mobilecode-v0.1.0.apk",
       "size": 53051517,
-      "downloadCount": 71,
+      "downloadCount": 72,
       "kind": "Android APK",
       "functionCategory": "Mobile Apps",
       "releaseName": "MobileCode v0.1.0 Android APK",
@@ -4784,7 +4842,7 @@
         "assetName": "gitmarket-android-experimental.apk",
         "assetUrl": "https://github.com/Harzva/GitReleaseMarket/releases/download/v0.3.8/gitmarket-android-experimental.apk",
         "size": 15680751,
-        "downloadCount": 1,
+        "downloadCount": 2,
         "kind": "Android APK",
         "functionCategory": "Mobile Apps",
         "releaseName": "v0.3.8",
@@ -4856,7 +4914,7 @@
         "assetName": "mobilecode-v0.1.0.apk",
         "assetUrl": "https://github.com/Harzva/mobilecode/releases/download/v0.1.0/mobilecode-v0.1.0.apk",
         "size": 53051517,
-        "downloadCount": 71,
+        "downloadCount": 72,
         "kind": "Android APK",
         "functionCategory": "Mobile Apps",
         "releaseName": "MobileCode v0.1.0 Android APK",
@@ -4968,7 +5026,7 @@
         "assetName": "dsh-cli-store-0.3.0.tgz",
         "assetUrl": "https://github.com/Harzva/dsh-cli-store/releases/download/v0.3.0/dsh-cli-store-0.3.0.tgz",
         "size": 24798,
-        "downloadCount": 161,
+        "downloadCount": 179,
         "kind": "Archive",
         "functionCategory": "CLI and Infrastructure",
         "releaseName": "dsh-cli-store v0.3.0",
@@ -5006,7 +5064,7 @@
         "assetName": "dsh-agent-project-sync-0.1.0.tgz",
         "assetUrl": "https://github.com/Harzva/dsh-agent-project-sync/releases/download/v0.1.0/dsh-agent-project-sync-0.1.0.tgz",
         "size": 14057,
-        "downloadCount": 213,
+        "downloadCount": 235,
         "kind": "Archive",
         "functionCategory": "AI Agent Systems",
         "releaseName": "dsh-agent-project-sync v0.1.0",
@@ -5190,7 +5248,7 @@
         "assetName": "harness-flow-dsh-uvm-0.1.0-alpha.1.tgz",
         "assetUrl": "https://github.com/Harzva/dsh-uvm/releases/download/v0.1.0-alpha.1/harness-flow-dsh-uvm-0.1.0-alpha.1.tgz",
         "size": 21023,
-        "downloadCount": 159,
+        "downloadCount": 184,
         "kind": "Archive",
         "functionCategory": "General Utilities",
         "releaseName": "dsh-uvm v0.1.0-alpha.1",
@@ -5213,8 +5271,8 @@
       "primaryLanguage": {
         "name": "TypeScript"
       },
-      "pushedAt": "2026-08-28T12:46:42Z",
-      "updatedAt": "2026-08-28T12:48:16Z",
+      "pushedAt": "2026-08-28T23:02:37Z",
+      "updatedAt": "2026-08-28T23:02:54Z",
       "createdAt": "2026-05-12T09:49:47Z",
       "defaultBranchRef": {
         "name": "main"
@@ -5676,7 +5734,7 @@
             "name": "gitmarket-android-experimental.apk",
             "url": "https://github.com/Harzva/GitReleaseMarket/releases/download/v0.3.8/gitmarket-android-experimental.apk",
             "size": 15680751,
-            "downloadCount": 1,
+            "downloadCount": 2,
             "contentType": "application/vnd.android.package-archive"
           },
           {
@@ -5806,8 +5864,8 @@
       "primaryLanguage": {
         "name": "Python"
       },
-      "pushedAt": "2026-08-27T14:14:28Z",
-      "updatedAt": "2026-08-27T14:16:01Z",
+      "pushedAt": "2026-08-28T15:25:19Z",
+      "updatedAt": "2026-08-28T15:28:18Z",
       "createdAt": "2026-05-14T09:29:39Z",
       "defaultBranchRef": {
         "name": "main"
@@ -5840,8 +5898,8 @@
       "primaryLanguage": {
         "name": "Python"
       },
-      "pushedAt": "2026-08-27T14:12:08Z",
-      "updatedAt": "2026-08-27T14:37:50Z",
+      "pushedAt": "2026-08-28T15:22:06Z",
+      "updatedAt": "2026-08-28T15:27:23Z",
       "createdAt": "2026-05-14T09:27:13Z",
       "defaultBranchRef": {
         "name": "main"
@@ -5874,8 +5932,8 @@
       "primaryLanguage": {
         "name": "Python"
       },
-      "pushedAt": "2026-08-27T14:18:39Z",
-      "updatedAt": "2026-08-27T14:35:28Z",
+      "pushedAt": "2026-08-28T15:28:00Z",
+      "updatedAt": "2026-08-28T15:32:16Z",
       "createdAt": "2026-05-14T09:29:34Z",
       "defaultBranchRef": {
         "name": "main"
@@ -5908,8 +5966,8 @@
       "primaryLanguage": {
         "name": "Python"
       },
-      "pushedAt": "2026-08-27T14:12:22Z",
-      "updatedAt": "2026-08-27T14:38:04Z",
+      "pushedAt": "2026-08-28T15:23:14Z",
+      "updatedAt": "2026-08-28T15:27:37Z",
       "createdAt": "2026-05-14T09:29:45Z",
       "defaultBranchRef": {
         "name": "main"
@@ -6059,8 +6117,8 @@
       "primaryLanguage": {
         "name": "TypeScript"
       },
-      "pushedAt": "2026-08-28T11:35:11Z",
-      "updatedAt": "2026-08-28T11:37:03Z",
+      "pushedAt": "2026-08-29T07:13:21Z",
+      "updatedAt": "2026-08-29T07:13:28Z",
       "createdAt": "2026-04-01T03:55:26Z",
       "defaultBranchRef": {
         "name": "main"
@@ -6227,7 +6285,7 @@
             "name": "mobilecode-v0.1.0.apk",
             "url": "https://github.com/Harzva/mobilecode/releases/download/v0.1.0/mobilecode-v0.1.0.apk",
             "size": 53051517,
-            "downloadCount": 71,
+            "downloadCount": 72,
             "contentType": "application/vnd.android.package-archive"
           }
         ]
@@ -6558,7 +6616,7 @@
             "name": "dsh-agent-project-sync-0.1.0.tgz",
             "url": "https://github.com/Harzva/dsh-agent-project-sync/releases/download/v0.1.0/dsh-agent-project-sync-0.1.0.tgz",
             "size": 14057,
-            "downloadCount": 213,
+            "downloadCount": 235,
             "contentType": "application/x-gtar"
           }
         ]
@@ -6603,7 +6661,7 @@
             "name": "dsh-cli-store-0.3.0.tgz",
             "url": "https://github.com/Harzva/dsh-cli-store/releases/download/v0.3.0/dsh-cli-store-0.3.0.tgz",
             "size": 24798,
-            "downloadCount": 161,
+            "downloadCount": 179,
             "contentType": "application/x-gtar"
           }
         ]
@@ -6700,6 +6758,47 @@
       }
     },
     {
+      "name": "dsh-maclens",
+      "nameWithOwner": "Harzva/dsh-maclens",
+      "url": "https://github.com/Harzva/dsh-maclens",
+      "description": "Bridge Apple on-device Vision framework (macOS) into DeepSeek Harness: OCR, image classification, face detection, document layout as local dsh tools. No network, no API key.",
+      "isPrivate": false,
+      "isArchived": false,
+      "isFork": false,
+      "primaryLanguage": {
+        "name": "Swift"
+      },
+      "pushedAt": "2026-08-29T07:18:16Z",
+      "updatedAt": "2026-08-29T07:18:20Z",
+      "createdAt": "2026-08-18T17:03:14Z",
+      "defaultBranchRef": {
+        "name": "main"
+      },
+      "homepageUrl": "",
+      "stargazerCount": 0,
+      "forkCount": 0,
+      "repositoryTopics": [
+        "deepseek-harness",
+        "dsh-plugin",
+        "macos",
+        "ocr",
+        "vision"
+      ],
+      "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/dsh-maclens",
+      "pages": {
+        "enabled": false
+      },
+      "latestRelease": {
+        "name": "dsh-supertool v0.1.0",
+        "tagName": "v0.1.0",
+        "url": "https://github.com/Harzva/dsh-maclens/releases/tag/v0.1.0",
+        "publishedAt": "2026-08-29T07:10:35Z",
+        "prerelease": false,
+        "draft": false,
+        "assets": []
+      }
+    },
+    {
       "name": "dsh-obsidian",
       "nameWithOwner": "Harzva/dsh-obsidian",
       "url": "https://github.com/Harzva/dsh-obsidian",
@@ -6785,7 +6884,7 @@
             "name": "harness-flow-dsh-uvm-0.1.0-alpha.1.tgz",
             "url": "https://github.com/Harzva/dsh-uvm/releases/download/v0.1.0-alpha.1/harness-flow-dsh-uvm-0.1.0-alpha.1.tgz",
             "size": 21023,
-            "downloadCount": 159,
+            "downloadCount": 184,
             "contentType": "application/x-gtar"
           }
         ]
@@ -6924,7 +7023,7 @@
             "name": "gitmarket-android-experimental.apk",
             "url": "https://github.com/Harzva/GitReleaseMarket/releases/download/v0.3.8/gitmarket-android-experimental.apk",
             "size": 15680751,
-            "downloadCount": 1,
+            "downloadCount": 2,
             "contentType": "application/vnd.android.package-archive"
           },
           {
@@ -7025,8 +7124,8 @@
       "primaryLanguage": {
         "name": "TypeScript"
       },
-      "pushedAt": "2026-08-28T11:35:11Z",
-      "updatedAt": "2026-08-28T11:37:03Z",
+      "pushedAt": "2026-08-29T07:13:21Z",
+      "updatedAt": "2026-08-29T07:13:28Z",
       "createdAt": "2026-04-01T03:55:26Z",
       "defaultBranchRef": {
         "name": "main"
@@ -7125,7 +7224,7 @@
             "name": "mobilecode-v0.1.0.apk",
             "url": "https://github.com/Harzva/mobilecode/releases/download/v0.1.0/mobilecode-v0.1.0.apk",
             "size": 53051517,
-            "downloadCount": 71,
+            "downloadCount": 72,
             "contentType": "application/vnd.android.package-archive"
           }
         ]
@@ -7628,7 +7727,7 @@
             "name": "dsh-agent-project-sync-0.1.0.tgz",
             "url": "https://github.com/Harzva/dsh-agent-project-sync/releases/download/v0.1.0/dsh-agent-project-sync-0.1.0.tgz",
             "size": 14057,
-            "downloadCount": 213,
+            "downloadCount": 235,
             "contentType": "application/x-gtar"
           }
         ]
@@ -7673,7 +7772,7 @@
             "name": "dsh-cli-store-0.3.0.tgz",
             "url": "https://github.com/Harzva/dsh-cli-store/releases/download/v0.3.0/dsh-cli-store-0.3.0.tgz",
             "size": 24798,
-            "downloadCount": 161,
+            "downloadCount": 179,
             "contentType": "application/x-gtar"
           }
         ]
@@ -7816,8 +7915,8 @@
       "primaryLanguage": {
         "name": "Swift"
       },
-      "pushedAt": "2026-08-18T18:41:13Z",
-      "updatedAt": "2026-08-18T18:43:29Z",
+      "pushedAt": "2026-08-29T07:18:16Z",
+      "updatedAt": "2026-08-29T07:18:20Z",
       "createdAt": "2026-08-18T17:03:14Z",
       "defaultBranchRef": {
         "name": "main"
@@ -7836,7 +7935,15 @@
       "pages": {
         "enabled": false
       },
-      "latestRelease": null
+      "latestRelease": {
+        "name": "dsh-supertool v0.1.0",
+        "tagName": "v0.1.0",
+        "url": "https://github.com/Harzva/dsh-maclens/releases/tag/v0.1.0",
+        "publishedAt": "2026-08-29T07:10:35Z",
+        "prerelease": false,
+        "draft": false,
+        "assets": []
+      }
     },
     {
       "name": "dsh-obsidian",
@@ -8022,7 +8129,7 @@
             "name": "harness-flow-dsh-uvm-0.1.0-alpha.1.tgz",
             "url": "https://github.com/Harzva/dsh-uvm/releases/download/v0.1.0-alpha.1/harness-flow-dsh-uvm-0.1.0-alpha.1.tgz",
             "size": 21023,
-            "downloadCount": 159,
+            "downloadCount": 184,
             "contentType": "application/x-gtar"
           }
         ]
@@ -8336,8 +8443,8 @@
       "primaryLanguage": {
         "name": "Python"
       },
-      "pushedAt": "2026-08-27T14:12:22Z",
-      "updatedAt": "2026-08-27T14:38:04Z",
+      "pushedAt": "2026-08-28T15:23:14Z",
+      "updatedAt": "2026-08-28T15:27:37Z",
       "createdAt": "2026-05-14T09:29:45Z",
       "defaultBranchRef": {
         "name": "main"
@@ -8725,6 +8832,31 @@
       "latestRelease": null
     },
     {
+      "name": "dsh-market",
+      "nameWithOwner": "Harzva/dsh-market",
+      "url": "https://github.com/Harzva/dsh-market",
+      "description": "The plugin market inside DeepSeek Harness — browse, search, one-click install · DSH 可视化插件市场",
+      "isPrivate": false,
+      "isArchived": false,
+      "isFork": true,
+      "primaryLanguage": null,
+      "pushedAt": "2026-08-29T07:52:37Z",
+      "updatedAt": "2026-08-29T07:31:09Z",
+      "createdAt": "2026-08-29T07:31:09Z",
+      "defaultBranchRef": {
+        "name": "main"
+      },
+      "homepageUrl": "https://dshmarket.com",
+      "stargazerCount": 0,
+      "forkCount": 0,
+      "repositoryTopics": [],
+      "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/dsh-market",
+      "pages": {
+        "enabled": false
+      },
+      "latestRelease": null
+    },
+    {
       "name": "image2_UI_skill",
       "nameWithOwner": "Harzva/image2_UI_skill",
       "url": "https://github.com/Harzva/image2_UI_skill",
@@ -8850,6 +8982,31 @@
       "forkCount": 0,
       "repositoryTopics": [],
       "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/Awesome-pytorch-list-CNVersion",
+      "pages": {
+        "enabled": false
+      },
+      "latestRelease": null
+    },
+    {
+      "name": "BaiLongma",
+      "nameWithOwner": "Harzva/BaiLongma",
+      "url": "https://github.com/Harzva/BaiLongma",
+      "description": null,
+      "isPrivate": false,
+      "isArchived": false,
+      "isFork": true,
+      "primaryLanguage": null,
+      "pushedAt": "2026-08-22T17:55:53Z",
+      "updatedAt": "2026-08-29T07:35:45Z",
+      "createdAt": "2026-08-29T07:35:45Z",
+      "defaultBranchRef": {
+        "name": "main"
+      },
+      "homepageUrl": "",
+      "stargazerCount": 0,
+      "forkCount": 0,
+      "repositoryTopics": [],
+      "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/BaiLongma",
       "pages": {
         "enabled": false
       },
@@ -9027,6 +9184,31 @@
       "forkCount": 0,
       "repositoryTopics": [],
       "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/dsh-computer-use",
+      "pages": {
+        "enabled": false
+      },
+      "latestRelease": null
+    },
+    {
+      "name": "dsh-market",
+      "nameWithOwner": "Harzva/dsh-market",
+      "url": "https://github.com/Harzva/dsh-market",
+      "description": "The plugin market inside DeepSeek Harness — browse, search, one-click install · DSH 可视化插件市场",
+      "isPrivate": false,
+      "isArchived": false,
+      "isFork": true,
+      "primaryLanguage": null,
+      "pushedAt": "2026-08-29T07:52:37Z",
+      "updatedAt": "2026-08-29T07:31:09Z",
+      "createdAt": "2026-08-29T07:31:09Z",
+      "defaultBranchRef": {
+        "name": "main"
+      },
+      "homepageUrl": "https://dshmarket.com",
+      "stargazerCount": 0,
+      "forkCount": 0,
+      "repositoryTopics": [],
+      "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/dsh-market",
       "pages": {
         "enabled": false
       },

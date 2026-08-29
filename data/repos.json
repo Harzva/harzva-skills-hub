@@ -89,8 +89,8 @@
     "primaryLanguage": {
       "name": "TypeScript"
     },
-    "pushedAt": "2026-08-28T12:46:42Z",
-    "updatedAt": "2026-08-28T12:48:16Z",
+    "pushedAt": "2026-08-28T23:02:37Z",
+    "updatedAt": "2026-08-28T23:02:54Z",
     "createdAt": "2026-05-12T09:49:47Z",
     "defaultBranchRef": {
       "name": "main"
@@ -959,7 +959,7 @@
           "name": "dsh-agent-project-sync-0.1.0.tgz",
           "url": "https://github.com/Harzva/dsh-agent-project-sync/releases/download/v0.1.0/dsh-agent-project-sync-0.1.0.tgz",
           "size": 14057,
-          "downloadCount": 213,
+          "downloadCount": 235,
           "contentType": "application/x-gtar"
         }
       ]
@@ -1004,7 +1004,7 @@
           "name": "dsh-cli-store-0.3.0.tgz",
           "url": "https://github.com/Harzva/dsh-cli-store/releases/download/v0.3.0/dsh-cli-store-0.3.0.tgz",
           "size": 24798,
-          "downloadCount": 161,
+          "downloadCount": 179,
           "contentType": "application/x-gtar"
         }
       ]
@@ -1174,8 +1174,8 @@
     "primaryLanguage": {
       "name": "Swift"
     },
-    "pushedAt": "2026-08-18T18:41:13Z",
-    "updatedAt": "2026-08-18T18:43:29Z",
+    "pushedAt": "2026-08-29T07:18:16Z",
+    "updatedAt": "2026-08-29T07:18:20Z",
     "createdAt": "2026-08-18T17:03:14Z",
     "defaultBranchRef": {
       "name": "main"
@@ -1194,7 +1194,15 @@
     "pages": {
       "enabled": false
     },
-    "latestRelease": null
+    "latestRelease": {
+      "name": "dsh-supertool v0.1.0",
+      "tagName": "v0.1.0",
+      "url": "https://github.com/Harzva/dsh-maclens/releases/tag/v0.1.0",
+      "publishedAt": "2026-08-29T07:10:35Z",
+      "prerelease": false,
+      "draft": false,
+      "assets": []
+    }
   },
   {
     "name": "dsh-obsidian",
@@ -1380,7 +1388,7 @@
           "name": "harness-flow-dsh-uvm-0.1.0-alpha.1.tgz",
           "url": "https://github.com/Harzva/dsh-uvm/releases/download/v0.1.0-alpha.1/harness-flow-dsh-uvm-0.1.0-alpha.1.tgz",
           "size": 21023,
-          "downloadCount": 159,
+          "downloadCount": 184,
           "contentType": "application/x-gtar"
         }
       ]
@@ -1836,7 +1844,7 @@
           "name": "gitmarket-android-experimental.apk",
           "url": "https://github.com/Harzva/GitReleaseMarket/releases/download/v0.3.8/gitmarket-android-experimental.apk",
           "size": 15680751,
-          "downloadCount": 1,
+          "downloadCount": 2,
           "contentType": "application/vnd.android.package-archive"
         },
         {
@@ -2021,8 +2029,8 @@
     "primaryLanguage": {
       "name": "Python"
     },
-    "pushedAt": "2026-08-27T14:14:28Z",
-    "updatedAt": "2026-08-27T14:16:01Z",
+    "pushedAt": "2026-08-28T15:25:19Z",
+    "updatedAt": "2026-08-28T15:28:18Z",
     "createdAt": "2026-05-14T09:29:39Z",
     "defaultBranchRef": {
       "name": "main"
@@ -2055,8 +2063,8 @@
     "primaryLanguage": {
       "name": "Python"
     },
-    "pushedAt": "2026-08-27T14:12:08Z",
-    "updatedAt": "2026-08-27T14:37:50Z",
+    "pushedAt": "2026-08-28T15:22:06Z",
+    "updatedAt": "2026-08-28T15:27:23Z",
     "createdAt": "2026-05-14T09:27:13Z",
     "defaultBranchRef": {
       "name": "main"
@@ -2089,8 +2097,8 @@
     "primaryLanguage": {
       "name": "Python"
     },
-    "pushedAt": "2026-08-27T14:18:39Z",
-    "updatedAt": "2026-08-27T14:35:28Z",
+    "pushedAt": "2026-08-28T15:28:00Z",
+    "updatedAt": "2026-08-28T15:32:16Z",
     "createdAt": "2026-05-14T09:29:34Z",
     "defaultBranchRef": {
       "name": "main"
@@ -2123,8 +2131,8 @@
     "primaryLanguage": {
       "name": "Python"
     },
-    "pushedAt": "2026-08-27T14:12:22Z",
-    "updatedAt": "2026-08-27T14:38:04Z",
+    "pushedAt": "2026-08-28T15:23:14Z",
+    "updatedAt": "2026-08-28T15:27:37Z",
     "createdAt": "2026-05-14T09:29:45Z",
     "defaultBranchRef": {
       "name": "main"
@@ -2367,8 +2375,8 @@
     "primaryLanguage": {
       "name": "TypeScript"
     },
-    "pushedAt": "2026-08-28T11:35:11Z",
-    "updatedAt": "2026-08-28T11:37:03Z",
+    "pushedAt": "2026-08-29T07:13:21Z",
+    "updatedAt": "2026-08-29T07:13:28Z",
     "createdAt": "2026-04-01T03:55:26Z",
     "defaultBranchRef": {
       "name": "main"
@@ -2699,7 +2707,7 @@
           "name": "mobilecode-v0.1.0.apk",
           "url": "https://github.com/Harzva/mobilecode/releases/download/v0.1.0/mobilecode-v0.1.0.apk",
           "size": 53051517,
-          "downloadCount": 71,
+          "downloadCount": 72,
           "contentType": "application/vnd.android.package-archive"
         }
       ]
@@ -3330,6 +3338,31 @@
     "latestRelease": null
   },
   {
+    "name": "BaiLongma",
+    "nameWithOwner": "Harzva/BaiLongma",
+    "url": "https://github.com/Harzva/BaiLongma",
+    "description": null,
+    "isPrivate": false,
+    "isArchived": false,
+    "isFork": true,
+    "primaryLanguage": null,
+    "pushedAt": "2026-08-22T17:55:53Z",
+    "updatedAt": "2026-08-29T07:35:45Z",
+    "createdAt": "2026-08-29T07:35:45Z",
+    "defaultBranchRef": {
+      "name": "main"
+    },
+    "homepageUrl": "",
+    "stargazerCount": 0,
+    "forkCount": 0,
+    "repositoryTopics": [],
+    "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/BaiLongma",
+    "pages": {
+      "enabled": false
+    },
+    "latestRelease": null
+  },
+  {
     "name": "BNUGraduateThesis",
     "nameWithOwner": "Harzva/BNUGraduateThesis",
     "url": "https://github.com/Harzva/BNUGraduateThesis",
@@ -3501,6 +3534,31 @@
     "forkCount": 0,
     "repositoryTopics": [],
     "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/dsh-computer-use",
+    "pages": {
+      "enabled": false
+    },
+    "latestRelease": null
+  },
+  {
+    "name": "dsh-market",
+    "nameWithOwner": "Harzva/dsh-market",
+    "url": "https://github.com/Harzva/dsh-market",
+    "description": "The plugin market inside DeepSeek Harness — browse, search, one-click install · DSH 可视化插件市场",
+    "isPrivate": false,
+    "isArchived": false,
+    "isFork": true,
+    "primaryLanguage": null,
+    "pushedAt": "2026-08-29T07:52:37Z",
+    "updatedAt": "2026-08-29T07:31:09Z",
+    "createdAt": "2026-08-29T07:31:09Z",
+    "defaultBranchRef": {
+      "name": "main"
+    },
+    "homepageUrl": "https://dshmarket.com",
+    "stargazerCount": 0,
+    "forkCount": 0,
+    "repositoryTopics": [],
+    "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/dsh-market",
     "pages": {
       "enabled": false
     },

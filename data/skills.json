@@ -366,7 +366,7 @@
           "name": "dsh-agent-project-sync-0.1.0.tgz",
           "url": "https://github.com/Harzva/dsh-agent-project-sync/releases/download/v0.1.0/dsh-agent-project-sync-0.1.0.tgz",
           "size": 14057,
-          "downloadCount": 213,
+          "downloadCount": 235,
           "contentType": "application/x-gtar"
         }
       ]
@@ -411,7 +411,7 @@
           "name": "dsh-cli-store-0.3.0.tgz",
           "url": "https://github.com/Harzva/dsh-cli-store/releases/download/v0.3.0/dsh-cli-store-0.3.0.tgz",
           "size": 24798,
-          "downloadCount": 161,
+          "downloadCount": 179,
           "contentType": "application/x-gtar"
         }
       ]
@@ -554,8 +554,8 @@
     "primaryLanguage": {
       "name": "Swift"
     },
-    "pushedAt": "2026-08-18T18:41:13Z",
-    "updatedAt": "2026-08-18T18:43:29Z",
+    "pushedAt": "2026-08-29T07:18:16Z",
+    "updatedAt": "2026-08-29T07:18:20Z",
     "createdAt": "2026-08-18T17:03:14Z",
     "defaultBranchRef": {
       "name": "main"
@@ -574,7 +574,15 @@
     "pages": {
       "enabled": false
     },
-    "latestRelease": null
+    "latestRelease": {
+      "name": "dsh-supertool v0.1.0",
+      "tagName": "v0.1.0",
+      "url": "https://github.com/Harzva/dsh-maclens/releases/tag/v0.1.0",
+      "publishedAt": "2026-08-29T07:10:35Z",
+      "prerelease": false,
+      "draft": false,
+      "assets": []
+    }
   },
   {
     "name": "dsh-obsidian",
@@ -760,7 +768,7 @@
           "name": "harness-flow-dsh-uvm-0.1.0-alpha.1.tgz",
           "url": "https://github.com/Harzva/dsh-uvm/releases/download/v0.1.0-alpha.1/harness-flow-dsh-uvm-0.1.0-alpha.1.tgz",
           "size": 21023,
-          "downloadCount": 159,
+          "downloadCount": 184,
           "contentType": "application/x-gtar"
         }
       ]
@@ -1074,8 +1082,8 @@
     "primaryLanguage": {
       "name": "Python"
     },
-    "pushedAt": "2026-08-27T14:12:22Z",
-    "updatedAt": "2026-08-27T14:38:04Z",
+    "pushedAt": "2026-08-28T15:23:14Z",
+    "updatedAt": "2026-08-28T15:27:37Z",
     "createdAt": "2026-05-14T09:29:45Z",
     "defaultBranchRef": {
       "name": "main"
@@ -1457,6 +1465,31 @@
     "forkCount": 0,
     "repositoryTopics": [],
     "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/deepseek-harness",
+    "pages": {
+      "enabled": false
+    },
+    "latestRelease": null
+  },
+  {
+    "name": "dsh-market",
+    "nameWithOwner": "Harzva/dsh-market",
+    "url": "https://github.com/Harzva/dsh-market",
+    "description": "The plugin market inside DeepSeek Harness — browse, search, one-click install · DSH 可视化插件市场",
+    "isPrivate": false,
+    "isArchived": false,
+    "isFork": true,
+    "primaryLanguage": null,
+    "pushedAt": "2026-08-29T07:52:37Z",
+    "updatedAt": "2026-08-29T07:31:09Z",
+    "createdAt": "2026-08-29T07:31:09Z",
+    "defaultBranchRef": {
+      "name": "main"
+    },
+    "homepageUrl": "https://dshmarket.com",
+    "stargazerCount": 0,
+    "forkCount": 0,
+    "repositoryTopics": [],
+    "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/dsh-market",
     "pages": {
       "enabled": false
     },
