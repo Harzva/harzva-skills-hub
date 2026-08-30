@@ -89,8 +89,8 @@
     "primaryLanguage": {
       "name": "TypeScript"
     },
-    "pushedAt": "2026-08-28T23:02:37Z",
-    "updatedAt": "2026-08-28T23:02:54Z",
+    "pushedAt": "2026-08-30T06:39:55Z",
+    "updatedAt": "2026-08-30T06:40:41Z",
     "createdAt": "2026-05-12T09:49:47Z",
     "defaultBranchRef": {
       "name": "main"
@@ -959,7 +959,7 @@
           "name": "dsh-agent-project-sync-0.1.0.tgz",
           "url": "https://github.com/Harzva/dsh-agent-project-sync/releases/download/v0.1.0/dsh-agent-project-sync-0.1.0.tgz",
           "size": 14057,
-          "downloadCount": 235,
+          "downloadCount": 299,
           "contentType": "application/x-gtar"
         }
       ]
@@ -1004,7 +1004,7 @@
           "name": "dsh-cli-store-0.3.0.tgz",
           "url": "https://github.com/Harzva/dsh-cli-store/releases/download/v0.3.0/dsh-cli-store-0.3.0.tgz",
           "size": 24798,
-          "downloadCount": 179,
+          "downloadCount": 238,
           "contentType": "application/x-gtar"
         }
       ]
@@ -1157,7 +1157,7 @@
           "name": "dsh-j-space-0.1.0.tgz",
           "url": "https://github.com/Harzva/dsh-j-space/releases/download/v0.1.0/dsh-j-space-0.1.0.tgz",
           "size": 88972,
-          "downloadCount": 6,
+          "downloadCount": 7,
           "contentType": "application/x-gtar"
         }
       ]
@@ -1318,6 +1318,38 @@
     "latestRelease": null
   },
   {
+    "name": "dsh-restart-autoresume",
+    "nameWithOwner": "Harzva/dsh-restart-autoresume",
+    "url": "https://github.com/Harzva/dsh-restart-autoresume",
+    "description": "Safe DSH restart coordination and durable top-level session autoresume",
+    "isPrivate": false,
+    "isArchived": false,
+    "isFork": false,
+    "primaryLanguage": {
+      "name": "JavaScript"
+    },
+    "pushedAt": "2026-08-29T14:06:58Z",
+    "updatedAt": "2026-08-29T14:07:25Z",
+    "createdAt": "2026-08-29T13:59:38Z",
+    "defaultBranchRef": {
+      "name": "main"
+    },
+    "homepageUrl": "",
+    "stargazerCount": 0,
+    "forkCount": 0,
+    "repositoryTopics": [
+      "cordis",
+      "deepseek-harness",
+      "dsh-plugin",
+      "session-recovery"
+    ],
+    "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/dsh-restart-autoresume",
+    "pages": {
+      "enabled": false
+    },
+    "latestRelease": null
+  },
+  {
     "name": "dsh-session-context-menu",
     "nameWithOwner": "Harzva/dsh-session-context-menu",
     "url": "https://github.com/Harzva/dsh-session-context-menu",
@@ -1388,7 +1420,7 @@
           "name": "harness-flow-dsh-uvm-0.1.0-alpha.1.tgz",
           "url": "https://github.com/Harzva/dsh-uvm/releases/download/v0.1.0-alpha.1/harness-flow-dsh-uvm-0.1.0-alpha.1.tgz",
           "size": 21023,
-          "downloadCount": 184,
+          "downloadCount": 246,
           "contentType": "application/x-gtar"
         }
       ]
@@ -2029,8 +2061,8 @@
     "primaryLanguage": {
       "name": "Python"
     },
-    "pushedAt": "2026-08-28T15:25:19Z",
-    "updatedAt": "2026-08-28T15:28:18Z",
+    "pushedAt": "2026-08-29T10:06:57Z",
+    "updatedAt": "2026-08-29T10:07:19Z",
     "createdAt": "2026-05-14T09:29:39Z",
     "defaultBranchRef": {
       "name": "main"
@@ -2063,8 +2095,8 @@
     "primaryLanguage": {
       "name": "Python"
     },
-    "pushedAt": "2026-08-28T15:22:06Z",
-    "updatedAt": "2026-08-28T15:27:23Z",
+    "pushedAt": "2026-08-29T10:03:27Z",
+    "updatedAt": "2026-08-29T10:03:44Z",
     "createdAt": "2026-05-14T09:27:13Z",
     "defaultBranchRef": {
       "name": "main"
@@ -2097,8 +2129,8 @@
     "primaryLanguage": {
       "name": "Python"
     },
-    "pushedAt": "2026-08-28T15:28:00Z",
-    "updatedAt": "2026-08-28T15:32:16Z",
+    "pushedAt": "2026-08-29T10:10:40Z",
+    "updatedAt": "2026-08-29T10:10:57Z",
     "createdAt": "2026-05-14T09:29:34Z",
     "defaultBranchRef": {
       "name": "main"
@@ -2131,8 +2163,8 @@
     "primaryLanguage": {
       "name": "Python"
     },
-    "pushedAt": "2026-08-28T15:23:14Z",
-    "updatedAt": "2026-08-28T15:27:37Z",
+    "pushedAt": "2026-08-29T10:04:04Z",
+    "updatedAt": "2026-08-29T10:04:34Z",
     "createdAt": "2026-05-14T09:29:45Z",
     "defaultBranchRef": {
       "name": "main"
@@ -2375,8 +2407,8 @@
     "primaryLanguage": {
       "name": "TypeScript"
     },
-    "pushedAt": "2026-08-29T07:13:21Z",
-    "updatedAt": "2026-08-29T07:13:28Z",
+    "pushedAt": "2026-08-30T05:35:29Z",
+    "updatedAt": "2026-08-30T05:35:58Z",
     "createdAt": "2026-04-01T03:55:26Z",
     "defaultBranchRef": {
       "name": "main"
@@ -3271,7 +3303,7 @@
     "primaryLanguage": {
       "name": "Python"
     },
-    "pushedAt": "2026-08-24T09:13:00Z",
+    "pushedAt": "2026-08-29T14:02:46Z",
     "updatedAt": "2026-08-19T12:05:11Z",
     "createdAt": "2026-08-18T18:20:10Z",
     "defaultBranchRef": {
