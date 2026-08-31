@@ -14,9 +14,10 @@ A registry of Harzva Codex skills, workflow skills, and agent operating recipes.
 
 | Skill Repository | Language | Updated | Description |
 |---|---:|---:|---|
+| [AgentWorkOS](https://github.com/Harzva/AgentWorkOS) | Python | 2026-08-31 | Package-managed operating layer for AI agent workspaces: scan, lock, sync, doctor, and install agent context. |
+| [harzva-skills-hub](https://github.com/Harzva/harzva-skills-hub) | Python | 2026-08-30 | Auto-updating GitHub Pages registry of Harzva Codex skills, workflow skills, and agent recipes. |
 | [dsh-restart-autoresume](https://github.com/Harzva/dsh-restart-autoresume) | JavaScript | 2026-08-29 | Safe DSH restart coordination and durable top-level session autoresume |
 | [awesome-dsh-plugin](https://github.com/Harzva/awesome-dsh-plugin) | Python | 2026-08-29 | A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件精选列表 |
-| [harzva-skills-hub](https://github.com/Harzva/harzva-skills-hub) | Python | 2026-08-29 | Auto-updating GitHub Pages registry of Harzva Codex skills, workflow skills, and agent recipes. |
 | [dsh-market](https://github.com/Harzva/dsh-market) | Mixed | 2026-08-29 | The plugin market inside DeepSeek Harness — browse, search, one-click install · DSH 可视化插件市场 |
 | [dsh-maclens](https://github.com/Harzva/dsh-maclens) | Swift | 2026-08-29 | Bridge Apple on-device Vision framework (macOS) into DeepSeek Harness: OCR, image classification, face detection, document layout as local dsh tools. No network, no API key. |
 | [codexhome-manager](https://github.com/Harzva/codexhome-manager) | Rust | 2026-08-26 | Manage multiple CODEX_HOME directories as isolated Skill Spaces and specialized Agent Households. |
@@ -39,7 +40,6 @@ A registry of Harzva Codex skills, workflow skills, and agent operating recipes.
 | [mcp-skills-hub](https://github.com/Harzva/mcp-skills-hub) | TypeScript | 2026-06-19 | MCP Skills Hub - 汇集50+ Model Context Protocol Skill与Server |
 | [pami-skill-suites](https://github.com/Harzva/pami-skill-suites) | Python | 2026-06-18 | Context-safe IEEE and Elsevier journal manuscript skill suites with metadata-only RAG trace assets |
 | [rebuttal-skill-suite](https://github.com/Harzva/rebuttal-skill-suite) | Python | 2026-06-04 | Automated gates and reviewer-aware workflows for safer academic rebuttals. |
-| [AgentWorkOS](https://github.com/Harzva/AgentWorkOS) | Python | 2026-06-04 | Package-managed operating layer for AI agent workspaces: scan, lock, sync, doctor, and install agent context. |
 | [xhs-skill-suite](https://github.com/Harzva/xhs-skill-suite) | Mixed | 2026-06-04 | Public-safe Xiaohongshu skill suite for GitHub and AI-tool promotion workflows. |
 | [deepseek-cli](https://github.com/Harzva/deepseek-cli) | JavaScript | 2026-05-28 | DeepSeek-first API CLI and Agent Skills toolkit with multi-provider fallback |
 | [gh-repo-cartographer](https://github.com/Harzva/gh-repo-cartographer) | Python | 2026-05-18 | Codex skill and CLI for mapping GitHub repositories to local checkouts and sync status. |
@@ -76,5 +76,5 @@ This MetaRepo refreshes itself with GitHub Actions.
 - Data source: GitHub REST API.
 - Privacy default: public repositories only.
 - Private mode: set `META_INCLUDE_PRIVATE=true` and provide `META_GITHUB_TOKEN` only when the meta repository is private.
-- Generated at: `2026-08-30T09:14:03.451477+00:00`.
+- Generated at: `2026-08-31T09:45:41.406608+00:00`.
 - Private repositories omitted from this public output: `13`.
