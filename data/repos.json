@@ -89,8 +89,8 @@
     "primaryLanguage": {
       "name": "TypeScript"
     },
-    "pushedAt": "2026-09-01T17:19:37Z",
-    "updatedAt": "2026-09-01T17:35:21Z",
+    "pushedAt": "2026-09-02T17:09:56Z",
+    "updatedAt": "2026-09-02T17:10:06Z",
     "createdAt": "2026-05-12T09:49:47Z",
     "defaultBranchRef": {
       "name": "main"
@@ -959,7 +959,7 @@
           "name": "dsh-agent-project-sync-0.1.0.tgz",
           "url": "https://github.com/Harzva/dsh-agent-project-sync/releases/download/v0.1.0/dsh-agent-project-sync-0.1.0.tgz",
           "size": 14057,
-          "downloadCount": 395,
+          "downloadCount": 418,
           "contentType": "application/x-gtar"
         }
       ]
@@ -1004,7 +1004,7 @@
           "name": "dsh-cli-store-0.3.0.tgz",
           "url": "https://github.com/Harzva/dsh-cli-store/releases/download/v0.3.0/dsh-cli-store-0.3.0.tgz",
           "size": 24798,
-          "downloadCount": 325,
+          "downloadCount": 343,
           "contentType": "application/x-gtar"
         }
       ]
@@ -1245,7 +1245,7 @@
           "name": "harness-flow-dsh-obsidian-0.1.0-alpha.0.tgz",
           "url": "https://github.com/Harzva/dsh-obsidian/releases/download/v0.1.0-alpha.0/harness-flow-dsh-obsidian-0.1.0-alpha.0.tgz",
           "size": 21393,
-          "downloadCount": 20,
+          "downloadCount": 27,
           "contentType": "application/x-gtar"
         }
       ]
@@ -1420,7 +1420,7 @@
           "name": "harness-flow-dsh-uvm-0.1.0-alpha.1.tgz",
           "url": "https://github.com/Harzva/dsh-uvm/releases/download/v0.1.0-alpha.1/harness-flow-dsh-uvm-0.1.0-alpha.1.tgz",
           "size": 21023,
-          "downloadCount": 346,
+          "downloadCount": 364,
           "contentType": "application/x-gtar"
         }
       ]
@@ -2061,8 +2061,8 @@
     "primaryLanguage": {
       "name": "Python"
     },
-    "pushedAt": "2026-09-01T08:41:11Z",
-    "updatedAt": "2026-09-01T08:47:20Z",
+    "pushedAt": "2026-09-02T07:56:57Z",
+    "updatedAt": "2026-09-02T07:59:11Z",
     "createdAt": "2026-05-14T09:29:39Z",
     "defaultBranchRef": {
       "name": "main"
@@ -2095,8 +2095,8 @@
     "primaryLanguage": {
       "name": "Python"
     },
-    "pushedAt": "2026-09-01T08:39:21Z",
-    "updatedAt": "2026-09-01T08:45:40Z",
+    "pushedAt": "2026-09-02T07:54:51Z",
+    "updatedAt": "2026-09-02T07:55:04Z",
     "createdAt": "2026-05-14T09:27:13Z",
     "defaultBranchRef": {
       "name": "main"
@@ -2129,8 +2129,8 @@
     "primaryLanguage": {
       "name": "Python"
     },
-    "pushedAt": "2026-09-01T08:43:52Z",
-    "updatedAt": "2026-09-01T08:51:48Z",
+    "pushedAt": "2026-09-02T07:59:18Z",
+    "updatedAt": "2026-09-02T07:59:23Z",
     "createdAt": "2026-05-14T09:29:34Z",
     "defaultBranchRef": {
       "name": "main"
@@ -2163,8 +2163,8 @@
     "primaryLanguage": {
       "name": "Python"
     },
-    "pushedAt": "2026-09-01T08:38:58Z",
-    "updatedAt": "2026-09-01T08:54:18Z",
+    "pushedAt": "2026-09-02T07:55:23Z",
+    "updatedAt": "2026-09-02T07:55:27Z",
     "createdAt": "2026-05-14T09:29:45Z",
     "defaultBranchRef": {
       "name": "main"
@@ -2407,14 +2407,14 @@
     "primaryLanguage": {
       "name": "TypeScript"
     },
-    "pushedAt": "2026-09-02T04:49:37Z",
-    "updatedAt": "2026-09-02T04:49:58Z",
+    "pushedAt": "2026-09-03T04:48:08Z",
+    "updatedAt": "2026-09-03T04:49:34Z",
     "createdAt": "2026-04-01T03:55:26Z",
     "defaultBranchRef": {
       "name": "main"
     },
     "homepageUrl": "",
-    "stargazerCount": 57,
+    "stargazerCount": 58,
     "forkCount": 6,
     "repositoryTopics": [
       "agent-loop",
@@ -2739,7 +2739,7 @@
           "name": "mobilecode-v0.1.0.apk",
           "url": "https://github.com/Harzva/mobilecode/releases/download/v0.1.0/mobilecode-v0.1.0.apk",
           "size": 53051517,
-          "downloadCount": 78,
+          "downloadCount": 80,
           "contentType": "application/vnd.android.package-archive"
         }
       ]
@@ -2853,13 +2853,13 @@
       "name": "Python"
     },
     "pushedAt": "2026-06-18T14:22:07Z",
-    "updatedAt": "2026-06-18T14:23:58Z",
+    "updatedAt": "2026-09-03T07:50:03Z",
     "createdAt": "2026-06-18T12:35:39Z",
     "defaultBranchRef": {
       "name": "main"
     },
     "homepageUrl": "https://harzva.github.io/pami-skill-suites/",
-    "stargazerCount": 0,
+    "stargazerCount": 1,
     "forkCount": 0,
     "repositoryTopics": [],
     "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/pami-skill-suites",
@@ -2899,7 +2899,7 @@
           "name": "journal-skill-suites-v2.7.0.zip",
           "url": "https://github.com/Harzva/pami-skill-suites/releases/download/v2.7.0/journal-skill-suites-v2.7.0.zip",
           "size": 148992508,
-          "downloadCount": 2,
+          "downloadCount": 3,
           "contentType": "application/zip"
         },
         {
@@ -3593,6 +3593,31 @@
     "forkCount": 0,
     "repositoryTopics": [],
     "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/dsh-computer-use",
+    "pages": {
+      "enabled": false
+    },
+    "latestRelease": null
+  },
+  {
+    "name": "dsh-im",
+    "nameWithOwner": "Harzva/dsh-im",
+    "url": "https://github.com/Harzva/dsh-im",
+    "description": "通过扫码或机器人凭据把IM机器人接入DeepSeek Harness（支持飞书、微信、钉钉、企业微信、QQ、Slack、Telegram、Discord和WhatsApp）。 Connect IM bots to DeepSeek Harness via QR code or credentials (9 channels).",
+    "isPrivate": false,
+    "isArchived": false,
+    "isFork": true,
+    "primaryLanguage": null,
+    "pushedAt": "2026-09-03T06:51:53Z",
+    "updatedAt": "2026-09-03T06:35:21Z",
+    "createdAt": "2026-09-03T06:35:20Z",
+    "defaultBranchRef": {
+      "name": "main"
+    },
+    "homepageUrl": "",
+    "stargazerCount": 0,
+    "forkCount": 0,
+    "repositoryTopics": [],
+    "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/dsh-im",
     "pages": {
       "enabled": false
     },

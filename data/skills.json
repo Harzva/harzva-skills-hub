@@ -366,7 +366,7 @@
           "name": "dsh-agent-project-sync-0.1.0.tgz",
           "url": "https://github.com/Harzva/dsh-agent-project-sync/releases/download/v0.1.0/dsh-agent-project-sync-0.1.0.tgz",
           "size": 14057,
-          "downloadCount": 395,
+          "downloadCount": 418,
           "contentType": "application/x-gtar"
         }
       ]
@@ -411,7 +411,7 @@
           "name": "dsh-cli-store-0.3.0.tgz",
           "url": "https://github.com/Harzva/dsh-cli-store/releases/download/v0.3.0/dsh-cli-store-0.3.0.tgz",
           "size": 24798,
-          "downloadCount": 325,
+          "downloadCount": 343,
           "contentType": "application/x-gtar"
         }
       ]
@@ -625,7 +625,7 @@
           "name": "harness-flow-dsh-obsidian-0.1.0-alpha.0.tgz",
           "url": "https://github.com/Harzva/dsh-obsidian/releases/download/v0.1.0-alpha.0/harness-flow-dsh-obsidian-0.1.0-alpha.0.tgz",
           "size": 21393,
-          "downloadCount": 20,
+          "downloadCount": 27,
           "contentType": "application/x-gtar"
         }
       ]
@@ -800,7 +800,7 @@
           "name": "harness-flow-dsh-uvm-0.1.0-alpha.1.tgz",
           "url": "https://github.com/Harzva/dsh-uvm/releases/download/v0.1.0-alpha.1/harness-flow-dsh-uvm-0.1.0-alpha.1.tgz",
           "size": 21023,
-          "downloadCount": 346,
+          "downloadCount": 364,
           "contentType": "application/x-gtar"
         }
       ]
@@ -1114,8 +1114,8 @@
     "primaryLanguage": {
       "name": "Python"
     },
-    "pushedAt": "2026-09-01T08:38:58Z",
-    "updatedAt": "2026-09-01T08:54:18Z",
+    "pushedAt": "2026-09-02T07:55:23Z",
+    "updatedAt": "2026-09-02T07:55:27Z",
     "createdAt": "2026-05-14T09:29:45Z",
     "defaultBranchRef": {
       "name": "main"
@@ -1208,13 +1208,13 @@
       "name": "Python"
     },
     "pushedAt": "2026-06-18T14:22:07Z",
-    "updatedAt": "2026-06-18T14:23:58Z",
+    "updatedAt": "2026-09-03T07:50:03Z",
     "createdAt": "2026-06-18T12:35:39Z",
     "defaultBranchRef": {
       "name": "main"
     },
     "homepageUrl": "https://harzva.github.io/pami-skill-suites/",
-    "stargazerCount": 0,
+    "stargazerCount": 1,
     "forkCount": 0,
     "repositoryTopics": [],
     "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/pami-skill-suites",
@@ -1254,7 +1254,7 @@
           "name": "journal-skill-suites-v2.7.0.zip",
           "url": "https://github.com/Harzva/pami-skill-suites/releases/download/v2.7.0/journal-skill-suites-v2.7.0.zip",
           "size": 148992508,
-          "downloadCount": 2,
+          "downloadCount": 3,
           "contentType": "application/zip"
         },
         {
