@@ -6,7 +6,7 @@ A registry of Harzva Codex skills, workflow skills, and agent operating recipes.
 
 [Live Skill Board](https://harzva.github.io/harzva-skills-hub/) | [Project Atlas](https://github.com/Harzva/harzva-project-atlas)
 
-![Skills](https://img.shields.io/badge/skills-45-6B8E23?style=for-the-badge) ![Auto Update](https://img.shields.io/badge/update-daily-111111?style=for-the-badge)
+![Skills](https://img.shields.io/badge/skills-46-6B8E23?style=for-the-badge) ![Auto Update](https://img.shields.io/badge/update-daily-111111?style=for-the-badge)
 
 </div>
 
@@ -14,10 +14,11 @@ A registry of Harzva Codex skills, workflow skills, and agent operating recipes.
 
 | Skill Repository | Language | Updated | Description |
 |---|---:|---:|---|
-| [harzva-skills-hub](https://github.com/Harzva/harzva-skills-hub) | Python | 2026-09-02 | Auto-updating GitHub Pages registry of Harzva Codex skills, workflow skills, and agent recipes. |
+| [awesome-dsh-plugin](https://github.com/Harzva/awesome-dsh-plugin) | Python | 2026-09-03 | A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件精选列表 |
+| [dsh-session-folders](https://github.com/Harzva/dsh-session-folders) | TypeScript | 2026-09-03 |  |
+| [harzva-skills-hub](https://github.com/Harzva/harzva-skills-hub) | Python | 2026-09-03 | Auto-updating GitHub Pages registry of Harzva Codex skills, workflow skills, and agent recipes. |
 | [AgentWorkOS](https://github.com/Harzva/AgentWorkOS) | Python | 2026-08-31 | Package-managed operating layer for AI agent workspaces: scan, lock, sync, doctor, and install agent context. |
 | [dsh-restart-autoresume](https://github.com/Harzva/dsh-restart-autoresume) | JavaScript | 2026-08-29 | Safe DSH restart coordination and durable top-level session autoresume |
-| [awesome-dsh-plugin](https://github.com/Harzva/awesome-dsh-plugin) | Python | 2026-08-29 | A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件精选列表 |
 | [dsh-market](https://github.com/Harzva/dsh-market) | Mixed | 2026-08-29 | The plugin market inside DeepSeek Harness — browse, search, one-click install · DSH 可视化插件市场 |
 | [dsh-maclens](https://github.com/Harzva/dsh-maclens) | Swift | 2026-08-29 | Bridge Apple on-device Vision framework (macOS) into DeepSeek Harness: OCR, image classification, face detection, document layout as local dsh tools. No network, no API key. |
 | [codexhome-manager](https://github.com/Harzva/codexhome-manager) | Rust | 2026-08-26 | Manage multiple CODEX_HOME directories as isolated Skill Spaces and specialized Agent Households. |
@@ -76,5 +77,5 @@ This MetaRepo refreshes itself with GitHub Actions.
 - Data source: GitHub REST API.
 - Privacy default: public repositories only.
 - Private mode: set `META_INCLUDE_PRIVATE=true` and provide `META_GITHUB_TOKEN` only when the meta repository is private.
-- Generated at: `2026-09-03T08:03:35.849033+00:00`.
+- Generated at: `2026-09-04T07:59:17.220971+00:00`.
 - Private repositories omitted from this public output: `13`.
