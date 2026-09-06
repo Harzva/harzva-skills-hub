@@ -89,8 +89,8 @@
     "primaryLanguage": {
       "name": "TypeScript"
     },
-    "pushedAt": "2026-09-05T05:45:35Z",
-    "updatedAt": "2026-09-05T05:45:39Z",
+    "pushedAt": "2026-09-05T16:04:39Z",
+    "updatedAt": "2026-09-05T16:04:42Z",
     "createdAt": "2026-05-12T09:49:47Z",
     "defaultBranchRef": {
       "name": "main"
@@ -959,7 +959,7 @@
           "name": "dsh-agent-project-sync-0.1.0.tgz",
           "url": "https://github.com/Harzva/dsh-agent-project-sync/releases/download/v0.1.0/dsh-agent-project-sync-0.1.0.tgz",
           "size": 14057,
-          "downloadCount": 500,
+          "downloadCount": 518,
           "contentType": "application/x-gtar"
         }
       ]
@@ -1004,7 +1004,7 @@
           "name": "dsh-cli-store-0.3.0.tgz",
           "url": "https://github.com/Harzva/dsh-cli-store/releases/download/v0.3.0/dsh-cli-store-0.3.0.tgz",
           "size": 24798,
-          "downloadCount": 416,
+          "downloadCount": 431,
           "contentType": "application/x-gtar"
         }
       ]
@@ -1049,7 +1049,7 @@
           "name": "dsh-control-plane-0.1.0.tgz",
           "url": "https://github.com/Harzva/dsh-control-plane/releases/download/v0.1.0/dsh-control-plane-0.1.0.tgz",
           "size": 106806,
-          "downloadCount": 7,
+          "downloadCount": 14,
           "contentType": "application/x-gtar"
         }
       ]
@@ -1245,7 +1245,7 @@
           "name": "harness-flow-dsh-obsidian-0.1.0-alpha.0.tgz",
           "url": "https://github.com/Harzva/dsh-obsidian/releases/download/v0.1.0-alpha.0/harness-flow-dsh-obsidian-0.1.0-alpha.0.tgz",
           "size": 21393,
-          "downloadCount": 84,
+          "downloadCount": 117,
           "contentType": "application/x-gtar"
         }
       ]
@@ -1277,6 +1277,37 @@
       "plugin-registry"
     ],
     "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/dsh-plugin-registry",
+    "pages": {
+      "enabled": false
+    },
+    "latestRelease": null
+  },
+  {
+    "name": "dsh-pr-guardian",
+    "nameWithOwner": "Harzva/dsh-pr-guardian",
+    "url": "https://github.com/Harzva/dsh-pr-guardian",
+    "description": "Authored PR feedback inbox with shared Codex/DSH progress and read-only GitHub collection.",
+    "isPrivate": false,
+    "isArchived": false,
+    "isFork": false,
+    "primaryLanguage": {
+      "name": "JavaScript"
+    },
+    "pushedAt": "2026-09-05T22:04:04Z",
+    "updatedAt": "2026-09-05T22:04:07Z",
+    "createdAt": "2026-09-05T22:00:09Z",
+    "defaultBranchRef": {
+      "name": "main"
+    },
+    "homepageUrl": "",
+    "stargazerCount": 0,
+    "forkCount": 0,
+    "repositoryTopics": [
+      "dsh-plugin",
+      "github",
+      "pull-requests"
+    ],
+    "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/dsh-pr-guardian",
     "pages": {
       "enabled": false
     },
@@ -1465,7 +1496,7 @@
           "name": "harness-flow-dsh-uvm-0.1.0-alpha.1.tgz",
           "url": "https://github.com/Harzva/dsh-uvm/releases/download/v0.1.0-alpha.1/harness-flow-dsh-uvm-0.1.0-alpha.1.tgz",
           "size": 21023,
-          "downloadCount": 441,
+          "downloadCount": 459,
           "contentType": "application/x-gtar"
         }
       ]
@@ -2106,8 +2137,8 @@
     "primaryLanguage": {
       "name": "Python"
     },
-    "pushedAt": "2026-09-04T08:00:35Z",
-    "updatedAt": "2026-09-04T08:03:03Z",
+    "pushedAt": "2026-09-05T07:41:51Z",
+    "updatedAt": "2026-09-05T07:41:54Z",
     "createdAt": "2026-05-14T09:29:39Z",
     "defaultBranchRef": {
       "name": "main"
@@ -2140,8 +2171,8 @@
     "primaryLanguage": {
       "name": "Python"
     },
-    "pushedAt": "2026-09-04T07:59:01Z",
-    "updatedAt": "2026-09-04T08:01:25Z",
+    "pushedAt": "2026-09-05T07:40:45Z",
+    "updatedAt": "2026-09-05T07:40:48Z",
     "createdAt": "2026-05-14T09:27:13Z",
     "defaultBranchRef": {
       "name": "main"
@@ -2174,8 +2205,8 @@
     "primaryLanguage": {
       "name": "Python"
     },
-    "pushedAt": "2026-09-04T08:02:50Z",
-    "updatedAt": "2026-09-04T08:05:24Z",
+    "pushedAt": "2026-09-05T07:44:19Z",
+    "updatedAt": "2026-09-05T07:44:23Z",
     "createdAt": "2026-05-14T09:29:34Z",
     "defaultBranchRef": {
       "name": "main"
@@ -2208,8 +2239,8 @@
     "primaryLanguage": {
       "name": "Python"
     },
-    "pushedAt": "2026-09-04T07:59:18Z",
-    "updatedAt": "2026-09-04T08:01:04Z",
+    "pushedAt": "2026-09-05T07:40:59Z",
+    "updatedAt": "2026-09-05T07:41:03Z",
     "createdAt": "2026-05-14T09:29:45Z",
     "defaultBranchRef": {
       "name": "main"
@@ -2452,8 +2483,8 @@
     "primaryLanguage": {
       "name": "TypeScript"
     },
-    "pushedAt": "2026-09-05T04:44:04Z",
-    "updatedAt": "2026-09-05T04:44:08Z",
+    "pushedAt": "2026-09-06T04:54:51Z",
+    "updatedAt": "2026-09-06T04:54:55Z",
     "createdAt": "2026-04-01T03:55:26Z",
     "defaultBranchRef": {
       "name": "main"
@@ -3348,7 +3379,7 @@
     "primaryLanguage": {
       "name": "Python"
     },
-    "pushedAt": "2026-09-03T09:07:17Z",
+    "pushedAt": "2026-09-05T22:02:04Z",
     "updatedAt": "2026-09-03T09:09:56Z",
     "createdAt": "2026-08-18T18:20:10Z",
     "defaultBranchRef": {

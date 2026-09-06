@@ -6,7 +6,7 @@ A registry of Harzva Codex skills, workflow skills, and agent operating recipes.
 
 [Live Skill Board](https://harzva.github.io/harzva-skills-hub/) | [Project Atlas](https://github.com/Harzva/harzva-project-atlas)
 
-![Skills](https://img.shields.io/badge/skills-46-6B8E23?style=for-the-badge) ![Auto Update](https://img.shields.io/badge/update-daily-111111?style=for-the-badge)
+![Skills](https://img.shields.io/badge/skills-47-6B8E23?style=for-the-badge) ![Auto Update](https://img.shields.io/badge/update-daily-111111?style=for-the-badge)
 
 </div>
 
@@ -14,8 +14,9 @@ A registry of Harzva Codex skills, workflow skills, and agent operating recipes.
 
 | Skill Repository | Language | Updated | Description |
 |---|---:|---:|---|
-| [harzva-skills-hub](https://github.com/Harzva/harzva-skills-hub) | Python | 2026-09-04 | Auto-updating GitHub Pages registry of Harzva Codex skills, workflow skills, and agent recipes. |
-| [awesome-dsh-plugin](https://github.com/Harzva/awesome-dsh-plugin) | Python | 2026-09-03 | A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件精选列表 |
+| [dsh-pr-guardian](https://github.com/Harzva/dsh-pr-guardian) | JavaScript | 2026-09-05 | Authored PR feedback inbox with shared Codex/DSH progress and read-only GitHub collection. |
+| [awesome-dsh-plugin](https://github.com/Harzva/awesome-dsh-plugin) | Python | 2026-09-05 | A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件精选列表 |
+| [harzva-skills-hub](https://github.com/Harzva/harzva-skills-hub) | Python | 2026-09-05 | Auto-updating GitHub Pages registry of Harzva Codex skills, workflow skills, and agent recipes. |
 | [dsh-session-folders](https://github.com/Harzva/dsh-session-folders) | TypeScript | 2026-09-03 |  |
 | [AgentWorkOS](https://github.com/Harzva/AgentWorkOS) | Python | 2026-08-31 | Package-managed operating layer for AI agent workspaces: scan, lock, sync, doctor, and install agent context. |
 | [dsh-restart-autoresume](https://github.com/Harzva/dsh-restart-autoresume) | JavaScript | 2026-08-29 | Safe DSH restart coordination and durable top-level session autoresume |
@@ -77,5 +78,5 @@ This MetaRepo refreshes itself with GitHub Actions.
 - Data source: GitHub REST API.
 - Privacy default: public repositories only.
 - Private mode: set `META_INCLUDE_PRIVATE=true` and provide `META_GITHUB_TOKEN` only when the meta repository is private.
-- Generated at: `2026-09-05T07:40:58.692379+00:00`.
+- Generated at: `2026-09-06T07:54:28.032817+00:00`.
 - Private repositories omitted from this public output: `13`.
