@@ -366,7 +366,7 @@
           "name": "dsh-agent-project-sync-0.1.0.tgz",
           "url": "https://github.com/Harzva/dsh-agent-project-sync/releases/download/v0.1.0/dsh-agent-project-sync-0.1.0.tgz",
           "size": 14057,
-          "downloadCount": 588,
+          "downloadCount": 615,
           "contentType": "application/x-gtar"
         }
       ]
@@ -411,7 +411,7 @@
           "name": "dsh-cli-store-0.3.0.tgz",
           "url": "https://github.com/Harzva/dsh-cli-store/releases/download/v0.3.0/dsh-cli-store-0.3.0.tgz",
           "size": 24798,
-          "downloadCount": 496,
+          "downloadCount": 517,
           "contentType": "application/x-gtar"
         }
       ]
@@ -456,7 +456,7 @@
           "name": "dsh-control-plane-0.1.0.tgz",
           "url": "https://github.com/Harzva/dsh-control-plane/releases/download/v0.1.0/dsh-control-plane-0.1.0.tgz",
           "size": 106806,
-          "downloadCount": 41,
+          "downloadCount": 53,
           "contentType": "application/x-gtar"
         }
       ]
@@ -625,7 +625,7 @@
           "name": "harness-flow-dsh-obsidian-0.1.0-alpha.0.tgz",
           "url": "https://github.com/Harzva/dsh-obsidian/releases/download/v0.1.0-alpha.0/harness-flow-dsh-obsidian-0.1.0-alpha.0.tgz",
           "size": 21393,
-          "downloadCount": 161,
+          "downloadCount": 179,
           "contentType": "application/x-gtar"
         }
       ]
@@ -876,7 +876,7 @@
           "name": "harness-flow-dsh-uvm-0.1.0-alpha.1.tgz",
           "url": "https://github.com/Harzva/dsh-uvm/releases/download/v0.1.0-alpha.1/harness-flow-dsh-uvm-0.1.0-alpha.1.tgz",
           "size": 21023,
-          "downloadCount": 529,
+          "downloadCount": 550,
           "contentType": "application/x-gtar"
         }
       ]
@@ -1190,8 +1190,8 @@
     "primaryLanguage": {
       "name": "Python"
     },
-    "pushedAt": "2026-09-07T08:18:13Z",
-    "updatedAt": "2026-09-07T08:18:18Z",
+    "pushedAt": "2026-09-08T08:05:25Z",
+    "updatedAt": "2026-09-08T08:06:41Z",
     "createdAt": "2026-05-14T09:29:45Z",
     "defaultBranchRef": {
       "name": "main"
