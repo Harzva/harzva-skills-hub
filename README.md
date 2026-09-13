@@ -6,7 +6,7 @@ A registry of Harzva Codex skills, workflow skills, and agent operating recipes.
 
 [Live Skill Board](https://harzva.github.io/harzva-skills-hub/) | [Project Atlas](https://github.com/Harzva/harzva-project-atlas)
 
-![Skills](https://img.shields.io/badge/skills-48-6B8E23?style=for-the-badge) ![Auto Update](https://img.shields.io/badge/update-daily-111111?style=for-the-badge)
+![Skills](https://img.shields.io/badge/skills-49-6B8E23?style=for-the-badge) ![Auto Update](https://img.shields.io/badge/update-daily-111111?style=for-the-badge)
 
 </div>
 
@@ -14,9 +14,10 @@ A registry of Harzva Codex skills, workflow skills, and agent operating recipes.
 
 | Skill Repository | Language | Updated | Description |
 |---|---:|---:|---|
+| [dsh-wemedia-workbench](https://github.com/Harzva/dsh-wemedia-workbench) | TypeScript | 2026-09-13 | Local-first media workbench for DeepSeek Harness: AI-assisted workflows, revision-bound reviews, native approvals and persistent jobs. |
 | [awesome-dsh-plugin](https://github.com/Harzva/awesome-dsh-plugin) | Python | 2026-09-12 | A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件精选列表 |
 | [dsh-superterminal](https://github.com/Harzva/dsh-superterminal) | JavaScript | 2026-09-12 | DSH SuperTerminal: native multipane terminals, a local agent library, and DSH-powered command advice. |
-| [harzva-skills-hub](https://github.com/Harzva/harzva-skills-hub) | Python | 2026-09-11 | Auto-updating GitHub Pages registry of Harzva Codex skills, workflow skills, and agent recipes. |
+| [harzva-skills-hub](https://github.com/Harzva/harzva-skills-hub) | Python | 2026-09-12 | Auto-updating GitHub Pages registry of Harzva Codex skills, workflow skills, and agent recipes. |
 | [codexhome-manager](https://github.com/Harzva/codexhome-manager) | Rust | 2026-09-09 | Manage multiple CODEX_HOME directories as isolated Skill Spaces and specialized Agent Households. |
 | [dsh-pr-guardian](https://github.com/Harzva/dsh-pr-guardian) | JavaScript | 2026-09-05 | Authored PR feedback inbox with shared Codex/DSH progress and read-only GitHub collection. |
 | [dsh-session-folders](https://github.com/Harzva/dsh-session-folders) | TypeScript | 2026-09-03 |  |
@@ -79,5 +80,5 @@ This MetaRepo refreshes itself with GitHub Actions.
 - Data source: GitHub REST API.
 - Privacy default: public repositories only.
 - Private mode: set `META_INCLUDE_PRIVATE=true` and provide `META_GITHUB_TOKEN` only when the meta repository is private.
-- Generated at: `2026-09-12T07:55:59.806587+00:00`.
+- Generated at: `2026-09-13T08:18:42.494302+00:00`.
 - Private repositories omitted from this public output: `13`.

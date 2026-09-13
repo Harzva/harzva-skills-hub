@@ -336,13 +336,13 @@
       "name": "JavaScript"
     },
     "pushedAt": "2026-08-23T09:05:32Z",
-    "updatedAt": "2026-08-28T11:00:08Z",
+    "updatedAt": "2026-09-12T14:36:40Z",
     "createdAt": "2026-08-23T08:55:48Z",
     "defaultBranchRef": {
       "name": "main"
     },
     "homepageUrl": "",
-    "stargazerCount": 2,
+    "stargazerCount": 1,
     "forkCount": 0,
     "repositoryTopics": [
       "claude-code",
@@ -366,7 +366,7 @@
           "name": "dsh-agent-project-sync-0.1.0.tgz",
           "url": "https://github.com/Harzva/dsh-agent-project-sync/releases/download/v0.1.0/dsh-agent-project-sync-0.1.0.tgz",
           "size": 14057,
-          "downloadCount": 664,
+          "downloadCount": 703,
           "contentType": "application/x-gtar"
         }
       ]
@@ -411,7 +411,7 @@
           "name": "dsh-cli-store-0.3.0.tgz",
           "url": "https://github.com/Harzva/dsh-cli-store/releases/download/v0.3.0/dsh-cli-store-0.3.0.tgz",
           "size": 24798,
-          "downloadCount": 561,
+          "downloadCount": 598,
           "contentType": "application/x-gtar"
         }
       ]
@@ -456,7 +456,7 @@
           "name": "dsh-control-plane-0.1.0.tgz",
           "url": "https://github.com/Harzva/dsh-control-plane/releases/download/v0.1.0/dsh-control-plane-0.1.0.tgz",
           "size": 106806,
-          "downloadCount": 71,
+          "downloadCount": 97,
           "contentType": "application/x-gtar"
         }
       ]
@@ -625,7 +625,7 @@
           "name": "harness-flow-dsh-obsidian-0.1.0-alpha.0.tgz",
           "url": "https://github.com/Harzva/dsh-obsidian/releases/download/v0.1.0-alpha.0/harness-flow-dsh-obsidian-0.1.0-alpha.0.tgz",
           "size": 21393,
-          "downloadCount": 210,
+          "downloadCount": 239,
           "contentType": "application/x-gtar"
         }
       ]
@@ -848,8 +848,8 @@
     "primaryLanguage": {
       "name": "JavaScript"
     },
-    "pushedAt": "2026-09-12T05:42:20Z",
-    "updatedAt": "2026-09-12T05:41:28Z",
+    "pushedAt": "2026-09-12T11:51:08Z",
+    "updatedAt": "2026-09-12T11:48:55Z",
     "createdAt": "2026-09-09T09:02:37Z",
     "defaultBranchRef": {
       "name": "main"
@@ -914,7 +914,7 @@
           "name": "harness-flow-dsh-uvm-0.1.0-alpha.1.tgz",
           "url": "https://github.com/Harzva/dsh-uvm/releases/download/v0.1.0-alpha.1/harness-flow-dsh-uvm-0.1.0-alpha.1.tgz",
           "size": 21023,
-          "downloadCount": 598,
+          "downloadCount": 639,
           "contentType": "application/x-gtar"
         }
       ]
@@ -964,6 +964,39 @@
         }
       ]
     }
+  },
+  {
+    "name": "dsh-wemedia-workbench",
+    "nameWithOwner": "Harzva/dsh-wemedia-workbench",
+    "url": "https://github.com/Harzva/dsh-wemedia-workbench",
+    "description": "Local-first media workbench for DeepSeek Harness: AI-assisted workflows, revision-bound reviews, native approvals and persistent jobs.",
+    "isPrivate": false,
+    "isArchived": false,
+    "isFork": false,
+    "primaryLanguage": {
+      "name": "TypeScript"
+    },
+    "pushedAt": "2026-09-13T02:47:19Z",
+    "updatedAt": "2026-09-13T02:47:23Z",
+    "createdAt": "2026-09-13T02:28:43Z",
+    "defaultBranchRef": {
+      "name": "main"
+    },
+    "homepageUrl": "",
+    "stargazerCount": 0,
+    "forkCount": 0,
+    "repositoryTopics": [
+      "ai-assisted",
+      "content-workflow",
+      "deepseek-harness",
+      "dsh-plugin",
+      "local-first"
+    ],
+    "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/dsh-wemedia-workbench",
+    "pages": {
+      "enabled": false
+    },
+    "latestRelease": null
   },
   {
     "name": "everything-agent-cli-to-claude-code",
@@ -1228,8 +1261,8 @@
     "primaryLanguage": {
       "name": "Python"
     },
-    "pushedAt": "2026-09-11T08:03:49Z",
-    "updatedAt": "2026-09-11T08:03:53Z",
+    "pushedAt": "2026-09-12T07:56:01Z",
+    "updatedAt": "2026-09-12T07:56:04Z",
     "createdAt": "2026-05-14T09:29:45Z",
     "defaultBranchRef": {
       "name": "main"
@@ -1354,14 +1387,14 @@
           "name": "elsevier-skills-v2.7.0.zip",
           "url": "https://github.com/Harzva/pami-skill-suites/releases/download/v2.7.0/elsevier-skills-v2.7.0.zip",
           "size": 53240882,
-          "downloadCount": 6,
+          "downloadCount": 7,
           "contentType": "application/zip"
         },
         {
           "name": "ieee-skills-v2.7.0.zip",
           "url": "https://github.com/Harzva/pami-skill-suites/releases/download/v2.7.0/ieee-skills-v2.7.0.zip",
           "size": 92831483,
-          "downloadCount": 3,
+          "downloadCount": 4,
           "contentType": "application/zip"
         },
         {
@@ -1575,7 +1608,7 @@
     "primaryLanguage": {
       "name": "Python"
     },
-    "pushedAt": "2026-09-12T05:44:18Z",
+    "pushedAt": "2026-09-12T11:55:30Z",
     "updatedAt": "2026-09-03T09:09:56Z",
     "createdAt": "2026-08-18T18:20:10Z",
     "defaultBranchRef": {
