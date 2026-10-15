@@ -1,6 +1,6 @@
 {
   "summary": {
-    "generatedAt": "2026-10-14T08:43:18.799411+00:00",
+    "generatedAt": "2026-10-15T08:18:56.026217+00:00",
     "owner": "Harzva",
     "mode": "skills",
     "publicRepositories": 146,
@@ -540,14 +540,14 @@
         "primaryLanguage": {
           "name": "TypeScript"
         },
-        "pushedAt": "2026-10-14T05:08:01Z",
-        "updatedAt": "2026-10-14T05:08:06Z",
+        "pushedAt": "2026-10-15T04:55:52Z",
+        "updatedAt": "2026-10-15T04:55:57Z",
         "createdAt": "2026-04-01T03:55:26Z",
         "defaultBranchRef": {
           "name": "main"
         },
         "homepageUrl": "",
-        "stargazerCount": 53,
+        "stargazerCount": 54,
         "forkCount": 8,
         "repositoryTopics": [
           "agent-loop",
@@ -593,8 +593,8 @@
         "primaryLanguage": {
           "name": "TypeScript"
         },
-        "pushedAt": "2026-10-13T19:51:51Z",
-        "updatedAt": "2026-10-13T19:51:55Z",
+        "pushedAt": "2026-10-14T18:00:58Z",
+        "updatedAt": "2026-10-14T18:01:11Z",
         "createdAt": "2026-05-12T09:49:47Z",
         "defaultBranchRef": {
           "name": "main"
@@ -627,8 +627,8 @@
         "primaryLanguage": {
           "name": "Python"
         },
-        "pushedAt": "2026-10-13T10:43:29Z",
-        "updatedAt": "2026-10-13T10:43:34Z",
+        "pushedAt": "2026-10-14T08:50:10Z",
+        "updatedAt": "2026-10-14T08:50:14Z",
         "createdAt": "2026-05-14T09:29:34Z",
         "defaultBranchRef": {
           "name": "main"
@@ -661,8 +661,8 @@
         "primaryLanguage": {
           "name": "Python"
         },
-        "pushedAt": "2026-10-13T10:38:37Z",
-        "updatedAt": "2026-10-13T10:38:43Z",
+        "pushedAt": "2026-10-14T08:45:25Z",
+        "updatedAt": "2026-10-14T08:45:29Z",
         "createdAt": "2026-05-14T09:29:39Z",
         "defaultBranchRef": {
           "name": "main"
@@ -695,8 +695,8 @@
         "primaryLanguage": {
           "name": "Python"
         },
-        "pushedAt": "2026-10-13T10:35:10Z",
-        "updatedAt": "2026-10-13T10:35:14Z",
+        "pushedAt": "2026-10-14T08:43:05Z",
+        "updatedAt": "2026-10-14T08:43:10Z",
         "createdAt": "2026-05-14T09:27:13Z",
         "defaultBranchRef": {
           "name": "main"
@@ -1461,40 +1461,6 @@
     ],
     "Skills and Agent Workflows": [
       {
-        "name": "harzva-skills-hub",
-        "nameWithOwner": "Harzva/harzva-skills-hub",
-        "url": "https://github.com/Harzva/harzva-skills-hub",
-        "description": "Auto-updating GitHub Pages registry of Harzva Codex skills, workflow skills, and agent recipes.",
-        "isPrivate": false,
-        "isArchived": false,
-        "isFork": false,
-        "primaryLanguage": {
-          "name": "Python"
-        },
-        "pushedAt": "2026-10-13T10:36:25Z",
-        "updatedAt": "2026-10-13T10:36:29Z",
-        "createdAt": "2026-05-14T09:29:45Z",
-        "defaultBranchRef": {
-          "name": "main"
-        },
-        "homepageUrl": "https://harzva.github.io/harzva-skills-hub/",
-        "stargazerCount": 0,
-        "forkCount": 0,
-        "repositoryTopics": [],
-        "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/harzva-skills-hub",
-        "pages": {
-          "enabled": true,
-          "url": "https://harzva.github.io/harzva-skills-hub/",
-          "status": null,
-          "source": {
-            "branch": "main",
-            "path": "/"
-          },
-          "httpsEnforced": true
-        },
-        "latestRelease": null
-      },
-      {
         "name": "codexhome-manager",
         "nameWithOwner": "Harzva/codexhome-manager",
         "url": "https://github.com/Harzva/codexhome-manager",
@@ -1505,7 +1471,7 @@
         "primaryLanguage": {
           "name": "Rust"
         },
-        "pushedAt": "2026-10-07T16:24:37Z",
+        "pushedAt": "2026-10-14T22:07:34Z",
         "updatedAt": "2026-07-27T18:50:00Z",
         "createdAt": "2026-07-22T09:13:29Z",
         "defaultBranchRef": {
@@ -1525,6 +1491,40 @@
         "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/codexhome-manager",
         "pages": {
           "enabled": false
+        },
+        "latestRelease": null
+      },
+      {
+        "name": "harzva-skills-hub",
+        "nameWithOwner": "Harzva/harzva-skills-hub",
+        "url": "https://github.com/Harzva/harzva-skills-hub",
+        "description": "Auto-updating GitHub Pages registry of Harzva Codex skills, workflow skills, and agent recipes.",
+        "isPrivate": false,
+        "isArchived": false,
+        "isFork": false,
+        "primaryLanguage": {
+          "name": "Python"
+        },
+        "pushedAt": "2026-10-14T08:43:20Z",
+        "updatedAt": "2026-10-14T08:43:24Z",
+        "createdAt": "2026-05-14T09:29:45Z",
+        "defaultBranchRef": {
+          "name": "main"
+        },
+        "homepageUrl": "https://harzva.github.io/harzva-skills-hub/",
+        "stargazerCount": 0,
+        "forkCount": 0,
+        "repositoryTopics": [],
+        "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/harzva-skills-hub",
+        "pages": {
+          "enabled": true,
+          "url": "https://harzva.github.io/harzva-skills-hub/",
+          "status": null,
+          "source": {
+            "branch": "main",
+            "path": "/"
+          },
+          "httpsEnforced": true
         },
         "latestRelease": null
       },
@@ -1828,7 +1828,7 @@
               "name": "dsh-cli-store-0.3.0.tgz",
               "url": "https://github.com/Harzva/dsh-cli-store/releases/download/v0.3.0/dsh-cli-store-0.3.0.tgz",
               "size": 24798,
-              "downloadCount": 2797,
+              "downloadCount": 2826,
               "contentType": "application/x-gtar"
             }
           ]
@@ -1876,7 +1876,7 @@
               "name": "dsh-agent-project-sync-0.1.0.tgz",
               "url": "https://github.com/Harzva/dsh-agent-project-sync/releases/download/v0.1.0/dsh-agent-project-sync-0.1.0.tgz",
               "size": 14057,
-              "downloadCount": 2973,
+              "downloadCount": 3004,
               "contentType": "application/x-gtar"
             }
           ]
@@ -1966,7 +1966,7 @@
               "name": "dsh-control-plane-0.1.0.tgz",
               "url": "https://github.com/Harzva/dsh-control-plane/releases/download/v0.1.0/dsh-control-plane-0.1.0.tgz",
               "size": 106806,
-              "downloadCount": 2127,
+              "downloadCount": 2155,
               "contentType": "application/x-gtar"
             }
           ]
@@ -2087,7 +2087,7 @@
               "name": "harness-flow-dsh-uvm-0.1.0-alpha.1.tgz",
               "url": "https://github.com/Harzva/dsh-uvm/releases/download/v0.1.0-alpha.1/harness-flow-dsh-uvm-0.1.0-alpha.1.tgz",
               "size": 21023,
-              "downloadCount": 2982,
+              "downloadCount": 3016,
               "contentType": "application/x-gtar"
             }
           ]
@@ -2134,7 +2134,7 @@
               "name": "harness-flow-dsh-obsidian-0.1.0-alpha.0.tgz",
               "url": "https://github.com/Harzva/dsh-obsidian/releases/download/v0.1.0-alpha.0/harness-flow-dsh-obsidian-0.1.0-alpha.0.tgz",
               "size": 21393,
-              "downloadCount": 2467,
+              "downloadCount": 2497,
               "contentType": "application/x-gtar"
             }
           ]
@@ -4701,7 +4701,7 @@
       "assetName": "dsh-agent-project-sync-0.1.0.tgz",
       "assetUrl": "https://github.com/Harzva/dsh-agent-project-sync/releases/download/v0.1.0/dsh-agent-project-sync-0.1.0.tgz",
       "size": 14057,
-      "downloadCount": 2973,
+      "downloadCount": 3004,
       "kind": "Archive",
       "functionCategory": "AI Agent Systems",
       "releaseName": "dsh-agent-project-sync v0.1.0",
@@ -4791,7 +4791,7 @@
       "assetName": "dsh-cli-store-0.3.0.tgz",
       "assetUrl": "https://github.com/Harzva/dsh-cli-store/releases/download/v0.3.0/dsh-cli-store-0.3.0.tgz",
       "size": 24798,
-      "downloadCount": 2797,
+      "downloadCount": 2826,
       "kind": "Archive",
       "functionCategory": "CLI and Infrastructure",
       "releaseName": "dsh-cli-store v0.3.0",
@@ -4917,7 +4917,7 @@
       "assetName": "dsh-control-plane-0.1.0.tgz",
       "assetUrl": "https://github.com/Harzva/dsh-control-plane/releases/download/v0.1.0/dsh-control-plane-0.1.0.tgz",
       "size": 106806,
-      "downloadCount": 2127,
+      "downloadCount": 2155,
       "kind": "Archive",
       "functionCategory": "General Utilities",
       "releaseName": "dsh-control-plane v0.1.0",
@@ -4971,7 +4971,7 @@
       "assetName": "harness-flow-dsh-uvm-0.1.0-alpha.1.tgz",
       "assetUrl": "https://github.com/Harzva/dsh-uvm/releases/download/v0.1.0-alpha.1/harness-flow-dsh-uvm-0.1.0-alpha.1.tgz",
       "size": 21023,
-      "downloadCount": 2982,
+      "downloadCount": 3016,
       "kind": "Archive",
       "functionCategory": "General Utilities",
       "releaseName": "dsh-uvm v0.1.0-alpha.1",
@@ -5007,7 +5007,7 @@
       "assetName": "harness-flow-dsh-obsidian-0.1.0-alpha.0.tgz",
       "assetUrl": "https://github.com/Harzva/dsh-obsidian/releases/download/v0.1.0-alpha.0/harness-flow-dsh-obsidian-0.1.0-alpha.0.tgz",
       "size": 21393,
-      "downloadCount": 2467,
+      "downloadCount": 2497,
       "kind": "Archive",
       "functionCategory": "Learning and Knowledge",
       "releaseName": "dsh-obsidian v0.1.0-alpha.0",
@@ -5302,7 +5302,7 @@
         "assetName": "dsh-cli-store-0.3.0.tgz",
         "assetUrl": "https://github.com/Harzva/dsh-cli-store/releases/download/v0.3.0/dsh-cli-store-0.3.0.tgz",
         "size": 24798,
-        "downloadCount": 2797,
+        "downloadCount": 2826,
         "kind": "Archive",
         "functionCategory": "CLI and Infrastructure",
         "releaseName": "dsh-cli-store v0.3.0",
@@ -5340,7 +5340,7 @@
         "assetName": "dsh-agent-project-sync-0.1.0.tgz",
         "assetUrl": "https://github.com/Harzva/dsh-agent-project-sync/releases/download/v0.1.0/dsh-agent-project-sync-0.1.0.tgz",
         "size": 14057,
-        "downloadCount": 2973,
+        "downloadCount": 3004,
         "kind": "Archive",
         "functionCategory": "AI Agent Systems",
         "releaseName": "dsh-agent-project-sync v0.1.0",
@@ -5450,7 +5450,7 @@
         "assetName": "harness-flow-dsh-obsidian-0.1.0-alpha.0.tgz",
         "assetUrl": "https://github.com/Harzva/dsh-obsidian/releases/download/v0.1.0-alpha.0/harness-flow-dsh-obsidian-0.1.0-alpha.0.tgz",
         "size": 21393,
-        "downloadCount": 2467,
+        "downloadCount": 2497,
         "kind": "Archive",
         "functionCategory": "Learning and Knowledge",
         "releaseName": "dsh-obsidian v0.1.0-alpha.0",
@@ -5506,7 +5506,7 @@
         "assetName": "dsh-control-plane-0.1.0.tgz",
         "assetUrl": "https://github.com/Harzva/dsh-control-plane/releases/download/v0.1.0/dsh-control-plane-0.1.0.tgz",
         "size": 106806,
-        "downloadCount": 2127,
+        "downloadCount": 2155,
         "kind": "Archive",
         "functionCategory": "General Utilities",
         "releaseName": "dsh-control-plane v0.1.0",
@@ -5542,7 +5542,7 @@
         "assetName": "harness-flow-dsh-uvm-0.1.0-alpha.1.tgz",
         "assetUrl": "https://github.com/Harzva/dsh-uvm/releases/download/v0.1.0-alpha.1/harness-flow-dsh-uvm-0.1.0-alpha.1.tgz",
         "size": 21023,
-        "downloadCount": 2982,
+        "downloadCount": 3016,
         "kind": "Archive",
         "functionCategory": "General Utilities",
         "releaseName": "dsh-uvm v0.1.0-alpha.1",
@@ -5565,8 +5565,8 @@
       "primaryLanguage": {
         "name": "TypeScript"
       },
-      "pushedAt": "2026-10-13T19:51:51Z",
-      "updatedAt": "2026-10-13T19:51:55Z",
+      "pushedAt": "2026-10-14T18:00:58Z",
+      "updatedAt": "2026-10-14T18:01:11Z",
       "createdAt": "2026-05-12T09:49:47Z",
       "defaultBranchRef": {
         "name": "main"
@@ -6196,8 +6196,8 @@
       "primaryLanguage": {
         "name": "Python"
       },
-      "pushedAt": "2026-10-13T10:38:37Z",
-      "updatedAt": "2026-10-13T10:38:43Z",
+      "pushedAt": "2026-10-14T08:45:25Z",
+      "updatedAt": "2026-10-14T08:45:29Z",
       "createdAt": "2026-05-14T09:29:39Z",
       "defaultBranchRef": {
         "name": "main"
@@ -6230,8 +6230,8 @@
       "primaryLanguage": {
         "name": "Python"
       },
-      "pushedAt": "2026-10-13T10:35:10Z",
-      "updatedAt": "2026-10-13T10:35:14Z",
+      "pushedAt": "2026-10-14T08:43:05Z",
+      "updatedAt": "2026-10-14T08:43:10Z",
       "createdAt": "2026-05-14T09:27:13Z",
       "defaultBranchRef": {
         "name": "main"
@@ -6264,8 +6264,8 @@
       "primaryLanguage": {
         "name": "Python"
       },
-      "pushedAt": "2026-10-13T10:43:29Z",
-      "updatedAt": "2026-10-13T10:43:34Z",
+      "pushedAt": "2026-10-14T08:50:10Z",
+      "updatedAt": "2026-10-14T08:50:14Z",
       "createdAt": "2026-05-14T09:29:34Z",
       "defaultBranchRef": {
         "name": "main"
@@ -6298,8 +6298,8 @@
       "primaryLanguage": {
         "name": "Python"
       },
-      "pushedAt": "2026-10-13T10:36:25Z",
-      "updatedAt": "2026-10-13T10:36:29Z",
+      "pushedAt": "2026-10-14T08:43:20Z",
+      "updatedAt": "2026-10-14T08:43:24Z",
       "createdAt": "2026-05-14T09:29:45Z",
       "defaultBranchRef": {
         "name": "main"
@@ -6449,14 +6449,14 @@
       "primaryLanguage": {
         "name": "TypeScript"
       },
-      "pushedAt": "2026-10-14T05:08:01Z",
-      "updatedAt": "2026-10-14T05:08:06Z",
+      "pushedAt": "2026-10-15T04:55:52Z",
+      "updatedAt": "2026-10-15T04:55:57Z",
       "createdAt": "2026-04-01T03:55:26Z",
       "defaultBranchRef": {
         "name": "main"
       },
       "homepageUrl": "",
-      "stargazerCount": 53,
+      "stargazerCount": 54,
       "forkCount": 8,
       "repositoryTopics": [
         "agent-loop",
@@ -6948,7 +6948,7 @@
             "name": "dsh-agent-project-sync-0.1.0.tgz",
             "url": "https://github.com/Harzva/dsh-agent-project-sync/releases/download/v0.1.0/dsh-agent-project-sync-0.1.0.tgz",
             "size": 14057,
-            "downloadCount": 2973,
+            "downloadCount": 3004,
             "contentType": "application/x-gtar"
           }
         ]
@@ -6993,7 +6993,7 @@
             "name": "dsh-cli-store-0.3.0.tgz",
             "url": "https://github.com/Harzva/dsh-cli-store/releases/download/v0.3.0/dsh-cli-store-0.3.0.tgz",
             "size": 24798,
-            "downloadCount": 2797,
+            "downloadCount": 2826,
             "contentType": "application/x-gtar"
           }
         ]
@@ -7038,7 +7038,7 @@
             "name": "dsh-control-plane-0.1.0.tgz",
             "url": "https://github.com/Harzva/dsh-control-plane/releases/download/v0.1.0/dsh-control-plane-0.1.0.tgz",
             "size": 106806,
-            "downloadCount": 2127,
+            "downloadCount": 2155,
             "contentType": "application/x-gtar"
           }
         ]
@@ -7171,7 +7171,7 @@
             "name": "harness-flow-dsh-obsidian-0.1.0-alpha.0.tgz",
             "url": "https://github.com/Harzva/dsh-obsidian/releases/download/v0.1.0-alpha.0/harness-flow-dsh-obsidian-0.1.0-alpha.0.tgz",
             "size": 21393,
-            "downloadCount": 2467,
+            "downloadCount": 2497,
             "contentType": "application/x-gtar"
           }
         ]
@@ -7261,7 +7261,7 @@
             "name": "harness-flow-dsh-uvm-0.1.0-alpha.1.tgz",
             "url": "https://github.com/Harzva/dsh-uvm/releases/download/v0.1.0-alpha.1/harness-flow-dsh-uvm-0.1.0-alpha.1.tgz",
             "size": 21023,
-            "downloadCount": 2982,
+            "downloadCount": 3016,
             "contentType": "application/x-gtar"
           }
         ]
@@ -7501,14 +7501,14 @@
       "primaryLanguage": {
         "name": "TypeScript"
       },
-      "pushedAt": "2026-10-14T05:08:01Z",
-      "updatedAt": "2026-10-14T05:08:06Z",
+      "pushedAt": "2026-10-15T04:55:52Z",
+      "updatedAt": "2026-10-15T04:55:57Z",
       "createdAt": "2026-04-01T03:55:26Z",
       "defaultBranchRef": {
         "name": "main"
       },
       "homepageUrl": "",
-      "stargazerCount": 53,
+      "stargazerCount": 54,
       "forkCount": 8,
       "repositoryTopics": [
         "agent-loop",
@@ -7938,7 +7938,7 @@
       "primaryLanguage": {
         "name": "Rust"
       },
-      "pushedAt": "2026-10-07T16:24:37Z",
+      "pushedAt": "2026-10-14T22:07:34Z",
       "updatedAt": "2026-07-27T18:50:00Z",
       "createdAt": "2026-07-22T09:13:29Z",
       "defaultBranchRef": {
@@ -8104,7 +8104,7 @@
             "name": "dsh-agent-project-sync-0.1.0.tgz",
             "url": "https://github.com/Harzva/dsh-agent-project-sync/releases/download/v0.1.0/dsh-agent-project-sync-0.1.0.tgz",
             "size": 14057,
-            "downloadCount": 2973,
+            "downloadCount": 3004,
             "contentType": "application/x-gtar"
           }
         ]
@@ -8149,7 +8149,7 @@
             "name": "dsh-cli-store-0.3.0.tgz",
             "url": "https://github.com/Harzva/dsh-cli-store/releases/download/v0.3.0/dsh-cli-store-0.3.0.tgz",
             "size": 24798,
-            "downloadCount": 2797,
+            "downloadCount": 2826,
             "contentType": "application/x-gtar"
           }
         ]
@@ -8194,7 +8194,7 @@
             "name": "dsh-control-plane-0.1.0.tgz",
             "url": "https://github.com/Harzva/dsh-control-plane/releases/download/v0.1.0/dsh-control-plane-0.1.0.tgz",
             "size": 106806,
-            "downloadCount": 2127,
+            "downloadCount": 2155,
             "contentType": "application/x-gtar"
           }
         ]
@@ -8363,7 +8363,7 @@
             "name": "harness-flow-dsh-obsidian-0.1.0-alpha.0.tgz",
             "url": "https://github.com/Harzva/dsh-obsidian/releases/download/v0.1.0-alpha.0/harness-flow-dsh-obsidian-0.1.0-alpha.0.tgz",
             "size": 21393,
-            "downloadCount": 2467,
+            "downloadCount": 2497,
             "contentType": "application/x-gtar"
           }
         ]
@@ -8652,7 +8652,7 @@
             "name": "harness-flow-dsh-uvm-0.1.0-alpha.1.tgz",
             "url": "https://github.com/Harzva/dsh-uvm/releases/download/v0.1.0-alpha.1/harness-flow-dsh-uvm-0.1.0-alpha.1.tgz",
             "size": 21023,
-            "downloadCount": 2982,
+            "downloadCount": 3016,
             "contentType": "application/x-gtar"
           }
         ]
@@ -8999,8 +8999,8 @@
       "primaryLanguage": {
         "name": "Python"
       },
-      "pushedAt": "2026-10-13T10:36:25Z",
-      "updatedAt": "2026-10-13T10:36:29Z",
+      "pushedAt": "2026-10-14T08:43:20Z",
+      "updatedAt": "2026-10-14T08:43:24Z",
       "createdAt": "2026-05-14T09:29:45Z",
       "defaultBranchRef": {
         "name": "main"
