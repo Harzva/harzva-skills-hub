@@ -1,14 +1,14 @@
 {
   "summary": {
-    "generatedAt": "2026-10-21T08:34:40.632254+00:00",
+    "generatedAt": "2026-10-22T08:36:41.006206+00:00",
     "owner": "Harzva",
     "mode": "skills",
-    "publicRepositories": 149,
+    "publicRepositories": 148,
     "forks": 46,
-    "pages": 33,
-    "releases": 19,
+    "pages": 32,
+    "releases": 18,
     "skills": 49,
-    "artifacts": 39,
+    "artifacts": 34,
     "privateOmitted": 13
   },
   "categories": {
@@ -565,118 +565,6 @@
     ],
     "Pages and Live Demos": [
       {
-        "name": "openbot",
-        "nameWithOwner": "Harzva/openbot",
-        "url": "https://github.com/Harzva/openbot",
-        "description": "OpenBot: persistent local bots, browser work screens and accountable task execution",
-        "isPrivate": false,
-        "isArchived": false,
-        "isFork": false,
-        "primaryLanguage": {
-          "name": "JavaScript"
-        },
-        "pushedAt": "2026-10-21T07:31:55Z",
-        "updatedAt": "2026-10-21T07:32:00Z",
-        "createdAt": "2026-10-18T02:04:10Z",
-        "defaultBranchRef": {
-          "name": "main"
-        },
-        "homepageUrl": "https://harzva.github.io/openbot/",
-        "stargazerCount": 2,
-        "forkCount": 0,
-        "repositoryTopics": [],
-        "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/openbot",
-        "pages": {
-          "enabled": true,
-          "url": "https://harzva.github.io/openbot/",
-          "status": null,
-          "source": {
-            "branch": "main",
-            "path": "/"
-          },
-          "httpsEnforced": true
-        },
-        "latestRelease": {
-          "name": "OpenBot v0.9.2",
-          "tagName": "v0.9.2",
-          "url": "https://github.com/Harzva/openbot/releases/tag/v0.9.2",
-          "publishedAt": "2026-10-19T08:20:37Z",
-          "prerelease": false,
-          "draft": false,
-          "assets": [
-            {
-              "name": "OpenBot-0.9.2-arm64.dmg",
-              "url": "https://github.com/Harzva/openbot/releases/download/v0.9.2/OpenBot-0.9.2-arm64.dmg",
-              "size": 161958242,
-              "downloadCount": 0,
-              "contentType": "application/x-apple-diskimage"
-            },
-            {
-              "name": "OpenBot-0.9.2-notes.md",
-              "url": "https://github.com/Harzva/openbot/releases/download/v0.9.2/OpenBot-0.9.2-notes.md",
-              "size": 1689,
-              "downloadCount": 0,
-              "contentType": "application/octet-stream"
-            },
-            {
-              "name": "OpenBot-0.9.2-SHA256SUMS.txt",
-              "url": "https://github.com/Harzva/openbot/releases/download/v0.9.2/OpenBot-0.9.2-SHA256SUMS.txt",
-              "size": 366,
-              "downloadCount": 0,
-              "contentType": "text/plain; charset=utf-8"
-            },
-            {
-              "name": "OpenBot-0.9.2-source.zip",
-              "url": "https://github.com/Harzva/openbot/releases/download/v0.9.2/OpenBot-0.9.2-source.zip",
-              "size": 4842530,
-              "downloadCount": 1,
-              "contentType": "application/zip"
-            },
-            {
-              "name": "OpenBot-0.9.2-validation.json",
-              "url": "https://github.com/Harzva/openbot/releases/download/v0.9.2/OpenBot-0.9.2-validation.json",
-              "size": 2746,
-              "downloadCount": 0,
-              "contentType": "application/json"
-            }
-          ]
-        }
-      },
-      {
-        "name": "Agent-Job-Interview",
-        "nameWithOwner": "Harzva/Agent-Job-Interview",
-        "url": "https://github.com/Harzva/Agent-Job-Interview",
-        "description": "Agent job interview roadmap and practice training suite.",
-        "isPrivate": false,
-        "isArchived": false,
-        "isFork": false,
-        "primaryLanguage": {
-          "name": "TypeScript"
-        },
-        "pushedAt": "2026-10-21T06:02:05Z",
-        "updatedAt": "2026-10-21T06:02:09Z",
-        "createdAt": "2026-05-12T09:49:47Z",
-        "defaultBranchRef": {
-          "name": "main"
-        },
-        "homepageUrl": "https://harzva.github.io/Agent-Job-Interview/",
-        "stargazerCount": 6,
-        "forkCount": 0,
-        "repositoryTopics": [],
-        "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/Agent-Job-Interview",
-        "pages": {
-          "enabled": true,
-          "url": "https://harzva.github.io/Agent-Job-Interview/",
-          "status": "built",
-          "source": {
-            "branch": "main",
-            "path": "/docs"
-          },
-          "httpsEnforced": true
-        },
-        "latestRelease": null
-      },
-      {
         "name": "learn-likecc",
         "nameWithOwner": "Harzva/learn-likecc",
         "url": "https://github.com/Harzva/learn-likecc",
@@ -687,8 +575,8 @@
         "primaryLanguage": {
           "name": "TypeScript"
         },
-        "pushedAt": "2026-10-21T05:04:46Z",
-        "updatedAt": "2026-10-21T05:04:51Z",
+        "pushedAt": "2026-10-22T05:07:15Z",
+        "updatedAt": "2026-10-22T05:07:19Z",
         "createdAt": "2026-04-01T03:55:26Z",
         "defaultBranchRef": {
           "name": "main"
@@ -730,6 +618,40 @@
         }
       },
       {
+        "name": "Agent-Job-Interview",
+        "nameWithOwner": "Harzva/Agent-Job-Interview",
+        "url": "https://github.com/Harzva/Agent-Job-Interview",
+        "description": "Agent job interview roadmap and practice training suite.",
+        "isPrivate": false,
+        "isArchived": false,
+        "isFork": false,
+        "primaryLanguage": {
+          "name": "TypeScript"
+        },
+        "pushedAt": "2026-10-21T18:02:26Z",
+        "updatedAt": "2026-10-21T18:02:31Z",
+        "createdAt": "2026-05-12T09:49:47Z",
+        "defaultBranchRef": {
+          "name": "main"
+        },
+        "homepageUrl": "https://harzva.github.io/Agent-Job-Interview/",
+        "stargazerCount": 7,
+        "forkCount": 0,
+        "repositoryTopics": [],
+        "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/Agent-Job-Interview",
+        "pages": {
+          "enabled": true,
+          "url": "https://harzva.github.io/Agent-Job-Interview/",
+          "status": "built",
+          "source": {
+            "branch": "main",
+            "path": "/docs"
+          },
+          "httpsEnforced": true
+        },
+        "latestRelease": null
+      },
+      {
         "name": "awesome-bot",
         "nameWithOwner": "Harzva/awesome-bot",
         "url": "https://github.com/Harzva/awesome-bot",
@@ -740,14 +662,14 @@
         "primaryLanguage": {
           "name": "JavaScript"
         },
-        "pushedAt": "2026-10-20T22:13:36Z",
-        "updatedAt": "2026-10-20T22:13:40Z",
+        "pushedAt": "2026-10-21T14:39:28Z",
+        "updatedAt": "2026-10-21T21:19:32Z",
         "createdAt": "2026-10-19T19:07:05Z",
         "defaultBranchRef": {
           "name": "main"
         },
         "homepageUrl": "https://harzva.github.io/awesome-bot/",
-        "stargazerCount": 0,
+        "stargazerCount": 1,
         "forkCount": 0,
         "repositoryTopics": [
           "ai-agents",
@@ -859,8 +781,8 @@
         "primaryLanguage": {
           "name": "Python"
         },
-        "pushedAt": "2026-10-20T08:39:17Z",
-        "updatedAt": "2026-10-20T08:39:22Z",
+        "pushedAt": "2026-10-21T08:40:45Z",
+        "updatedAt": "2026-10-21T08:40:49Z",
         "createdAt": "2026-05-14T09:29:34Z",
         "defaultBranchRef": {
           "name": "main"
@@ -893,8 +815,8 @@
         "primaryLanguage": {
           "name": "Python"
         },
-        "pushedAt": "2026-10-20T08:34:48Z",
-        "updatedAt": "2026-10-20T08:34:52Z",
+        "pushedAt": "2026-10-21T08:37:14Z",
+        "updatedAt": "2026-10-21T08:37:18Z",
         "createdAt": "2026-05-14T09:29:39Z",
         "defaultBranchRef": {
           "name": "main"
@@ -927,8 +849,8 @@
         "primaryLanguage": {
           "name": "Python"
         },
-        "pushedAt": "2026-10-20T08:32:32Z",
-        "updatedAt": "2026-10-20T08:32:37Z",
+        "pushedAt": "2026-10-21T08:34:21Z",
+        "updatedAt": "2026-10-21T08:34:26Z",
         "createdAt": "2026-05-14T09:27:13Z",
         "defaultBranchRef": {
           "name": "main"
@@ -1030,13 +952,13 @@
           "name": "Kotlin"
         },
         "pushedAt": "2026-09-07T13:02:50Z",
-        "updatedAt": "2026-09-22T09:36:59Z",
+        "updatedAt": "2026-10-22T08:12:10Z",
         "createdAt": "2026-06-21T04:05:44Z",
         "defaultBranchRef": {
           "name": "main"
         },
         "homepageUrl": "",
-        "stargazerCount": 3,
+        "stargazerCount": 4,
         "forkCount": 1,
         "repositoryTopics": [
           "android",
@@ -1155,13 +1077,13 @@
           "name": "Dart"
         },
         "pushedAt": "2026-08-07T01:23:26Z",
-        "updatedAt": "2026-10-13T18:10:25Z",
+        "updatedAt": "2026-10-22T02:39:36Z",
         "createdAt": "2026-05-12T08:19:17Z",
         "defaultBranchRef": {
           "name": "main"
         },
         "homepageUrl": "",
-        "stargazerCount": 30,
+        "stargazerCount": 29,
         "forkCount": 2,
         "repositoryTopics": [],
         "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/mobilecode",
@@ -1201,7 +1123,7 @@
               "name": "mobilecode-v0.1.0.apk",
               "url": "https://github.com/Harzva/mobilecode/releases/download/v0.1.0/mobilecode-v0.1.0.apk",
               "size": 53051517,
-              "downloadCount": 112,
+              "downloadCount": 115,
               "contentType": "application/vnd.android.package-archive"
             }
           ]
@@ -1703,8 +1625,8 @@
         "primaryLanguage": {
           "name": "Python"
         },
-        "pushedAt": "2026-10-20T08:32:32Z",
-        "updatedAt": "2026-10-20T08:32:37Z",
+        "pushedAt": "2026-10-21T08:34:41Z",
+        "updatedAt": "2026-10-21T08:34:45Z",
         "createdAt": "2026-05-14T09:29:45Z",
         "defaultBranchRef": {
           "name": "main"
@@ -2060,7 +1982,7 @@
               "name": "dsh-cli-store-0.3.0.tgz",
               "url": "https://github.com/Harzva/dsh-cli-store/releases/download/v0.3.0/dsh-cli-store-0.3.0.tgz",
               "size": 24798,
-              "downloadCount": 3323,
+              "downloadCount": 3419,
               "contentType": "application/x-gtar"
             }
           ]
@@ -2108,7 +2030,7 @@
               "name": "dsh-agent-project-sync-0.1.0.tgz",
               "url": "https://github.com/Harzva/dsh-agent-project-sync/releases/download/v0.1.0/dsh-agent-project-sync-0.1.0.tgz",
               "size": 14057,
-              "downloadCount": 3507,
+              "downloadCount": 3604,
               "contentType": "application/x-gtar"
             }
           ]
@@ -2198,7 +2120,7 @@
               "name": "dsh-control-plane-0.1.0.tgz",
               "url": "https://github.com/Harzva/dsh-control-plane/releases/download/v0.1.0/dsh-control-plane-0.1.0.tgz",
               "size": 106806,
-              "downloadCount": 2652,
+              "downloadCount": 2748,
               "contentType": "application/x-gtar"
             }
           ]
@@ -2319,7 +2241,7 @@
               "name": "harness-flow-dsh-uvm-0.1.0-alpha.1.tgz",
               "url": "https://github.com/Harzva/dsh-uvm/releases/download/v0.1.0-alpha.1/harness-flow-dsh-uvm-0.1.0-alpha.1.tgz",
               "size": 21023,
-              "downloadCount": 3526,
+              "downloadCount": 3625,
               "contentType": "application/x-gtar"
             }
           ]
@@ -2366,7 +2288,7 @@
               "name": "harness-flow-dsh-obsidian-0.1.0-alpha.0.tgz",
               "url": "https://github.com/Harzva/dsh-obsidian/releases/download/v0.1.0-alpha.0/harness-flow-dsh-obsidian-0.1.0-alpha.0.tgz",
               "size": 21393,
-              "downloadCount": 2996,
+              "downloadCount": 3091,
               "contentType": "application/x-gtar"
             }
           ]
@@ -2571,13 +2493,13 @@
           "name": "Swift"
         },
         "pushedAt": "2026-06-26T08:56:22Z",
-        "updatedAt": "2026-09-13T09:50:21Z",
+        "updatedAt": "2026-10-22T02:39:26Z",
         "createdAt": "2026-06-19T02:26:19Z",
         "defaultBranchRef": {
           "name": "main"
         },
         "homepageUrl": "https://harzva.github.io/chatgpt2localbridge/",
-        "stargazerCount": 108,
+        "stargazerCount": 106,
         "forkCount": 2,
         "repositoryTopics": [
           "chatgpt",
@@ -5113,7 +5035,7 @@
       "assetName": "dsh-agent-project-sync-0.1.0.tgz",
       "assetUrl": "https://github.com/Harzva/dsh-agent-project-sync/releases/download/v0.1.0/dsh-agent-project-sync-0.1.0.tgz",
       "size": 14057,
-      "downloadCount": 3507,
+      "downloadCount": 3604,
       "kind": "Archive",
       "functionCategory": "AI Agent Systems",
       "releaseName": "dsh-agent-project-sync v0.1.0",
@@ -5203,7 +5125,7 @@
       "assetName": "dsh-cli-store-0.3.0.tgz",
       "assetUrl": "https://github.com/Harzva/dsh-cli-store/releases/download/v0.3.0/dsh-cli-store-0.3.0.tgz",
       "size": 24798,
-      "downloadCount": 3323,
+      "downloadCount": 3419,
       "kind": "Archive",
       "functionCategory": "CLI and Infrastructure",
       "releaseName": "dsh-cli-store v0.3.0",
@@ -5285,24 +5207,6 @@
       "isFork": false
     },
     {
-      "repo": "Harzva/openbot",
-      "repoName": "openbot",
-      "repoUrl": "https://github.com/Harzva/openbot",
-      "description": "OpenBot: persistent local bots, browser work screens and accountable task execution",
-      "language": "JavaScript",
-      "assetName": "OpenBot-0.9.2-arm64.dmg",
-      "assetUrl": "https://github.com/Harzva/openbot/releases/download/v0.9.2/OpenBot-0.9.2-arm64.dmg",
-      "size": 161958242,
-      "downloadCount": 0,
-      "kind": "macOS",
-      "functionCategory": "Desktop Apps",
-      "releaseName": "OpenBot v0.9.2",
-      "tagName": "v0.9.2",
-      "releaseUrl": "https://github.com/Harzva/openbot/releases/tag/v0.9.2",
-      "publishedAt": "2026-10-19T08:20:37Z",
-      "isFork": false
-    },
-    {
       "repo": "Harzva/RepoAtlas",
       "repoName": "RepoAtlas",
       "repoUrl": "https://github.com/Harzva/RepoAtlas",
@@ -5347,7 +5251,7 @@
       "assetName": "dsh-control-plane-0.1.0.tgz",
       "assetUrl": "https://github.com/Harzva/dsh-control-plane/releases/download/v0.1.0/dsh-control-plane-0.1.0.tgz",
       "size": 106806,
-      "downloadCount": 2652,
+      "downloadCount": 2748,
       "kind": "Archive",
       "functionCategory": "General Utilities",
       "releaseName": "dsh-control-plane v0.1.0",
@@ -5401,7 +5305,7 @@
       "assetName": "harness-flow-dsh-uvm-0.1.0-alpha.1.tgz",
       "assetUrl": "https://github.com/Harzva/dsh-uvm/releases/download/v0.1.0-alpha.1/harness-flow-dsh-uvm-0.1.0-alpha.1.tgz",
       "size": 21023,
-      "downloadCount": 3526,
+      "downloadCount": 3625,
       "kind": "Archive",
       "functionCategory": "General Utilities",
       "releaseName": "dsh-uvm v0.1.0-alpha.1",
@@ -5429,78 +5333,6 @@
       "isFork": false
     },
     {
-      "repo": "Harzva/openbot",
-      "repoName": "openbot",
-      "repoUrl": "https://github.com/Harzva/openbot",
-      "description": "OpenBot: persistent local bots, browser work screens and accountable task execution",
-      "language": "JavaScript",
-      "assetName": "OpenBot-0.9.2-notes.md",
-      "assetUrl": "https://github.com/Harzva/openbot/releases/download/v0.9.2/OpenBot-0.9.2-notes.md",
-      "size": 1689,
-      "downloadCount": 0,
-      "kind": "Release Asset",
-      "functionCategory": "General Utilities",
-      "releaseName": "OpenBot v0.9.2",
-      "tagName": "v0.9.2",
-      "releaseUrl": "https://github.com/Harzva/openbot/releases/tag/v0.9.2",
-      "publishedAt": "2026-10-19T08:20:37Z",
-      "isFork": false
-    },
-    {
-      "repo": "Harzva/openbot",
-      "repoName": "openbot",
-      "repoUrl": "https://github.com/Harzva/openbot",
-      "description": "OpenBot: persistent local bots, browser work screens and accountable task execution",
-      "language": "JavaScript",
-      "assetName": "OpenBot-0.9.2-SHA256SUMS.txt",
-      "assetUrl": "https://github.com/Harzva/openbot/releases/download/v0.9.2/OpenBot-0.9.2-SHA256SUMS.txt",
-      "size": 366,
-      "downloadCount": 0,
-      "kind": "Release Asset",
-      "functionCategory": "General Utilities",
-      "releaseName": "OpenBot v0.9.2",
-      "tagName": "v0.9.2",
-      "releaseUrl": "https://github.com/Harzva/openbot/releases/tag/v0.9.2",
-      "publishedAt": "2026-10-19T08:20:37Z",
-      "isFork": false
-    },
-    {
-      "repo": "Harzva/openbot",
-      "repoName": "openbot",
-      "repoUrl": "https://github.com/Harzva/openbot",
-      "description": "OpenBot: persistent local bots, browser work screens and accountable task execution",
-      "language": "JavaScript",
-      "assetName": "OpenBot-0.9.2-source.zip",
-      "assetUrl": "https://github.com/Harzva/openbot/releases/download/v0.9.2/OpenBot-0.9.2-source.zip",
-      "size": 4842530,
-      "downloadCount": 1,
-      "kind": "Archive",
-      "functionCategory": "General Utilities",
-      "releaseName": "OpenBot v0.9.2",
-      "tagName": "v0.9.2",
-      "releaseUrl": "https://github.com/Harzva/openbot/releases/tag/v0.9.2",
-      "publishedAt": "2026-10-19T08:20:37Z",
-      "isFork": false
-    },
-    {
-      "repo": "Harzva/openbot",
-      "repoName": "openbot",
-      "repoUrl": "https://github.com/Harzva/openbot",
-      "description": "OpenBot: persistent local bots, browser work screens and accountable task execution",
-      "language": "JavaScript",
-      "assetName": "OpenBot-0.9.2-validation.json",
-      "assetUrl": "https://github.com/Harzva/openbot/releases/download/v0.9.2/OpenBot-0.9.2-validation.json",
-      "size": 2746,
-      "downloadCount": 0,
-      "kind": "Release Asset",
-      "functionCategory": "General Utilities",
-      "releaseName": "OpenBot v0.9.2",
-      "tagName": "v0.9.2",
-      "releaseUrl": "https://github.com/Harzva/openbot/releases/tag/v0.9.2",
-      "publishedAt": "2026-10-19T08:20:37Z",
-      "isFork": false
-    },
-    {
       "repo": "Harzva/dsh-obsidian",
       "repoName": "dsh-obsidian",
       "repoUrl": "https://github.com/Harzva/dsh-obsidian",
@@ -5509,7 +5341,7 @@
       "assetName": "harness-flow-dsh-obsidian-0.1.0-alpha.0.tgz",
       "assetUrl": "https://github.com/Harzva/dsh-obsidian/releases/download/v0.1.0-alpha.0/harness-flow-dsh-obsidian-0.1.0-alpha.0.tgz",
       "size": 21393,
-      "downloadCount": 2996,
+      "downloadCount": 3091,
       "kind": "Archive",
       "functionCategory": "Learning and Knowledge",
       "releaseName": "dsh-obsidian v0.1.0-alpha.0",
@@ -5599,7 +5431,7 @@
       "assetName": "mobilecode-v0.1.0.apk",
       "assetUrl": "https://github.com/Harzva/mobilecode/releases/download/v0.1.0/mobilecode-v0.1.0.apk",
       "size": 53051517,
-      "downloadCount": 112,
+      "downloadCount": 115,
       "kind": "Android APK",
       "functionCategory": "Mobile Apps",
       "releaseName": "MobileCode v0.1.0 Android APK",
@@ -5692,7 +5524,7 @@
         "assetName": "mobilecode-v0.1.0.apk",
         "assetUrl": "https://github.com/Harzva/mobilecode/releases/download/v0.1.0/mobilecode-v0.1.0.apk",
         "size": 53051517,
-        "downloadCount": 112,
+        "downloadCount": 115,
         "kind": "Android APK",
         "functionCategory": "Mobile Apps",
         "releaseName": "MobileCode v0.1.0 Android APK",
@@ -5703,24 +5535,6 @@
       }
     ],
     "Desktop Apps": [
-      {
-        "repo": "Harzva/openbot",
-        "repoName": "openbot",
-        "repoUrl": "https://github.com/Harzva/openbot",
-        "description": "OpenBot: persistent local bots, browser work screens and accountable task execution",
-        "language": "JavaScript",
-        "assetName": "OpenBot-0.9.2-arm64.dmg",
-        "assetUrl": "https://github.com/Harzva/openbot/releases/download/v0.9.2/OpenBot-0.9.2-arm64.dmg",
-        "size": 161958242,
-        "downloadCount": 0,
-        "kind": "macOS",
-        "functionCategory": "Desktop Apps",
-        "releaseName": "OpenBot v0.9.2",
-        "tagName": "v0.9.2",
-        "releaseUrl": "https://github.com/Harzva/openbot/releases/tag/v0.9.2",
-        "publishedAt": "2026-10-19T08:20:37Z",
-        "isFork": false
-      },
       {
         "repo": "Harzva/GitReleaseMarket",
         "repoName": "GitReleaseMarket",
@@ -5822,7 +5636,7 @@
         "assetName": "dsh-cli-store-0.3.0.tgz",
         "assetUrl": "https://github.com/Harzva/dsh-cli-store/releases/download/v0.3.0/dsh-cli-store-0.3.0.tgz",
         "size": 24798,
-        "downloadCount": 3323,
+        "downloadCount": 3419,
         "kind": "Archive",
         "functionCategory": "CLI and Infrastructure",
         "releaseName": "dsh-cli-store v0.3.0",
@@ -6040,7 +5854,7 @@
         "assetName": "dsh-agent-project-sync-0.1.0.tgz",
         "assetUrl": "https://github.com/Harzva/dsh-agent-project-sync/releases/download/v0.1.0/dsh-agent-project-sync-0.1.0.tgz",
         "size": 14057,
-        "downloadCount": 3507,
+        "downloadCount": 3604,
         "kind": "Archive",
         "functionCategory": "AI Agent Systems",
         "releaseName": "dsh-agent-project-sync v0.1.0",
@@ -6150,7 +5964,7 @@
         "assetName": "harness-flow-dsh-obsidian-0.1.0-alpha.0.tgz",
         "assetUrl": "https://github.com/Harzva/dsh-obsidian/releases/download/v0.1.0-alpha.0/harness-flow-dsh-obsidian-0.1.0-alpha.0.tgz",
         "size": 21393,
-        "downloadCount": 2996,
+        "downloadCount": 3091,
         "kind": "Archive",
         "functionCategory": "Learning and Knowledge",
         "releaseName": "dsh-obsidian v0.1.0-alpha.0",
@@ -6161,78 +5975,6 @@
       }
     ],
     "General Utilities": [
-      {
-        "repo": "Harzva/openbot",
-        "repoName": "openbot",
-        "repoUrl": "https://github.com/Harzva/openbot",
-        "description": "OpenBot: persistent local bots, browser work screens and accountable task execution",
-        "language": "JavaScript",
-        "assetName": "OpenBot-0.9.2-notes.md",
-        "assetUrl": "https://github.com/Harzva/openbot/releases/download/v0.9.2/OpenBot-0.9.2-notes.md",
-        "size": 1689,
-        "downloadCount": 0,
-        "kind": "Release Asset",
-        "functionCategory": "General Utilities",
-        "releaseName": "OpenBot v0.9.2",
-        "tagName": "v0.9.2",
-        "releaseUrl": "https://github.com/Harzva/openbot/releases/tag/v0.9.2",
-        "publishedAt": "2026-10-19T08:20:37Z",
-        "isFork": false
-      },
-      {
-        "repo": "Harzva/openbot",
-        "repoName": "openbot",
-        "repoUrl": "https://github.com/Harzva/openbot",
-        "description": "OpenBot: persistent local bots, browser work screens and accountable task execution",
-        "language": "JavaScript",
-        "assetName": "OpenBot-0.9.2-SHA256SUMS.txt",
-        "assetUrl": "https://github.com/Harzva/openbot/releases/download/v0.9.2/OpenBot-0.9.2-SHA256SUMS.txt",
-        "size": 366,
-        "downloadCount": 0,
-        "kind": "Release Asset",
-        "functionCategory": "General Utilities",
-        "releaseName": "OpenBot v0.9.2",
-        "tagName": "v0.9.2",
-        "releaseUrl": "https://github.com/Harzva/openbot/releases/tag/v0.9.2",
-        "publishedAt": "2026-10-19T08:20:37Z",
-        "isFork": false
-      },
-      {
-        "repo": "Harzva/openbot",
-        "repoName": "openbot",
-        "repoUrl": "https://github.com/Harzva/openbot",
-        "description": "OpenBot: persistent local bots, browser work screens and accountable task execution",
-        "language": "JavaScript",
-        "assetName": "OpenBot-0.9.2-source.zip",
-        "assetUrl": "https://github.com/Harzva/openbot/releases/download/v0.9.2/OpenBot-0.9.2-source.zip",
-        "size": 4842530,
-        "downloadCount": 1,
-        "kind": "Archive",
-        "functionCategory": "General Utilities",
-        "releaseName": "OpenBot v0.9.2",
-        "tagName": "v0.9.2",
-        "releaseUrl": "https://github.com/Harzva/openbot/releases/tag/v0.9.2",
-        "publishedAt": "2026-10-19T08:20:37Z",
-        "isFork": false
-      },
-      {
-        "repo": "Harzva/openbot",
-        "repoName": "openbot",
-        "repoUrl": "https://github.com/Harzva/openbot",
-        "description": "OpenBot: persistent local bots, browser work screens and accountable task execution",
-        "language": "JavaScript",
-        "assetName": "OpenBot-0.9.2-validation.json",
-        "assetUrl": "https://github.com/Harzva/openbot/releases/download/v0.9.2/OpenBot-0.9.2-validation.json",
-        "size": 2746,
-        "downloadCount": 0,
-        "kind": "Release Asset",
-        "functionCategory": "General Utilities",
-        "releaseName": "OpenBot v0.9.2",
-        "tagName": "v0.9.2",
-        "releaseUrl": "https://github.com/Harzva/openbot/releases/tag/v0.9.2",
-        "publishedAt": "2026-10-19T08:20:37Z",
-        "isFork": false
-      },
       {
         "repo": "Harzva/dsh-session-folders",
         "repoName": "dsh-session-folders",
@@ -6278,7 +6020,7 @@
         "assetName": "dsh-control-plane-0.1.0.tgz",
         "assetUrl": "https://github.com/Harzva/dsh-control-plane/releases/download/v0.1.0/dsh-control-plane-0.1.0.tgz",
         "size": 106806,
-        "downloadCount": 2652,
+        "downloadCount": 2748,
         "kind": "Archive",
         "functionCategory": "General Utilities",
         "releaseName": "dsh-control-plane v0.1.0",
@@ -6314,7 +6056,7 @@
         "assetName": "harness-flow-dsh-uvm-0.1.0-alpha.1.tgz",
         "assetUrl": "https://github.com/Harzva/dsh-uvm/releases/download/v0.1.0-alpha.1/harness-flow-dsh-uvm-0.1.0-alpha.1.tgz",
         "size": 21023,
-        "downloadCount": 3526,
+        "downloadCount": 3625,
         "kind": "Archive",
         "functionCategory": "General Utilities",
         "releaseName": "dsh-uvm v0.1.0-alpha.1",
@@ -6337,14 +6079,14 @@
       "primaryLanguage": {
         "name": "TypeScript"
       },
-      "pushedAt": "2026-10-21T06:02:05Z",
-      "updatedAt": "2026-10-21T06:02:09Z",
+      "pushedAt": "2026-10-21T18:02:26Z",
+      "updatedAt": "2026-10-21T18:02:31Z",
       "createdAt": "2026-05-12T09:49:47Z",
       "defaultBranchRef": {
         "name": "main"
       },
       "homepageUrl": "https://harzva.github.io/Agent-Job-Interview/",
-      "stargazerCount": 6,
+      "stargazerCount": 7,
       "forkCount": 0,
       "repositoryTopics": [],
       "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/Agent-Job-Interview",
@@ -6480,14 +6222,14 @@
       "primaryLanguage": {
         "name": "JavaScript"
       },
-      "pushedAt": "2026-10-20T22:13:36Z",
-      "updatedAt": "2026-10-20T22:13:40Z",
+      "pushedAt": "2026-10-21T14:39:28Z",
+      "updatedAt": "2026-10-21T21:19:32Z",
       "createdAt": "2026-10-19T19:07:05Z",
       "defaultBranchRef": {
         "name": "main"
       },
       "homepageUrl": "https://harzva.github.io/awesome-bot/",
-      "stargazerCount": 0,
+      "stargazerCount": 1,
       "forkCount": 0,
       "repositoryTopics": [
         "ai-agents",
@@ -6684,13 +6426,13 @@
         "name": "Swift"
       },
       "pushedAt": "2026-06-26T08:56:22Z",
-      "updatedAt": "2026-09-13T09:50:21Z",
+      "updatedAt": "2026-10-22T02:39:26Z",
       "createdAt": "2026-06-19T02:26:19Z",
       "defaultBranchRef": {
         "name": "main"
       },
       "homepageUrl": "https://harzva.github.io/chatgpt2localbridge/",
-      "stargazerCount": 108,
+      "stargazerCount": 106,
       "forkCount": 2,
       "repositoryTopics": [
         "chatgpt",
@@ -7087,8 +6829,8 @@
       "primaryLanguage": {
         "name": "Python"
       },
-      "pushedAt": "2026-10-20T08:34:48Z",
-      "updatedAt": "2026-10-20T08:34:52Z",
+      "pushedAt": "2026-10-21T08:37:14Z",
+      "updatedAt": "2026-10-21T08:37:18Z",
       "createdAt": "2026-05-14T09:29:39Z",
       "defaultBranchRef": {
         "name": "main"
@@ -7121,8 +6863,8 @@
       "primaryLanguage": {
         "name": "Python"
       },
-      "pushedAt": "2026-10-20T08:32:32Z",
-      "updatedAt": "2026-10-20T08:32:37Z",
+      "pushedAt": "2026-10-21T08:34:21Z",
+      "updatedAt": "2026-10-21T08:34:26Z",
       "createdAt": "2026-05-14T09:27:13Z",
       "defaultBranchRef": {
         "name": "main"
@@ -7155,8 +6897,8 @@
       "primaryLanguage": {
         "name": "Python"
       },
-      "pushedAt": "2026-10-20T08:39:17Z",
-      "updatedAt": "2026-10-20T08:39:22Z",
+      "pushedAt": "2026-10-21T08:40:45Z",
+      "updatedAt": "2026-10-21T08:40:49Z",
       "createdAt": "2026-05-14T09:29:34Z",
       "defaultBranchRef": {
         "name": "main"
@@ -7189,8 +6931,8 @@
       "primaryLanguage": {
         "name": "Python"
       },
-      "pushedAt": "2026-10-20T08:32:32Z",
-      "updatedAt": "2026-10-20T08:32:37Z",
+      "pushedAt": "2026-10-21T08:34:41Z",
+      "updatedAt": "2026-10-21T08:34:45Z",
       "createdAt": "2026-05-14T09:29:45Z",
       "defaultBranchRef": {
         "name": "main"
@@ -7340,8 +7082,8 @@
       "primaryLanguage": {
         "name": "TypeScript"
       },
-      "pushedAt": "2026-10-21T05:04:46Z",
-      "updatedAt": "2026-10-21T05:04:51Z",
+      "pushedAt": "2026-10-22T05:07:15Z",
+      "updatedAt": "2026-10-22T05:07:19Z",
       "createdAt": "2026-04-01T03:55:26Z",
       "defaultBranchRef": {
         "name": "main"
@@ -7462,13 +7204,13 @@
         "name": "Dart"
       },
       "pushedAt": "2026-08-07T01:23:26Z",
-      "updatedAt": "2026-10-13T18:10:25Z",
+      "updatedAt": "2026-10-22T02:39:36Z",
       "createdAt": "2026-05-12T08:19:17Z",
       "defaultBranchRef": {
         "name": "main"
       },
       "homepageUrl": "",
-      "stargazerCount": 30,
+      "stargazerCount": 29,
       "forkCount": 2,
       "repositoryTopics": [],
       "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/mobilecode",
@@ -7508,7 +7250,7 @@
             "name": "mobilecode-v0.1.0.apk",
             "url": "https://github.com/Harzva/mobilecode/releases/download/v0.1.0/mobilecode-v0.1.0.apk",
             "size": 53051517,
-            "downloadCount": 112,
+            "downloadCount": 115,
             "contentType": "application/vnd.android.package-archive"
           }
         ]
@@ -7526,13 +7268,13 @@
         "name": "Kotlin"
       },
       "pushedAt": "2026-09-07T13:02:50Z",
-      "updatedAt": "2026-09-22T09:36:59Z",
+      "updatedAt": "2026-10-22T08:12:10Z",
       "createdAt": "2026-06-21T04:05:44Z",
       "defaultBranchRef": {
         "name": "main"
       },
       "homepageUrl": "",
-      "stargazerCount": 3,
+      "stargazerCount": 4,
       "forkCount": 1,
       "repositoryTopics": [
         "android",
@@ -7555,84 +7297,6 @@
         "httpsEnforced": true
       },
       "latestRelease": null
-    },
-    {
-      "name": "openbot",
-      "nameWithOwner": "Harzva/openbot",
-      "url": "https://github.com/Harzva/openbot",
-      "description": "OpenBot: persistent local bots, browser work screens and accountable task execution",
-      "isPrivate": false,
-      "isArchived": false,
-      "isFork": false,
-      "primaryLanguage": {
-        "name": "JavaScript"
-      },
-      "pushedAt": "2026-10-21T07:31:55Z",
-      "updatedAt": "2026-10-21T07:32:00Z",
-      "createdAt": "2026-10-18T02:04:10Z",
-      "defaultBranchRef": {
-        "name": "main"
-      },
-      "homepageUrl": "https://harzva.github.io/openbot/",
-      "stargazerCount": 2,
-      "forkCount": 0,
-      "repositoryTopics": [],
-      "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/openbot",
-      "pages": {
-        "enabled": true,
-        "url": "https://harzva.github.io/openbot/",
-        "status": null,
-        "source": {
-          "branch": "main",
-          "path": "/"
-        },
-        "httpsEnforced": true
-      },
-      "latestRelease": {
-        "name": "OpenBot v0.9.2",
-        "tagName": "v0.9.2",
-        "url": "https://github.com/Harzva/openbot/releases/tag/v0.9.2",
-        "publishedAt": "2026-10-19T08:20:37Z",
-        "prerelease": false,
-        "draft": false,
-        "assets": [
-          {
-            "name": "OpenBot-0.9.2-arm64.dmg",
-            "url": "https://github.com/Harzva/openbot/releases/download/v0.9.2/OpenBot-0.9.2-arm64.dmg",
-            "size": 161958242,
-            "downloadCount": 0,
-            "contentType": "application/x-apple-diskimage"
-          },
-          {
-            "name": "OpenBot-0.9.2-notes.md",
-            "url": "https://github.com/Harzva/openbot/releases/download/v0.9.2/OpenBot-0.9.2-notes.md",
-            "size": 1689,
-            "downloadCount": 0,
-            "contentType": "application/octet-stream"
-          },
-          {
-            "name": "OpenBot-0.9.2-SHA256SUMS.txt",
-            "url": "https://github.com/Harzva/openbot/releases/download/v0.9.2/OpenBot-0.9.2-SHA256SUMS.txt",
-            "size": 366,
-            "downloadCount": 0,
-            "contentType": "text/plain; charset=utf-8"
-          },
-          {
-            "name": "OpenBot-0.9.2-source.zip",
-            "url": "https://github.com/Harzva/openbot/releases/download/v0.9.2/OpenBot-0.9.2-source.zip",
-            "size": 4842530,
-            "downloadCount": 1,
-            "contentType": "application/zip"
-          },
-          {
-            "name": "OpenBot-0.9.2-validation.json",
-            "url": "https://github.com/Harzva/openbot/releases/download/v0.9.2/OpenBot-0.9.2-validation.json",
-            "size": 2746,
-            "downloadCount": 0,
-            "contentType": "application/json"
-          }
-        ]
-      }
     },
     {
       "name": "pami-skill-suites",
@@ -7843,14 +7507,14 @@
       "primaryLanguage": {
         "name": "JavaScript"
       },
-      "pushedAt": "2026-10-20T22:13:36Z",
-      "updatedAt": "2026-10-20T22:13:40Z",
+      "pushedAt": "2026-10-21T14:39:28Z",
+      "updatedAt": "2026-10-21T21:19:32Z",
       "createdAt": "2026-10-19T19:07:05Z",
       "defaultBranchRef": {
         "name": "main"
       },
       "homepageUrl": "https://harzva.github.io/awesome-bot/",
-      "stargazerCount": 0,
+      "stargazerCount": 1,
       "forkCount": 0,
       "repositoryTopics": [
         "ai-agents",
@@ -8036,7 +7700,7 @@
             "name": "dsh-agent-project-sync-0.1.0.tgz",
             "url": "https://github.com/Harzva/dsh-agent-project-sync/releases/download/v0.1.0/dsh-agent-project-sync-0.1.0.tgz",
             "size": 14057,
-            "downloadCount": 3507,
+            "downloadCount": 3604,
             "contentType": "application/x-gtar"
           }
         ]
@@ -8081,7 +7745,7 @@
             "name": "dsh-cli-store-0.3.0.tgz",
             "url": "https://github.com/Harzva/dsh-cli-store/releases/download/v0.3.0/dsh-cli-store-0.3.0.tgz",
             "size": 24798,
-            "downloadCount": 3323,
+            "downloadCount": 3419,
             "contentType": "application/x-gtar"
           }
         ]
@@ -8126,7 +7790,7 @@
             "name": "dsh-control-plane-0.1.0.tgz",
             "url": "https://github.com/Harzva/dsh-control-plane/releases/download/v0.1.0/dsh-control-plane-0.1.0.tgz",
             "size": 106806,
-            "downloadCount": 2652,
+            "downloadCount": 2748,
             "contentType": "application/x-gtar"
           }
         ]
@@ -8259,7 +7923,7 @@
             "name": "harness-flow-dsh-obsidian-0.1.0-alpha.0.tgz",
             "url": "https://github.com/Harzva/dsh-obsidian/releases/download/v0.1.0-alpha.0/harness-flow-dsh-obsidian-0.1.0-alpha.0.tgz",
             "size": 21393,
-            "downloadCount": 2996,
+            "downloadCount": 3091,
             "contentType": "application/x-gtar"
           }
         ]
@@ -8349,7 +8013,7 @@
             "name": "harness-flow-dsh-uvm-0.1.0-alpha.1.tgz",
             "url": "https://github.com/Harzva/dsh-uvm/releases/download/v0.1.0-alpha.1/harness-flow-dsh-uvm-0.1.0-alpha.1.tgz",
             "size": 21023,
-            "downloadCount": 3526,
+            "downloadCount": 3625,
             "contentType": "application/x-gtar"
           }
         ]
@@ -8589,8 +8253,8 @@
       "primaryLanguage": {
         "name": "TypeScript"
       },
-      "pushedAt": "2026-10-21T05:04:46Z",
-      "updatedAt": "2026-10-21T05:04:51Z",
+      "pushedAt": "2026-10-22T05:07:15Z",
+      "updatedAt": "2026-10-22T05:07:19Z",
       "createdAt": "2026-04-01T03:55:26Z",
       "defaultBranchRef": {
         "name": "main"
@@ -8643,13 +8307,13 @@
         "name": "Dart"
       },
       "pushedAt": "2026-08-07T01:23:26Z",
-      "updatedAt": "2026-10-13T18:10:25Z",
+      "updatedAt": "2026-10-22T02:39:36Z",
       "createdAt": "2026-05-12T08:19:17Z",
       "defaultBranchRef": {
         "name": "main"
       },
       "homepageUrl": "",
-      "stargazerCount": 30,
+      "stargazerCount": 29,
       "forkCount": 2,
       "repositoryTopics": [],
       "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/mobilecode",
@@ -8689,86 +8353,8 @@
             "name": "mobilecode-v0.1.0.apk",
             "url": "https://github.com/Harzva/mobilecode/releases/download/v0.1.0/mobilecode-v0.1.0.apk",
             "size": 53051517,
-            "downloadCount": 112,
+            "downloadCount": 115,
             "contentType": "application/vnd.android.package-archive"
-          }
-        ]
-      }
-    },
-    {
-      "name": "openbot",
-      "nameWithOwner": "Harzva/openbot",
-      "url": "https://github.com/Harzva/openbot",
-      "description": "OpenBot: persistent local bots, browser work screens and accountable task execution",
-      "isPrivate": false,
-      "isArchived": false,
-      "isFork": false,
-      "primaryLanguage": {
-        "name": "JavaScript"
-      },
-      "pushedAt": "2026-10-21T07:31:55Z",
-      "updatedAt": "2026-10-21T07:32:00Z",
-      "createdAt": "2026-10-18T02:04:10Z",
-      "defaultBranchRef": {
-        "name": "main"
-      },
-      "homepageUrl": "https://harzva.github.io/openbot/",
-      "stargazerCount": 2,
-      "forkCount": 0,
-      "repositoryTopics": [],
-      "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/openbot",
-      "pages": {
-        "enabled": true,
-        "url": "https://harzva.github.io/openbot/",
-        "status": null,
-        "source": {
-          "branch": "main",
-          "path": "/"
-        },
-        "httpsEnforced": true
-      },
-      "latestRelease": {
-        "name": "OpenBot v0.9.2",
-        "tagName": "v0.9.2",
-        "url": "https://github.com/Harzva/openbot/releases/tag/v0.9.2",
-        "publishedAt": "2026-10-19T08:20:37Z",
-        "prerelease": false,
-        "draft": false,
-        "assets": [
-          {
-            "name": "OpenBot-0.9.2-arm64.dmg",
-            "url": "https://github.com/Harzva/openbot/releases/download/v0.9.2/OpenBot-0.9.2-arm64.dmg",
-            "size": 161958242,
-            "downloadCount": 0,
-            "contentType": "application/x-apple-diskimage"
-          },
-          {
-            "name": "OpenBot-0.9.2-notes.md",
-            "url": "https://github.com/Harzva/openbot/releases/download/v0.9.2/OpenBot-0.9.2-notes.md",
-            "size": 1689,
-            "downloadCount": 0,
-            "contentType": "application/octet-stream"
-          },
-          {
-            "name": "OpenBot-0.9.2-SHA256SUMS.txt",
-            "url": "https://github.com/Harzva/openbot/releases/download/v0.9.2/OpenBot-0.9.2-SHA256SUMS.txt",
-            "size": 366,
-            "downloadCount": 0,
-            "contentType": "text/plain; charset=utf-8"
-          },
-          {
-            "name": "OpenBot-0.9.2-source.zip",
-            "url": "https://github.com/Harzva/openbot/releases/download/v0.9.2/OpenBot-0.9.2-source.zip",
-            "size": 4842530,
-            "downloadCount": 1,
-            "contentType": "application/zip"
-          },
-          {
-            "name": "OpenBot-0.9.2-validation.json",
-            "url": "https://github.com/Harzva/openbot/releases/download/v0.9.2/OpenBot-0.9.2-validation.json",
-            "size": 2746,
-            "downloadCount": 0,
-            "contentType": "application/json"
           }
         ]
       }
@@ -9059,13 +8645,13 @@
         "name": "Swift"
       },
       "pushedAt": "2026-06-26T08:56:22Z",
-      "updatedAt": "2026-09-13T09:50:21Z",
+      "updatedAt": "2026-10-22T02:39:26Z",
       "createdAt": "2026-06-19T02:26:19Z",
       "defaultBranchRef": {
         "name": "main"
       },
       "homepageUrl": "https://harzva.github.io/chatgpt2localbridge/",
-      "stargazerCount": 108,
+      "stargazerCount": 106,
       "forkCount": 2,
       "repositoryTopics": [
         "chatgpt",
@@ -9270,7 +8856,7 @@
             "name": "dsh-agent-project-sync-0.1.0.tgz",
             "url": "https://github.com/Harzva/dsh-agent-project-sync/releases/download/v0.1.0/dsh-agent-project-sync-0.1.0.tgz",
             "size": 14057,
-            "downloadCount": 3507,
+            "downloadCount": 3604,
             "contentType": "application/x-gtar"
           }
         ]
@@ -9315,7 +8901,7 @@
             "name": "dsh-cli-store-0.3.0.tgz",
             "url": "https://github.com/Harzva/dsh-cli-store/releases/download/v0.3.0/dsh-cli-store-0.3.0.tgz",
             "size": 24798,
-            "downloadCount": 3323,
+            "downloadCount": 3419,
             "contentType": "application/x-gtar"
           }
         ]
@@ -9360,7 +8946,7 @@
             "name": "dsh-control-plane-0.1.0.tgz",
             "url": "https://github.com/Harzva/dsh-control-plane/releases/download/v0.1.0/dsh-control-plane-0.1.0.tgz",
             "size": 106806,
-            "downloadCount": 2652,
+            "downloadCount": 2748,
             "contentType": "application/x-gtar"
           }
         ]
@@ -9529,7 +9115,7 @@
             "name": "harness-flow-dsh-obsidian-0.1.0-alpha.0.tgz",
             "url": "https://github.com/Harzva/dsh-obsidian/releases/download/v0.1.0-alpha.0/harness-flow-dsh-obsidian-0.1.0-alpha.0.tgz",
             "size": 21393,
-            "downloadCount": 2996,
+            "downloadCount": 3091,
             "contentType": "application/x-gtar"
           }
         ]
@@ -9818,7 +9404,7 @@
             "name": "harness-flow-dsh-uvm-0.1.0-alpha.1.tgz",
             "url": "https://github.com/Harzva/dsh-uvm/releases/download/v0.1.0-alpha.1/harness-flow-dsh-uvm-0.1.0-alpha.1.tgz",
             "size": 21023,
-            "downloadCount": 3526,
+            "downloadCount": 3625,
             "contentType": "application/x-gtar"
           }
         ]
@@ -10165,8 +9751,8 @@
       "primaryLanguage": {
         "name": "Python"
       },
-      "pushedAt": "2026-10-20T08:32:32Z",
-      "updatedAt": "2026-10-20T08:32:37Z",
+      "pushedAt": "2026-10-21T08:34:41Z",
+      "updatedAt": "2026-10-21T08:34:45Z",
       "createdAt": "2026-05-14T09:29:45Z",
       "defaultBranchRef": {
         "name": "main"
