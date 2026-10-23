@@ -366,7 +366,7 @@
           "name": "dsh-agent-project-sync-0.1.0.tgz",
           "url": "https://github.com/Harzva/dsh-agent-project-sync/releases/download/v0.1.0/dsh-agent-project-sync-0.1.0.tgz",
           "size": 14057,
-          "downloadCount": 3604,
+          "downloadCount": 3740,
           "contentType": "application/x-gtar"
         }
       ]
@@ -411,7 +411,7 @@
           "name": "dsh-cli-store-0.3.0.tgz",
           "url": "https://github.com/Harzva/dsh-cli-store/releases/download/v0.3.0/dsh-cli-store-0.3.0.tgz",
           "size": 24798,
-          "downloadCount": 3419,
+          "downloadCount": 3555,
           "contentType": "application/x-gtar"
         }
       ]
@@ -456,7 +456,7 @@
           "name": "dsh-control-plane-0.1.0.tgz",
           "url": "https://github.com/Harzva/dsh-control-plane/releases/download/v0.1.0/dsh-control-plane-0.1.0.tgz",
           "size": 106806,
-          "downloadCount": 2748,
+          "downloadCount": 2884,
           "contentType": "application/x-gtar"
         }
       ]
@@ -585,6 +585,33 @@
     }
   },
   {
+    "name": "dsh-magpie-openbot",
+    "nameWithOwner": "Harzva/dsh-magpie-openbot",
+    "url": "https://github.com/Harzva/dsh-magpie-openbot",
+    "description": "MIT OpenBot desktop host adapter for the upstream DSH Magpie plugin: local admission, model sync and human/agent settings.",
+    "isPrivate": false,
+    "isArchived": false,
+    "isFork": false,
+    "primaryLanguage": {
+      "name": "JavaScript"
+    },
+    "pushedAt": "2026-10-22T17:27:22Z",
+    "updatedAt": "2026-10-22T17:27:26Z",
+    "createdAt": "2026-10-22T16:28:59Z",
+    "defaultBranchRef": {
+      "name": "main"
+    },
+    "homepageUrl": "",
+    "stargazerCount": 0,
+    "forkCount": 0,
+    "repositoryTopics": [],
+    "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/dsh-magpie-openbot",
+    "pages": {
+      "enabled": false
+    },
+    "latestRelease": null
+  },
+  {
     "name": "dsh-obsidian",
     "nameWithOwner": "Harzva/dsh-obsidian",
     "url": "https://github.com/Harzva/dsh-obsidian",
@@ -625,7 +652,7 @@
           "name": "harness-flow-dsh-obsidian-0.1.0-alpha.0.tgz",
           "url": "https://github.com/Harzva/dsh-obsidian/releases/download/v0.1.0-alpha.0/harness-flow-dsh-obsidian-0.1.0-alpha.0.tgz",
           "size": 21393,
-          "downloadCount": 3091,
+          "downloadCount": 3229,
           "contentType": "application/x-gtar"
         }
       ]
@@ -914,7 +941,7 @@
           "name": "harness-flow-dsh-uvm-0.1.0-alpha.1.tgz",
           "url": "https://github.com/Harzva/dsh-uvm/releases/download/v0.1.0-alpha.1/harness-flow-dsh-uvm-0.1.0-alpha.1.tgz",
           "size": 21023,
-          "downloadCount": 3625,
+          "downloadCount": 3767,
           "contentType": "application/x-gtar"
         }
       ]
@@ -1261,8 +1288,8 @@
     "primaryLanguage": {
       "name": "Python"
     },
-    "pushedAt": "2026-10-21T08:34:41Z",
-    "updatedAt": "2026-10-21T08:34:45Z",
+    "pushedAt": "2026-10-22T08:36:42Z",
+    "updatedAt": "2026-10-22T08:36:45Z",
     "createdAt": "2026-05-14T09:29:45Z",
     "defaultBranchRef": {
       "name": "main"

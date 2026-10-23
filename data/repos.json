@@ -89,8 +89,8 @@
     "primaryLanguage": {
       "name": "TypeScript"
     },
-    "pushedAt": "2026-10-21T18:02:26Z",
-    "updatedAt": "2026-10-21T18:02:31Z",
+    "pushedAt": "2026-10-23T06:02:10Z",
+    "updatedAt": "2026-10-23T06:02:14Z",
     "createdAt": "2026-05-12T09:49:47Z",
     "defaultBranchRef": {
       "name": "main"
@@ -1105,7 +1105,7 @@
           "name": "dsh-agent-project-sync-0.1.0.tgz",
           "url": "https://github.com/Harzva/dsh-agent-project-sync/releases/download/v0.1.0/dsh-agent-project-sync-0.1.0.tgz",
           "size": 14057,
-          "downloadCount": 3604,
+          "downloadCount": 3740,
           "contentType": "application/x-gtar"
         }
       ]
@@ -1150,7 +1150,7 @@
           "name": "dsh-cli-store-0.3.0.tgz",
           "url": "https://github.com/Harzva/dsh-cli-store/releases/download/v0.3.0/dsh-cli-store-0.3.0.tgz",
           "size": 24798,
-          "downloadCount": 3419,
+          "downloadCount": 3555,
           "contentType": "application/x-gtar"
         }
       ]
@@ -1195,8 +1195,65 @@
           "name": "dsh-control-plane-0.1.0.tgz",
           "url": "https://github.com/Harzva/dsh-control-plane/releases/download/v0.1.0/dsh-control-plane-0.1.0.tgz",
           "size": 106806,
-          "downloadCount": 2748,
+          "downloadCount": 2884,
           "contentType": "application/x-gtar"
+        }
+      ]
+    }
+  },
+  {
+    "name": "dsh-desktop-capture",
+    "nameWithOwner": "Harzva/dsh-desktop-capture",
+    "url": "https://github.com/Harzva/dsh-desktop-capture",
+    "description": "Optional DSH desktop screenshots and recordings with system audio and microphone for macOS",
+    "isPrivate": false,
+    "isArchived": false,
+    "isFork": false,
+    "primaryLanguage": {
+      "name": "JavaScript"
+    },
+    "pushedAt": "2026-10-22T22:00:40Z",
+    "updatedAt": "2026-10-22T21:58:17Z",
+    "createdAt": "2026-10-22T12:37:25Z",
+    "defaultBranchRef": {
+      "name": "main"
+    },
+    "homepageUrl": "",
+    "stargazerCount": 0,
+    "forkCount": 0,
+    "repositoryTopics": [],
+    "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/dsh-desktop-capture",
+    "pages": {
+      "enabled": false
+    },
+    "latestRelease": {
+      "name": "Desktop Capture 0.2.0 — approved application demonstrations",
+      "tagName": "v0.2.0",
+      "url": "https://github.com/Harzva/dsh-desktop-capture/releases/tag/v0.2.0",
+      "publishedAt": "2026-10-22T22:00:40Z",
+      "prerelease": false,
+      "draft": false,
+      "assets": [
+        {
+          "name": "openbot-dsh-desktop-capture-0.2.0.tgz",
+          "url": "https://github.com/Harzva/dsh-desktop-capture/releases/download/v0.2.0/openbot-dsh-desktop-capture-0.2.0.tgz",
+          "size": 225317,
+          "downloadCount": 6,
+          "contentType": "application/x-gtar"
+        },
+        {
+          "name": "release.json",
+          "url": "https://github.com/Harzva/dsh-desktop-capture/releases/download/v0.2.0/release.json",
+          "size": 806,
+          "downloadCount": 1,
+          "contentType": "application/json"
+        },
+        {
+          "name": "SHA256SUMS",
+          "url": "https://github.com/Harzva/dsh-desktop-capture/releases/download/v0.2.0/SHA256SUMS",
+          "size": 183,
+          "downloadCount": 0,
+          "contentType": "application/octet-stream"
         }
       ]
     }
@@ -1351,6 +1408,33 @@
     }
   },
   {
+    "name": "dsh-magpie-openbot",
+    "nameWithOwner": "Harzva/dsh-magpie-openbot",
+    "url": "https://github.com/Harzva/dsh-magpie-openbot",
+    "description": "MIT OpenBot desktop host adapter for the upstream DSH Magpie plugin: local admission, model sync and human/agent settings.",
+    "isPrivate": false,
+    "isArchived": false,
+    "isFork": false,
+    "primaryLanguage": {
+      "name": "JavaScript"
+    },
+    "pushedAt": "2026-10-22T17:27:22Z",
+    "updatedAt": "2026-10-22T17:27:26Z",
+    "createdAt": "2026-10-22T16:28:59Z",
+    "defaultBranchRef": {
+      "name": "main"
+    },
+    "homepageUrl": "",
+    "stargazerCount": 0,
+    "forkCount": 0,
+    "repositoryTopics": [],
+    "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/dsh-magpie-openbot",
+    "pages": {
+      "enabled": false
+    },
+    "latestRelease": null
+  },
+  {
     "name": "dsh-obsidian",
     "nameWithOwner": "Harzva/dsh-obsidian",
     "url": "https://github.com/Harzva/dsh-obsidian",
@@ -1391,7 +1475,7 @@
           "name": "harness-flow-dsh-obsidian-0.1.0-alpha.0.tgz",
           "url": "https://github.com/Harzva/dsh-obsidian/releases/download/v0.1.0-alpha.0/harness-flow-dsh-obsidian-0.1.0-alpha.0.tgz",
           "size": 21393,
-          "downloadCount": 3091,
+          "downloadCount": 3229,
           "contentType": "application/x-gtar"
         }
       ]
@@ -1680,7 +1764,7 @@
           "name": "harness-flow-dsh-uvm-0.1.0-alpha.1.tgz",
           "url": "https://github.com/Harzva/dsh-uvm/releases/download/v0.1.0-alpha.1/harness-flow-dsh-uvm-0.1.0-alpha.1.tgz",
           "size": 21023,
-          "downloadCount": 3625,
+          "downloadCount": 3767,
           "contentType": "application/x-gtar"
         }
       ]
@@ -2389,8 +2473,8 @@
     "primaryLanguage": {
       "name": "Python"
     },
-    "pushedAt": "2026-10-21T08:37:14Z",
-    "updatedAt": "2026-10-21T08:37:18Z",
+    "pushedAt": "2026-10-22T08:39:51Z",
+    "updatedAt": "2026-10-22T08:39:55Z",
     "createdAt": "2026-05-14T09:29:39Z",
     "defaultBranchRef": {
       "name": "main"
@@ -2423,8 +2507,8 @@
     "primaryLanguage": {
       "name": "Python"
     },
-    "pushedAt": "2026-10-21T08:34:21Z",
-    "updatedAt": "2026-10-21T08:34:26Z",
+    "pushedAt": "2026-10-22T08:36:50Z",
+    "updatedAt": "2026-10-22T08:36:54Z",
     "createdAt": "2026-05-14T09:27:13Z",
     "defaultBranchRef": {
       "name": "main"
@@ -2457,8 +2541,8 @@
     "primaryLanguage": {
       "name": "Python"
     },
-    "pushedAt": "2026-10-21T08:40:45Z",
-    "updatedAt": "2026-10-21T08:40:49Z",
+    "pushedAt": "2026-10-22T08:43:17Z",
+    "updatedAt": "2026-10-22T08:43:21Z",
     "createdAt": "2026-05-14T09:29:34Z",
     "defaultBranchRef": {
       "name": "main"
@@ -2491,8 +2575,8 @@
     "primaryLanguage": {
       "name": "Python"
     },
-    "pushedAt": "2026-10-21T08:34:41Z",
-    "updatedAt": "2026-10-21T08:34:45Z",
+    "pushedAt": "2026-10-22T08:36:42Z",
+    "updatedAt": "2026-10-22T08:36:45Z",
     "createdAt": "2026-05-14T09:29:45Z",
     "defaultBranchRef": {
       "name": "main"
@@ -2735,8 +2819,8 @@
     "primaryLanguage": {
       "name": "TypeScript"
     },
-    "pushedAt": "2026-10-22T05:07:15Z",
-    "updatedAt": "2026-10-22T05:07:19Z",
+    "pushedAt": "2026-10-23T05:07:02Z",
+    "updatedAt": "2026-10-23T05:07:06Z",
     "createdAt": "2026-04-01T03:55:26Z",
     "defaultBranchRef": {
       "name": "main"

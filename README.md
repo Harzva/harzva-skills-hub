@@ -6,7 +6,7 @@ A registry of Harzva Codex skills, workflow skills, and agent operating recipes.
 
 [Live Skill Board](https://harzva.github.io/harzva-skills-hub/) | [Project Atlas](https://github.com/Harzva/harzva-project-atlas)
 
-![Skills](https://img.shields.io/badge/skills-49-6B8E23?style=for-the-badge) ![Auto Update](https://img.shields.io/badge/update-daily-111111?style=for-the-badge)
+![Skills](https://img.shields.io/badge/skills-50-6B8E23?style=for-the-badge) ![Auto Update](https://img.shields.io/badge/update-daily-111111?style=for-the-badge)
 
 </div>
 
@@ -14,7 +14,8 @@ A registry of Harzva Codex skills, workflow skills, and agent operating recipes.
 
 | Skill Repository | Language | Updated | Description |
 |---|---:|---:|---|
-| [harzva-skills-hub](https://github.com/Harzva/harzva-skills-hub) | Python | 2026-10-21 | Auto-updating GitHub Pages registry of Harzva Codex skills, workflow skills, and agent recipes. |
+| [dsh-magpie-openbot](https://github.com/Harzva/dsh-magpie-openbot) | JavaScript | 2026-10-22 | MIT OpenBot desktop host adapter for the upstream DSH Magpie plugin: local admission, model sync and human/agent settings. |
+| [harzva-skills-hub](https://github.com/Harzva/harzva-skills-hub) | Python | 2026-10-22 | Auto-updating GitHub Pages registry of Harzva Codex skills, workflow skills, and agent recipes. |
 | [codexhome-manager](https://github.com/Harzva/codexhome-manager) | Rust | 2026-10-14 | Manage multiple CODEX_HOME directories as isolated Skill Spaces and specialized Agent Households. |
 | [dsh-wemedia-workbench](https://github.com/Harzva/dsh-wemedia-workbench) | TypeScript | 2026-09-14 | Local-first media workbench for DeepSeek Harness: AI-assisted workflows, revision-bound reviews, native approvals and persistent jobs. |
 | [awesome-dsh-plugin](https://github.com/Harzva/awesome-dsh-plugin) | Python | 2026-09-12 | A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件精选列表 |
@@ -80,5 +81,5 @@ This MetaRepo refreshes itself with GitHub Actions.
 - Data source: GitHub REST API.
 - Privacy default: public repositories only.
 - Private mode: set `META_INCLUDE_PRIVATE=true` and provide `META_GITHUB_TOKEN` only when the meta repository is private.
-- Generated at: `2026-10-22T08:36:41.006206+00:00`.
+- Generated at: `2026-10-23T08:33:09.917371+00:00`.
 - Private repositories omitted from this public output: `13`.
