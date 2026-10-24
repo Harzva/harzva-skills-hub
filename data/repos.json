@@ -89,8 +89,8 @@
     "primaryLanguage": {
       "name": "TypeScript"
     },
-    "pushedAt": "2026-10-23T06:02:10Z",
-    "updatedAt": "2026-10-23T06:02:14Z",
+    "pushedAt": "2026-10-24T05:53:55Z",
+    "updatedAt": "2026-10-24T05:53:58Z",
     "createdAt": "2026-05-12T09:49:47Z",
     "defaultBranchRef": {
       "name": "main"
@@ -1105,7 +1105,7 @@
           "name": "dsh-agent-project-sync-0.1.0.tgz",
           "url": "https://github.com/Harzva/dsh-agent-project-sync/releases/download/v0.1.0/dsh-agent-project-sync-0.1.0.tgz",
           "size": 14057,
-          "downloadCount": 3740,
+          "downloadCount": 3831,
           "contentType": "application/x-gtar"
         }
       ]
@@ -1150,7 +1150,7 @@
           "name": "dsh-cli-store-0.3.0.tgz",
           "url": "https://github.com/Harzva/dsh-cli-store/releases/download/v0.3.0/dsh-cli-store-0.3.0.tgz",
           "size": 24798,
-          "downloadCount": 3555,
+          "downloadCount": 3646,
           "contentType": "application/x-gtar"
         }
       ]
@@ -1195,7 +1195,7 @@
           "name": "dsh-control-plane-0.1.0.tgz",
           "url": "https://github.com/Harzva/dsh-control-plane/releases/download/v0.1.0/dsh-control-plane-0.1.0.tgz",
           "size": 106806,
-          "downloadCount": 2884,
+          "downloadCount": 2975,
           "contentType": "application/x-gtar"
         }
       ]
@@ -1212,8 +1212,8 @@
     "primaryLanguage": {
       "name": "JavaScript"
     },
-    "pushedAt": "2026-10-22T22:00:40Z",
-    "updatedAt": "2026-10-22T21:58:17Z",
+    "pushedAt": "2026-10-24T06:38:20Z",
+    "updatedAt": "2026-10-24T06:38:18Z",
     "createdAt": "2026-10-22T12:37:25Z",
     "defaultBranchRef": {
       "name": "main"
@@ -1227,31 +1227,31 @@
       "enabled": false
     },
     "latestRelease": {
-      "name": "Desktop Capture 0.2.0 — approved application demonstrations",
-      "tagName": "v0.2.0",
-      "url": "https://github.com/Harzva/dsh-desktop-capture/releases/tag/v0.2.0",
-      "publishedAt": "2026-10-22T22:00:40Z",
+      "name": "Desktop Capture 0.2.2 — system audio and recording fixes",
+      "tagName": "v0.2.2",
+      "url": "https://github.com/Harzva/dsh-desktop-capture/releases/tag/v0.2.2",
+      "publishedAt": "2026-10-24T06:38:20Z",
       "prerelease": false,
       "draft": false,
       "assets": [
         {
-          "name": "openbot-dsh-desktop-capture-0.2.0.tgz",
-          "url": "https://github.com/Harzva/dsh-desktop-capture/releases/download/v0.2.0/openbot-dsh-desktop-capture-0.2.0.tgz",
-          "size": 225317,
-          "downloadCount": 6,
+          "name": "openbot-dsh-desktop-capture-0.2.2.tgz",
+          "url": "https://github.com/Harzva/dsh-desktop-capture/releases/download/v0.2.2/openbot-dsh-desktop-capture-0.2.2.tgz",
+          "size": 250707,
+          "downloadCount": 1,
           "contentType": "application/x-gtar"
         },
         {
           "name": "release.json",
-          "url": "https://github.com/Harzva/dsh-desktop-capture/releases/download/v0.2.0/release.json",
+          "url": "https://github.com/Harzva/dsh-desktop-capture/releases/download/v0.2.2/release.json",
           "size": 806,
-          "downloadCount": 1,
+          "downloadCount": 0,
           "contentType": "application/json"
         },
         {
           "name": "SHA256SUMS",
-          "url": "https://github.com/Harzva/dsh-desktop-capture/releases/download/v0.2.0/SHA256SUMS",
-          "size": 183,
+          "url": "https://github.com/Harzva/dsh-desktop-capture/releases/download/v0.2.2/SHA256SUMS",
+          "size": 104,
           "downloadCount": 0,
           "contentType": "application/octet-stream"
         }
@@ -1475,7 +1475,7 @@
           "name": "harness-flow-dsh-obsidian-0.1.0-alpha.0.tgz",
           "url": "https://github.com/Harzva/dsh-obsidian/releases/download/v0.1.0-alpha.0/harness-flow-dsh-obsidian-0.1.0-alpha.0.tgz",
           "size": 21393,
-          "downloadCount": 3229,
+          "downloadCount": 3324,
           "contentType": "application/x-gtar"
         }
       ]
@@ -1764,7 +1764,7 @@
           "name": "harness-flow-dsh-uvm-0.1.0-alpha.1.tgz",
           "url": "https://github.com/Harzva/dsh-uvm/releases/download/v0.1.0-alpha.1/harness-flow-dsh-uvm-0.1.0-alpha.1.tgz",
           "size": 21023,
-          "downloadCount": 3767,
+          "downloadCount": 3858,
           "contentType": "application/x-gtar"
         }
       ]
@@ -2473,8 +2473,8 @@
     "primaryLanguage": {
       "name": "Python"
     },
-    "pushedAt": "2026-10-22T08:39:51Z",
-    "updatedAt": "2026-10-22T08:39:55Z",
+    "pushedAt": "2026-10-23T08:35:09Z",
+    "updatedAt": "2026-10-23T08:35:14Z",
     "createdAt": "2026-05-14T09:29:39Z",
     "defaultBranchRef": {
       "name": "main"
@@ -2507,8 +2507,8 @@
     "primaryLanguage": {
       "name": "Python"
     },
-    "pushedAt": "2026-10-22T08:36:50Z",
-    "updatedAt": "2026-10-22T08:36:54Z",
+    "pushedAt": "2026-10-23T08:32:50Z",
+    "updatedAt": "2026-10-23T08:32:54Z",
     "createdAt": "2026-05-14T09:27:13Z",
     "defaultBranchRef": {
       "name": "main"
@@ -2541,8 +2541,8 @@
     "primaryLanguage": {
       "name": "Python"
     },
-    "pushedAt": "2026-10-22T08:43:17Z",
-    "updatedAt": "2026-10-22T08:43:21Z",
+    "pushedAt": "2026-10-23T08:38:28Z",
+    "updatedAt": "2026-10-23T08:38:32Z",
     "createdAt": "2026-05-14T09:29:34Z",
     "defaultBranchRef": {
       "name": "main"
@@ -2575,8 +2575,8 @@
     "primaryLanguage": {
       "name": "Python"
     },
-    "pushedAt": "2026-10-22T08:36:42Z",
-    "updatedAt": "2026-10-22T08:36:45Z",
+    "pushedAt": "2026-10-23T08:33:11Z",
+    "updatedAt": "2026-10-23T08:33:14Z",
     "createdAt": "2026-05-14T09:29:45Z",
     "defaultBranchRef": {
       "name": "main"
@@ -2819,8 +2819,8 @@
     "primaryLanguage": {
       "name": "TypeScript"
     },
-    "pushedAt": "2026-10-23T05:07:02Z",
-    "updatedAt": "2026-10-23T05:07:06Z",
+    "pushedAt": "2026-10-24T04:50:56Z",
+    "updatedAt": "2026-10-24T04:50:59Z",
     "createdAt": "2026-04-01T03:55:26Z",
     "defaultBranchRef": {
       "name": "main"
@@ -3526,7 +3526,7 @@
           "name": "RepoAtlas-v0.6.6-windows-x64.exe",
           "url": "https://github.com/Harzva/RepoAtlas/releases/download/v0.6.6/RepoAtlas-v0.6.6-windows-x64.exe",
           "size": 1945088,
-          "downloadCount": 5,
+          "downloadCount": 6,
           "contentType": "application/x-msdos-program"
         }
       ]
