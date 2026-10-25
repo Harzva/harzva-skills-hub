@@ -366,7 +366,7 @@
           "name": "dsh-agent-project-sync-0.1.0.tgz",
           "url": "https://github.com/Harzva/dsh-agent-project-sync/releases/download/v0.1.0/dsh-agent-project-sync-0.1.0.tgz",
           "size": 14057,
-          "downloadCount": 3831,
+          "downloadCount": 3928,
           "contentType": "application/x-gtar"
         }
       ]
@@ -411,7 +411,7 @@
           "name": "dsh-cli-store-0.3.0.tgz",
           "url": "https://github.com/Harzva/dsh-cli-store/releases/download/v0.3.0/dsh-cli-store-0.3.0.tgz",
           "size": 24798,
-          "downloadCount": 3646,
+          "downloadCount": 3743,
           "contentType": "application/x-gtar"
         }
       ]
@@ -456,7 +456,7 @@
           "name": "dsh-control-plane-0.1.0.tgz",
           "url": "https://github.com/Harzva/dsh-control-plane/releases/download/v0.1.0/dsh-control-plane-0.1.0.tgz",
           "size": 106806,
-          "downloadCount": 2975,
+          "downloadCount": 3072,
           "contentType": "application/x-gtar"
         }
       ]
@@ -652,7 +652,7 @@
           "name": "harness-flow-dsh-obsidian-0.1.0-alpha.0.tgz",
           "url": "https://github.com/Harzva/dsh-obsidian/releases/download/v0.1.0-alpha.0/harness-flow-dsh-obsidian-0.1.0-alpha.0.tgz",
           "size": 21393,
-          "downloadCount": 3324,
+          "downloadCount": 3420,
           "contentType": "application/x-gtar"
         }
       ]
@@ -941,7 +941,7 @@
           "name": "harness-flow-dsh-uvm-0.1.0-alpha.1.tgz",
           "url": "https://github.com/Harzva/dsh-uvm/releases/download/v0.1.0-alpha.1/harness-flow-dsh-uvm-0.1.0-alpha.1.tgz",
           "size": 21023,
-          "downloadCount": 3858,
+          "downloadCount": 3956,
           "contentType": "application/x-gtar"
         }
       ]
@@ -1288,8 +1288,8 @@
     "primaryLanguage": {
       "name": "Python"
     },
-    "pushedAt": "2026-10-23T08:33:11Z",
-    "updatedAt": "2026-10-23T08:33:14Z",
+    "pushedAt": "2026-10-24T08:08:07Z",
+    "updatedAt": "2026-10-24T08:08:10Z",
     "createdAt": "2026-05-14T09:29:45Z",
     "defaultBranchRef": {
       "name": "main"
@@ -1367,6 +1367,33 @@
         "path": "/"
       },
       "httpsEnforced": true
+    },
+    "latestRelease": null
+  },
+  {
+    "name": "model-routing",
+    "nameWithOwner": "Harzva/model-routing",
+    "url": "https://github.com/Harzva/model-routing",
+    "description": "Portable Codex model-routing skill with an optional CXF consultation adapter, private receipts, and Chinese setup guide.",
+    "isPrivate": false,
+    "isArchived": false,
+    "isFork": false,
+    "primaryLanguage": {
+      "name": "JavaScript"
+    },
+    "pushedAt": "2026-10-24T11:12:41Z",
+    "updatedAt": "2026-10-24T11:10:19Z",
+    "createdAt": "2026-10-24T11:10:07Z",
+    "defaultBranchRef": {
+      "name": "main"
+    },
+    "homepageUrl": "",
+    "stargazerCount": 0,
+    "forkCount": 0,
+    "repositoryTopics": [],
+    "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/model-routing",
+    "pages": {
+      "enabled": false
     },
     "latestRelease": null
   },
