@@ -155,13 +155,13 @@
       "name": "Swift"
     },
     "pushedAt": "2026-06-26T08:56:22Z",
-    "updatedAt": "2026-10-22T02:39:26Z",
+    "updatedAt": "2026-10-26T08:48:39Z",
     "createdAt": "2026-06-19T02:26:19Z",
     "defaultBranchRef": {
       "name": "main"
     },
     "homepageUrl": "https://harzva.github.io/chatgpt2localbridge/",
-    "stargazerCount": 106,
+    "stargazerCount": 107,
     "forkCount": 2,
     "repositoryTopics": [
       "chatgpt",
@@ -366,7 +366,7 @@
           "name": "dsh-agent-project-sync-0.1.0.tgz",
           "url": "https://github.com/Harzva/dsh-agent-project-sync/releases/download/v0.1.0/dsh-agent-project-sync-0.1.0.tgz",
           "size": 14057,
-          "downloadCount": 3928,
+          "downloadCount": 3970,
           "contentType": "application/x-gtar"
         }
       ]
@@ -411,7 +411,7 @@
           "name": "dsh-cli-store-0.3.0.tgz",
           "url": "https://github.com/Harzva/dsh-cli-store/releases/download/v0.3.0/dsh-cli-store-0.3.0.tgz",
           "size": 24798,
-          "downloadCount": 3743,
+          "downloadCount": 3785,
           "contentType": "application/x-gtar"
         }
       ]
@@ -456,7 +456,7 @@
           "name": "dsh-control-plane-0.1.0.tgz",
           "url": "https://github.com/Harzva/dsh-control-plane/releases/download/v0.1.0/dsh-control-plane-0.1.0.tgz",
           "size": 106806,
-          "downloadCount": 3072,
+          "downloadCount": 3114,
           "contentType": "application/x-gtar"
         }
       ]
@@ -652,7 +652,7 @@
           "name": "harness-flow-dsh-obsidian-0.1.0-alpha.0.tgz",
           "url": "https://github.com/Harzva/dsh-obsidian/releases/download/v0.1.0-alpha.0/harness-flow-dsh-obsidian-0.1.0-alpha.0.tgz",
           "size": 21393,
-          "downloadCount": 3420,
+          "downloadCount": 3462,
           "contentType": "application/x-gtar"
         }
       ]
@@ -858,7 +858,7 @@
           "name": "harzva-dsh-session-folders-0.1.0.tgz",
           "url": "https://github.com/Harzva/dsh-session-folders/releases/download/v0.1.0/harzva-dsh-session-folders-0.1.0.tgz",
           "size": 5503,
-          "downloadCount": 8,
+          "downloadCount": 11,
           "contentType": "application/x-gtar"
         }
       ]
@@ -941,7 +941,7 @@
           "name": "harness-flow-dsh-uvm-0.1.0-alpha.1.tgz",
           "url": "https://github.com/Harzva/dsh-uvm/releases/download/v0.1.0-alpha.1/harness-flow-dsh-uvm-0.1.0-alpha.1.tgz",
           "size": 21023,
-          "downloadCount": 3956,
+          "downloadCount": 3999,
           "contentType": "application/x-gtar"
         }
       ]
@@ -1288,8 +1288,8 @@
     "primaryLanguage": {
       "name": "Python"
     },
-    "pushedAt": "2026-10-24T08:08:07Z",
-    "updatedAt": "2026-10-24T08:08:10Z",
+    "pushedAt": "2026-10-25T08:25:28Z",
+    "updatedAt": "2026-10-25T08:25:32Z",
     "createdAt": "2026-05-14T09:29:45Z",
     "defaultBranchRef": {
       "name": "main"

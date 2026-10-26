@@ -1,14 +1,14 @@
 {
   "summary": {
-    "generatedAt": "2026-10-25T08:25:27.491234+00:00",
+    "generatedAt": "2026-10-26T08:55:32.469556+00:00",
     "owner": "Harzva",
     "mode": "skills",
-    "publicRepositories": 151,
+    "publicRepositories": 152,
     "forks": 46,
     "pages": 32,
-    "releases": 19,
+    "releases": 20,
     "skills": 51,
-    "artifacts": 40,
+    "artifacts": 42,
     "privateOmitted": 13
   },
   "categories": {
@@ -565,59 +565,6 @@
     ],
     "Pages and Live Demos": [
       {
-        "name": "learn-likecc",
-        "nameWithOwner": "Harzva/learn-likecc",
-        "url": "https://github.com/Harzva/learn-likecc",
-        "description": "Claude Code 源码逆向恢复项目 | Source Map 逆向 · 架构分析 · 可运行版本 | 1900+ 文件 · 51万行代码 · 12章节课程",
-        "isPrivate": false,
-        "isArchived": false,
-        "isFork": false,
-        "primaryLanguage": {
-          "name": "TypeScript"
-        },
-        "pushedAt": "2026-10-25T05:00:56Z",
-        "updatedAt": "2026-10-25T05:01:00Z",
-        "createdAt": "2026-04-01T03:55:26Z",
-        "defaultBranchRef": {
-          "name": "main"
-        },
-        "homepageUrl": "",
-        "stargazerCount": 54,
-        "forkCount": 8,
-        "repositoryTopics": [
-          "agent-loop",
-          "ai-coding",
-          "anthropic",
-          "bun",
-          "claude-code",
-          "cli-tool",
-          "mcp-protocol",
-          "reverse-engineering",
-          "source-map",
-          "typescript"
-        ],
-        "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/learn-likecc",
-        "pages": {
-          "enabled": true,
-          "url": "https://harzva.github.io/learn-likecc/",
-          "status": "built",
-          "source": {
-            "branch": "main",
-            "path": "/docs"
-          },
-          "httpsEnforced": true
-        },
-        "latestRelease": {
-          "name": "v1.0.2-likecode",
-          "tagName": "v1.0.2-likecode",
-          "url": "https://github.com/Harzva/learn-likecc/releases/tag/v1.0.2-likecode",
-          "publishedAt": "2026-04-07T12:27:48Z",
-          "prerelease": false,
-          "draft": false,
-          "assets": []
-        }
-      },
-      {
         "name": "awesome-bot",
         "nameWithOwner": "Harzva/awesome-bot",
         "url": "https://github.com/Harzva/awesome-bot",
@@ -628,8 +575,8 @@
         "primaryLanguage": {
           "name": "JavaScript"
         },
-        "pushedAt": "2026-10-25T01:23:11Z",
-        "updatedAt": "2026-10-25T01:23:15Z",
+        "pushedAt": "2026-10-26T07:46:14Z",
+        "updatedAt": "2026-10-26T07:46:19Z",
         "createdAt": "2026-10-19T19:07:05Z",
         "defaultBranchRef": {
           "name": "main"
@@ -747,8 +694,8 @@
         "primaryLanguage": {
           "name": "TypeScript"
         },
-        "pushedAt": "2026-10-24T16:34:58Z",
-        "updatedAt": "2026-10-24T16:35:01Z",
+        "pushedAt": "2026-10-26T06:13:18Z",
+        "updatedAt": "2026-10-26T06:13:22Z",
         "createdAt": "2026-05-12T09:49:47Z",
         "defaultBranchRef": {
           "name": "main"
@@ -771,6 +718,59 @@
         "latestRelease": null
       },
       {
+        "name": "learn-likecc",
+        "nameWithOwner": "Harzva/learn-likecc",
+        "url": "https://github.com/Harzva/learn-likecc",
+        "description": "Claude Code 源码逆向恢复项目 | Source Map 逆向 · 架构分析 · 可运行版本 | 1900+ 文件 · 51万行代码 · 12章节课程",
+        "isPrivate": false,
+        "isArchived": false,
+        "isFork": false,
+        "primaryLanguage": {
+          "name": "TypeScript"
+        },
+        "pushedAt": "2026-10-26T05:04:28Z",
+        "updatedAt": "2026-10-26T07:26:06Z",
+        "createdAt": "2026-04-01T03:55:26Z",
+        "defaultBranchRef": {
+          "name": "main"
+        },
+        "homepageUrl": "",
+        "stargazerCount": 55,
+        "forkCount": 8,
+        "repositoryTopics": [
+          "agent-loop",
+          "ai-coding",
+          "anthropic",
+          "bun",
+          "claude-code",
+          "cli-tool",
+          "mcp-protocol",
+          "reverse-engineering",
+          "source-map",
+          "typescript"
+        ],
+        "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/learn-likecc",
+        "pages": {
+          "enabled": true,
+          "url": "https://harzva.github.io/learn-likecc/",
+          "status": "built",
+          "source": {
+            "branch": "main",
+            "path": "/docs"
+          },
+          "httpsEnforced": true
+        },
+        "latestRelease": {
+          "name": "v1.0.2-likecode",
+          "tagName": "v1.0.2-likecode",
+          "url": "https://github.com/Harzva/learn-likecc/releases/tag/v1.0.2-likecode",
+          "publishedAt": "2026-04-07T12:27:48Z",
+          "prerelease": false,
+          "draft": false,
+          "assets": []
+        }
+      },
+      {
         "name": "harzva-release-hub",
         "nameWithOwner": "Harzva/harzva-release-hub",
         "url": "https://github.com/Harzva/harzva-release-hub",
@@ -781,8 +781,8 @@
         "primaryLanguage": {
           "name": "Python"
         },
-        "pushedAt": "2026-10-24T08:13:22Z",
-        "updatedAt": "2026-10-24T08:13:25Z",
+        "pushedAt": "2026-10-25T08:31:38Z",
+        "updatedAt": "2026-10-25T08:31:41Z",
         "createdAt": "2026-05-14T09:29:34Z",
         "defaultBranchRef": {
           "name": "main"
@@ -815,8 +815,8 @@
         "primaryLanguage": {
           "name": "Python"
         },
-        "pushedAt": "2026-10-24T08:10:01Z",
-        "updatedAt": "2026-10-24T08:10:06Z",
+        "pushedAt": "2026-10-25T08:28:05Z",
+        "updatedAt": "2026-10-25T08:28:10Z",
         "createdAt": "2026-05-14T09:29:39Z",
         "defaultBranchRef": {
           "name": "main"
@@ -849,8 +849,8 @@
         "primaryLanguage": {
           "name": "Python"
         },
-        "pushedAt": "2026-10-24T08:08:07Z",
-        "updatedAt": "2026-10-24T08:08:11Z",
+        "pushedAt": "2026-10-25T08:25:25Z",
+        "updatedAt": "2026-10-25T08:25:29Z",
         "createdAt": "2026-05-14T09:27:13Z",
         "defaultBranchRef": {
           "name": "main"
@@ -1570,6 +1570,56 @@
     ],
     "Release-ready Apps and Tools": [
       {
+        "name": "dsh-wechat-usechat",
+        "nameWithOwner": "Harzva/dsh-wechat-usechat",
+        "url": "https://github.com/Harzva/dsh-wechat-usechat",
+        "description": "Opt-in DSH WeChat tools through UseChat: diagnosis, visible chat reading and approved text sends",
+        "isPrivate": false,
+        "isArchived": false,
+        "isFork": false,
+        "primaryLanguage": {
+          "name": "JavaScript"
+        },
+        "pushedAt": "2026-10-26T07:41:35Z",
+        "updatedAt": "2026-10-26T07:39:34Z",
+        "createdAt": "2026-10-26T07:39:23Z",
+        "defaultBranchRef": {
+          "name": "main"
+        },
+        "homepageUrl": "",
+        "stargazerCount": 0,
+        "forkCount": 0,
+        "repositoryTopics": [],
+        "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/dsh-wechat-usechat",
+        "pages": {
+          "enabled": false
+        },
+        "latestRelease": {
+          "name": "DSH WeChat via UseChat 0.1.0",
+          "tagName": "v0.1.0",
+          "url": "https://github.com/Harzva/dsh-wechat-usechat/releases/tag/v0.1.0",
+          "publishedAt": "2026-10-26T07:41:36Z",
+          "prerelease": false,
+          "draft": false,
+          "assets": [
+            {
+              "name": "harzva-dsh-wechat-usechat-0.1.0.tgz",
+              "url": "https://github.com/Harzva/dsh-wechat-usechat/releases/download/v0.1.0/harzva-dsh-wechat-usechat-0.1.0.tgz",
+              "size": 9893,
+              "downloadCount": 1,
+              "contentType": "application/x-gtar"
+            },
+            {
+              "name": "SHA256SUMS",
+              "url": "https://github.com/Harzva/dsh-wechat-usechat/releases/download/v0.1.0/SHA256SUMS",
+              "size": 102,
+              "downloadCount": 0,
+              "contentType": "application/octet-stream"
+            }
+          ]
+        }
+      },
+      {
         "name": "dsh-desktop-capture",
         "nameWithOwner": "Harzva/dsh-desktop-capture",
         "url": "https://github.com/Harzva/dsh-desktop-capture",
@@ -1620,7 +1670,7 @@
               "name": "openbot-dsh-desktop-capture-0.3.1.tgz",
               "url": "https://github.com/Harzva/dsh-desktop-capture/releases/download/v0.3.1/openbot-dsh-desktop-capture-0.3.1.tgz",
               "size": 222838,
-              "downloadCount": 4,
+              "downloadCount": 5,
               "contentType": "application/x-gtar"
             },
             {
@@ -1634,7 +1684,7 @@
               "name": "openbot-dsh-superterminal-0.2.1.tgz",
               "url": "https://github.com/Harzva/dsh-desktop-capture/releases/download/v0.3.1/openbot-dsh-superterminal-0.2.1.tgz",
               "size": 2339,
-              "downloadCount": 4,
+              "downloadCount": 5,
               "contentType": "application/x-gtar"
             },
             {
@@ -1693,6 +1743,40 @@
     ],
     "Skills and Agent Workflows": [
       {
+        "name": "harzva-skills-hub",
+        "nameWithOwner": "Harzva/harzva-skills-hub",
+        "url": "https://github.com/Harzva/harzva-skills-hub",
+        "description": "Auto-updating GitHub Pages registry of Harzva Codex skills, workflow skills, and agent recipes.",
+        "isPrivate": false,
+        "isArchived": false,
+        "isFork": false,
+        "primaryLanguage": {
+          "name": "Python"
+        },
+        "pushedAt": "2026-10-25T08:25:28Z",
+        "updatedAt": "2026-10-25T08:25:32Z",
+        "createdAt": "2026-05-14T09:29:45Z",
+        "defaultBranchRef": {
+          "name": "main"
+        },
+        "homepageUrl": "https://harzva.github.io/harzva-skills-hub/",
+        "stargazerCount": 0,
+        "forkCount": 0,
+        "repositoryTopics": [],
+        "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/harzva-skills-hub",
+        "pages": {
+          "enabled": true,
+          "url": "https://harzva.github.io/harzva-skills-hub/",
+          "status": null,
+          "source": {
+            "branch": "main",
+            "path": "/"
+          },
+          "httpsEnforced": true
+        },
+        "latestRelease": null
+      },
+      {
         "name": "model-routing",
         "nameWithOwner": "Harzva/model-routing",
         "url": "https://github.com/Harzva/model-routing",
@@ -1716,40 +1800,6 @@
         "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/model-routing",
         "pages": {
           "enabled": false
-        },
-        "latestRelease": null
-      },
-      {
-        "name": "harzva-skills-hub",
-        "nameWithOwner": "Harzva/harzva-skills-hub",
-        "url": "https://github.com/Harzva/harzva-skills-hub",
-        "description": "Auto-updating GitHub Pages registry of Harzva Codex skills, workflow skills, and agent recipes.",
-        "isPrivate": false,
-        "isArchived": false,
-        "isFork": false,
-        "primaryLanguage": {
-          "name": "Python"
-        },
-        "pushedAt": "2026-10-24T08:08:07Z",
-        "updatedAt": "2026-10-24T08:08:10Z",
-        "createdAt": "2026-05-14T09:29:45Z",
-        "defaultBranchRef": {
-          "name": "main"
-        },
-        "homepageUrl": "https://harzva.github.io/harzva-skills-hub/",
-        "stargazerCount": 0,
-        "forkCount": 0,
-        "repositoryTopics": [],
-        "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/harzva-skills-hub",
-        "pages": {
-          "enabled": true,
-          "url": "https://harzva.github.io/harzva-skills-hub/",
-          "status": null,
-          "source": {
-            "branch": "main",
-            "path": "/"
-          },
-          "httpsEnforced": true
         },
         "latestRelease": null
       },
@@ -1955,7 +2005,7 @@
               "name": "harzva-dsh-session-folders-0.1.0.tgz",
               "url": "https://github.com/Harzva/dsh-session-folders/releases/download/v0.1.0/harzva-dsh-session-folders-0.1.0.tgz",
               "size": 5503,
-              "downloadCount": 8,
+              "downloadCount": 11,
               "contentType": "application/x-gtar"
             }
           ]
@@ -2114,7 +2164,7 @@
               "name": "dsh-cli-store-0.3.0.tgz",
               "url": "https://github.com/Harzva/dsh-cli-store/releases/download/v0.3.0/dsh-cli-store-0.3.0.tgz",
               "size": 24798,
-              "downloadCount": 3743,
+              "downloadCount": 3785,
               "contentType": "application/x-gtar"
             }
           ]
@@ -2162,7 +2212,7 @@
               "name": "dsh-agent-project-sync-0.1.0.tgz",
               "url": "https://github.com/Harzva/dsh-agent-project-sync/releases/download/v0.1.0/dsh-agent-project-sync-0.1.0.tgz",
               "size": 14057,
-              "downloadCount": 3928,
+              "downloadCount": 3970,
               "contentType": "application/x-gtar"
             }
           ]
@@ -2252,7 +2302,7 @@
               "name": "dsh-control-plane-0.1.0.tgz",
               "url": "https://github.com/Harzva/dsh-control-plane/releases/download/v0.1.0/dsh-control-plane-0.1.0.tgz",
               "size": 106806,
-              "downloadCount": 3072,
+              "downloadCount": 3114,
               "contentType": "application/x-gtar"
             }
           ]
@@ -2373,7 +2423,7 @@
               "name": "harness-flow-dsh-uvm-0.1.0-alpha.1.tgz",
               "url": "https://github.com/Harzva/dsh-uvm/releases/download/v0.1.0-alpha.1/harness-flow-dsh-uvm-0.1.0-alpha.1.tgz",
               "size": 21023,
-              "downloadCount": 3956,
+              "downloadCount": 3999,
               "contentType": "application/x-gtar"
             }
           ]
@@ -2420,7 +2470,7 @@
               "name": "harness-flow-dsh-obsidian-0.1.0-alpha.0.tgz",
               "url": "https://github.com/Harzva/dsh-obsidian/releases/download/v0.1.0-alpha.0/harness-flow-dsh-obsidian-0.1.0-alpha.0.tgz",
               "size": 21393,
-              "downloadCount": 3420,
+              "downloadCount": 3462,
               "contentType": "application/x-gtar"
             }
           ]
@@ -2625,13 +2675,13 @@
           "name": "Swift"
         },
         "pushedAt": "2026-06-26T08:56:22Z",
-        "updatedAt": "2026-10-22T02:39:26Z",
+        "updatedAt": "2026-10-26T08:48:39Z",
         "createdAt": "2026-06-19T02:26:19Z",
         "defaultBranchRef": {
           "name": "main"
         },
         "homepageUrl": "https://harzva.github.io/chatgpt2localbridge/",
-        "stargazerCount": 106,
+        "stargazerCount": 107,
         "forkCount": 2,
         "repositoryTopics": [
           "chatgpt",
@@ -5167,7 +5217,7 @@
       "assetName": "dsh-agent-project-sync-0.1.0.tgz",
       "assetUrl": "https://github.com/Harzva/dsh-agent-project-sync/releases/download/v0.1.0/dsh-agent-project-sync-0.1.0.tgz",
       "size": 14057,
-      "downloadCount": 3928,
+      "downloadCount": 3970,
       "kind": "Archive",
       "functionCategory": "AI Agent Systems",
       "releaseName": "dsh-agent-project-sync v0.1.0",
@@ -5257,7 +5307,7 @@
       "assetName": "dsh-cli-store-0.3.0.tgz",
       "assetUrl": "https://github.com/Harzva/dsh-cli-store/releases/download/v0.3.0/dsh-cli-store-0.3.0.tgz",
       "size": 24798,
-      "downloadCount": 3743,
+      "downloadCount": 3785,
       "kind": "Archive",
       "functionCategory": "CLI and Infrastructure",
       "releaseName": "dsh-cli-store v0.3.0",
@@ -5329,7 +5379,7 @@
       "assetName": "openbot-dsh-desktop-capture-0.3.1.tgz",
       "assetUrl": "https://github.com/Harzva/dsh-desktop-capture/releases/download/v0.3.1/openbot-dsh-desktop-capture-0.3.1.tgz",
       "size": 222838,
-      "downloadCount": 4,
+      "downloadCount": 5,
       "kind": "Archive",
       "functionCategory": "Desktop Apps",
       "releaseName": "Host API 1: Capture 0.3.1 + SuperTerminal 0.2.1",
@@ -5365,7 +5415,7 @@
       "assetName": "openbot-dsh-superterminal-0.2.1.tgz",
       "assetUrl": "https://github.com/Harzva/dsh-desktop-capture/releases/download/v0.3.1/openbot-dsh-superterminal-0.2.1.tgz",
       "size": 2339,
-      "downloadCount": 4,
+      "downloadCount": 5,
       "kind": "Archive",
       "functionCategory": "Desktop Apps",
       "releaseName": "Host API 1: Capture 0.3.1 + SuperTerminal 0.2.1",
@@ -5491,7 +5541,7 @@
       "assetName": "dsh-control-plane-0.1.0.tgz",
       "assetUrl": "https://github.com/Harzva/dsh-control-plane/releases/download/v0.1.0/dsh-control-plane-0.1.0.tgz",
       "size": 106806,
-      "downloadCount": 3072,
+      "downloadCount": 3114,
       "kind": "Archive",
       "functionCategory": "General Utilities",
       "releaseName": "dsh-control-plane v0.1.0",
@@ -5527,7 +5577,7 @@
       "assetName": "harzva-dsh-session-folders-0.1.0.tgz",
       "assetUrl": "https://github.com/Harzva/dsh-session-folders/releases/download/v0.1.0/harzva-dsh-session-folders-0.1.0.tgz",
       "size": 5503,
-      "downloadCount": 8,
+      "downloadCount": 11,
       "kind": "Archive",
       "functionCategory": "General Utilities",
       "releaseName": "dsh-session-folders v0.1.0",
@@ -5545,7 +5595,7 @@
       "assetName": "harness-flow-dsh-uvm-0.1.0-alpha.1.tgz",
       "assetUrl": "https://github.com/Harzva/dsh-uvm/releases/download/v0.1.0-alpha.1/harness-flow-dsh-uvm-0.1.0-alpha.1.tgz",
       "size": 21023,
-      "downloadCount": 3956,
+      "downloadCount": 3999,
       "kind": "Archive",
       "functionCategory": "General Utilities",
       "releaseName": "dsh-uvm v0.1.0-alpha.1",
@@ -5573,6 +5623,42 @@
       "isFork": false
     },
     {
+      "repo": "Harzva/dsh-wechat-usechat",
+      "repoName": "dsh-wechat-usechat",
+      "repoUrl": "https://github.com/Harzva/dsh-wechat-usechat",
+      "description": "Opt-in DSH WeChat tools through UseChat: diagnosis, visible chat reading and approved text sends",
+      "language": "JavaScript",
+      "assetName": "harzva-dsh-wechat-usechat-0.1.0.tgz",
+      "assetUrl": "https://github.com/Harzva/dsh-wechat-usechat/releases/download/v0.1.0/harzva-dsh-wechat-usechat-0.1.0.tgz",
+      "size": 9893,
+      "downloadCount": 1,
+      "kind": "Archive",
+      "functionCategory": "General Utilities",
+      "releaseName": "DSH WeChat via UseChat 0.1.0",
+      "tagName": "v0.1.0",
+      "releaseUrl": "https://github.com/Harzva/dsh-wechat-usechat/releases/tag/v0.1.0",
+      "publishedAt": "2026-10-26T07:41:36Z",
+      "isFork": false
+    },
+    {
+      "repo": "Harzva/dsh-wechat-usechat",
+      "repoName": "dsh-wechat-usechat",
+      "repoUrl": "https://github.com/Harzva/dsh-wechat-usechat",
+      "description": "Opt-in DSH WeChat tools through UseChat: diagnosis, visible chat reading and approved text sends",
+      "language": "JavaScript",
+      "assetName": "SHA256SUMS",
+      "assetUrl": "https://github.com/Harzva/dsh-wechat-usechat/releases/download/v0.1.0/SHA256SUMS",
+      "size": 102,
+      "downloadCount": 0,
+      "kind": "Release Asset",
+      "functionCategory": "General Utilities",
+      "releaseName": "DSH WeChat via UseChat 0.1.0",
+      "tagName": "v0.1.0",
+      "releaseUrl": "https://github.com/Harzva/dsh-wechat-usechat/releases/tag/v0.1.0",
+      "publishedAt": "2026-10-26T07:41:36Z",
+      "isFork": false
+    },
+    {
       "repo": "Harzva/dsh-obsidian",
       "repoName": "dsh-obsidian",
       "repoUrl": "https://github.com/Harzva/dsh-obsidian",
@@ -5581,7 +5667,7 @@
       "assetName": "harness-flow-dsh-obsidian-0.1.0-alpha.0.tgz",
       "assetUrl": "https://github.com/Harzva/dsh-obsidian/releases/download/v0.1.0-alpha.0/harness-flow-dsh-obsidian-0.1.0-alpha.0.tgz",
       "size": 21393,
-      "downloadCount": 3420,
+      "downloadCount": 3462,
       "kind": "Archive",
       "functionCategory": "Learning and Knowledge",
       "releaseName": "dsh-obsidian v0.1.0-alpha.0",
@@ -5820,7 +5906,7 @@
         "assetName": "openbot-dsh-desktop-capture-0.3.1.tgz",
         "assetUrl": "https://github.com/Harzva/dsh-desktop-capture/releases/download/v0.3.1/openbot-dsh-desktop-capture-0.3.1.tgz",
         "size": 222838,
-        "downloadCount": 4,
+        "downloadCount": 5,
         "kind": "Archive",
         "functionCategory": "Desktop Apps",
         "releaseName": "Host API 1: Capture 0.3.1 + SuperTerminal 0.2.1",
@@ -5856,7 +5942,7 @@
         "assetName": "openbot-dsh-superterminal-0.2.1.tgz",
         "assetUrl": "https://github.com/Harzva/dsh-desktop-capture/releases/download/v0.3.1/openbot-dsh-superterminal-0.2.1.tgz",
         "size": 2339,
-        "downloadCount": 4,
+        "downloadCount": 5,
         "kind": "Archive",
         "functionCategory": "Desktop Apps",
         "releaseName": "Host API 1: Capture 0.3.1 + SuperTerminal 0.2.1",
@@ -5984,7 +6070,7 @@
         "assetName": "dsh-cli-store-0.3.0.tgz",
         "assetUrl": "https://github.com/Harzva/dsh-cli-store/releases/download/v0.3.0/dsh-cli-store-0.3.0.tgz",
         "size": 24798,
-        "downloadCount": 3743,
+        "downloadCount": 3785,
         "kind": "Archive",
         "functionCategory": "CLI and Infrastructure",
         "releaseName": "dsh-cli-store v0.3.0",
@@ -6202,7 +6288,7 @@
         "assetName": "dsh-agent-project-sync-0.1.0.tgz",
         "assetUrl": "https://github.com/Harzva/dsh-agent-project-sync/releases/download/v0.1.0/dsh-agent-project-sync-0.1.0.tgz",
         "size": 14057,
-        "downloadCount": 3928,
+        "downloadCount": 3970,
         "kind": "Archive",
         "functionCategory": "AI Agent Systems",
         "releaseName": "dsh-agent-project-sync v0.1.0",
@@ -6312,7 +6398,7 @@
         "assetName": "harness-flow-dsh-obsidian-0.1.0-alpha.0.tgz",
         "assetUrl": "https://github.com/Harzva/dsh-obsidian/releases/download/v0.1.0-alpha.0/harness-flow-dsh-obsidian-0.1.0-alpha.0.tgz",
         "size": 21393,
-        "downloadCount": 3420,
+        "downloadCount": 3462,
         "kind": "Archive",
         "functionCategory": "Learning and Knowledge",
         "releaseName": "dsh-obsidian v0.1.0-alpha.0",
@@ -6324,6 +6410,42 @@
     ],
     "General Utilities": [
       {
+        "repo": "Harzva/dsh-wechat-usechat",
+        "repoName": "dsh-wechat-usechat",
+        "repoUrl": "https://github.com/Harzva/dsh-wechat-usechat",
+        "description": "Opt-in DSH WeChat tools through UseChat: diagnosis, visible chat reading and approved text sends",
+        "language": "JavaScript",
+        "assetName": "harzva-dsh-wechat-usechat-0.1.0.tgz",
+        "assetUrl": "https://github.com/Harzva/dsh-wechat-usechat/releases/download/v0.1.0/harzva-dsh-wechat-usechat-0.1.0.tgz",
+        "size": 9893,
+        "downloadCount": 1,
+        "kind": "Archive",
+        "functionCategory": "General Utilities",
+        "releaseName": "DSH WeChat via UseChat 0.1.0",
+        "tagName": "v0.1.0",
+        "releaseUrl": "https://github.com/Harzva/dsh-wechat-usechat/releases/tag/v0.1.0",
+        "publishedAt": "2026-10-26T07:41:36Z",
+        "isFork": false
+      },
+      {
+        "repo": "Harzva/dsh-wechat-usechat",
+        "repoName": "dsh-wechat-usechat",
+        "repoUrl": "https://github.com/Harzva/dsh-wechat-usechat",
+        "description": "Opt-in DSH WeChat tools through UseChat: diagnosis, visible chat reading and approved text sends",
+        "language": "JavaScript",
+        "assetName": "SHA256SUMS",
+        "assetUrl": "https://github.com/Harzva/dsh-wechat-usechat/releases/download/v0.1.0/SHA256SUMS",
+        "size": 102,
+        "downloadCount": 0,
+        "kind": "Release Asset",
+        "functionCategory": "General Utilities",
+        "releaseName": "DSH WeChat via UseChat 0.1.0",
+        "tagName": "v0.1.0",
+        "releaseUrl": "https://github.com/Harzva/dsh-wechat-usechat/releases/tag/v0.1.0",
+        "publishedAt": "2026-10-26T07:41:36Z",
+        "isFork": false
+      },
+      {
         "repo": "Harzva/dsh-session-folders",
         "repoName": "dsh-session-folders",
         "repoUrl": "https://github.com/Harzva/dsh-session-folders",
@@ -6332,7 +6454,7 @@
         "assetName": "harzva-dsh-session-folders-0.1.0.tgz",
         "assetUrl": "https://github.com/Harzva/dsh-session-folders/releases/download/v0.1.0/harzva-dsh-session-folders-0.1.0.tgz",
         "size": 5503,
-        "downloadCount": 8,
+        "downloadCount": 11,
         "kind": "Archive",
         "functionCategory": "General Utilities",
         "releaseName": "dsh-session-folders v0.1.0",
@@ -6368,7 +6490,7 @@
         "assetName": "dsh-control-plane-0.1.0.tgz",
         "assetUrl": "https://github.com/Harzva/dsh-control-plane/releases/download/v0.1.0/dsh-control-plane-0.1.0.tgz",
         "size": 106806,
-        "downloadCount": 3072,
+        "downloadCount": 3114,
         "kind": "Archive",
         "functionCategory": "General Utilities",
         "releaseName": "dsh-control-plane v0.1.0",
@@ -6404,7 +6526,7 @@
         "assetName": "harness-flow-dsh-uvm-0.1.0-alpha.1.tgz",
         "assetUrl": "https://github.com/Harzva/dsh-uvm/releases/download/v0.1.0-alpha.1/harness-flow-dsh-uvm-0.1.0-alpha.1.tgz",
         "size": 21023,
-        "downloadCount": 3956,
+        "downloadCount": 3999,
         "kind": "Archive",
         "functionCategory": "General Utilities",
         "releaseName": "dsh-uvm v0.1.0-alpha.1",
@@ -6427,8 +6549,8 @@
       "primaryLanguage": {
         "name": "TypeScript"
       },
-      "pushedAt": "2026-10-24T16:34:58Z",
-      "updatedAt": "2026-10-24T16:35:01Z",
+      "pushedAt": "2026-10-26T06:13:18Z",
+      "updatedAt": "2026-10-26T06:13:22Z",
       "createdAt": "2026-05-12T09:49:47Z",
       "defaultBranchRef": {
         "name": "main"
@@ -6570,8 +6692,8 @@
       "primaryLanguage": {
         "name": "JavaScript"
       },
-      "pushedAt": "2026-10-25T01:23:11Z",
-      "updatedAt": "2026-10-25T01:23:15Z",
+      "pushedAt": "2026-10-26T07:46:14Z",
+      "updatedAt": "2026-10-26T07:46:19Z",
       "createdAt": "2026-10-19T19:07:05Z",
       "defaultBranchRef": {
         "name": "main"
@@ -6774,13 +6896,13 @@
         "name": "Swift"
       },
       "pushedAt": "2026-06-26T08:56:22Z",
-      "updatedAt": "2026-10-22T02:39:26Z",
+      "updatedAt": "2026-10-26T08:48:39Z",
       "createdAt": "2026-06-19T02:26:19Z",
       "defaultBranchRef": {
         "name": "main"
       },
       "homepageUrl": "https://harzva.github.io/chatgpt2localbridge/",
-      "stargazerCount": 106,
+      "stargazerCount": 107,
       "forkCount": 2,
       "repositoryTopics": [
         "chatgpt",
@@ -7177,8 +7299,8 @@
       "primaryLanguage": {
         "name": "Python"
       },
-      "pushedAt": "2026-10-24T08:10:01Z",
-      "updatedAt": "2026-10-24T08:10:06Z",
+      "pushedAt": "2026-10-25T08:28:05Z",
+      "updatedAt": "2026-10-25T08:28:10Z",
       "createdAt": "2026-05-14T09:29:39Z",
       "defaultBranchRef": {
         "name": "main"
@@ -7211,8 +7333,8 @@
       "primaryLanguage": {
         "name": "Python"
       },
-      "pushedAt": "2026-10-24T08:08:07Z",
-      "updatedAt": "2026-10-24T08:08:11Z",
+      "pushedAt": "2026-10-25T08:25:25Z",
+      "updatedAt": "2026-10-25T08:25:29Z",
       "createdAt": "2026-05-14T09:27:13Z",
       "defaultBranchRef": {
         "name": "main"
@@ -7245,8 +7367,8 @@
       "primaryLanguage": {
         "name": "Python"
       },
-      "pushedAt": "2026-10-24T08:13:22Z",
-      "updatedAt": "2026-10-24T08:13:25Z",
+      "pushedAt": "2026-10-25T08:31:38Z",
+      "updatedAt": "2026-10-25T08:31:41Z",
       "createdAt": "2026-05-14T09:29:34Z",
       "defaultBranchRef": {
         "name": "main"
@@ -7279,8 +7401,8 @@
       "primaryLanguage": {
         "name": "Python"
       },
-      "pushedAt": "2026-10-24T08:08:07Z",
-      "updatedAt": "2026-10-24T08:08:10Z",
+      "pushedAt": "2026-10-25T08:25:28Z",
+      "updatedAt": "2026-10-25T08:25:32Z",
       "createdAt": "2026-05-14T09:29:45Z",
       "defaultBranchRef": {
         "name": "main"
@@ -7430,14 +7552,14 @@
       "primaryLanguage": {
         "name": "TypeScript"
       },
-      "pushedAt": "2026-10-25T05:00:56Z",
-      "updatedAt": "2026-10-25T05:01:00Z",
+      "pushedAt": "2026-10-26T05:04:28Z",
+      "updatedAt": "2026-10-26T07:26:06Z",
       "createdAt": "2026-04-01T03:55:26Z",
       "defaultBranchRef": {
         "name": "main"
       },
       "homepageUrl": "",
-      "stargazerCount": 54,
+      "stargazerCount": 55,
       "forkCount": 8,
       "repositoryTopics": [
         "agent-loop",
@@ -7855,8 +7977,8 @@
       "primaryLanguage": {
         "name": "JavaScript"
       },
-      "pushedAt": "2026-10-25T01:23:11Z",
-      "updatedAt": "2026-10-25T01:23:15Z",
+      "pushedAt": "2026-10-26T07:46:14Z",
+      "updatedAt": "2026-10-26T07:46:19Z",
       "createdAt": "2026-10-19T19:07:05Z",
       "defaultBranchRef": {
         "name": "main"
@@ -8048,7 +8170,7 @@
             "name": "dsh-agent-project-sync-0.1.0.tgz",
             "url": "https://github.com/Harzva/dsh-agent-project-sync/releases/download/v0.1.0/dsh-agent-project-sync-0.1.0.tgz",
             "size": 14057,
-            "downloadCount": 3928,
+            "downloadCount": 3970,
             "contentType": "application/x-gtar"
           }
         ]
@@ -8093,7 +8215,7 @@
             "name": "dsh-cli-store-0.3.0.tgz",
             "url": "https://github.com/Harzva/dsh-cli-store/releases/download/v0.3.0/dsh-cli-store-0.3.0.tgz",
             "size": 24798,
-            "downloadCount": 3743,
+            "downloadCount": 3785,
             "contentType": "application/x-gtar"
           }
         ]
@@ -8138,7 +8260,7 @@
             "name": "dsh-control-plane-0.1.0.tgz",
             "url": "https://github.com/Harzva/dsh-control-plane/releases/download/v0.1.0/dsh-control-plane-0.1.0.tgz",
             "size": 106806,
-            "downloadCount": 3072,
+            "downloadCount": 3114,
             "contentType": "application/x-gtar"
           }
         ]
@@ -8195,7 +8317,7 @@
             "name": "openbot-dsh-desktop-capture-0.3.1.tgz",
             "url": "https://github.com/Harzva/dsh-desktop-capture/releases/download/v0.3.1/openbot-dsh-desktop-capture-0.3.1.tgz",
             "size": 222838,
-            "downloadCount": 4,
+            "downloadCount": 5,
             "contentType": "application/x-gtar"
           },
           {
@@ -8209,7 +8331,7 @@
             "name": "openbot-dsh-superterminal-0.2.1.tgz",
             "url": "https://github.com/Harzva/dsh-desktop-capture/releases/download/v0.3.1/openbot-dsh-superterminal-0.2.1.tgz",
             "size": 2339,
-            "downloadCount": 4,
+            "downloadCount": 5,
             "contentType": "application/x-gtar"
           },
           {
@@ -8349,7 +8471,7 @@
             "name": "harness-flow-dsh-obsidian-0.1.0-alpha.0.tgz",
             "url": "https://github.com/Harzva/dsh-obsidian/releases/download/v0.1.0-alpha.0/harness-flow-dsh-obsidian-0.1.0-alpha.0.tgz",
             "size": 21393,
-            "downloadCount": 3420,
+            "downloadCount": 3462,
             "contentType": "application/x-gtar"
           }
         ]
@@ -8394,7 +8516,7 @@
             "name": "harzva-dsh-session-folders-0.1.0.tgz",
             "url": "https://github.com/Harzva/dsh-session-folders/releases/download/v0.1.0/harzva-dsh-session-folders-0.1.0.tgz",
             "size": 5503,
-            "downloadCount": 8,
+            "downloadCount": 11,
             "contentType": "application/x-gtar"
           }
         ]
@@ -8439,7 +8561,7 @@
             "name": "harness-flow-dsh-uvm-0.1.0-alpha.1.tgz",
             "url": "https://github.com/Harzva/dsh-uvm/releases/download/v0.1.0-alpha.1/harness-flow-dsh-uvm-0.1.0-alpha.1.tgz",
             "size": 21023,
-            "downloadCount": 3956,
+            "downloadCount": 3999,
             "contentType": "application/x-gtar"
           }
         ]
@@ -8486,6 +8608,56 @@
             "size": 47395,
             "downloadCount": 8,
             "contentType": "application/x-gtar"
+          }
+        ]
+      }
+    },
+    {
+      "name": "dsh-wechat-usechat",
+      "nameWithOwner": "Harzva/dsh-wechat-usechat",
+      "url": "https://github.com/Harzva/dsh-wechat-usechat",
+      "description": "Opt-in DSH WeChat tools through UseChat: diagnosis, visible chat reading and approved text sends",
+      "isPrivate": false,
+      "isArchived": false,
+      "isFork": false,
+      "primaryLanguage": {
+        "name": "JavaScript"
+      },
+      "pushedAt": "2026-10-26T07:41:35Z",
+      "updatedAt": "2026-10-26T07:39:34Z",
+      "createdAt": "2026-10-26T07:39:23Z",
+      "defaultBranchRef": {
+        "name": "main"
+      },
+      "homepageUrl": "",
+      "stargazerCount": 0,
+      "forkCount": 0,
+      "repositoryTopics": [],
+      "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/dsh-wechat-usechat",
+      "pages": {
+        "enabled": false
+      },
+      "latestRelease": {
+        "name": "DSH WeChat via UseChat 0.1.0",
+        "tagName": "v0.1.0",
+        "url": "https://github.com/Harzva/dsh-wechat-usechat/releases/tag/v0.1.0",
+        "publishedAt": "2026-10-26T07:41:36Z",
+        "prerelease": false,
+        "draft": false,
+        "assets": [
+          {
+            "name": "harzva-dsh-wechat-usechat-0.1.0.tgz",
+            "url": "https://github.com/Harzva/dsh-wechat-usechat/releases/download/v0.1.0/harzva-dsh-wechat-usechat-0.1.0.tgz",
+            "size": 9893,
+            "downloadCount": 1,
+            "contentType": "application/x-gtar"
+          },
+          {
+            "name": "SHA256SUMS",
+            "url": "https://github.com/Harzva/dsh-wechat-usechat/releases/download/v0.1.0/SHA256SUMS",
+            "size": 102,
+            "downloadCount": 0,
+            "contentType": "application/octet-stream"
           }
         ]
       }
@@ -8679,14 +8851,14 @@
       "primaryLanguage": {
         "name": "TypeScript"
       },
-      "pushedAt": "2026-10-25T05:00:56Z",
-      "updatedAt": "2026-10-25T05:01:00Z",
+      "pushedAt": "2026-10-26T05:04:28Z",
+      "updatedAt": "2026-10-26T07:26:06Z",
       "createdAt": "2026-04-01T03:55:26Z",
       "defaultBranchRef": {
         "name": "main"
       },
       "homepageUrl": "",
-      "stargazerCount": 54,
+      "stargazerCount": 55,
       "forkCount": 8,
       "repositoryTopics": [
         "agent-loop",
@@ -9071,13 +9243,13 @@
         "name": "Swift"
       },
       "pushedAt": "2026-06-26T08:56:22Z",
-      "updatedAt": "2026-10-22T02:39:26Z",
+      "updatedAt": "2026-10-26T08:48:39Z",
       "createdAt": "2026-06-19T02:26:19Z",
       "defaultBranchRef": {
         "name": "main"
       },
       "homepageUrl": "https://harzva.github.io/chatgpt2localbridge/",
-      "stargazerCount": 106,
+      "stargazerCount": 107,
       "forkCount": 2,
       "repositoryTopics": [
         "chatgpt",
@@ -9282,7 +9454,7 @@
             "name": "dsh-agent-project-sync-0.1.0.tgz",
             "url": "https://github.com/Harzva/dsh-agent-project-sync/releases/download/v0.1.0/dsh-agent-project-sync-0.1.0.tgz",
             "size": 14057,
-            "downloadCount": 3928,
+            "downloadCount": 3970,
             "contentType": "application/x-gtar"
           }
         ]
@@ -9327,7 +9499,7 @@
             "name": "dsh-cli-store-0.3.0.tgz",
             "url": "https://github.com/Harzva/dsh-cli-store/releases/download/v0.3.0/dsh-cli-store-0.3.0.tgz",
             "size": 24798,
-            "downloadCount": 3743,
+            "downloadCount": 3785,
             "contentType": "application/x-gtar"
           }
         ]
@@ -9372,7 +9544,7 @@
             "name": "dsh-control-plane-0.1.0.tgz",
             "url": "https://github.com/Harzva/dsh-control-plane/releases/download/v0.1.0/dsh-control-plane-0.1.0.tgz",
             "size": 106806,
-            "downloadCount": 3072,
+            "downloadCount": 3114,
             "contentType": "application/x-gtar"
           }
         ]
@@ -9568,7 +9740,7 @@
             "name": "harness-flow-dsh-obsidian-0.1.0-alpha.0.tgz",
             "url": "https://github.com/Harzva/dsh-obsidian/releases/download/v0.1.0-alpha.0/harness-flow-dsh-obsidian-0.1.0-alpha.0.tgz",
             "size": 21393,
-            "downloadCount": 3420,
+            "downloadCount": 3462,
             "contentType": "application/x-gtar"
           }
         ]
@@ -9774,7 +9946,7 @@
             "name": "harzva-dsh-session-folders-0.1.0.tgz",
             "url": "https://github.com/Harzva/dsh-session-folders/releases/download/v0.1.0/harzva-dsh-session-folders-0.1.0.tgz",
             "size": 5503,
-            "downloadCount": 8,
+            "downloadCount": 11,
             "contentType": "application/x-gtar"
           }
         ]
@@ -9857,7 +10029,7 @@
             "name": "harness-flow-dsh-uvm-0.1.0-alpha.1.tgz",
             "url": "https://github.com/Harzva/dsh-uvm/releases/download/v0.1.0-alpha.1/harness-flow-dsh-uvm-0.1.0-alpha.1.tgz",
             "size": 21023,
-            "downloadCount": 3956,
+            "downloadCount": 3999,
             "contentType": "application/x-gtar"
           }
         ]
@@ -10204,8 +10376,8 @@
       "primaryLanguage": {
         "name": "Python"
       },
-      "pushedAt": "2026-10-24T08:08:07Z",
-      "updatedAt": "2026-10-24T08:08:10Z",
+      "pushedAt": "2026-10-25T08:25:28Z",
+      "updatedAt": "2026-10-25T08:25:32Z",
       "createdAt": "2026-05-14T09:29:45Z",
       "defaultBranchRef": {
         "name": "main"
