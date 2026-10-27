@@ -14,7 +14,7 @@ A registry of Harzva Codex skills, workflow skills, and agent operating recipes.
 
 | Skill Repository | Language | Updated | Description |
 |---|---:|---:|---|
-| [harzva-skills-hub](https://github.com/Harzva/harzva-skills-hub) | Python | 2026-10-25 | Auto-updating GitHub Pages registry of Harzva Codex skills, workflow skills, and agent recipes. |
+| [harzva-skills-hub](https://github.com/Harzva/harzva-skills-hub) | Python | 2026-10-26 | Auto-updating GitHub Pages registry of Harzva Codex skills, workflow skills, and agent recipes. |
 | [model-routing](https://github.com/Harzva/model-routing) | JavaScript | 2026-10-24 | Portable Codex model-routing skill with an optional CXF consultation adapter, private receipts, and Chinese setup guide. |
 | [dsh-magpie-openbot](https://github.com/Harzva/dsh-magpie-openbot) | JavaScript | 2026-10-22 | MIT OpenBot desktop host adapter for the upstream DSH Magpie plugin: local admission, model sync and human/agent settings. |
 | [codexhome-manager](https://github.com/Harzva/codexhome-manager) | Rust | 2026-10-14 | Manage multiple CODEX_HOME directories as isolated Skill Spaces and specialized Agent Households. |
@@ -82,5 +82,5 @@ This MetaRepo refreshes itself with GitHub Actions.
 - Data source: GitHub REST API.
 - Privacy default: public repositories only.
 - Private mode: set `META_INCLUDE_PRIVATE=true` and provide `META_GITHUB_TOKEN` only when the meta repository is private.
-- Generated at: `2026-10-26T08:55:32.469556+00:00`.
+- Generated at: `2026-10-27T09:00:20.451433+00:00`.
 - Private repositories omitted from this public output: `13`.

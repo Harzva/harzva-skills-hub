@@ -89,8 +89,8 @@
     "primaryLanguage": {
       "name": "TypeScript"
     },
-    "pushedAt": "2026-10-26T06:13:18Z",
-    "updatedAt": "2026-10-26T06:13:22Z",
+    "pushedAt": "2026-10-27T06:16:40Z",
+    "updatedAt": "2026-10-27T06:16:44Z",
     "createdAt": "2026-05-12T09:49:47Z",
     "defaultBranchRef": {
       "name": "main"
@@ -312,6 +312,33 @@
     "latestRelease": null
   },
   {
+    "name": "anybot-connector",
+    "nameWithOwner": "Harzva/anybot-connector",
+    "url": "https://github.com/Harzva/anybot-connector",
+    "description": "Open interoperability layer for bots and applications. Initial architecture RFC and implementation plan.",
+    "isPrivate": false,
+    "isArchived": false,
+    "isFork": false,
+    "primaryLanguage": {
+      "name": "JavaScript"
+    },
+    "pushedAt": "2026-10-26T11:46:37Z",
+    "updatedAt": "2026-10-26T11:46:40Z",
+    "createdAt": "2026-10-26T10:06:47Z",
+    "defaultBranchRef": {
+      "name": "main"
+    },
+    "homepageUrl": "",
+    "stargazerCount": 0,
+    "forkCount": 0,
+    "repositoryTopics": [],
+    "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/anybot-connector",
+    "pages": {
+      "enabled": false
+    },
+    "latestRelease": null
+  },
+  {
     "name": "ascend-modelagent-completed",
     "nameWithOwner": "Harzva/ascend-modelagent-completed",
     "url": "https://github.com/Harzva/ascend-modelagent-completed",
@@ -508,6 +535,45 @@
         }
       ]
     }
+  },
+  {
+    "name": "awesome-landing-pages",
+    "nameWithOwner": "Harzva/awesome-landing-pages",
+    "url": "https://github.com/Harzva/awesome-landing-pages",
+    "description": "漂亮的宣传页：真实截图、设计特点、带源码标记与许可核查。A curated collection of landing pages with source and license notes.",
+    "isPrivate": false,
+    "isArchived": false,
+    "isFork": false,
+    "primaryLanguage": {
+      "name": "CSS"
+    },
+    "pushedAt": "2026-10-26T10:19:41Z",
+    "updatedAt": "2026-10-26T10:19:45Z",
+    "createdAt": "2026-10-26T10:11:50Z",
+    "defaultBranchRef": {
+      "name": "main"
+    },
+    "homepageUrl": "https://harzva.github.io/awesome-landing-pages/",
+    "stargazerCount": 0,
+    "forkCount": 0,
+    "repositoryTopics": [
+      "awesome-list",
+      "github-pages",
+      "landing-pages",
+      "web-design"
+    ],
+    "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/awesome-landing-pages",
+    "pages": {
+      "enabled": true,
+      "url": "https://harzva.github.io/awesome-landing-pages/",
+      "status": null,
+      "source": {
+        "branch": "main",
+        "path": "/"
+      },
+      "httpsEnforced": true
+    },
+    "latestRelease": null
   },
   {
     "name": "build-your-meta-repo-skill",
@@ -1105,7 +1171,7 @@
           "name": "dsh-agent-project-sync-0.1.0.tgz",
           "url": "https://github.com/Harzva/dsh-agent-project-sync/releases/download/v0.1.0/dsh-agent-project-sync-0.1.0.tgz",
           "size": 14057,
-          "downloadCount": 3970,
+          "downloadCount": 4061,
           "contentType": "application/x-gtar"
         }
       ]
@@ -1150,7 +1216,7 @@
           "name": "dsh-cli-store-0.3.0.tgz",
           "url": "https://github.com/Harzva/dsh-cli-store/releases/download/v0.3.0/dsh-cli-store-0.3.0.tgz",
           "size": 24798,
-          "downloadCount": 3785,
+          "downloadCount": 3876,
           "contentType": "application/x-gtar"
         }
       ]
@@ -1195,7 +1261,7 @@
           "name": "dsh-control-plane-0.1.0.tgz",
           "url": "https://github.com/Harzva/dsh-control-plane/releases/download/v0.1.0/dsh-control-plane-0.1.0.tgz",
           "size": 106806,
-          "downloadCount": 3114,
+          "downloadCount": 3205,
           "contentType": "application/x-gtar"
         }
       ]
@@ -1496,7 +1562,7 @@
           "name": "harness-flow-dsh-obsidian-0.1.0-alpha.0.tgz",
           "url": "https://github.com/Harzva/dsh-obsidian/releases/download/v0.1.0-alpha.0/harness-flow-dsh-obsidian-0.1.0-alpha.0.tgz",
           "size": 21393,
-          "downloadCount": 3462,
+          "downloadCount": 3554,
           "contentType": "application/x-gtar"
         }
       ]
@@ -1702,7 +1768,7 @@
           "name": "harzva-dsh-session-folders-0.1.0.tgz",
           "url": "https://github.com/Harzva/dsh-session-folders/releases/download/v0.1.0/harzva-dsh-session-folders-0.1.0.tgz",
           "size": 5503,
-          "downloadCount": 11,
+          "downloadCount": 14,
           "contentType": "application/x-gtar"
         }
       ]
@@ -1785,7 +1851,7 @@
           "name": "harness-flow-dsh-uvm-0.1.0-alpha.1.tgz",
           "url": "https://github.com/Harzva/dsh-uvm/releases/download/v0.1.0-alpha.1/harness-flow-dsh-uvm-0.1.0-alpha.1.tgz",
           "size": 21023,
-          "downloadCount": 3999,
+          "downloadCount": 4090,
           "contentType": "application/x-gtar"
         }
       ]
@@ -2049,8 +2115,8 @@
     "primaryLanguage": {
       "name": "JavaScript"
     },
-    "pushedAt": "2026-10-20T07:52:46Z",
-    "updatedAt": "2026-10-20T07:52:50Z",
+    "pushedAt": "2026-10-27T08:17:44Z",
+    "updatedAt": "2026-10-27T08:17:47Z",
     "createdAt": "2026-06-19T08:47:36Z",
     "defaultBranchRef": {
       "name": "main"
@@ -2544,8 +2610,8 @@
     "primaryLanguage": {
       "name": "Python"
     },
-    "pushedAt": "2026-10-25T08:28:05Z",
-    "updatedAt": "2026-10-25T08:28:10Z",
+    "pushedAt": "2026-10-26T08:58:11Z",
+    "updatedAt": "2026-10-26T08:58:15Z",
     "createdAt": "2026-05-14T09:29:39Z",
     "defaultBranchRef": {
       "name": "main"
@@ -2578,8 +2644,8 @@
     "primaryLanguage": {
       "name": "Python"
     },
-    "pushedAt": "2026-10-25T08:25:25Z",
-    "updatedAt": "2026-10-25T08:25:29Z",
+    "pushedAt": "2026-10-26T08:54:36Z",
+    "updatedAt": "2026-10-26T08:54:40Z",
     "createdAt": "2026-05-14T09:27:13Z",
     "defaultBranchRef": {
       "name": "main"
@@ -2612,8 +2678,8 @@
     "primaryLanguage": {
       "name": "Python"
     },
-    "pushedAt": "2026-10-25T08:31:38Z",
-    "updatedAt": "2026-10-25T08:31:41Z",
+    "pushedAt": "2026-10-26T09:04:30Z",
+    "updatedAt": "2026-10-26T09:04:34Z",
     "createdAt": "2026-05-14T09:29:34Z",
     "defaultBranchRef": {
       "name": "main"
@@ -2646,8 +2712,8 @@
     "primaryLanguage": {
       "name": "Python"
     },
-    "pushedAt": "2026-10-25T08:25:28Z",
-    "updatedAt": "2026-10-25T08:25:32Z",
+    "pushedAt": "2026-10-26T08:55:33Z",
+    "updatedAt": "2026-10-26T08:55:37Z",
     "createdAt": "2026-05-14T09:29:45Z",
     "defaultBranchRef": {
       "name": "main"
@@ -2890,8 +2956,8 @@
     "primaryLanguage": {
       "name": "TypeScript"
     },
-    "pushedAt": "2026-10-26T05:04:28Z",
-    "updatedAt": "2026-10-26T07:26:06Z",
+    "pushedAt": "2026-10-27T05:20:10Z",
+    "updatedAt": "2026-10-27T05:20:14Z",
     "createdAt": "2026-04-01T03:55:26Z",
     "defaultBranchRef": {
       "name": "main"
