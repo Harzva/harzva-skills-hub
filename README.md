@@ -6,7 +6,7 @@ A registry of Harzva Codex skills, workflow skills, and agent operating recipes.
 
 [Live Skill Board](https://harzva.github.io/harzva-skills-hub/) | [Project Atlas](https://github.com/Harzva/harzva-project-atlas)
 
-![Skills](https://img.shields.io/badge/skills-51-6B8E23?style=for-the-badge) ![Auto Update](https://img.shields.io/badge/update-daily-111111?style=for-the-badge)
+![Skills](https://img.shields.io/badge/skills-52-6B8E23?style=for-the-badge) ![Auto Update](https://img.shields.io/badge/update-daily-111111?style=for-the-badge)
 
 </div>
 
@@ -14,7 +14,8 @@ A registry of Harzva Codex skills, workflow skills, and agent operating recipes.
 
 | Skill Repository | Language | Updated | Description |
 |---|---:|---:|---|
-| [harzva-skills-hub](https://github.com/Harzva/harzva-skills-hub) | Python | 2026-11-05 | Auto-updating GitHub Pages registry of Harzva Codex skills, workflow skills, and agent recipes. |
+| [dsh-leet-accelerator](https://github.com/Harzva/dsh-leet-accelerator) | JavaScript | 2026-11-07 | Optional allocation-conscious tool-result pruning for DeepSeek Harness, with independent Web switches |
+| [harzva-skills-hub](https://github.com/Harzva/harzva-skills-hub) | Python | 2026-11-06 | Auto-updating GitHub Pages registry of Harzva Codex skills, workflow skills, and agent recipes. |
 | [model-routing](https://github.com/Harzva/model-routing) | JavaScript | 2026-10-24 | Portable Codex model-routing skill with an optional CXF consultation adapter, private receipts, and Chinese setup guide. |
 | [dsh-magpie-openbot](https://github.com/Harzva/dsh-magpie-openbot) | JavaScript | 2026-10-22 | MIT OpenBot desktop host adapter for the upstream DSH Magpie plugin: local admission, model sync and human/agent settings. |
 | [codexhome-manager](https://github.com/Harzva/codexhome-manager) | Rust | 2026-10-14 | Manage multiple CODEX_HOME directories as isolated Skill Spaces and specialized Agent Households. |
@@ -82,5 +83,5 @@ This MetaRepo refreshes itself with GitHub Actions.
 - Data source: GitHub REST API.
 - Privacy default: public repositories only.
 - Private mode: set `META_INCLUDE_PRIVATE=true` and provide `META_GITHUB_TOKEN` only when the meta repository is private.
-- Generated at: `2026-11-06T10:52:50.407470+00:00`.
+- Generated at: `2026-11-07T10:08:27.913878+00:00`.
 - Private repositories omitted from this public output: `13`.

@@ -366,7 +366,7 @@
           "name": "dsh-agent-project-sync-0.1.0.tgz",
           "url": "https://github.com/Harzva/dsh-agent-project-sync/releases/download/v0.1.0/dsh-agent-project-sync-0.1.0.tgz",
           "size": 14057,
-          "downloadCount": 4714,
+          "downloadCount": 4759,
           "contentType": "application/x-gtar"
         }
       ]
@@ -411,7 +411,7 @@
           "name": "dsh-cli-store-0.3.0.tgz",
           "url": "https://github.com/Harzva/dsh-cli-store/releases/download/v0.3.0/dsh-cli-store-0.3.0.tgz",
           "size": 24798,
-          "downloadCount": 4527,
+          "downloadCount": 4574,
           "contentType": "application/x-gtar"
         }
       ]
@@ -456,7 +456,7 @@
           "name": "dsh-control-plane-0.1.0.tgz",
           "url": "https://github.com/Harzva/dsh-control-plane/releases/download/v0.1.0/dsh-control-plane-0.1.0.tgz",
           "size": 106806,
-          "downloadCount": 3862,
+          "downloadCount": 3907,
           "contentType": "application/x-gtar"
         }
       ]
@@ -544,6 +544,54 @@
     }
   },
   {
+    "name": "dsh-leet-accelerator",
+    "nameWithOwner": "Harzva/dsh-leet-accelerator",
+    "url": "https://github.com/Harzva/dsh-leet-accelerator",
+    "description": "Optional allocation-conscious tool-result pruning for DeepSeek Harness, with independent Web switches",
+    "isPrivate": false,
+    "isArchived": false,
+    "isFork": false,
+    "primaryLanguage": {
+      "name": "JavaScript"
+    },
+    "pushedAt": "2026-11-07T00:46:56Z",
+    "updatedAt": "2026-11-07T00:46:57Z",
+    "createdAt": "2026-11-06T17:30:57Z",
+    "defaultBranchRef": {
+      "name": "main"
+    },
+    "homepageUrl": "",
+    "stargazerCount": 0,
+    "forkCount": 0,
+    "repositoryTopics": [
+      "deepseek-harness",
+      "dsh-bundle",
+      "dsh-plugin",
+      "tool-result-pruner"
+    ],
+    "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/dsh-leet-accelerator",
+    "pages": {
+      "enabled": false
+    },
+    "latestRelease": {
+      "name": "v0.4.1 — hardening, no new algorithm gain",
+      "tagName": "v0.4.1",
+      "url": "https://github.com/Harzva/dsh-leet-accelerator/releases/tag/v0.4.1",
+      "publishedAt": "2026-11-07T00:49:02Z",
+      "prerelease": false,
+      "draft": false,
+      "assets": [
+        {
+          "name": "dsh-leet-accelerator-0.4.1.tgz",
+          "url": "https://github.com/Harzva/dsh-leet-accelerator/releases/download/v0.4.1/dsh-leet-accelerator-0.4.1.tgz",
+          "size": 82947,
+          "downloadCount": 2,
+          "contentType": "application/x-gtar"
+        }
+      ]
+    }
+  },
+  {
     "name": "dsh-maclens",
     "nameWithOwner": "Harzva/dsh-maclens",
     "url": "https://github.com/Harzva/dsh-maclens",
@@ -623,7 +671,7 @@
       "name": "TypeScript"
     },
     "pushedAt": "2026-08-19T12:05:35Z",
-    "updatedAt": "2026-08-19T12:09:07Z",
+    "updatedAt": "2026-11-06T13:45:04Z",
     "createdAt": "2026-08-19T12:01:13Z",
     "defaultBranchRef": {
       "name": "main"
@@ -652,7 +700,7 @@
           "name": "harness-flow-dsh-obsidian-0.1.0-alpha.0.tgz",
           "url": "https://github.com/Harzva/dsh-obsidian/releases/download/v0.1.0-alpha.0/harness-flow-dsh-obsidian-0.1.0-alpha.0.tgz",
           "size": 21393,
-          "downloadCount": 4236,
+          "downloadCount": 4281,
           "contentType": "application/x-gtar"
         }
       ]
@@ -941,7 +989,7 @@
           "name": "harness-flow-dsh-uvm-0.1.0-alpha.1.tgz",
           "url": "https://github.com/Harzva/dsh-uvm/releases/download/v0.1.0-alpha.1/harness-flow-dsh-uvm-0.1.0-alpha.1.tgz",
           "size": 21023,
-          "downloadCount": 4768,
+          "downloadCount": 4813,
           "contentType": "application/x-gtar"
         }
       ]
@@ -1288,8 +1336,8 @@
     "primaryLanguage": {
       "name": "Python"
     },
-    "pushedAt": "2026-11-05T10:56:54Z",
-    "updatedAt": "2026-11-05T10:56:58Z",
+    "pushedAt": "2026-11-06T10:52:51Z",
+    "updatedAt": "2026-11-06T10:52:55Z",
     "createdAt": "2026-05-14T09:29:45Z",
     "defaultBranchRef": {
       "name": "main"
@@ -1441,7 +1489,7 @@
           "name": "elsevier-skills-v2.7.0.zip",
           "url": "https://github.com/Harzva/pami-skill-suites/releases/download/v2.7.0/elsevier-skills-v2.7.0.zip",
           "size": 53240882,
-          "downloadCount": 11,
+          "downloadCount": 13,
           "contentType": "application/zip"
         },
         {
