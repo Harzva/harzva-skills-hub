@@ -366,7 +366,7 @@
           "name": "dsh-agent-project-sync-0.1.0.tgz",
           "url": "https://github.com/Harzva/dsh-agent-project-sync/releases/download/v0.1.0/dsh-agent-project-sync-0.1.0.tgz",
           "size": 14057,
-          "downloadCount": 4853,
+          "downloadCount": 4903,
           "contentType": "application/x-gtar"
         }
       ]
@@ -411,7 +411,7 @@
           "name": "dsh-cli-store-0.3.0.tgz",
           "url": "https://github.com/Harzva/dsh-cli-store/releases/download/v0.3.0/dsh-cli-store-0.3.0.tgz",
           "size": 24798,
-          "downloadCount": 4666,
+          "downloadCount": 4715,
           "contentType": "application/x-gtar"
         }
       ]
@@ -456,7 +456,7 @@
           "name": "dsh-control-plane-0.1.0.tgz",
           "url": "https://github.com/Harzva/dsh-control-plane/releases/download/v0.1.0/dsh-control-plane-0.1.0.tgz",
           "size": 106806,
-          "downloadCount": 3998,
+          "downloadCount": 4047,
           "contentType": "application/x-gtar"
         }
       ]
@@ -700,7 +700,7 @@
           "name": "harness-flow-dsh-obsidian-0.1.0-alpha.0.tgz",
           "url": "https://github.com/Harzva/dsh-obsidian/releases/download/v0.1.0-alpha.0/harness-flow-dsh-obsidian-0.1.0-alpha.0.tgz",
           "size": 21393,
-          "downloadCount": 4375,
+          "downloadCount": 4424,
           "contentType": "application/x-gtar"
         }
       ]
@@ -836,6 +836,33 @@
     "latestRelease": null
   },
   {
+    "name": "dsh-role-registry",
+    "nameWithOwner": "Harzva/dsh-role-registry",
+    "url": "https://github.com/Harzva/dsh-role-registry",
+    "description": "Shared role registry for DeepSeek Harness plugins",
+    "isPrivate": false,
+    "isArchived": false,
+    "isFork": false,
+    "primaryLanguage": {
+      "name": "JavaScript"
+    },
+    "pushedAt": "2026-11-09T12:00:00Z",
+    "updatedAt": "2026-11-09T12:00:05Z",
+    "createdAt": "2026-11-09T11:45:41Z",
+    "defaultBranchRef": {
+      "name": "main"
+    },
+    "homepageUrl": "",
+    "stargazerCount": 0,
+    "forkCount": 0,
+    "repositoryTopics": [],
+    "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/dsh-role-registry",
+    "pages": {
+      "enabled": false
+    },
+    "latestRelease": null
+  },
+  {
     "name": "dsh-session-context-menu",
     "nameWithOwner": "Harzva/dsh-session-context-menu",
     "url": "https://github.com/Harzva/dsh-session-context-menu",
@@ -961,14 +988,14 @@
     "primaryLanguage": {
       "name": "JavaScript"
     },
-    "pushedAt": "2026-11-09T11:05:10Z",
-    "updatedAt": "2026-11-09T11:08:04Z",
+    "pushedAt": "2026-11-09T13:38:45Z",
+    "updatedAt": "2026-11-09T15:01:52Z",
     "createdAt": "2026-08-27T19:28:09Z",
     "defaultBranchRef": {
       "name": "main"
     },
     "homepageUrl": "",
-    "stargazerCount": 0,
+    "stargazerCount": 1,
     "forkCount": 0,
     "repositoryTopics": [
       "deepseek-harness",
@@ -1021,7 +1048,7 @@
           "name": "harness-flow-dsh-uvm-0.1.0-alpha.1.tgz",
           "url": "https://github.com/Harzva/dsh-uvm/releases/download/v0.1.0-alpha.1/harness-flow-dsh-uvm-0.1.0-alpha.1.tgz",
           "size": 21023,
-          "downloadCount": 4909,
+          "downloadCount": 4958,
           "contentType": "application/x-gtar"
         }
       ]
@@ -1368,8 +1395,8 @@
     "primaryLanguage": {
       "name": "Python"
     },
-    "pushedAt": "2026-11-08T10:21:57Z",
-    "updatedAt": "2026-11-08T10:22:01Z",
+    "pushedAt": "2026-11-09T11:31:33Z",
+    "updatedAt": "2026-11-09T11:31:37Z",
     "createdAt": "2026-05-14T09:29:45Z",
     "defaultBranchRef": {
       "name": "main"
