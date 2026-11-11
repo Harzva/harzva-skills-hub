@@ -14,9 +14,9 @@ A registry of Harzva Codex skills, workflow skills, and agent operating recipes.
 
 | Skill Repository | Language | Updated | Description |
 |---|---:|---:|---|
+| [harzva-skills-hub](https://github.com/Harzva/harzva-skills-hub) | Python | 2026-11-10 | Auto-updating GitHub Pages registry of Harzva Codex skills, workflow skills, and agent recipes. |
 | [dsh-supervisor](https://github.com/Harzva/dsh-supervisor) | JavaScript | 2026-11-09 | DSH Supervisor plugin and Smart Supervision v2 engineering baseline |
 | [dsh-role-registry](https://github.com/Harzva/dsh-role-registry) | JavaScript | 2026-11-09 | Shared role registry for DeepSeek Harness plugins |
-| [harzva-skills-hub](https://github.com/Harzva/harzva-skills-hub) | Python | 2026-11-09 | Auto-updating GitHub Pages registry of Harzva Codex skills, workflow skills, and agent recipes. |
 | [awesome-dsh-plugin](https://github.com/Harzva/awesome-dsh-plugin) | Python | 2026-11-09 | A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件精选列表 |
 | [dsh-leet-accelerator](https://github.com/Harzva/dsh-leet-accelerator) | JavaScript | 2026-11-07 | Optional allocation-conscious tool-result pruning for DeepSeek Harness, with independent Web switches |
 | [model-routing](https://github.com/Harzva/model-routing) | JavaScript | 2026-10-24 | Portable Codex model-routing skill with an optional CXF consultation adapter, private receipts, and Chinese setup guide. |
@@ -85,5 +85,5 @@ This MetaRepo refreshes itself with GitHub Actions.
 - Data source: GitHub REST API.
 - Privacy default: public repositories only.
 - Private mode: set `META_INCLUDE_PRIVATE=true` and provide `META_GITHUB_TOKEN` only when the meta repository is private.
-- Generated at: `2026-11-10T11:12:15.784947+00:00`.
+- Generated at: `2026-11-11T10:57:23.046064+00:00`.
 - Private repositories omitted from this public output: `13`.
