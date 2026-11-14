@@ -1,6 +1,6 @@
 {
   "summary": {
-    "generatedAt": "2026-11-13T10:59:00.938476+00:00",
+    "generatedAt": "2026-11-14T10:26:08.339961+00:00",
     "owner": "Harzva",
     "mode": "skills",
     "publicRepositories": 159,
@@ -565,40 +565,6 @@
     ],
     "Pages and Live Demos": [
       {
-        "name": "Agent-Job-Interview",
-        "nameWithOwner": "Harzva/Agent-Job-Interview",
-        "url": "https://github.com/Harzva/Agent-Job-Interview",
-        "description": "Agent job interview roadmap and practice training suite.",
-        "isPrivate": false,
-        "isArchived": false,
-        "isFork": false,
-        "primaryLanguage": {
-          "name": "TypeScript"
-        },
-        "pushedAt": "2026-11-13T07:57:56Z",
-        "updatedAt": "2026-11-12T09:19:57Z",
-        "createdAt": "2026-05-12T09:49:47Z",
-        "defaultBranchRef": {
-          "name": "main"
-        },
-        "homepageUrl": "https://harzva.github.io/Agent-Job-Interview/",
-        "stargazerCount": 7,
-        "forkCount": 0,
-        "repositoryTopics": [],
-        "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/Agent-Job-Interview",
-        "pages": {
-          "enabled": true,
-          "url": "https://harzva.github.io/Agent-Job-Interview/",
-          "status": "built",
-          "source": {
-            "branch": "main",
-            "path": "/docs"
-          },
-          "httpsEnforced": true
-        },
-        "latestRelease": null
-      },
-      {
         "name": "learn-likecc",
         "nameWithOwner": "Harzva/learn-likecc",
         "url": "https://github.com/Harzva/learn-likecc",
@@ -609,7 +575,7 @@
         "primaryLanguage": {
           "name": "TypeScript"
         },
-        "pushedAt": "2026-11-13T06:59:44Z",
+        "pushedAt": "2026-11-14T06:49:21Z",
         "updatedAt": "2026-11-12T08:28:46Z",
         "createdAt": "2026-04-01T03:55:26Z",
         "defaultBranchRef": {
@@ -652,6 +618,40 @@
         }
       },
       {
+        "name": "Agent-Job-Interview",
+        "nameWithOwner": "Harzva/Agent-Job-Interview",
+        "url": "https://github.com/Harzva/Agent-Job-Interview",
+        "description": "Agent job interview roadmap and practice training suite.",
+        "isPrivate": false,
+        "isArchived": false,
+        "isFork": false,
+        "primaryLanguage": {
+          "name": "TypeScript"
+        },
+        "pushedAt": "2026-11-13T20:29:00Z",
+        "updatedAt": "2026-11-12T09:19:57Z",
+        "createdAt": "2026-05-12T09:49:47Z",
+        "defaultBranchRef": {
+          "name": "main"
+        },
+        "homepageUrl": "https://harzva.github.io/Agent-Job-Interview/",
+        "stargazerCount": 7,
+        "forkCount": 0,
+        "repositoryTopics": [],
+        "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/Agent-Job-Interview",
+        "pages": {
+          "enabled": true,
+          "url": "https://harzva.github.io/Agent-Job-Interview/",
+          "status": "built",
+          "source": {
+            "branch": "main",
+            "path": "/docs"
+          },
+          "httpsEnforced": true
+        },
+        "latestRelease": null
+      },
+      {
         "name": "harzva-release-hub",
         "nameWithOwner": "Harzva/harzva-release-hub",
         "url": "https://github.com/Harzva/harzva-release-hub",
@@ -662,7 +662,7 @@
         "primaryLanguage": {
           "name": "Python"
         },
-        "pushedAt": "2026-11-12T11:26:16Z",
+        "pushedAt": "2026-11-13T11:08:34Z",
         "updatedAt": "2026-11-12T12:26:19Z",
         "createdAt": "2026-05-14T09:29:34Z",
         "defaultBranchRef": {
@@ -696,7 +696,7 @@
         "primaryLanguage": {
           "name": "Python"
         },
-        "pushedAt": "2026-11-12T11:15:28Z",
+        "pushedAt": "2026-11-13T11:01:09Z",
         "updatedAt": "2026-11-12T12:15:33Z",
         "createdAt": "2026-05-14T09:29:39Z",
         "defaultBranchRef": {
@@ -730,7 +730,7 @@
         "primaryLanguage": {
           "name": "Python"
         },
-        "pushedAt": "2026-11-12T11:07:06Z",
+        "pushedAt": "2026-11-13T10:57:56Z",
         "updatedAt": "2026-11-12T12:07:09Z",
         "createdAt": "2026-05-14T09:27:13Z",
         "defaultBranchRef": {
@@ -886,7 +886,7 @@
               "name": "mobilecode-site-v0.1.0.zip",
               "url": "https://github.com/Harzva/mobilecode/releases/download/v0.1.0/mobilecode-site-v0.1.0.zip",
               "size": 224820,
-              "downloadCount": 3,
+              "downloadCount": 4,
               "contentType": "application/zip"
             },
             {
@@ -1376,7 +1376,7 @@
               "name": "gitmarket-android-experimental.apk",
               "url": "https://github.com/Harzva/GitReleaseMarket/releases/download/v0.3.8/gitmarket-android-experimental.apk",
               "size": 15680751,
-              "downloadCount": 6,
+              "downloadCount": 7,
               "contentType": "application/vnd.android.package-archive"
             },
             {
@@ -1743,42 +1743,42 @@
               "name": "desktop-plugin-catalog.json",
               "url": "https://github.com/Harzva/dsh-desktop-capture/releases/download/v0.3.1/desktop-plugin-catalog.json",
               "size": 38236,
-              "downloadCount": 11,
+              "downloadCount": 12,
               "contentType": "application/json"
             },
             {
               "name": "openbot-dsh-desktop-capture-0.3.0.tgz",
               "url": "https://github.com/Harzva/dsh-desktop-capture/releases/download/v0.3.1/openbot-dsh-desktop-capture-0.3.0.tgz",
               "size": 227540,
-              "downloadCount": 5,
+              "downloadCount": 6,
               "contentType": "application/x-gtar"
             },
             {
               "name": "openbot-dsh-desktop-capture-0.3.1.tgz",
               "url": "https://github.com/Harzva/dsh-desktop-capture/releases/download/v0.3.1/openbot-dsh-desktop-capture-0.3.1.tgz",
               "size": 222838,
-              "downloadCount": 6,
+              "downloadCount": 7,
               "contentType": "application/x-gtar"
             },
             {
               "name": "openbot-dsh-superterminal-0.2.0.tgz",
               "url": "https://github.com/Harzva/dsh-desktop-capture/releases/download/v0.3.1/openbot-dsh-superterminal-0.2.0.tgz",
               "size": 2183,
-              "downloadCount": 4,
+              "downloadCount": 5,
               "contentType": "application/x-gtar"
             },
             {
               "name": "openbot-dsh-superterminal-0.2.1.tgz",
               "url": "https://github.com/Harzva/dsh-desktop-capture/releases/download/v0.3.1/openbot-dsh-superterminal-0.2.1.tgz",
               "size": 2339,
-              "downloadCount": 6,
+              "downloadCount": 7,
               "contentType": "application/x-gtar"
             },
             {
               "name": "SHA256SUMS",
               "url": "https://github.com/Harzva/dsh-desktop-capture/releases/download/v0.3.1/SHA256SUMS",
               "size": 412,
-              "downloadCount": 0,
+              "downloadCount": 1,
               "contentType": "application/octet-stream"
             }
           ]
@@ -1840,7 +1840,7 @@
         "primaryLanguage": {
           "name": "Python"
         },
-        "pushedAt": "2026-11-12T11:09:16Z",
+        "pushedAt": "2026-11-13T10:59:01Z",
         "updatedAt": "2026-11-12T12:09:21Z",
         "createdAt": "2026-05-14T09:29:45Z",
         "defaultBranchRef": {
@@ -2358,7 +2358,7 @@
               "name": "dsh-cli-store-0.3.0.tgz",
               "url": "https://github.com/Harzva/dsh-cli-store/releases/download/v0.3.0/dsh-cli-store-0.3.0.tgz",
               "size": 24798,
-              "downloadCount": 4905,
+              "downloadCount": 4956,
               "contentType": "application/x-gtar"
             }
           ]
@@ -2406,7 +2406,7 @@
               "name": "dsh-agent-project-sync-0.1.0.tgz",
               "url": "https://github.com/Harzva/dsh-agent-project-sync/releases/download/v0.1.0/dsh-agent-project-sync-0.1.0.tgz",
               "size": 14057,
-              "downloadCount": 5093,
+              "downloadCount": 5148,
               "contentType": "application/x-gtar"
             }
           ]
@@ -2496,7 +2496,7 @@
               "name": "dsh-control-plane-0.1.0.tgz",
               "url": "https://github.com/Harzva/dsh-control-plane/releases/download/v0.1.0/dsh-control-plane-0.1.0.tgz",
               "size": 106806,
-              "downloadCount": 4239,
+              "downloadCount": 4290,
               "contentType": "application/x-gtar"
             }
           ]
@@ -2617,7 +2617,7 @@
               "name": "harness-flow-dsh-uvm-0.1.0-alpha.1.tgz",
               "url": "https://github.com/Harzva/dsh-uvm/releases/download/v0.1.0-alpha.1/harness-flow-dsh-uvm-0.1.0-alpha.1.tgz",
               "size": 21023,
-              "downloadCount": 5150,
+              "downloadCount": 5203,
               "contentType": "application/x-gtar"
             }
           ]
@@ -2664,7 +2664,7 @@
               "name": "harness-flow-dsh-obsidian-0.1.0-alpha.0.tgz",
               "url": "https://github.com/Harzva/dsh-obsidian/releases/download/v0.1.0-alpha.0/harness-flow-dsh-obsidian-0.1.0-alpha.0.tgz",
               "size": 21393,
-              "downloadCount": 4616,
+              "downloadCount": 4667,
               "contentType": "application/x-gtar"
             }
           ]
@@ -2981,7 +2981,7 @@
               "name": "elsevier-skills-v2.7.0.zip",
               "url": "https://github.com/Harzva/pami-skill-suites/releases/download/v2.7.0/elsevier-skills-v2.7.0.zip",
               "size": 53240882,
-              "downloadCount": 13,
+              "downloadCount": 14,
               "contentType": "application/zip"
             },
             {
@@ -2995,14 +2995,14 @@
               "name": "journal-skill-suites-v2.7.0.zip",
               "url": "https://github.com/Harzva/pami-skill-suites/releases/download/v2.7.0/journal-skill-suites-v2.7.0.zip",
               "size": 148992508,
-              "downloadCount": 4,
+              "downloadCount": 5,
               "contentType": "application/zip"
             },
             {
               "name": "main-figure-site-v2.7.0.zip",
               "url": "https://github.com/Harzva/pami-skill-suites/releases/download/v2.7.0/main-figure-site-v2.7.0.zip",
               "size": 4676658,
-              "downloadCount": 1,
+              "downloadCount": 2,
               "contentType": "application/zip"
             }
           ]
@@ -5463,7 +5463,7 @@
       "assetName": "dsh-agent-project-sync-0.1.0.tgz",
       "assetUrl": "https://github.com/Harzva/dsh-agent-project-sync/releases/download/v0.1.0/dsh-agent-project-sync-0.1.0.tgz",
       "size": 14057,
-      "downloadCount": 5093,
+      "downloadCount": 5148,
       "kind": "Archive",
       "functionCategory": "AI Agent Systems",
       "releaseName": "dsh-agent-project-sync v0.1.0",
@@ -5481,7 +5481,7 @@
       "assetName": "elsevier-skills-v2.7.0.zip",
       "assetUrl": "https://github.com/Harzva/pami-skill-suites/releases/download/v2.7.0/elsevier-skills-v2.7.0.zip",
       "size": 53240882,
-      "downloadCount": 13,
+      "downloadCount": 14,
       "kind": "Archive",
       "functionCategory": "AI Agent Systems",
       "releaseName": "PAMI Skill Suites v2.7.0",
@@ -5517,7 +5517,7 @@
       "assetName": "journal-skill-suites-v2.7.0.zip",
       "assetUrl": "https://github.com/Harzva/pami-skill-suites/releases/download/v2.7.0/journal-skill-suites-v2.7.0.zip",
       "size": 148992508,
-      "downloadCount": 4,
+      "downloadCount": 5,
       "kind": "Archive",
       "functionCategory": "AI Agent Systems",
       "releaseName": "PAMI Skill Suites v2.7.0",
@@ -5535,7 +5535,7 @@
       "assetName": "main-figure-site-v2.7.0.zip",
       "assetUrl": "https://github.com/Harzva/pami-skill-suites/releases/download/v2.7.0/main-figure-site-v2.7.0.zip",
       "size": 4676658,
-      "downloadCount": 1,
+      "downloadCount": 2,
       "kind": "Archive",
       "functionCategory": "AI Agent Systems",
       "releaseName": "PAMI Skill Suites v2.7.0",
@@ -5553,7 +5553,7 @@
       "assetName": "dsh-cli-store-0.3.0.tgz",
       "assetUrl": "https://github.com/Harzva/dsh-cli-store/releases/download/v0.3.0/dsh-cli-store-0.3.0.tgz",
       "size": 24798,
-      "downloadCount": 4905,
+      "downloadCount": 4956,
       "kind": "Archive",
       "functionCategory": "CLI and Infrastructure",
       "releaseName": "dsh-cli-store v0.3.0",
@@ -5589,7 +5589,7 @@
       "assetName": "desktop-plugin-catalog.json",
       "assetUrl": "https://github.com/Harzva/dsh-desktop-capture/releases/download/v0.3.1/desktop-plugin-catalog.json",
       "size": 38236,
-      "downloadCount": 11,
+      "downloadCount": 12,
       "kind": "Release Asset",
       "functionCategory": "Desktop Apps",
       "releaseName": "Host API 1: Capture 0.3.1 + SuperTerminal 0.2.1",
@@ -5607,7 +5607,7 @@
       "assetName": "openbot-dsh-desktop-capture-0.3.0.tgz",
       "assetUrl": "https://github.com/Harzva/dsh-desktop-capture/releases/download/v0.3.1/openbot-dsh-desktop-capture-0.3.0.tgz",
       "size": 227540,
-      "downloadCount": 5,
+      "downloadCount": 6,
       "kind": "Archive",
       "functionCategory": "Desktop Apps",
       "releaseName": "Host API 1: Capture 0.3.1 + SuperTerminal 0.2.1",
@@ -5625,7 +5625,7 @@
       "assetName": "openbot-dsh-desktop-capture-0.3.1.tgz",
       "assetUrl": "https://github.com/Harzva/dsh-desktop-capture/releases/download/v0.3.1/openbot-dsh-desktop-capture-0.3.1.tgz",
       "size": 222838,
-      "downloadCount": 6,
+      "downloadCount": 7,
       "kind": "Archive",
       "functionCategory": "Desktop Apps",
       "releaseName": "Host API 1: Capture 0.3.1 + SuperTerminal 0.2.1",
@@ -5643,7 +5643,7 @@
       "assetName": "openbot-dsh-superterminal-0.2.0.tgz",
       "assetUrl": "https://github.com/Harzva/dsh-desktop-capture/releases/download/v0.3.1/openbot-dsh-superterminal-0.2.0.tgz",
       "size": 2183,
-      "downloadCount": 4,
+      "downloadCount": 5,
       "kind": "Archive",
       "functionCategory": "Desktop Apps",
       "releaseName": "Host API 1: Capture 0.3.1 + SuperTerminal 0.2.1",
@@ -5661,7 +5661,7 @@
       "assetName": "openbot-dsh-superterminal-0.2.1.tgz",
       "assetUrl": "https://github.com/Harzva/dsh-desktop-capture/releases/download/v0.3.1/openbot-dsh-superterminal-0.2.1.tgz",
       "size": 2339,
-      "downloadCount": 6,
+      "downloadCount": 7,
       "kind": "Archive",
       "functionCategory": "Desktop Apps",
       "releaseName": "Host API 1: Capture 0.3.1 + SuperTerminal 0.2.1",
@@ -5679,7 +5679,7 @@
       "assetName": "SHA256SUMS",
       "assetUrl": "https://github.com/Harzva/dsh-desktop-capture/releases/download/v0.3.1/SHA256SUMS",
       "size": 412,
-      "downloadCount": 0,
+      "downloadCount": 1,
       "kind": "Release Asset",
       "functionCategory": "Desktop Apps",
       "releaseName": "Host API 1: Capture 0.3.1 + SuperTerminal 0.2.1",
@@ -5787,7 +5787,7 @@
       "assetName": "dsh-control-plane-0.1.0.tgz",
       "assetUrl": "https://github.com/Harzva/dsh-control-plane/releases/download/v0.1.0/dsh-control-plane-0.1.0.tgz",
       "size": 106806,
-      "downloadCount": 4239,
+      "downloadCount": 4290,
       "kind": "Archive",
       "functionCategory": "General Utilities",
       "releaseName": "dsh-control-plane v0.1.0",
@@ -5859,7 +5859,7 @@
       "assetName": "harness-flow-dsh-uvm-0.1.0-alpha.1.tgz",
       "assetUrl": "https://github.com/Harzva/dsh-uvm/releases/download/v0.1.0-alpha.1/harness-flow-dsh-uvm-0.1.0-alpha.1.tgz",
       "size": 21023,
-      "downloadCount": 5150,
+      "downloadCount": 5203,
       "kind": "Archive",
       "functionCategory": "General Utilities",
       "releaseName": "dsh-uvm v0.1.0-alpha.1",
@@ -5931,7 +5931,7 @@
       "assetName": "harness-flow-dsh-obsidian-0.1.0-alpha.0.tgz",
       "assetUrl": "https://github.com/Harzva/dsh-obsidian/releases/download/v0.1.0-alpha.0/harness-flow-dsh-obsidian-0.1.0-alpha.0.tgz",
       "size": 21393,
-      "downloadCount": 4616,
+      "downloadCount": 4667,
       "kind": "Archive",
       "functionCategory": "Learning and Knowledge",
       "releaseName": "dsh-obsidian v0.1.0-alpha.0",
@@ -5949,7 +5949,7 @@
       "assetName": "gitmarket-android-experimental.apk",
       "assetUrl": "https://github.com/Harzva/GitReleaseMarket/releases/download/v0.3.8/gitmarket-android-experimental.apk",
       "size": 15680751,
-      "downloadCount": 6,
+      "downloadCount": 7,
       "kind": "Android APK",
       "functionCategory": "Mobile Apps",
       "releaseName": "v0.3.8",
@@ -6003,7 +6003,7 @@
       "assetName": "mobilecode-site-v0.1.0.zip",
       "assetUrl": "https://github.com/Harzva/mobilecode/releases/download/v0.1.0/mobilecode-site-v0.1.0.zip",
       "size": 224820,
-      "downloadCount": 3,
+      "downloadCount": 4,
       "kind": "Archive",
       "functionCategory": "Mobile Apps",
       "releaseName": "MobileCode v0.1.0 Android APK",
@@ -6042,7 +6042,7 @@
         "assetName": "gitmarket-android-experimental.apk",
         "assetUrl": "https://github.com/Harzva/GitReleaseMarket/releases/download/v0.3.8/gitmarket-android-experimental.apk",
         "size": 15680751,
-        "downloadCount": 6,
+        "downloadCount": 7,
         "kind": "Android APK",
         "functionCategory": "Mobile Apps",
         "releaseName": "v0.3.8",
@@ -6096,7 +6096,7 @@
         "assetName": "mobilecode-site-v0.1.0.zip",
         "assetUrl": "https://github.com/Harzva/mobilecode/releases/download/v0.1.0/mobilecode-site-v0.1.0.zip",
         "size": 224820,
-        "downloadCount": 3,
+        "downloadCount": 4,
         "kind": "Archive",
         "functionCategory": "Mobile Apps",
         "releaseName": "MobileCode v0.1.0 Android APK",
@@ -6134,7 +6134,7 @@
         "assetName": "desktop-plugin-catalog.json",
         "assetUrl": "https://github.com/Harzva/dsh-desktop-capture/releases/download/v0.3.1/desktop-plugin-catalog.json",
         "size": 38236,
-        "downloadCount": 11,
+        "downloadCount": 12,
         "kind": "Release Asset",
         "functionCategory": "Desktop Apps",
         "releaseName": "Host API 1: Capture 0.3.1 + SuperTerminal 0.2.1",
@@ -6152,7 +6152,7 @@
         "assetName": "openbot-dsh-desktop-capture-0.3.0.tgz",
         "assetUrl": "https://github.com/Harzva/dsh-desktop-capture/releases/download/v0.3.1/openbot-dsh-desktop-capture-0.3.0.tgz",
         "size": 227540,
-        "downloadCount": 5,
+        "downloadCount": 6,
         "kind": "Archive",
         "functionCategory": "Desktop Apps",
         "releaseName": "Host API 1: Capture 0.3.1 + SuperTerminal 0.2.1",
@@ -6170,7 +6170,7 @@
         "assetName": "openbot-dsh-desktop-capture-0.3.1.tgz",
         "assetUrl": "https://github.com/Harzva/dsh-desktop-capture/releases/download/v0.3.1/openbot-dsh-desktop-capture-0.3.1.tgz",
         "size": 222838,
-        "downloadCount": 6,
+        "downloadCount": 7,
         "kind": "Archive",
         "functionCategory": "Desktop Apps",
         "releaseName": "Host API 1: Capture 0.3.1 + SuperTerminal 0.2.1",
@@ -6188,7 +6188,7 @@
         "assetName": "openbot-dsh-superterminal-0.2.0.tgz",
         "assetUrl": "https://github.com/Harzva/dsh-desktop-capture/releases/download/v0.3.1/openbot-dsh-superterminal-0.2.0.tgz",
         "size": 2183,
-        "downloadCount": 4,
+        "downloadCount": 5,
         "kind": "Archive",
         "functionCategory": "Desktop Apps",
         "releaseName": "Host API 1: Capture 0.3.1 + SuperTerminal 0.2.1",
@@ -6206,7 +6206,7 @@
         "assetName": "openbot-dsh-superterminal-0.2.1.tgz",
         "assetUrl": "https://github.com/Harzva/dsh-desktop-capture/releases/download/v0.3.1/openbot-dsh-superterminal-0.2.1.tgz",
         "size": 2339,
-        "downloadCount": 6,
+        "downloadCount": 7,
         "kind": "Archive",
         "functionCategory": "Desktop Apps",
         "releaseName": "Host API 1: Capture 0.3.1 + SuperTerminal 0.2.1",
@@ -6224,7 +6224,7 @@
         "assetName": "SHA256SUMS",
         "assetUrl": "https://github.com/Harzva/dsh-desktop-capture/releases/download/v0.3.1/SHA256SUMS",
         "size": 412,
-        "downloadCount": 0,
+        "downloadCount": 1,
         "kind": "Release Asset",
         "functionCategory": "Desktop Apps",
         "releaseName": "Host API 1: Capture 0.3.1 + SuperTerminal 0.2.1",
@@ -6334,7 +6334,7 @@
         "assetName": "dsh-cli-store-0.3.0.tgz",
         "assetUrl": "https://github.com/Harzva/dsh-cli-store/releases/download/v0.3.0/dsh-cli-store-0.3.0.tgz",
         "size": 24798,
-        "downloadCount": 4905,
+        "downloadCount": 4956,
         "kind": "Archive",
         "functionCategory": "CLI and Infrastructure",
         "releaseName": "dsh-cli-store v0.3.0",
@@ -6552,7 +6552,7 @@
         "assetName": "dsh-agent-project-sync-0.1.0.tgz",
         "assetUrl": "https://github.com/Harzva/dsh-agent-project-sync/releases/download/v0.1.0/dsh-agent-project-sync-0.1.0.tgz",
         "size": 14057,
-        "downloadCount": 5093,
+        "downloadCount": 5148,
         "kind": "Archive",
         "functionCategory": "AI Agent Systems",
         "releaseName": "dsh-agent-project-sync v0.1.0",
@@ -6570,7 +6570,7 @@
         "assetName": "elsevier-skills-v2.7.0.zip",
         "assetUrl": "https://github.com/Harzva/pami-skill-suites/releases/download/v2.7.0/elsevier-skills-v2.7.0.zip",
         "size": 53240882,
-        "downloadCount": 13,
+        "downloadCount": 14,
         "kind": "Archive",
         "functionCategory": "AI Agent Systems",
         "releaseName": "PAMI Skill Suites v2.7.0",
@@ -6606,7 +6606,7 @@
         "assetName": "journal-skill-suites-v2.7.0.zip",
         "assetUrl": "https://github.com/Harzva/pami-skill-suites/releases/download/v2.7.0/journal-skill-suites-v2.7.0.zip",
         "size": 148992508,
-        "downloadCount": 4,
+        "downloadCount": 5,
         "kind": "Archive",
         "functionCategory": "AI Agent Systems",
         "releaseName": "PAMI Skill Suites v2.7.0",
@@ -6624,7 +6624,7 @@
         "assetName": "main-figure-site-v2.7.0.zip",
         "assetUrl": "https://github.com/Harzva/pami-skill-suites/releases/download/v2.7.0/main-figure-site-v2.7.0.zip",
         "size": 4676658,
-        "downloadCount": 1,
+        "downloadCount": 2,
         "kind": "Archive",
         "functionCategory": "AI Agent Systems",
         "releaseName": "PAMI Skill Suites v2.7.0",
@@ -6662,7 +6662,7 @@
         "assetName": "harness-flow-dsh-obsidian-0.1.0-alpha.0.tgz",
         "assetUrl": "https://github.com/Harzva/dsh-obsidian/releases/download/v0.1.0-alpha.0/harness-flow-dsh-obsidian-0.1.0-alpha.0.tgz",
         "size": 21393,
-        "downloadCount": 4616,
+        "downloadCount": 4667,
         "kind": "Archive",
         "functionCategory": "Learning and Knowledge",
         "releaseName": "dsh-obsidian v0.1.0-alpha.0",
@@ -6772,7 +6772,7 @@
         "assetName": "dsh-control-plane-0.1.0.tgz",
         "assetUrl": "https://github.com/Harzva/dsh-control-plane/releases/download/v0.1.0/dsh-control-plane-0.1.0.tgz",
         "size": 106806,
-        "downloadCount": 4239,
+        "downloadCount": 4290,
         "kind": "Archive",
         "functionCategory": "General Utilities",
         "releaseName": "dsh-control-plane v0.1.0",
@@ -6808,7 +6808,7 @@
         "assetName": "harness-flow-dsh-uvm-0.1.0-alpha.1.tgz",
         "assetUrl": "https://github.com/Harzva/dsh-uvm/releases/download/v0.1.0-alpha.1/harness-flow-dsh-uvm-0.1.0-alpha.1.tgz",
         "size": 21023,
-        "downloadCount": 5150,
+        "downloadCount": 5203,
         "kind": "Archive",
         "functionCategory": "General Utilities",
         "releaseName": "dsh-uvm v0.1.0-alpha.1",
@@ -6831,7 +6831,7 @@
       "primaryLanguage": {
         "name": "TypeScript"
       },
-      "pushedAt": "2026-11-13T07:57:56Z",
+      "pushedAt": "2026-11-13T20:29:00Z",
       "updatedAt": "2026-11-12T09:19:57Z",
       "createdAt": "2026-05-12T09:49:47Z",
       "defaultBranchRef": {
@@ -7538,7 +7538,7 @@
             "name": "gitmarket-android-experimental.apk",
             "url": "https://github.com/Harzva/GitReleaseMarket/releases/download/v0.3.8/gitmarket-android-experimental.apk",
             "size": 15680751,
-            "downloadCount": 6,
+            "downloadCount": 7,
             "contentType": "application/vnd.android.package-archive"
           },
           {
@@ -7668,7 +7668,7 @@
       "primaryLanguage": {
         "name": "Python"
       },
-      "pushedAt": "2026-11-12T11:15:28Z",
+      "pushedAt": "2026-11-13T11:01:09Z",
       "updatedAt": "2026-11-12T12:15:33Z",
       "createdAt": "2026-05-14T09:29:39Z",
       "defaultBranchRef": {
@@ -7702,7 +7702,7 @@
       "primaryLanguage": {
         "name": "Python"
       },
-      "pushedAt": "2026-11-12T11:07:06Z",
+      "pushedAt": "2026-11-13T10:57:56Z",
       "updatedAt": "2026-11-12T12:07:09Z",
       "createdAt": "2026-05-14T09:27:13Z",
       "defaultBranchRef": {
@@ -7736,7 +7736,7 @@
       "primaryLanguage": {
         "name": "Python"
       },
-      "pushedAt": "2026-11-12T11:26:16Z",
+      "pushedAt": "2026-11-13T11:08:34Z",
       "updatedAt": "2026-11-12T12:26:19Z",
       "createdAt": "2026-05-14T09:29:34Z",
       "defaultBranchRef": {
@@ -7770,7 +7770,7 @@
       "primaryLanguage": {
         "name": "Python"
       },
-      "pushedAt": "2026-11-12T11:09:16Z",
+      "pushedAt": "2026-11-13T10:59:01Z",
       "updatedAt": "2026-11-12T12:09:21Z",
       "createdAt": "2026-05-14T09:29:45Z",
       "defaultBranchRef": {
@@ -7921,7 +7921,7 @@
       "primaryLanguage": {
         "name": "TypeScript"
       },
-      "pushedAt": "2026-11-13T06:59:44Z",
+      "pushedAt": "2026-11-14T06:49:21Z",
       "updatedAt": "2026-11-12T08:28:46Z",
       "createdAt": "2026-04-01T03:55:26Z",
       "defaultBranchRef": {
@@ -8082,7 +8082,7 @@
             "name": "mobilecode-site-v0.1.0.zip",
             "url": "https://github.com/Harzva/mobilecode/releases/download/v0.1.0/mobilecode-site-v0.1.0.zip",
             "size": 224820,
-            "downloadCount": 3,
+            "downloadCount": 4,
             "contentType": "application/zip"
           },
           {
@@ -8181,7 +8181,7 @@
             "name": "elsevier-skills-v2.7.0.zip",
             "url": "https://github.com/Harzva/pami-skill-suites/releases/download/v2.7.0/elsevier-skills-v2.7.0.zip",
             "size": 53240882,
-            "downloadCount": 13,
+            "downloadCount": 14,
             "contentType": "application/zip"
           },
           {
@@ -8195,14 +8195,14 @@
             "name": "journal-skill-suites-v2.7.0.zip",
             "url": "https://github.com/Harzva/pami-skill-suites/releases/download/v2.7.0/journal-skill-suites-v2.7.0.zip",
             "size": 148992508,
-            "downloadCount": 4,
+            "downloadCount": 5,
             "contentType": "application/zip"
           },
           {
             "name": "main-figure-site-v2.7.0.zip",
             "url": "https://github.com/Harzva/pami-skill-suites/releases/download/v2.7.0/main-figure-site-v2.7.0.zip",
             "size": 4676658,
-            "downloadCount": 1,
+            "downloadCount": 2,
             "contentType": "application/zip"
           }
         ]
@@ -8539,7 +8539,7 @@
             "name": "dsh-agent-project-sync-0.1.0.tgz",
             "url": "https://github.com/Harzva/dsh-agent-project-sync/releases/download/v0.1.0/dsh-agent-project-sync-0.1.0.tgz",
             "size": 14057,
-            "downloadCount": 5093,
+            "downloadCount": 5148,
             "contentType": "application/x-gtar"
           }
         ]
@@ -8584,7 +8584,7 @@
             "name": "dsh-cli-store-0.3.0.tgz",
             "url": "https://github.com/Harzva/dsh-cli-store/releases/download/v0.3.0/dsh-cli-store-0.3.0.tgz",
             "size": 24798,
-            "downloadCount": 4905,
+            "downloadCount": 4956,
             "contentType": "application/x-gtar"
           }
         ]
@@ -8629,7 +8629,7 @@
             "name": "dsh-control-plane-0.1.0.tgz",
             "url": "https://github.com/Harzva/dsh-control-plane/releases/download/v0.1.0/dsh-control-plane-0.1.0.tgz",
             "size": 106806,
-            "downloadCount": 4239,
+            "downloadCount": 4290,
             "contentType": "application/x-gtar"
           }
         ]
@@ -8672,42 +8672,42 @@
             "name": "desktop-plugin-catalog.json",
             "url": "https://github.com/Harzva/dsh-desktop-capture/releases/download/v0.3.1/desktop-plugin-catalog.json",
             "size": 38236,
-            "downloadCount": 11,
+            "downloadCount": 12,
             "contentType": "application/json"
           },
           {
             "name": "openbot-dsh-desktop-capture-0.3.0.tgz",
             "url": "https://github.com/Harzva/dsh-desktop-capture/releases/download/v0.3.1/openbot-dsh-desktop-capture-0.3.0.tgz",
             "size": 227540,
-            "downloadCount": 5,
+            "downloadCount": 6,
             "contentType": "application/x-gtar"
           },
           {
             "name": "openbot-dsh-desktop-capture-0.3.1.tgz",
             "url": "https://github.com/Harzva/dsh-desktop-capture/releases/download/v0.3.1/openbot-dsh-desktop-capture-0.3.1.tgz",
             "size": 222838,
-            "downloadCount": 6,
+            "downloadCount": 7,
             "contentType": "application/x-gtar"
           },
           {
             "name": "openbot-dsh-superterminal-0.2.0.tgz",
             "url": "https://github.com/Harzva/dsh-desktop-capture/releases/download/v0.3.1/openbot-dsh-superterminal-0.2.0.tgz",
             "size": 2183,
-            "downloadCount": 4,
+            "downloadCount": 5,
             "contentType": "application/x-gtar"
           },
           {
             "name": "openbot-dsh-superterminal-0.2.1.tgz",
             "url": "https://github.com/Harzva/dsh-desktop-capture/releases/download/v0.3.1/openbot-dsh-superterminal-0.2.1.tgz",
             "size": 2339,
-            "downloadCount": 6,
+            "downloadCount": 7,
             "contentType": "application/x-gtar"
           },
           {
             "name": "SHA256SUMS",
             "url": "https://github.com/Harzva/dsh-desktop-capture/releases/download/v0.3.1/SHA256SUMS",
             "size": 412,
-            "downloadCount": 0,
+            "downloadCount": 1,
             "contentType": "application/octet-stream"
           }
         ]
@@ -8888,7 +8888,7 @@
             "name": "harness-flow-dsh-obsidian-0.1.0-alpha.0.tgz",
             "url": "https://github.com/Harzva/dsh-obsidian/releases/download/v0.1.0-alpha.0/harness-flow-dsh-obsidian-0.1.0-alpha.0.tgz",
             "size": 21393,
-            "downloadCount": 4616,
+            "downloadCount": 4667,
             "contentType": "application/x-gtar"
           }
         ]
@@ -8978,7 +8978,7 @@
             "name": "harness-flow-dsh-uvm-0.1.0-alpha.1.tgz",
             "url": "https://github.com/Harzva/dsh-uvm/releases/download/v0.1.0-alpha.1/harness-flow-dsh-uvm-0.1.0-alpha.1.tgz",
             "size": 21023,
-            "downloadCount": 5150,
+            "downloadCount": 5203,
             "contentType": "application/x-gtar"
           }
         ]
@@ -9167,7 +9167,7 @@
             "name": "gitmarket-android-experimental.apk",
             "url": "https://github.com/Harzva/GitReleaseMarket/releases/download/v0.3.8/gitmarket-android-experimental.apk",
             "size": 15680751,
-            "downloadCount": 6,
+            "downloadCount": 7,
             "contentType": "application/vnd.android.package-archive"
           },
           {
@@ -9268,7 +9268,7 @@
       "primaryLanguage": {
         "name": "TypeScript"
       },
-      "pushedAt": "2026-11-13T06:59:44Z",
+      "pushedAt": "2026-11-14T06:49:21Z",
       "updatedAt": "2026-11-12T08:28:46Z",
       "createdAt": "2026-04-01T03:55:26Z",
       "defaultBranchRef": {
@@ -9361,7 +9361,7 @@
             "name": "mobilecode-site-v0.1.0.zip",
             "url": "https://github.com/Harzva/mobilecode/releases/download/v0.1.0/mobilecode-site-v0.1.0.zip",
             "size": 224820,
-            "downloadCount": 3,
+            "downloadCount": 4,
             "contentType": "application/zip"
           },
           {
@@ -9418,7 +9418,7 @@
             "name": "elsevier-skills-v2.7.0.zip",
             "url": "https://github.com/Harzva/pami-skill-suites/releases/download/v2.7.0/elsevier-skills-v2.7.0.zip",
             "size": 53240882,
-            "downloadCount": 13,
+            "downloadCount": 14,
             "contentType": "application/zip"
           },
           {
@@ -9432,14 +9432,14 @@
             "name": "journal-skill-suites-v2.7.0.zip",
             "url": "https://github.com/Harzva/pami-skill-suites/releases/download/v2.7.0/journal-skill-suites-v2.7.0.zip",
             "size": 148992508,
-            "downloadCount": 4,
+            "downloadCount": 5,
             "contentType": "application/zip"
           },
           {
             "name": "main-figure-site-v2.7.0.zip",
             "url": "https://github.com/Harzva/pami-skill-suites/releases/download/v2.7.0/main-figure-site-v2.7.0.zip",
             "size": 4676658,
-            "downloadCount": 1,
+            "downloadCount": 2,
             "contentType": "application/zip"
           }
         ]
@@ -9871,7 +9871,7 @@
             "name": "dsh-agent-project-sync-0.1.0.tgz",
             "url": "https://github.com/Harzva/dsh-agent-project-sync/releases/download/v0.1.0/dsh-agent-project-sync-0.1.0.tgz",
             "size": 14057,
-            "downloadCount": 5093,
+            "downloadCount": 5148,
             "contentType": "application/x-gtar"
           }
         ]
@@ -9916,7 +9916,7 @@
             "name": "dsh-cli-store-0.3.0.tgz",
             "url": "https://github.com/Harzva/dsh-cli-store/releases/download/v0.3.0/dsh-cli-store-0.3.0.tgz",
             "size": 24798,
-            "downloadCount": 4905,
+            "downloadCount": 4956,
             "contentType": "application/x-gtar"
           }
         ]
@@ -9961,7 +9961,7 @@
             "name": "dsh-control-plane-0.1.0.tgz",
             "url": "https://github.com/Harzva/dsh-control-plane/releases/download/v0.1.0/dsh-control-plane-0.1.0.tgz",
             "size": 106806,
-            "downloadCount": 4239,
+            "downloadCount": 4290,
             "contentType": "application/x-gtar"
           }
         ]
@@ -10205,7 +10205,7 @@
             "name": "harness-flow-dsh-obsidian-0.1.0-alpha.0.tgz",
             "url": "https://github.com/Harzva/dsh-obsidian/releases/download/v0.1.0-alpha.0/harness-flow-dsh-obsidian-0.1.0-alpha.0.tgz",
             "size": 21393,
-            "downloadCount": 4616,
+            "downloadCount": 4667,
             "contentType": "application/x-gtar"
           }
         ]
@@ -10553,7 +10553,7 @@
             "name": "harness-flow-dsh-uvm-0.1.0-alpha.1.tgz",
             "url": "https://github.com/Harzva/dsh-uvm/releases/download/v0.1.0-alpha.1/harness-flow-dsh-uvm-0.1.0-alpha.1.tgz",
             "size": 21023,
-            "downloadCount": 5150,
+            "downloadCount": 5203,
             "contentType": "application/x-gtar"
           }
         ]
@@ -10900,7 +10900,7 @@
       "primaryLanguage": {
         "name": "Python"
       },
-      "pushedAt": "2026-11-12T11:09:16Z",
+      "pushedAt": "2026-11-13T10:59:01Z",
       "updatedAt": "2026-11-12T12:09:21Z",
       "createdAt": "2026-05-14T09:29:45Z",
       "defaultBranchRef": {
@@ -11053,7 +11053,7 @@
             "name": "elsevier-skills-v2.7.0.zip",
             "url": "https://github.com/Harzva/pami-skill-suites/releases/download/v2.7.0/elsevier-skills-v2.7.0.zip",
             "size": 53240882,
-            "downloadCount": 13,
+            "downloadCount": 14,
             "contentType": "application/zip"
           },
           {
@@ -11067,14 +11067,14 @@
             "name": "journal-skill-suites-v2.7.0.zip",
             "url": "https://github.com/Harzva/pami-skill-suites/releases/download/v2.7.0/journal-skill-suites-v2.7.0.zip",
             "size": 148992508,
-            "downloadCount": 4,
+            "downloadCount": 5,
             "contentType": "application/zip"
           },
           {
             "name": "main-figure-site-v2.7.0.zip",
             "url": "https://github.com/Harzva/pami-skill-suites/releases/download/v2.7.0/main-figure-site-v2.7.0.zip",
             "size": 4676658,
-            "downloadCount": 1,
+            "downloadCount": 2,
             "contentType": "application/zip"
           }
         ]
