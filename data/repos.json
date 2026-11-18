@@ -89,7 +89,7 @@
     "primaryLanguage": {
       "name": "TypeScript"
     },
-    "pushedAt": "2026-11-17T09:12:43Z",
+    "pushedAt": "2026-11-18T08:31:42Z",
     "updatedAt": "2026-11-12T09:19:57Z",
     "createdAt": "2026-05-12T09:49:47Z",
     "defaultBranchRef": {
@@ -1219,7 +1219,7 @@
           "name": "dsh-agent-project-sync-0.1.0.tgz",
           "url": "https://github.com/Harzva/dsh-agent-project-sync/releases/download/v0.1.0/dsh-agent-project-sync-0.1.0.tgz",
           "size": 14057,
-          "downloadCount": 5312,
+          "downloadCount": 5377,
           "contentType": "application/x-gtar"
         }
       ]
@@ -1264,7 +1264,7 @@
           "name": "dsh-cli-store-0.3.0.tgz",
           "url": "https://github.com/Harzva/dsh-cli-store/releases/download/v0.3.0/dsh-cli-store-0.3.0.tgz",
           "size": 24798,
-          "downloadCount": 5122,
+          "downloadCount": 5187,
           "contentType": "application/x-gtar"
         }
       ]
@@ -1309,7 +1309,7 @@
           "name": "dsh-control-plane-0.1.0.tgz",
           "url": "https://github.com/Harzva/dsh-control-plane/releases/download/v0.1.0/dsh-control-plane-0.1.0.tgz",
           "size": 106806,
-          "downloadCount": 4453,
+          "downloadCount": 4518,
           "contentType": "application/x-gtar"
         }
       ]
@@ -1451,6 +1451,33 @@
       "multi-agent"
     ],
     "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/dsh-groupx",
+    "pages": {
+      "enabled": false
+    },
+    "latestRelease": null
+  },
+  {
+    "name": "dsh-interview-workbench",
+    "nameWithOwner": "Harzva/dsh-interview-workbench",
+    "url": "https://github.com/Harzva/dsh-interview-workbench",
+    "description": "DeepSeek Harness 面试与笔试练习工作台，附两道合成示例。",
+    "isPrivate": false,
+    "isArchived": false,
+    "isFork": false,
+    "primaryLanguage": {
+      "name": "JavaScript"
+    },
+    "pushedAt": "2026-11-17T19:01:27Z",
+    "updatedAt": "2026-11-17T19:01:32Z",
+    "createdAt": "2026-11-17T18:59:09Z",
+    "defaultBranchRef": {
+      "name": "main"
+    },
+    "homepageUrl": "",
+    "stargazerCount": 0,
+    "forkCount": 0,
+    "repositoryTopics": [],
+    "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/dsh-interview-workbench",
     "pages": {
       "enabled": false
     },
@@ -1658,7 +1685,7 @@
           "name": "harness-flow-dsh-obsidian-0.1.0-alpha.0.tgz",
           "url": "https://github.com/Harzva/dsh-obsidian/releases/download/v0.1.0-alpha.0/harness-flow-dsh-obsidian-0.1.0-alpha.0.tgz",
           "size": 21393,
-          "downloadCount": 4831,
+          "downloadCount": 4896,
           "contentType": "application/x-gtar"
         }
       ]
@@ -2006,7 +2033,7 @@
           "name": "harness-flow-dsh-uvm-0.1.0-alpha.1.tgz",
           "url": "https://github.com/Harzva/dsh-uvm/releases/download/v0.1.0-alpha.1/harness-flow-dsh-uvm-0.1.0-alpha.1.tgz",
           "size": 21023,
-          "downloadCount": 5366,
+          "downloadCount": 5431,
           "contentType": "application/x-gtar"
         }
       ]
@@ -2118,7 +2145,7 @@
     "primaryLanguage": {
       "name": "TypeScript"
     },
-    "pushedAt": "2026-09-14T04:12:44Z",
+    "pushedAt": "2026-11-17T19:02:45Z",
     "updatedAt": "2026-10-07T12:15:54Z",
     "createdAt": "2026-09-13T02:28:43Z",
     "defaultBranchRef": {
@@ -2137,6 +2164,44 @@
     "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/dsh-wemedia-workbench",
     "pages": {
       "enabled": false
+    },
+    "latestRelease": null
+  },
+  {
+    "name": "dsh-workbench-market",
+    "nameWithOwner": "Harzva/dsh-workbench-market",
+    "url": "https://github.com/Harzva/dsh-workbench-market",
+    "description": "Discover Dataelem DSH Desktop and DeepSeek Harness Web workbenches on GitHub",
+    "isPrivate": false,
+    "isArchived": false,
+    "isFork": false,
+    "primaryLanguage": {
+      "name": "Python"
+    },
+    "pushedAt": "2026-11-18T09:15:17Z",
+    "updatedAt": "2026-11-17T17:36:50Z",
+    "createdAt": "2026-11-17T17:17:09Z",
+    "defaultBranchRef": {
+      "name": "main"
+    },
+    "homepageUrl": "https://harzva.github.io/dsh-workbench-market/",
+    "stargazerCount": 0,
+    "forkCount": 0,
+    "repositoryTopics": [
+      "deepseek-harness",
+      "dsh",
+      "workbench"
+    ],
+    "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/dsh-workbench-market",
+    "pages": {
+      "enabled": true,
+      "url": "https://harzva.github.io/dsh-workbench-market/",
+      "status": null,
+      "source": {
+        "branch": "main",
+        "path": "/"
+      },
+      "httpsEnforced": true
     },
     "latestRelease": null
   },
@@ -2290,6 +2355,33 @@
         "path": "/"
       },
       "httpsEnforced": true
+    },
+    "latestRelease": null
+  },
+  {
+    "name": "gemini-app-as-subagent",
+    "nameWithOwner": "Harzva/gemini-app-as-subagent",
+    "url": "https://github.com/Harzva/gemini-app-as-subagent",
+    "description": "Turn macOS Gemini.app, Antigravity CLI, and Gemini API monthly credits into fast, scriptable subagents via CLI, local-file mailbox, and stdio MCP.",
+    "isPrivate": false,
+    "isArchived": false,
+    "isFork": false,
+    "primaryLanguage": {
+      "name": "Python"
+    },
+    "pushedAt": "2026-11-17T19:54:56Z",
+    "updatedAt": "2026-11-17T19:07:16Z",
+    "createdAt": "2026-11-17T19:07:04Z",
+    "defaultBranchRef": {
+      "name": "main"
+    },
+    "homepageUrl": "",
+    "stargazerCount": 0,
+    "forkCount": 0,
+    "repositoryTopics": [],
+    "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/gemini-app-as-subagent",
+    "pages": {
+      "enabled": false
     },
     "latestRelease": null
   },
@@ -2765,7 +2857,7 @@
     "primaryLanguage": {
       "name": "Python"
     },
-    "pushedAt": "2026-11-16T11:23:01Z",
+    "pushedAt": "2026-11-17T11:55:44Z",
     "updatedAt": "2026-11-12T12:15:33Z",
     "createdAt": "2026-05-14T09:29:39Z",
     "defaultBranchRef": {
@@ -2799,7 +2891,7 @@
     "primaryLanguage": {
       "name": "Python"
     },
-    "pushedAt": "2026-11-16T11:16:21Z",
+    "pushedAt": "2026-11-17T11:51:10Z",
     "updatedAt": "2026-11-12T12:07:09Z",
     "createdAt": "2026-05-14T09:27:13Z",
     "defaultBranchRef": {
@@ -2833,7 +2925,7 @@
     "primaryLanguage": {
       "name": "Python"
     },
-    "pushedAt": "2026-11-16T11:34:49Z",
+    "pushedAt": "2026-11-17T12:00:36Z",
     "updatedAt": "2026-11-12T12:26:19Z",
     "createdAt": "2026-05-14T09:29:34Z",
     "defaultBranchRef": {
@@ -2867,7 +2959,7 @@
     "primaryLanguage": {
       "name": "Python"
     },
-    "pushedAt": "2026-11-16T11:17:02Z",
+    "pushedAt": "2026-11-17T11:51:52Z",
     "updatedAt": "2026-11-12T12:09:21Z",
     "createdAt": "2026-05-14T09:29:45Z",
     "defaultBranchRef": {
@@ -3111,7 +3203,7 @@
     "primaryLanguage": {
       "name": "TypeScript"
     },
-    "pushedAt": "2026-11-17T08:13:35Z",
+    "pushedAt": "2026-11-18T07:46:54Z",
     "updatedAt": "2026-11-15T16:07:43Z",
     "createdAt": "2026-04-01T03:55:26Z",
     "defaultBranchRef": {
@@ -3953,14 +4045,14 @@
     "primaryLanguage": {
       "name": "Python"
     },
-    "pushedAt": "2026-11-17T08:39:42Z",
-    "updatedAt": "2026-11-17T02:42:27Z",
+    "pushedAt": "2026-11-18T09:29:17Z",
+    "updatedAt": "2026-11-17T20:00:19Z",
     "createdAt": "2026-11-17T02:42:14Z",
     "defaultBranchRef": {
       "name": "main"
     },
     "homepageUrl": "",
-    "stargazerCount": 0,
+    "stargazerCount": 1,
     "forkCount": 0,
     "repositoryTopics": [],
     "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/wechat-bot",
