@@ -1,11 +1,11 @@
 {
   "summary": {
-    "generatedAt": "2026-11-18T11:42:22.935336+00:00",
+    "generatedAt": "2026-11-19T11:40:16.900175+00:00",
     "owner": "Harzva",
     "mode": "skills",
-    "publicRepositories": 165,
+    "publicRepositories": 166,
     "forks": 47,
-    "pages": 35,
+    "pages": 36,
     "releases": 23,
     "skills": 55,
     "artifacts": 44,
@@ -13,6 +13,33 @@
   },
   "categories": {
     "AI Agents and LLM Systems": [
+      {
+        "name": "A2Page",
+        "nameWithOwner": "Harzva/A2Page",
+        "url": "https://github.com/Harzva/A2Page",
+        "description": "Persistent, revisable agent-generated pages powered by A2UI.",
+        "isPrivate": false,
+        "isArchived": false,
+        "isFork": false,
+        "primaryLanguage": {
+          "name": "JavaScript"
+        },
+        "pushedAt": "2026-11-18T13:05:53Z",
+        "updatedAt": "2026-11-18T13:05:57Z",
+        "createdAt": "2026-11-18T13:05:46Z",
+        "defaultBranchRef": {
+          "name": "main"
+        },
+        "homepageUrl": "",
+        "stargazerCount": 0,
+        "forkCount": 0,
+        "repositoryTopics": [],
+        "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/A2Page",
+        "pages": {
+          "enabled": false
+        },
+        "latestRelease": null
+      },
       {
         "name": "gemini-app-as-subagent",
         "nameWithOwner": "Harzva/gemini-app-as-subagent",
@@ -592,44 +619,6 @@
     ],
     "Pages and Live Demos": [
       {
-        "name": "dsh-workbench-market",
-        "nameWithOwner": "Harzva/dsh-workbench-market",
-        "url": "https://github.com/Harzva/dsh-workbench-market",
-        "description": "Discover Dataelem DSH Desktop and DeepSeek Harness Web workbenches on GitHub",
-        "isPrivate": false,
-        "isArchived": false,
-        "isFork": false,
-        "primaryLanguage": {
-          "name": "Python"
-        },
-        "pushedAt": "2026-11-18T09:15:17Z",
-        "updatedAt": "2026-11-17T17:36:50Z",
-        "createdAt": "2026-11-17T17:17:09Z",
-        "defaultBranchRef": {
-          "name": "main"
-        },
-        "homepageUrl": "https://harzva.github.io/dsh-workbench-market/",
-        "stargazerCount": 0,
-        "forkCount": 0,
-        "repositoryTopics": [
-          "deepseek-harness",
-          "dsh",
-          "workbench"
-        ],
-        "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/dsh-workbench-market",
-        "pages": {
-          "enabled": true,
-          "url": "https://harzva.github.io/dsh-workbench-market/",
-          "status": null,
-          "source": {
-            "branch": "main",
-            "path": "/"
-          },
-          "httpsEnforced": true
-        },
-        "latestRelease": null
-      },
-      {
         "name": "Agent-Job-Interview",
         "nameWithOwner": "Harzva/Agent-Job-Interview",
         "url": "https://github.com/Harzva/Agent-Job-Interview",
@@ -640,7 +629,7 @@
         "primaryLanguage": {
           "name": "TypeScript"
         },
-        "pushedAt": "2026-11-18T08:31:42Z",
+        "pushedAt": "2026-11-19T08:47:43Z",
         "updatedAt": "2026-11-12T09:19:57Z",
         "createdAt": "2026-05-12T09:49:47Z",
         "defaultBranchRef": {
@@ -674,7 +663,7 @@
         "primaryLanguage": {
           "name": "TypeScript"
         },
-        "pushedAt": "2026-11-18T07:46:54Z",
+        "pushedAt": "2026-11-19T07:42:25Z",
         "updatedAt": "2026-11-15T16:07:43Z",
         "createdAt": "2026-04-01T03:55:26Z",
         "defaultBranchRef": {
@@ -717,6 +706,99 @@
         }
       },
       {
+        "name": "Harzva.github.io",
+        "nameWithOwner": "Harzva/Harzva.github.io",
+        "url": "https://github.com/Harzva/Harzva.github.io",
+        "description": "Personal portfolio, papers, Agent projects, and article collections.",
+        "isPrivate": false,
+        "isArchived": false,
+        "isFork": false,
+        "primaryLanguage": {
+          "name": "JavaScript"
+        },
+        "pushedAt": "2026-11-19T06:59:15Z",
+        "updatedAt": "2026-10-29T07:27:16Z",
+        "createdAt": "2022-10-29T13:10:46Z",
+        "defaultBranchRef": {
+          "name": "master"
+        },
+        "homepageUrl": "https://harzva.github.io/",
+        "stargazerCount": 0,
+        "forkCount": 0,
+        "repositoryTopics": [],
+        "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/Harzva.github.io",
+        "pages": {
+          "enabled": true,
+          "url": "https://harzva.github.io/",
+          "status": "built",
+          "source": {
+            "branch": "master",
+            "path": "/"
+          },
+          "httpsEnforced": true
+        },
+        "latestRelease": null
+      },
+      {
+        "name": "app-use",
+        "nameWithOwner": "Harzva/app-use",
+        "url": "https://github.com/Harzva/app-use",
+        "description": "App-Use Studio (macOS): Window-scoped desktop App-Use & Meta-RPA engine — headless AX concurrency, anti-ban guardrails, WeChat/WeCom/DingTalk/Feishu/XHS & any unseen app, stdio MCP + Bot Studio.",
+        "isPrivate": false,
+        "isArchived": false,
+        "isFork": false,
+        "primaryLanguage": {
+          "name": "Python"
+        },
+        "pushedAt": "2026-11-19T06:55:53Z",
+        "updatedAt": "2026-11-19T06:53:54Z",
+        "createdAt": "2026-11-17T02:42:14Z",
+        "defaultBranchRef": {
+          "name": "main"
+        },
+        "homepageUrl": "https://harzva.github.io/app-use/",
+        "stargazerCount": 1,
+        "forkCount": 0,
+        "repositoryTopics": [
+          "accessibility",
+          "ai-agents",
+          "app-use",
+          "desktop-automation",
+          "macos",
+          "mcp",
+          "rpa",
+          "wechat"
+        ],
+        "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/app-use",
+        "pages": {
+          "enabled": true,
+          "url": "https://harzva.github.io/app-use/",
+          "status": "built",
+          "source": {
+            "branch": "main",
+            "path": "/docs"
+          },
+          "httpsEnforced": true
+        },
+        "latestRelease": {
+          "name": "WeChat Bot v2.4.37 — macOS Apple Silicon",
+          "tagName": "v2.4.37",
+          "url": "https://github.com/Harzva/app-use/releases/tag/v2.4.37",
+          "publishedAt": "2026-11-17T08:39:42Z",
+          "prerelease": false,
+          "draft": false,
+          "assets": [
+            {
+              "name": "WeChat-Bot-2.4.37-macOS-arm64.zip",
+              "url": "https://github.com/Harzva/app-use/releases/download/v2.4.37/WeChat-Bot-2.4.37-macOS-arm64.zip",
+              "size": 921537,
+              "downloadCount": 1,
+              "contentType": "application/zip"
+            }
+          ]
+        }
+      },
+      {
         "name": "harzva-release-hub",
         "nameWithOwner": "Harzva/harzva-release-hub",
         "url": "https://github.com/Harzva/harzva-release-hub",
@@ -727,7 +809,7 @@
         "primaryLanguage": {
           "name": "Python"
         },
-        "pushedAt": "2026-11-17T12:00:36Z",
+        "pushedAt": "2026-11-18T11:52:38Z",
         "updatedAt": "2026-11-12T12:26:19Z",
         "createdAt": "2026-05-14T09:29:34Z",
         "defaultBranchRef": {
@@ -761,7 +843,7 @@
         "primaryLanguage": {
           "name": "Python"
         },
-        "pushedAt": "2026-11-17T11:55:44Z",
+        "pushedAt": "2026-11-18T11:46:02Z",
         "updatedAt": "2026-11-12T12:15:33Z",
         "createdAt": "2026-05-14T09:29:39Z",
         "defaultBranchRef": {
@@ -795,7 +877,7 @@
         "primaryLanguage": {
           "name": "Python"
         },
-        "pushedAt": "2026-11-17T11:51:10Z",
+        "pushedAt": "2026-11-18T11:41:26Z",
         "updatedAt": "2026-11-12T12:07:09Z",
         "createdAt": "2026-05-14T09:27:13Z",
         "defaultBranchRef": {
@@ -809,6 +891,44 @@
         "pages": {
           "enabled": true,
           "url": "https://harzva.github.io/harzva-project-atlas/",
+          "status": null,
+          "source": {
+            "branch": "main",
+            "path": "/"
+          },
+          "httpsEnforced": true
+        },
+        "latestRelease": null
+      },
+      {
+        "name": "dsh-workbench-market",
+        "nameWithOwner": "Harzva/dsh-workbench-market",
+        "url": "https://github.com/Harzva/dsh-workbench-market",
+        "description": "Discover Dataelem DSH Desktop and DeepSeek Harness Web workbenches on GitHub",
+        "isPrivate": false,
+        "isArchived": false,
+        "isFork": false,
+        "primaryLanguage": {
+          "name": "Python"
+        },
+        "pushedAt": "2026-11-18T09:15:17Z",
+        "updatedAt": "2026-11-17T17:36:50Z",
+        "createdAt": "2026-11-17T17:17:09Z",
+        "defaultBranchRef": {
+          "name": "main"
+        },
+        "homepageUrl": "https://harzva.github.io/dsh-workbench-market/",
+        "stargazerCount": 0,
+        "forkCount": 0,
+        "repositoryTopics": [
+          "deepseek-harness",
+          "dsh",
+          "workbench"
+        ],
+        "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/dsh-workbench-market",
+        "pages": {
+          "enabled": true,
+          "url": "https://harzva.github.io/dsh-workbench-market/",
           "status": null,
           "source": {
             "branch": "main",
@@ -846,40 +966,6 @@
           "status": null,
           "source": {
             "branch": "main",
-            "path": "/"
-          },
-          "httpsEnforced": true
-        },
-        "latestRelease": null
-      },
-      {
-        "name": "Harzva.github.io",
-        "nameWithOwner": "Harzva/Harzva.github.io",
-        "url": "https://github.com/Harzva/Harzva.github.io",
-        "description": "Personal portfolio, papers, Agent projects, and article collections.",
-        "isPrivate": false,
-        "isArchived": false,
-        "isFork": false,
-        "primaryLanguage": {
-          "name": "JavaScript"
-        },
-        "pushedAt": "2026-11-17T04:41:44Z",
-        "updatedAt": "2026-10-29T07:27:16Z",
-        "createdAt": "2022-10-29T13:10:46Z",
-        "defaultBranchRef": {
-          "name": "master"
-        },
-        "homepageUrl": "https://harzva.github.io/",
-        "stargazerCount": 0,
-        "forkCount": 0,
-        "repositoryTopics": [],
-        "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/Harzva.github.io",
-        "pages": {
-          "enabled": true,
-          "url": "https://harzva.github.io/",
-          "status": "built",
-          "source": {
-            "branch": "master",
             "path": "/"
           },
           "httpsEnforced": true
@@ -1722,49 +1808,6 @@
     ],
     "Release-ready Apps and Tools": [
       {
-        "name": "wechat-bot",
-        "nameWithOwner": "Harzva/wechat-bot",
-        "url": "https://github.com/Harzva/wechat-bot",
-        "description": "macOS 微信智能客服 RPA：一键托管好友 · AI 自动回复（知识库+历史记忆+人设）· 转人工协同 · 防封频控",
-        "isPrivate": false,
-        "isArchived": false,
-        "isFork": false,
-        "primaryLanguage": {
-          "name": "Python"
-        },
-        "pushedAt": "2026-11-18T09:29:17Z",
-        "updatedAt": "2026-11-17T20:00:19Z",
-        "createdAt": "2026-11-17T02:42:14Z",
-        "defaultBranchRef": {
-          "name": "main"
-        },
-        "homepageUrl": "",
-        "stargazerCount": 1,
-        "forkCount": 0,
-        "repositoryTopics": [],
-        "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/wechat-bot",
-        "pages": {
-          "enabled": false
-        },
-        "latestRelease": {
-          "name": "WeChat Bot v2.4.37 — macOS Apple Silicon",
-          "tagName": "v2.4.37",
-          "url": "https://github.com/Harzva/wechat-bot/releases/tag/v2.4.37",
-          "publishedAt": "2026-11-17T08:39:42Z",
-          "prerelease": false,
-          "draft": false,
-          "assets": [
-            {
-              "name": "WeChat-Bot-2.4.37-macOS-arm64.zip",
-              "url": "https://github.com/Harzva/wechat-bot/releases/download/v2.4.37/WeChat-Bot-2.4.37-macOS-arm64.zip",
-              "size": 921537,
-              "downloadCount": 1,
-              "contentType": "application/zip"
-            }
-          ]
-        }
-      },
-      {
         "name": "dsh-wechat-usechat",
         "nameWithOwner": "Harzva/dsh-wechat-usechat",
         "url": "https://github.com/Harzva/dsh-wechat-usechat",
@@ -1938,6 +1981,40 @@
     ],
     "Skills and Agent Workflows": [
       {
+        "name": "harzva-skills-hub",
+        "nameWithOwner": "Harzva/harzva-skills-hub",
+        "url": "https://github.com/Harzva/harzva-skills-hub",
+        "description": "Auto-updating GitHub Pages registry of Harzva Codex skills, workflow skills, and agent recipes.",
+        "isPrivate": false,
+        "isArchived": false,
+        "isFork": false,
+        "primaryLanguage": {
+          "name": "Python"
+        },
+        "pushedAt": "2026-11-18T11:42:23Z",
+        "updatedAt": "2026-11-12T12:09:21Z",
+        "createdAt": "2026-05-14T09:29:45Z",
+        "defaultBranchRef": {
+          "name": "main"
+        },
+        "homepageUrl": "https://harzva.github.io/harzva-skills-hub/",
+        "stargazerCount": 0,
+        "forkCount": 0,
+        "repositoryTopics": [],
+        "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/harzva-skills-hub",
+        "pages": {
+          "enabled": true,
+          "url": "https://harzva.github.io/harzva-skills-hub/",
+          "status": null,
+          "source": {
+            "branch": "main",
+            "path": "/"
+          },
+          "httpsEnforced": true
+        },
+        "latestRelease": null
+      },
+      {
         "name": "dsh-wemedia-workbench",
         "nameWithOwner": "Harzva/dsh-wemedia-workbench",
         "url": "https://github.com/Harzva/dsh-wemedia-workbench",
@@ -1967,40 +2044,6 @@
         "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/dsh-wemedia-workbench",
         "pages": {
           "enabled": false
-        },
-        "latestRelease": null
-      },
-      {
-        "name": "harzva-skills-hub",
-        "nameWithOwner": "Harzva/harzva-skills-hub",
-        "url": "https://github.com/Harzva/harzva-skills-hub",
-        "description": "Auto-updating GitHub Pages registry of Harzva Codex skills, workflow skills, and agent recipes.",
-        "isPrivate": false,
-        "isArchived": false,
-        "isFork": false,
-        "primaryLanguage": {
-          "name": "Python"
-        },
-        "pushedAt": "2026-11-17T11:51:52Z",
-        "updatedAt": "2026-11-12T12:09:21Z",
-        "createdAt": "2026-05-14T09:29:45Z",
-        "defaultBranchRef": {
-          "name": "main"
-        },
-        "homepageUrl": "https://harzva.github.io/harzva-skills-hub/",
-        "stargazerCount": 0,
-        "forkCount": 0,
-        "repositoryTopics": [],
-        "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/harzva-skills-hub",
-        "pages": {
-          "enabled": true,
-          "url": "https://harzva.github.io/harzva-skills-hub/",
-          "status": null,
-          "source": {
-            "branch": "main",
-            "path": "/"
-          },
-          "httpsEnforced": true
         },
         "latestRelease": null
       },
@@ -2503,7 +2546,7 @@
               "name": "dsh-cli-store-0.3.0.tgz",
               "url": "https://github.com/Harzva/dsh-cli-store/releases/download/v0.3.0/dsh-cli-store-0.3.0.tgz",
               "size": 24798,
-              "downloadCount": 5187,
+              "downloadCount": 5236,
               "contentType": "application/x-gtar"
             }
           ]
@@ -2551,7 +2594,7 @@
               "name": "dsh-agent-project-sync-0.1.0.tgz",
               "url": "https://github.com/Harzva/dsh-agent-project-sync/releases/download/v0.1.0/dsh-agent-project-sync-0.1.0.tgz",
               "size": 14057,
-              "downloadCount": 5377,
+              "downloadCount": 5426,
               "contentType": "application/x-gtar"
             }
           ]
@@ -2641,7 +2684,7 @@
               "name": "dsh-control-plane-0.1.0.tgz",
               "url": "https://github.com/Harzva/dsh-control-plane/releases/download/v0.1.0/dsh-control-plane-0.1.0.tgz",
               "size": 106806,
-              "downloadCount": 4518,
+              "downloadCount": 4569,
               "contentType": "application/x-gtar"
             }
           ]
@@ -2762,7 +2805,7 @@
               "name": "harness-flow-dsh-uvm-0.1.0-alpha.1.tgz",
               "url": "https://github.com/Harzva/dsh-uvm/releases/download/v0.1.0-alpha.1/harness-flow-dsh-uvm-0.1.0-alpha.1.tgz",
               "size": 21023,
-              "downloadCount": 5431,
+              "downloadCount": 5480,
               "contentType": "application/x-gtar"
             }
           ]
@@ -2809,7 +2852,7 @@
               "name": "harness-flow-dsh-obsidian-0.1.0-alpha.0.tgz",
               "url": "https://github.com/Harzva/dsh-obsidian/releases/download/v0.1.0-alpha.0/harness-flow-dsh-obsidian-0.1.0-alpha.0.tgz",
               "size": 21393,
-              "downloadCount": 4896,
+              "downloadCount": 4947,
               "contentType": "application/x-gtar"
             }
           ]
@@ -5662,7 +5705,7 @@
       "assetName": "dsh-agent-project-sync-0.1.0.tgz",
       "assetUrl": "https://github.com/Harzva/dsh-agent-project-sync/releases/download/v0.1.0/dsh-agent-project-sync-0.1.0.tgz",
       "size": 14057,
-      "downloadCount": 5377,
+      "downloadCount": 5426,
       "kind": "Archive",
       "functionCategory": "AI Agent Systems",
       "releaseName": "dsh-agent-project-sync v0.1.0",
@@ -5752,7 +5795,7 @@
       "assetName": "dsh-cli-store-0.3.0.tgz",
       "assetUrl": "https://github.com/Harzva/dsh-cli-store/releases/download/v0.3.0/dsh-cli-store-0.3.0.tgz",
       "size": 24798,
-      "downloadCount": 5187,
+      "downloadCount": 5236,
       "kind": "Archive",
       "functionCategory": "CLI and Infrastructure",
       "releaseName": "dsh-cli-store v0.3.0",
@@ -5777,6 +5820,24 @@
       "tagName": "v0.3.8",
       "releaseUrl": "https://github.com/Harzva/GitReleaseMarket/releases/tag/v0.3.8",
       "publishedAt": "2026-06-21T09:07:40Z",
+      "isFork": false
+    },
+    {
+      "repo": "Harzva/app-use",
+      "repoName": "app-use",
+      "repoUrl": "https://github.com/Harzva/app-use",
+      "description": "App-Use Studio (macOS): Window-scoped desktop App-Use & Meta-RPA engine — headless AX concurrency, anti-ban guardrails, WeChat/WeCom/DingTalk/Feishu/XHS & any unseen app, stdio MCP + Bot Studio.",
+      "language": "Python",
+      "assetName": "WeChat-Bot-2.4.37-macOS-arm64.zip",
+      "assetUrl": "https://github.com/Harzva/app-use/releases/download/v2.4.37/WeChat-Bot-2.4.37-macOS-arm64.zip",
+      "size": 921537,
+      "downloadCount": 1,
+      "kind": "Archive",
+      "functionCategory": "Desktop Apps",
+      "releaseName": "WeChat Bot v2.4.37 — macOS Apple Silicon",
+      "tagName": "v2.4.37",
+      "releaseUrl": "https://github.com/Harzva/app-use/releases/tag/v2.4.37",
+      "publishedAt": "2026-11-17T08:39:42Z",
       "isFork": false
     },
     {
@@ -5978,24 +6039,6 @@
       "isFork": false
     },
     {
-      "repo": "Harzva/wechat-bot",
-      "repoName": "wechat-bot",
-      "repoUrl": "https://github.com/Harzva/wechat-bot",
-      "description": "macOS 微信智能客服 RPA：一键托管好友 · AI 自动回复（知识库+历史记忆+人设）· 转人工协同 · 防封频控",
-      "language": "Python",
-      "assetName": "WeChat-Bot-2.4.37-macOS-arm64.zip",
-      "assetUrl": "https://github.com/Harzva/wechat-bot/releases/download/v2.4.37/WeChat-Bot-2.4.37-macOS-arm64.zip",
-      "size": 921537,
-      "downloadCount": 1,
-      "kind": "Archive",
-      "functionCategory": "Desktop Apps",
-      "releaseName": "WeChat Bot v2.4.37 — macOS Apple Silicon",
-      "tagName": "v2.4.37",
-      "releaseUrl": "https://github.com/Harzva/wechat-bot/releases/tag/v2.4.37",
-      "publishedAt": "2026-11-17T08:39:42Z",
-      "isFork": false
-    },
-    {
       "repo": "Harzva/dsh-control-plane",
       "repoName": "dsh-control-plane",
       "repoUrl": "https://github.com/Harzva/dsh-control-plane",
@@ -6004,7 +6047,7 @@
       "assetName": "dsh-control-plane-0.1.0.tgz",
       "assetUrl": "https://github.com/Harzva/dsh-control-plane/releases/download/v0.1.0/dsh-control-plane-0.1.0.tgz",
       "size": 106806,
-      "downloadCount": 4518,
+      "downloadCount": 4569,
       "kind": "Archive",
       "functionCategory": "General Utilities",
       "releaseName": "dsh-control-plane v0.1.0",
@@ -6076,7 +6119,7 @@
       "assetName": "harness-flow-dsh-uvm-0.1.0-alpha.1.tgz",
       "assetUrl": "https://github.com/Harzva/dsh-uvm/releases/download/v0.1.0-alpha.1/harness-flow-dsh-uvm-0.1.0-alpha.1.tgz",
       "size": 21023,
-      "downloadCount": 5431,
+      "downloadCount": 5480,
       "kind": "Archive",
       "functionCategory": "General Utilities",
       "releaseName": "dsh-uvm v0.1.0-alpha.1",
@@ -6148,7 +6191,7 @@
       "assetName": "harness-flow-dsh-obsidian-0.1.0-alpha.0.tgz",
       "assetUrl": "https://github.com/Harzva/dsh-obsidian/releases/download/v0.1.0-alpha.0/harness-flow-dsh-obsidian-0.1.0-alpha.0.tgz",
       "size": 21393,
-      "downloadCount": 4896,
+      "downloadCount": 4947,
       "kind": "Archive",
       "functionCategory": "Learning and Knowledge",
       "releaseName": "dsh-obsidian v0.1.0-alpha.0",
@@ -6343,20 +6386,20 @@
     ],
     "Desktop Apps": [
       {
-        "repo": "Harzva/wechat-bot",
-        "repoName": "wechat-bot",
-        "repoUrl": "https://github.com/Harzva/wechat-bot",
-        "description": "macOS 微信智能客服 RPA：一键托管好友 · AI 自动回复（知识库+历史记忆+人设）· 转人工协同 · 防封频控",
+        "repo": "Harzva/app-use",
+        "repoName": "app-use",
+        "repoUrl": "https://github.com/Harzva/app-use",
+        "description": "App-Use Studio (macOS): Window-scoped desktop App-Use & Meta-RPA engine — headless AX concurrency, anti-ban guardrails, WeChat/WeCom/DingTalk/Feishu/XHS & any unseen app, stdio MCP + Bot Studio.",
         "language": "Python",
         "assetName": "WeChat-Bot-2.4.37-macOS-arm64.zip",
-        "assetUrl": "https://github.com/Harzva/wechat-bot/releases/download/v2.4.37/WeChat-Bot-2.4.37-macOS-arm64.zip",
+        "assetUrl": "https://github.com/Harzva/app-use/releases/download/v2.4.37/WeChat-Bot-2.4.37-macOS-arm64.zip",
         "size": 921537,
         "downloadCount": 1,
         "kind": "Archive",
         "functionCategory": "Desktop Apps",
         "releaseName": "WeChat Bot v2.4.37 — macOS Apple Silicon",
         "tagName": "v2.4.37",
-        "releaseUrl": "https://github.com/Harzva/wechat-bot/releases/tag/v2.4.37",
+        "releaseUrl": "https://github.com/Harzva/app-use/releases/tag/v2.4.37",
         "publishedAt": "2026-11-17T08:39:42Z",
         "isFork": false
       },
@@ -6569,7 +6612,7 @@
         "assetName": "dsh-cli-store-0.3.0.tgz",
         "assetUrl": "https://github.com/Harzva/dsh-cli-store/releases/download/v0.3.0/dsh-cli-store-0.3.0.tgz",
         "size": 24798,
-        "downloadCount": 5187,
+        "downloadCount": 5236,
         "kind": "Archive",
         "functionCategory": "CLI and Infrastructure",
         "releaseName": "dsh-cli-store v0.3.0",
@@ -6787,7 +6830,7 @@
         "assetName": "dsh-agent-project-sync-0.1.0.tgz",
         "assetUrl": "https://github.com/Harzva/dsh-agent-project-sync/releases/download/v0.1.0/dsh-agent-project-sync-0.1.0.tgz",
         "size": 14057,
-        "downloadCount": 5377,
+        "downloadCount": 5426,
         "kind": "Archive",
         "functionCategory": "AI Agent Systems",
         "releaseName": "dsh-agent-project-sync v0.1.0",
@@ -6897,7 +6940,7 @@
         "assetName": "harness-flow-dsh-obsidian-0.1.0-alpha.0.tgz",
         "assetUrl": "https://github.com/Harzva/dsh-obsidian/releases/download/v0.1.0-alpha.0/harness-flow-dsh-obsidian-0.1.0-alpha.0.tgz",
         "size": 21393,
-        "downloadCount": 4896,
+        "downloadCount": 4947,
         "kind": "Archive",
         "functionCategory": "Learning and Knowledge",
         "releaseName": "dsh-obsidian v0.1.0-alpha.0",
@@ -7007,7 +7050,7 @@
         "assetName": "dsh-control-plane-0.1.0.tgz",
         "assetUrl": "https://github.com/Harzva/dsh-control-plane/releases/download/v0.1.0/dsh-control-plane-0.1.0.tgz",
         "size": 106806,
-        "downloadCount": 4518,
+        "downloadCount": 4569,
         "kind": "Archive",
         "functionCategory": "General Utilities",
         "releaseName": "dsh-control-plane v0.1.0",
@@ -7043,7 +7086,7 @@
         "assetName": "harness-flow-dsh-uvm-0.1.0-alpha.1.tgz",
         "assetUrl": "https://github.com/Harzva/dsh-uvm/releases/download/v0.1.0-alpha.1/harness-flow-dsh-uvm-0.1.0-alpha.1.tgz",
         "size": 21023,
-        "downloadCount": 5431,
+        "downloadCount": 5480,
         "kind": "Archive",
         "functionCategory": "General Utilities",
         "releaseName": "dsh-uvm v0.1.0-alpha.1",
@@ -7066,7 +7109,7 @@
       "primaryLanguage": {
         "name": "TypeScript"
       },
-      "pushedAt": "2026-11-18T08:31:42Z",
+      "pushedAt": "2026-11-19T08:47:43Z",
       "updatedAt": "2026-11-12T09:19:57Z",
       "createdAt": "2026-05-12T09:49:47Z",
       "defaultBranchRef": {
@@ -7245,6 +7288,65 @@
         "httpsEnforced": true
       },
       "latestRelease": null
+    },
+    {
+      "name": "app-use",
+      "nameWithOwner": "Harzva/app-use",
+      "url": "https://github.com/Harzva/app-use",
+      "description": "App-Use Studio (macOS): Window-scoped desktop App-Use & Meta-RPA engine — headless AX concurrency, anti-ban guardrails, WeChat/WeCom/DingTalk/Feishu/XHS & any unseen app, stdio MCP + Bot Studio.",
+      "isPrivate": false,
+      "isArchived": false,
+      "isFork": false,
+      "primaryLanguage": {
+        "name": "Python"
+      },
+      "pushedAt": "2026-11-19T06:55:53Z",
+      "updatedAt": "2026-11-19T06:53:54Z",
+      "createdAt": "2026-11-17T02:42:14Z",
+      "defaultBranchRef": {
+        "name": "main"
+      },
+      "homepageUrl": "https://harzva.github.io/app-use/",
+      "stargazerCount": 1,
+      "forkCount": 0,
+      "repositoryTopics": [
+        "accessibility",
+        "ai-agents",
+        "app-use",
+        "desktop-automation",
+        "macos",
+        "mcp",
+        "rpa",
+        "wechat"
+      ],
+      "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/app-use",
+      "pages": {
+        "enabled": true,
+        "url": "https://harzva.github.io/app-use/",
+        "status": "built",
+        "source": {
+          "branch": "main",
+          "path": "/docs"
+        },
+        "httpsEnforced": true
+      },
+      "latestRelease": {
+        "name": "WeChat Bot v2.4.37 — macOS Apple Silicon",
+        "tagName": "v2.4.37",
+        "url": "https://github.com/Harzva/app-use/releases/tag/v2.4.37",
+        "publishedAt": "2026-11-17T08:39:42Z",
+        "prerelease": false,
+        "draft": false,
+        "assets": [
+          {
+            "name": "WeChat-Bot-2.4.37-macOS-arm64.zip",
+            "url": "https://github.com/Harzva/app-use/releases/download/v2.4.37/WeChat-Bot-2.4.37-macOS-arm64.zip",
+            "size": 921537,
+            "downloadCount": 1,
+            "contentType": "application/zip"
+          }
+        ]
+      }
     },
     {
       "name": "awesome-bot",
@@ -7941,7 +8043,7 @@
       "primaryLanguage": {
         "name": "Python"
       },
-      "pushedAt": "2026-11-17T11:55:44Z",
+      "pushedAt": "2026-11-18T11:46:02Z",
       "updatedAt": "2026-11-12T12:15:33Z",
       "createdAt": "2026-05-14T09:29:39Z",
       "defaultBranchRef": {
@@ -7975,7 +8077,7 @@
       "primaryLanguage": {
         "name": "Python"
       },
-      "pushedAt": "2026-11-17T11:51:10Z",
+      "pushedAt": "2026-11-18T11:41:26Z",
       "updatedAt": "2026-11-12T12:07:09Z",
       "createdAt": "2026-05-14T09:27:13Z",
       "defaultBranchRef": {
@@ -8009,7 +8111,7 @@
       "primaryLanguage": {
         "name": "Python"
       },
-      "pushedAt": "2026-11-17T12:00:36Z",
+      "pushedAt": "2026-11-18T11:52:38Z",
       "updatedAt": "2026-11-12T12:26:19Z",
       "createdAt": "2026-05-14T09:29:34Z",
       "defaultBranchRef": {
@@ -8043,7 +8145,7 @@
       "primaryLanguage": {
         "name": "Python"
       },
-      "pushedAt": "2026-11-17T11:51:52Z",
+      "pushedAt": "2026-11-18T11:42:23Z",
       "updatedAt": "2026-11-12T12:09:21Z",
       "createdAt": "2026-05-14T09:29:45Z",
       "defaultBranchRef": {
@@ -8077,7 +8179,7 @@
       "primaryLanguage": {
         "name": "JavaScript"
       },
-      "pushedAt": "2026-11-17T04:41:44Z",
+      "pushedAt": "2026-11-19T06:59:15Z",
       "updatedAt": "2026-10-29T07:27:16Z",
       "createdAt": "2022-10-29T13:10:46Z",
       "defaultBranchRef": {
@@ -8194,7 +8296,7 @@
       "primaryLanguage": {
         "name": "TypeScript"
       },
-      "pushedAt": "2026-11-18T07:46:54Z",
+      "pushedAt": "2026-11-19T07:42:25Z",
       "updatedAt": "2026-11-15T16:07:43Z",
       "createdAt": "2026-04-01T03:55:26Z",
       "defaultBranchRef": {
@@ -8609,6 +8711,65 @@
   ],
   "releases": [
     {
+      "name": "app-use",
+      "nameWithOwner": "Harzva/app-use",
+      "url": "https://github.com/Harzva/app-use",
+      "description": "App-Use Studio (macOS): Window-scoped desktop App-Use & Meta-RPA engine — headless AX concurrency, anti-ban guardrails, WeChat/WeCom/DingTalk/Feishu/XHS & any unseen app, stdio MCP + Bot Studio.",
+      "isPrivate": false,
+      "isArchived": false,
+      "isFork": false,
+      "primaryLanguage": {
+        "name": "Python"
+      },
+      "pushedAt": "2026-11-19T06:55:53Z",
+      "updatedAt": "2026-11-19T06:53:54Z",
+      "createdAt": "2026-11-17T02:42:14Z",
+      "defaultBranchRef": {
+        "name": "main"
+      },
+      "homepageUrl": "https://harzva.github.io/app-use/",
+      "stargazerCount": 1,
+      "forkCount": 0,
+      "repositoryTopics": [
+        "accessibility",
+        "ai-agents",
+        "app-use",
+        "desktop-automation",
+        "macos",
+        "mcp",
+        "rpa",
+        "wechat"
+      ],
+      "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/app-use",
+      "pages": {
+        "enabled": true,
+        "url": "https://harzva.github.io/app-use/",
+        "status": "built",
+        "source": {
+          "branch": "main",
+          "path": "/docs"
+        },
+        "httpsEnforced": true
+      },
+      "latestRelease": {
+        "name": "WeChat Bot v2.4.37 — macOS Apple Silicon",
+        "tagName": "v2.4.37",
+        "url": "https://github.com/Harzva/app-use/releases/tag/v2.4.37",
+        "publishedAt": "2026-11-17T08:39:42Z",
+        "prerelease": false,
+        "draft": false,
+        "assets": [
+          {
+            "name": "WeChat-Bot-2.4.37-macOS-arm64.zip",
+            "url": "https://github.com/Harzva/app-use/releases/download/v2.4.37/WeChat-Bot-2.4.37-macOS-arm64.zip",
+            "size": 921537,
+            "downloadCount": 1,
+            "contentType": "application/zip"
+          }
+        ]
+      }
+    },
+    {
       "name": "awesome-bot",
       "nameWithOwner": "Harzva/awesome-bot",
       "url": "https://github.com/Harzva/awesome-bot",
@@ -8812,7 +8973,7 @@
             "name": "dsh-agent-project-sync-0.1.0.tgz",
             "url": "https://github.com/Harzva/dsh-agent-project-sync/releases/download/v0.1.0/dsh-agent-project-sync-0.1.0.tgz",
             "size": 14057,
-            "downloadCount": 5377,
+            "downloadCount": 5426,
             "contentType": "application/x-gtar"
           }
         ]
@@ -8857,7 +9018,7 @@
             "name": "dsh-cli-store-0.3.0.tgz",
             "url": "https://github.com/Harzva/dsh-cli-store/releases/download/v0.3.0/dsh-cli-store-0.3.0.tgz",
             "size": 24798,
-            "downloadCount": 5187,
+            "downloadCount": 5236,
             "contentType": "application/x-gtar"
           }
         ]
@@ -8902,7 +9063,7 @@
             "name": "dsh-control-plane-0.1.0.tgz",
             "url": "https://github.com/Harzva/dsh-control-plane/releases/download/v0.1.0/dsh-control-plane-0.1.0.tgz",
             "size": 106806,
-            "downloadCount": 4518,
+            "downloadCount": 4569,
             "contentType": "application/x-gtar"
           }
         ]
@@ -9161,7 +9322,7 @@
             "name": "harness-flow-dsh-obsidian-0.1.0-alpha.0.tgz",
             "url": "https://github.com/Harzva/dsh-obsidian/releases/download/v0.1.0-alpha.0/harness-flow-dsh-obsidian-0.1.0-alpha.0.tgz",
             "size": 21393,
-            "downloadCount": 4896,
+            "downloadCount": 4947,
             "contentType": "application/x-gtar"
           }
         ]
@@ -9251,7 +9412,7 @@
             "name": "harness-flow-dsh-uvm-0.1.0-alpha.1.tgz",
             "url": "https://github.com/Harzva/dsh-uvm/releases/download/v0.1.0-alpha.1/harness-flow-dsh-uvm-0.1.0-alpha.1.tgz",
             "size": 21023,
-            "downloadCount": 5431,
+            "downloadCount": 5480,
             "contentType": "application/x-gtar"
           }
         ]
@@ -9541,7 +9702,7 @@
       "primaryLanguage": {
         "name": "TypeScript"
       },
-      "pushedAt": "2026-11-18T07:46:54Z",
+      "pushedAt": "2026-11-19T07:42:25Z",
       "updatedAt": "2026-11-15T16:07:43Z",
       "createdAt": "2026-04-01T03:55:26Z",
       "defaultBranchRef": {
@@ -9808,49 +9969,6 @@
             "size": 1945088,
             "downloadCount": 8,
             "contentType": "application/x-msdos-program"
-          }
-        ]
-      }
-    },
-    {
-      "name": "wechat-bot",
-      "nameWithOwner": "Harzva/wechat-bot",
-      "url": "https://github.com/Harzva/wechat-bot",
-      "description": "macOS 微信智能客服 RPA：一键托管好友 · AI 自动回复（知识库+历史记忆+人设）· 转人工协同 · 防封频控",
-      "isPrivate": false,
-      "isArchived": false,
-      "isFork": false,
-      "primaryLanguage": {
-        "name": "Python"
-      },
-      "pushedAt": "2026-11-18T09:29:17Z",
-      "updatedAt": "2026-11-17T20:00:19Z",
-      "createdAt": "2026-11-17T02:42:14Z",
-      "defaultBranchRef": {
-        "name": "main"
-      },
-      "homepageUrl": "",
-      "stargazerCount": 1,
-      "forkCount": 0,
-      "repositoryTopics": [],
-      "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/wechat-bot",
-      "pages": {
-        "enabled": false
-      },
-      "latestRelease": {
-        "name": "WeChat Bot v2.4.37 — macOS Apple Silicon",
-        "tagName": "v2.4.37",
-        "url": "https://github.com/Harzva/wechat-bot/releases/tag/v2.4.37",
-        "publishedAt": "2026-11-17T08:39:42Z",
-        "prerelease": false,
-        "draft": false,
-        "assets": [
-          {
-            "name": "WeChat-Bot-2.4.37-macOS-arm64.zip",
-            "url": "https://github.com/Harzva/wechat-bot/releases/download/v2.4.37/WeChat-Bot-2.4.37-macOS-arm64.zip",
-            "size": 921537,
-            "downloadCount": 1,
-            "contentType": "application/zip"
           }
         ]
       }
@@ -10224,7 +10342,7 @@
             "name": "dsh-agent-project-sync-0.1.0.tgz",
             "url": "https://github.com/Harzva/dsh-agent-project-sync/releases/download/v0.1.0/dsh-agent-project-sync-0.1.0.tgz",
             "size": 14057,
-            "downloadCount": 5377,
+            "downloadCount": 5426,
             "contentType": "application/x-gtar"
           }
         ]
@@ -10269,7 +10387,7 @@
             "name": "dsh-cli-store-0.3.0.tgz",
             "url": "https://github.com/Harzva/dsh-cli-store/releases/download/v0.3.0/dsh-cli-store-0.3.0.tgz",
             "size": 24798,
-            "downloadCount": 5187,
+            "downloadCount": 5236,
             "contentType": "application/x-gtar"
           }
         ]
@@ -10314,7 +10432,7 @@
             "name": "dsh-control-plane-0.1.0.tgz",
             "url": "https://github.com/Harzva/dsh-control-plane/releases/download/v0.1.0/dsh-control-plane-0.1.0.tgz",
             "size": 106806,
-            "downloadCount": 4518,
+            "downloadCount": 4569,
             "contentType": "application/x-gtar"
           }
         ]
@@ -10558,7 +10676,7 @@
             "name": "harness-flow-dsh-obsidian-0.1.0-alpha.0.tgz",
             "url": "https://github.com/Harzva/dsh-obsidian/releases/download/v0.1.0-alpha.0/harness-flow-dsh-obsidian-0.1.0-alpha.0.tgz",
             "size": 21393,
-            "downloadCount": 4896,
+            "downloadCount": 4947,
             "contentType": "application/x-gtar"
           }
         ]
@@ -10906,7 +11024,7 @@
             "name": "harness-flow-dsh-uvm-0.1.0-alpha.1.tgz",
             "url": "https://github.com/Harzva/dsh-uvm/releases/download/v0.1.0-alpha.1/harness-flow-dsh-uvm-0.1.0-alpha.1.tgz",
             "size": 21023,
-            "downloadCount": 5431,
+            "downloadCount": 5480,
             "contentType": "application/x-gtar"
           }
         ]
@@ -11253,7 +11371,7 @@
       "primaryLanguage": {
         "name": "Python"
       },
-      "pushedAt": "2026-11-17T11:51:52Z",
+      "pushedAt": "2026-11-18T11:42:23Z",
       "updatedAt": "2026-11-12T12:09:21Z",
       "createdAt": "2026-05-14T09:29:45Z",
       "defaultBranchRef": {

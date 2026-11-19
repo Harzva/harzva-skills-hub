@@ -14,8 +14,8 @@ A registry of Harzva Codex skills, workflow skills, and agent operating recipes.
 
 | Skill Repository | Language | Updated | Description |
 |---|---:|---:|---|
+| [harzva-skills-hub](https://github.com/Harzva/harzva-skills-hub) | Python | 2026-11-18 | Auto-updating GitHub Pages registry of Harzva Codex skills, workflow skills, and agent recipes. |
 | [dsh-wemedia-workbench](https://github.com/Harzva/dsh-wemedia-workbench) | TypeScript | 2026-11-17 | Local-first media workbench for DeepSeek Harness: AI-assisted workflows, revision-bound reviews, native approvals and persistent jobs. |
-| [harzva-skills-hub](https://github.com/Harzva/harzva-skills-hub) | Python | 2026-11-17 | Auto-updating GitHub Pages registry of Harzva Codex skills, workflow skills, and agent recipes. |
 | [omini-subagent-staff](https://github.com/Harzva/omini-subagent-staff) | Python | 2026-11-17 | Project-scoped local Codex subagent dispatch and receipts for Magpie |
 | [dsh-supervisor](https://github.com/Harzva/dsh-supervisor) | JavaScript | 2026-11-09 | DSH Supervisor plugin and Smart Supervision v2 engineering baseline |
 | [dsh-role-registry](https://github.com/Harzva/dsh-role-registry) | JavaScript | 2026-11-09 | Shared role registry for DeepSeek Harness plugins |
@@ -86,5 +86,5 @@ This MetaRepo refreshes itself with GitHub Actions.
 - Data source: GitHub REST API.
 - Privacy default: public repositories only.
 - Private mode: set `META_INCLUDE_PRIVATE=true` and provide `META_GITHUB_TOKEN` only when the meta repository is private.
-- Generated at: `2026-11-18T11:42:22.935336+00:00`.
+- Generated at: `2026-11-19T11:40:16.900175+00:00`.
 - Private repositories omitted from this public output: `13`.

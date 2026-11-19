@@ -1,5 +1,32 @@
 [
   {
+    "name": "A2Page",
+    "nameWithOwner": "Harzva/A2Page",
+    "url": "https://github.com/Harzva/A2Page",
+    "description": "Persistent, revisable agent-generated pages powered by A2UI.",
+    "isPrivate": false,
+    "isArchived": false,
+    "isFork": false,
+    "primaryLanguage": {
+      "name": "JavaScript"
+    },
+    "pushedAt": "2026-11-18T13:05:53Z",
+    "updatedAt": "2026-11-18T13:05:57Z",
+    "createdAt": "2026-11-18T13:05:46Z",
+    "defaultBranchRef": {
+      "name": "main"
+    },
+    "homepageUrl": "",
+    "stargazerCount": 0,
+    "forkCount": 0,
+    "repositoryTopics": [],
+    "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/A2Page",
+    "pages": {
+      "enabled": false
+    },
+    "latestRelease": null
+  },
+  {
     "name": "ActiveLearning",
     "nameWithOwner": "Harzva/ActiveLearning",
     "url": "https://github.com/Harzva/ActiveLearning",
@@ -89,7 +116,7 @@
     "primaryLanguage": {
       "name": "TypeScript"
     },
-    "pushedAt": "2026-11-18T08:31:42Z",
+    "pushedAt": "2026-11-19T08:47:43Z",
     "updatedAt": "2026-11-12T09:19:57Z",
     "createdAt": "2026-05-12T09:49:47Z",
     "defaultBranchRef": {
@@ -385,6 +412,65 @@
       "enabled": false
     },
     "latestRelease": null
+  },
+  {
+    "name": "app-use",
+    "nameWithOwner": "Harzva/app-use",
+    "url": "https://github.com/Harzva/app-use",
+    "description": "App-Use Studio (macOS): Window-scoped desktop App-Use & Meta-RPA engine — headless AX concurrency, anti-ban guardrails, WeChat/WeCom/DingTalk/Feishu/XHS & any unseen app, stdio MCP + Bot Studio.",
+    "isPrivate": false,
+    "isArchived": false,
+    "isFork": false,
+    "primaryLanguage": {
+      "name": "Python"
+    },
+    "pushedAt": "2026-11-19T06:55:53Z",
+    "updatedAt": "2026-11-19T06:53:54Z",
+    "createdAt": "2026-11-17T02:42:14Z",
+    "defaultBranchRef": {
+      "name": "main"
+    },
+    "homepageUrl": "https://harzva.github.io/app-use/",
+    "stargazerCount": 1,
+    "forkCount": 0,
+    "repositoryTopics": [
+      "accessibility",
+      "ai-agents",
+      "app-use",
+      "desktop-automation",
+      "macos",
+      "mcp",
+      "rpa",
+      "wechat"
+    ],
+    "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/app-use",
+    "pages": {
+      "enabled": true,
+      "url": "https://harzva.github.io/app-use/",
+      "status": "built",
+      "source": {
+        "branch": "main",
+        "path": "/docs"
+      },
+      "httpsEnforced": true
+    },
+    "latestRelease": {
+      "name": "WeChat Bot v2.4.37 — macOS Apple Silicon",
+      "tagName": "v2.4.37",
+      "url": "https://github.com/Harzva/app-use/releases/tag/v2.4.37",
+      "publishedAt": "2026-11-17T08:39:42Z",
+      "prerelease": false,
+      "draft": false,
+      "assets": [
+        {
+          "name": "WeChat-Bot-2.4.37-macOS-arm64.zip",
+          "url": "https://github.com/Harzva/app-use/releases/download/v2.4.37/WeChat-Bot-2.4.37-macOS-arm64.zip",
+          "size": 921537,
+          "downloadCount": 1,
+          "contentType": "application/zip"
+        }
+      ]
+    }
   },
   {
     "name": "ascend-modelagent-completed",
@@ -1219,7 +1305,7 @@
           "name": "dsh-agent-project-sync-0.1.0.tgz",
           "url": "https://github.com/Harzva/dsh-agent-project-sync/releases/download/v0.1.0/dsh-agent-project-sync-0.1.0.tgz",
           "size": 14057,
-          "downloadCount": 5377,
+          "downloadCount": 5426,
           "contentType": "application/x-gtar"
         }
       ]
@@ -1264,7 +1350,7 @@
           "name": "dsh-cli-store-0.3.0.tgz",
           "url": "https://github.com/Harzva/dsh-cli-store/releases/download/v0.3.0/dsh-cli-store-0.3.0.tgz",
           "size": 24798,
-          "downloadCount": 5187,
+          "downloadCount": 5236,
           "contentType": "application/x-gtar"
         }
       ]
@@ -1309,7 +1395,7 @@
           "name": "dsh-control-plane-0.1.0.tgz",
           "url": "https://github.com/Harzva/dsh-control-plane/releases/download/v0.1.0/dsh-control-plane-0.1.0.tgz",
           "size": 106806,
-          "downloadCount": 4518,
+          "downloadCount": 4569,
           "contentType": "application/x-gtar"
         }
       ]
@@ -1685,7 +1771,7 @@
           "name": "harness-flow-dsh-obsidian-0.1.0-alpha.0.tgz",
           "url": "https://github.com/Harzva/dsh-obsidian/releases/download/v0.1.0-alpha.0/harness-flow-dsh-obsidian-0.1.0-alpha.0.tgz",
           "size": 21393,
-          "downloadCount": 4896,
+          "downloadCount": 4947,
           "contentType": "application/x-gtar"
         }
       ]
@@ -2033,7 +2119,7 @@
           "name": "harness-flow-dsh-uvm-0.1.0-alpha.1.tgz",
           "url": "https://github.com/Harzva/dsh-uvm/releases/download/v0.1.0-alpha.1/harness-flow-dsh-uvm-0.1.0-alpha.1.tgz",
           "size": 21023,
-          "downloadCount": 5431,
+          "downloadCount": 5480,
           "contentType": "application/x-gtar"
         }
       ]
@@ -2857,7 +2943,7 @@
     "primaryLanguage": {
       "name": "Python"
     },
-    "pushedAt": "2026-11-17T11:55:44Z",
+    "pushedAt": "2026-11-18T11:46:02Z",
     "updatedAt": "2026-11-12T12:15:33Z",
     "createdAt": "2026-05-14T09:29:39Z",
     "defaultBranchRef": {
@@ -2891,7 +2977,7 @@
     "primaryLanguage": {
       "name": "Python"
     },
-    "pushedAt": "2026-11-17T11:51:10Z",
+    "pushedAt": "2026-11-18T11:41:26Z",
     "updatedAt": "2026-11-12T12:07:09Z",
     "createdAt": "2026-05-14T09:27:13Z",
     "defaultBranchRef": {
@@ -2925,7 +3011,7 @@
     "primaryLanguage": {
       "name": "Python"
     },
-    "pushedAt": "2026-11-17T12:00:36Z",
+    "pushedAt": "2026-11-18T11:52:38Z",
     "updatedAt": "2026-11-12T12:26:19Z",
     "createdAt": "2026-05-14T09:29:34Z",
     "defaultBranchRef": {
@@ -2959,7 +3045,7 @@
     "primaryLanguage": {
       "name": "Python"
     },
-    "pushedAt": "2026-11-17T11:51:52Z",
+    "pushedAt": "2026-11-18T11:42:23Z",
     "updatedAt": "2026-11-12T12:09:21Z",
     "createdAt": "2026-05-14T09:29:45Z",
     "defaultBranchRef": {
@@ -2993,7 +3079,7 @@
     "primaryLanguage": {
       "name": "JavaScript"
     },
-    "pushedAt": "2026-11-17T04:41:44Z",
+    "pushedAt": "2026-11-19T06:59:15Z",
     "updatedAt": "2026-10-29T07:27:16Z",
     "createdAt": "2022-10-29T13:10:46Z",
     "defaultBranchRef": {
@@ -3203,7 +3289,7 @@
     "primaryLanguage": {
       "name": "TypeScript"
     },
-    "pushedAt": "2026-11-18T07:46:54Z",
+    "pushedAt": "2026-11-19T07:42:25Z",
     "updatedAt": "2026-11-15T16:07:43Z",
     "createdAt": "2026-04-01T03:55:26Z",
     "defaultBranchRef": {
@@ -4033,49 +4119,6 @@
       "enabled": false
     },
     "latestRelease": null
-  },
-  {
-    "name": "wechat-bot",
-    "nameWithOwner": "Harzva/wechat-bot",
-    "url": "https://github.com/Harzva/wechat-bot",
-    "description": "macOS 微信智能客服 RPA：一键托管好友 · AI 自动回复（知识库+历史记忆+人设）· 转人工协同 · 防封频控",
-    "isPrivate": false,
-    "isArchived": false,
-    "isFork": false,
-    "primaryLanguage": {
-      "name": "Python"
-    },
-    "pushedAt": "2026-11-18T09:29:17Z",
-    "updatedAt": "2026-11-17T20:00:19Z",
-    "createdAt": "2026-11-17T02:42:14Z",
-    "defaultBranchRef": {
-      "name": "main"
-    },
-    "homepageUrl": "",
-    "stargazerCount": 1,
-    "forkCount": 0,
-    "repositoryTopics": [],
-    "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/wechat-bot",
-    "pages": {
-      "enabled": false
-    },
-    "latestRelease": {
-      "name": "WeChat Bot v2.4.37 — macOS Apple Silicon",
-      "tagName": "v2.4.37",
-      "url": "https://github.com/Harzva/wechat-bot/releases/tag/v2.4.37",
-      "publishedAt": "2026-11-17T08:39:42Z",
-      "prerelease": false,
-      "draft": false,
-      "assets": [
-        {
-          "name": "WeChat-Bot-2.4.37-macOS-arm64.zip",
-          "url": "https://github.com/Harzva/wechat-bot/releases/download/v2.4.37/WeChat-Bot-2.4.37-macOS-arm64.zip",
-          "size": 921537,
-          "downloadCount": 1,
-          "contentType": "application/zip"
-        }
-      ]
-    }
   },
   {
     "name": "WeChatBot",
