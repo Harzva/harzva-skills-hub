@@ -77,6 +77,75 @@
     "latestRelease": null
   },
   {
+    "name": "bot-studio-plugins",
+    "nameWithOwner": "Harzva/bot-studio-plugins",
+    "url": "https://github.com/Harzva/bot-studio-plugins",
+    "description": "Optional game previews and avatar materials for Bot Studio",
+    "isPrivate": false,
+    "isArchived": false,
+    "isFork": false,
+    "primaryLanguage": null,
+    "pushedAt": "2026-11-20T00:54:03Z",
+    "updatedAt": "2026-11-19T23:19:52Z",
+    "createdAt": "2026-11-19T23:19:50Z",
+    "defaultBranchRef": {
+      "name": "main"
+    },
+    "homepageUrl": "",
+    "stargazerCount": 0,
+    "forkCount": 0,
+    "repositoryTopics": [],
+    "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/bot-studio-plugins",
+    "pages": {
+      "enabled": false
+    },
+    "latestRelease": {
+      "name": "Bot Studio 桌面插件 2026.11.20",
+      "tagName": "bot-studio-plugins-20261120.2",
+      "url": "https://github.com/Harzva/bot-studio-plugins/releases/tag/bot-studio-plugins-20261120.2",
+      "publishedAt": "2026-11-20T00:54:04Z",
+      "prerelease": false,
+      "draft": false,
+      "assets": [
+        {
+          "name": "desktop-plugin-catalog.json",
+          "url": "https://github.com/Harzva/bot-studio-plugins/releases/download/bot-studio-plugins-20261120.2/desktop-plugin-catalog.json",
+          "size": 61924,
+          "downloadCount": 6,
+          "contentType": "application/json"
+        },
+        {
+          "name": "openbot-dsh-desktop-capture-0.3.2.tgz",
+          "url": "https://github.com/Harzva/bot-studio-plugins/releases/download/bot-studio-plugins-20261120.2/openbot-dsh-desktop-capture-0.3.2.tgz",
+          "size": 245759,
+          "downloadCount": 4,
+          "contentType": "application/x-gtar"
+        },
+        {
+          "name": "openbot-dsh-superterminal-0.2.2.tgz",
+          "url": "https://github.com/Harzva/bot-studio-plugins/releases/download/bot-studio-plugins-20261120.2/openbot-dsh-superterminal-0.2.2.tgz",
+          "size": 154264,
+          "downloadCount": 4,
+          "contentType": "application/x-gtar"
+        },
+        {
+          "name": "openbot-virtual-office-0.1.0.tgz",
+          "url": "https://github.com/Harzva/bot-studio-plugins/releases/download/bot-studio-plugins-20261120.2/openbot-virtual-office-0.1.0.tgz",
+          "size": 291349,
+          "downloadCount": 4,
+          "contentType": "application/x-gtar"
+        },
+        {
+          "name": "SHA256SUMS.txt",
+          "url": "https://github.com/Harzva/bot-studio-plugins/releases/download/bot-studio-plugins-20261120.2/SHA256SUMS.txt",
+          "size": 399,
+          "downloadCount": 1,
+          "contentType": "text/plain; charset=utf-8"
+        }
+      ]
+    }
+  },
+  {
     "name": "build-your-meta-repo-skill",
     "nameWithOwner": "Harzva/build-your-meta-repo-skill",
     "url": "https://github.com/Harzva/build-your-meta-repo-skill",
@@ -366,7 +435,7 @@
           "name": "dsh-agent-project-sync-0.1.0.tgz",
           "url": "https://github.com/Harzva/dsh-agent-project-sync/releases/download/v0.1.0/dsh-agent-project-sync-0.1.0.tgz",
           "size": 14057,
-          "downloadCount": 5426,
+          "downloadCount": 5479,
           "contentType": "application/x-gtar"
         }
       ]
@@ -411,7 +480,7 @@
           "name": "dsh-cli-store-0.3.0.tgz",
           "url": "https://github.com/Harzva/dsh-cli-store/releases/download/v0.3.0/dsh-cli-store-0.3.0.tgz",
           "size": 24798,
-          "downloadCount": 5236,
+          "downloadCount": 5289,
           "contentType": "application/x-gtar"
         }
       ]
@@ -456,7 +525,7 @@
           "name": "dsh-control-plane-0.1.0.tgz",
           "url": "https://github.com/Harzva/dsh-control-plane/releases/download/v0.1.0/dsh-control-plane-0.1.0.tgz",
           "size": 106806,
-          "downloadCount": 4569,
+          "downloadCount": 4618,
           "contentType": "application/x-gtar"
         }
       ]
@@ -700,7 +769,7 @@
           "name": "harness-flow-dsh-obsidian-0.1.0-alpha.0.tgz",
           "url": "https://github.com/Harzva/dsh-obsidian/releases/download/v0.1.0-alpha.0/harness-flow-dsh-obsidian-0.1.0-alpha.0.tgz",
           "size": 21393,
-          "downloadCount": 4947,
+          "downloadCount": 4997,
           "contentType": "application/x-gtar"
         }
       ]
@@ -1048,7 +1117,7 @@
           "name": "harness-flow-dsh-uvm-0.1.0-alpha.1.tgz",
           "url": "https://github.com/Harzva/dsh-uvm/releases/download/v0.1.0-alpha.1/harness-flow-dsh-uvm-0.1.0-alpha.1.tgz",
           "size": 21023,
-          "downloadCount": 5480,
+          "downloadCount": 5530,
           "contentType": "application/x-gtar"
         }
       ]
@@ -1395,7 +1464,7 @@
     "primaryLanguage": {
       "name": "Python"
     },
-    "pushedAt": "2026-11-18T11:42:23Z",
+    "pushedAt": "2026-11-19T11:40:17Z",
     "updatedAt": "2026-11-12T12:09:21Z",
     "createdAt": "2026-05-14T09:29:45Z",
     "defaultBranchRef": {

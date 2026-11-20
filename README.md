@@ -6,7 +6,7 @@ A registry of Harzva Codex skills, workflow skills, and agent operating recipes.
 
 [Live Skill Board](https://harzva.github.io/harzva-skills-hub/) | [Project Atlas](https://github.com/Harzva/harzva-project-atlas)
 
-![Skills](https://img.shields.io/badge/skills-55-6B8E23?style=for-the-badge) ![Auto Update](https://img.shields.io/badge/update-daily-111111?style=for-the-badge)
+![Skills](https://img.shields.io/badge/skills-56-6B8E23?style=for-the-badge) ![Auto Update](https://img.shields.io/badge/update-daily-111111?style=for-the-badge)
 
 </div>
 
@@ -14,7 +14,8 @@ A registry of Harzva Codex skills, workflow skills, and agent operating recipes.
 
 | Skill Repository | Language | Updated | Description |
 |---|---:|---:|---|
-| [harzva-skills-hub](https://github.com/Harzva/harzva-skills-hub) | Python | 2026-11-18 | Auto-updating GitHub Pages registry of Harzva Codex skills, workflow skills, and agent recipes. |
+| [bot-studio-plugins](https://github.com/Harzva/bot-studio-plugins) | Mixed | 2026-11-20 | Optional game previews and avatar materials for Bot Studio |
+| [harzva-skills-hub](https://github.com/Harzva/harzva-skills-hub) | Python | 2026-11-19 | Auto-updating GitHub Pages registry of Harzva Codex skills, workflow skills, and agent recipes. |
 | [dsh-wemedia-workbench](https://github.com/Harzva/dsh-wemedia-workbench) | TypeScript | 2026-11-17 | Local-first media workbench for DeepSeek Harness: AI-assisted workflows, revision-bound reviews, native approvals and persistent jobs. |
 | [omini-subagent-staff](https://github.com/Harzva/omini-subagent-staff) | Python | 2026-11-17 | Project-scoped local Codex subagent dispatch and receipts for Magpie |
 | [dsh-supervisor](https://github.com/Harzva/dsh-supervisor) | JavaScript | 2026-11-09 | DSH Supervisor plugin and Smart Supervision v2 engineering baseline |
@@ -86,5 +87,5 @@ This MetaRepo refreshes itself with GitHub Actions.
 - Data source: GitHub REST API.
 - Privacy default: public repositories only.
 - Private mode: set `META_INCLUDE_PRIVATE=true` and provide `META_GITHUB_TOKEN` only when the meta repository is private.
-- Generated at: `2026-11-19T11:40:16.900175+00:00`.
+- Generated at: `2026-11-20T11:39:41.942099+00:00`.
 - Private repositories omitted from this public output: `13`.
