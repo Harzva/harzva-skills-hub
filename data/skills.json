@@ -111,7 +111,7 @@
           "name": "desktop-plugin-catalog.json",
           "url": "https://github.com/Harzva/bot-studio-plugins/releases/download/bot-studio-plugins-20261120.2/desktop-plugin-catalog.json",
           "size": 61924,
-          "downloadCount": 6,
+          "downloadCount": 7,
           "contentType": "application/json"
         },
         {
@@ -435,7 +435,7 @@
           "name": "dsh-agent-project-sync-0.1.0.tgz",
           "url": "https://github.com/Harzva/dsh-agent-project-sync/releases/download/v0.1.0/dsh-agent-project-sync-0.1.0.tgz",
           "size": 14057,
-          "downloadCount": 5479,
+          "downloadCount": 5534,
           "contentType": "application/x-gtar"
         }
       ]
@@ -480,7 +480,7 @@
           "name": "dsh-cli-store-0.3.0.tgz",
           "url": "https://github.com/Harzva/dsh-cli-store/releases/download/v0.3.0/dsh-cli-store-0.3.0.tgz",
           "size": 24798,
-          "downloadCount": 5289,
+          "downloadCount": 5341,
           "contentType": "application/x-gtar"
         }
       ]
@@ -525,7 +525,7 @@
           "name": "dsh-control-plane-0.1.0.tgz",
           "url": "https://github.com/Harzva/dsh-control-plane/releases/download/v0.1.0/dsh-control-plane-0.1.0.tgz",
           "size": 106806,
-          "downloadCount": 4618,
+          "downloadCount": 4669,
           "contentType": "application/x-gtar"
         }
       ]
@@ -769,7 +769,7 @@
           "name": "harness-flow-dsh-obsidian-0.1.0-alpha.0.tgz",
           "url": "https://github.com/Harzva/dsh-obsidian/releases/download/v0.1.0-alpha.0/harness-flow-dsh-obsidian-0.1.0-alpha.0.tgz",
           "size": 21393,
-          "downloadCount": 4997,
+          "downloadCount": 5048,
           "contentType": "application/x-gtar"
         }
       ]
@@ -1117,7 +1117,7 @@
           "name": "harness-flow-dsh-uvm-0.1.0-alpha.1.tgz",
           "url": "https://github.com/Harzva/dsh-uvm/releases/download/v0.1.0-alpha.1/harness-flow-dsh-uvm-0.1.0-alpha.1.tgz",
           "size": 21023,
-          "downloadCount": 5530,
+          "downloadCount": 5582,
           "contentType": "application/x-gtar"
         }
       ]
@@ -1464,7 +1464,7 @@
     "primaryLanguage": {
       "name": "Python"
     },
-    "pushedAt": "2026-11-19T11:40:17Z",
+    "pushedAt": "2026-11-20T11:39:42Z",
     "updatedAt": "2026-11-12T12:09:21Z",
     "createdAt": "2026-05-14T09:29:45Z",
     "defaultBranchRef": {
