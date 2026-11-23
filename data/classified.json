@@ -1,14 +1,14 @@
 {
   "summary": {
-    "generatedAt": "2026-11-22T11:24:53.013674+00:00",
+    "generatedAt": "2026-11-23T12:39:21.772005+00:00",
     "owner": "Harzva",
     "mode": "skills",
-    "publicRepositories": 167,
+    "publicRepositories": 168,
     "forks": 47,
     "pages": 36,
-    "releases": 24,
+    "releases": 25,
     "skills": 56,
-    "artifacts": 49,
+    "artifacts": 66,
     "privateOmitted": 13
   },
   "categories": {
@@ -629,7 +629,7 @@
         "primaryLanguage": {
           "name": "Python"
         },
-        "pushedAt": "2026-11-22T11:23:27Z",
+        "pushedAt": "2026-11-23T12:37:39Z",
         "updatedAt": "2026-11-12T12:07:09Z",
         "createdAt": "2026-05-14T09:27:13Z",
         "defaultBranchRef": {
@@ -663,7 +663,7 @@
         "primaryLanguage": {
           "name": "TypeScript"
         },
-        "pushedAt": "2026-11-22T07:59:17Z",
+        "pushedAt": "2026-11-23T09:05:00Z",
         "updatedAt": "2026-11-12T09:19:57Z",
         "createdAt": "2026-05-12T09:49:47Z",
         "defaultBranchRef": {
@@ -697,7 +697,7 @@
         "primaryLanguage": {
           "name": "TypeScript"
         },
-        "pushedAt": "2026-11-22T07:11:10Z",
+        "pushedAt": "2026-11-23T07:57:11Z",
         "updatedAt": "2026-11-15T16:07:43Z",
         "createdAt": "2026-04-01T03:55:26Z",
         "defaultBranchRef": {
@@ -750,7 +750,7 @@
         "primaryLanguage": {
           "name": "Python"
         },
-        "pushedAt": "2026-11-21T11:16:50Z",
+        "pushedAt": "2026-11-22T11:35:35Z",
         "updatedAt": "2026-11-12T12:26:19Z",
         "createdAt": "2026-05-14T09:29:34Z",
         "defaultBranchRef": {
@@ -784,7 +784,7 @@
         "primaryLanguage": {
           "name": "Python"
         },
-        "pushedAt": "2026-11-21T11:05:09Z",
+        "pushedAt": "2026-11-22T11:27:56Z",
         "updatedAt": "2026-11-12T12:15:33Z",
         "createdAt": "2026-05-14T09:29:39Z",
         "defaultBranchRef": {
@@ -1808,6 +1808,49 @@
     ],
     "Release-ready Apps and Tools": [
       {
+        "name": "macos-gemini-antigravity-split-proxy",
+        "nameWithOwner": "Harzva/macos-gemini-antigravity-split-proxy",
+        "url": "https://github.com/Harzva/macos-gemini-antigravity-split-proxy",
+        "description": "macOS 上用 ProxyBridge 和 Clash Party 为 Gemini、Antigravity 按应用分流，无需开启 TUN。",
+        "isPrivate": false,
+        "isArchived": false,
+        "isFork": false,
+        "primaryLanguage": {
+          "name": "Shell"
+        },
+        "pushedAt": "2026-11-23T03:28:52Z",
+        "updatedAt": "2026-11-23T03:28:39Z",
+        "createdAt": "2026-11-23T03:27:06Z",
+        "defaultBranchRef": {
+          "name": "main"
+        },
+        "homepageUrl": "",
+        "stargazerCount": 0,
+        "forkCount": 0,
+        "repositoryTopics": [],
+        "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/macos-gemini-antigravity-split-proxy",
+        "pages": {
+          "enabled": false
+        },
+        "latestRelease": {
+          "name": "v1.0.0 · macOS 应用分流配置",
+          "tagName": "v1.0.0",
+          "url": "https://github.com/Harzva/macos-gemini-antigravity-split-proxy/releases/tag/v1.0.0",
+          "publishedAt": "2026-11-23T03:28:52Z",
+          "prerelease": false,
+          "draft": false,
+          "assets": [
+            {
+              "name": "Gemini-Antigravity.pbprofile",
+              "url": "https://github.com/Harzva/macos-gemini-antigravity-split-proxy/releases/download/v1.0.0/Gemini-Antigravity.pbprofile",
+              "size": 1425,
+              "downloadCount": 3,
+              "contentType": "application/octet-stream"
+            }
+          ]
+        }
+      },
+      {
         "name": "dsh-wechat-usechat",
         "nameWithOwner": "Harzva/dsh-wechat-usechat",
         "url": "https://github.com/Harzva/dsh-wechat-usechat",
@@ -1981,6 +2024,187 @@
     ],
     "Skills and Agent Workflows": [
       {
+        "name": "bot-studio-plugins",
+        "nameWithOwner": "Harzva/bot-studio-plugins",
+        "url": "https://github.com/Harzva/bot-studio-plugins",
+        "description": "Optional game previews and avatar materials for Bot Studio",
+        "isPrivate": false,
+        "isArchived": false,
+        "isFork": false,
+        "primaryLanguage": null,
+        "pushedAt": "2026-11-23T03:16:23Z",
+        "updatedAt": "2026-11-19T23:19:52Z",
+        "createdAt": "2026-11-19T23:19:50Z",
+        "defaultBranchRef": {
+          "name": "main"
+        },
+        "homepageUrl": "",
+        "stargazerCount": 0,
+        "forkCount": 0,
+        "repositoryTopics": [],
+        "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/bot-studio-plugins",
+        "pages": {
+          "enabled": false
+        },
+        "latestRelease": {
+          "name": "Bot Studio 插件与运行时扩展包 2026.11.23",
+          "tagName": "bot-studio-plugins-20261123.1",
+          "url": "https://github.com/Harzva/bot-studio-plugins/releases/tag/bot-studio-plugins-20261123.1",
+          "publishedAt": "2026-11-23T03:16:23Z",
+          "prerelease": false,
+          "draft": false,
+          "assets": [
+            {
+              "name": "desktop-plugin-catalog-algorithm-lab.json",
+              "url": "https://github.com/Harzva/bot-studio-plugins/releases/download/bot-studio-plugins-20261123.1/desktop-plugin-catalog-algorithm-lab.json",
+              "size": 18316,
+              "downloadCount": 12,
+              "contentType": "application/json"
+            },
+            {
+              "name": "desktop-plugin-catalog-botbar.json",
+              "url": "https://github.com/Harzva/bot-studio-plugins/releases/download/bot-studio-plugins-20261123.1/desktop-plugin-catalog-botbar.json",
+              "size": 3658,
+              "downloadCount": 12,
+              "contentType": "application/json"
+            },
+            {
+              "name": "desktop-plugin-catalog-mac-computer.json",
+              "url": "https://github.com/Harzva/bot-studio-plugins/releases/download/bot-studio-plugins-20261123.1/desktop-plugin-catalog-mac-computer.json",
+              "size": 5310,
+              "downloadCount": 12,
+              "contentType": "application/json"
+            },
+            {
+              "name": "desktop-plugin-catalog-nas.json",
+              "url": "https://github.com/Harzva/bot-studio-plugins/releases/download/bot-studio-plugins-20261123.1/desktop-plugin-catalog-nas.json",
+              "size": 4844,
+              "downloadCount": 12,
+              "contentType": "application/json"
+            },
+            {
+              "name": "desktop-plugin-catalog-openscreen.json",
+              "url": "https://github.com/Harzva/bot-studio-plugins/releases/download/bot-studio-plugins-20261123.1/desktop-plugin-catalog-openscreen.json",
+              "size": 2888,
+              "downloadCount": 12,
+              "contentType": "application/json"
+            },
+            {
+              "name": "desktop-plugin-catalog.json",
+              "url": "https://github.com/Harzva/bot-studio-plugins/releases/download/bot-studio-plugins-20261123.1/desktop-plugin-catalog.json",
+              "size": 85612,
+              "downloadCount": 11,
+              "contentType": "application/json"
+            },
+            {
+              "name": "openbot-algorithm-lab-0.1.0.tgz",
+              "url": "https://github.com/Harzva/bot-studio-plugins/releases/download/bot-studio-plugins-20261123.1/openbot-algorithm-lab-0.1.0.tgz",
+              "size": 5712,
+              "downloadCount": 11,
+              "contentType": "application/x-gtar"
+            },
+            {
+              "name": "openbot-botbar-0.1.0.tgz",
+              "url": "https://github.com/Harzva/bot-studio-plugins/releases/download/bot-studio-plugins-20261123.1/openbot-botbar-0.1.0.tgz",
+              "size": 2670,
+              "downloadCount": 3,
+              "contentType": "application/x-gtar"
+            },
+            {
+              "name": "openbot-dsh-desktop-capture-0.3.3.tgz",
+              "url": "https://github.com/Harzva/bot-studio-plugins/releases/download/bot-studio-plugins-20261123.1/openbot-dsh-desktop-capture-0.3.3.tgz",
+              "size": 245757,
+              "downloadCount": 2,
+              "contentType": "application/x-gtar"
+            },
+            {
+              "name": "openbot-dsh-nas-0.1.0.tgz",
+              "url": "https://github.com/Harzva/bot-studio-plugins/releases/download/bot-studio-plugins-20261123.1/openbot-dsh-nas-0.1.0.tgz",
+              "size": 1589,
+              "downloadCount": 2,
+              "contentType": "application/x-gtar"
+            },
+            {
+              "name": "openbot-dsh-openscreen-0.2.0.tgz",
+              "url": "https://github.com/Harzva/bot-studio-plugins/releases/download/bot-studio-plugins-20261123.1/openbot-dsh-openscreen-0.2.0.tgz",
+              "size": 2110,
+              "downloadCount": 2,
+              "contentType": "application/x-gtar"
+            },
+            {
+              "name": "openbot-dsh-superterminal-0.2.3.tgz",
+              "url": "https://github.com/Harzva/bot-studio-plugins/releases/download/bot-studio-plugins-20261123.1/openbot-dsh-superterminal-0.2.3.tgz",
+              "size": 154264,
+              "downloadCount": 2,
+              "contentType": "application/x-gtar"
+            },
+            {
+              "name": "openbot-mac-computer-0.3.0.tgz",
+              "url": "https://github.com/Harzva/bot-studio-plugins/releases/download/bot-studio-plugins-20261123.1/openbot-mac-computer-0.3.0.tgz",
+              "size": 611869,
+              "downloadCount": 2,
+              "contentType": "application/x-gtar"
+            },
+            {
+              "name": "openbot-pack-browser-automation-1.62.1.tgz",
+              "url": "https://github.com/Harzva/bot-studio-plugins/releases/download/bot-studio-plugins-20261123.1/openbot-pack-browser-automation-1.62.1.tgz",
+              "size": 2770825,
+              "downloadCount": 3,
+              "contentType": "application/x-gtar"
+            },
+            {
+              "name": "openbot-pack-cua-0.38.0-darwin-arm64.tgz",
+              "url": "https://github.com/Harzva/bot-studio-plugins/releases/download/bot-studio-plugins-20261123.1/openbot-pack-cua-0.38.0-darwin-arm64.tgz",
+              "size": 51590968,
+              "downloadCount": 3,
+              "contentType": "application/x-gtar"
+            },
+            {
+              "name": "openbot-pack-feishu-channel-1.76.0.tgz",
+              "url": "https://github.com/Harzva/bot-studio-plugins/releases/download/bot-studio-plugins-20261123.1/openbot-pack-feishu-channel-1.76.0.tgz",
+              "size": 1741835,
+              "downloadCount": 3,
+              "contentType": "application/x-gtar"
+            },
+            {
+              "name": "openbot-pack-local-voice-1.13.8-darwin-arm64.tgz",
+              "url": "https://github.com/Harzva/bot-studio-plugins/releases/download/bot-studio-plugins-20261123.1/openbot-pack-local-voice-1.13.8-darwin-arm64.tgz",
+              "size": 10147338,
+              "downloadCount": 10,
+              "contentType": "application/x-gtar"
+            },
+            {
+              "name": "openbot-virtual-office-0.1.1.tgz",
+              "url": "https://github.com/Harzva/bot-studio-plugins/releases/download/bot-studio-plugins-20261123.1/openbot-virtual-office-0.1.1.tgz",
+              "size": 291352,
+              "downloadCount": 2,
+              "contentType": "application/x-gtar"
+            },
+            {
+              "name": "optional-runtime-packs-catalog.json",
+              "url": "https://github.com/Harzva/bot-studio-plugins/releases/download/bot-studio-plugins-20261123.1/optional-runtime-packs-catalog.json",
+              "size": 15124,
+              "downloadCount": 2,
+              "contentType": "application/json"
+            },
+            {
+              "name": "optional-runtime-packs-release.json",
+              "url": "https://github.com/Harzva/bot-studio-plugins/releases/download/bot-studio-plugins-20261123.1/optional-runtime-packs-release.json",
+              "size": 5434,
+              "downloadCount": 2,
+              "contentType": "application/json"
+            },
+            {
+              "name": "SHA256SUMS.txt",
+              "url": "https://github.com/Harzva/bot-studio-plugins/releases/download/bot-studio-plugins-20261123.1/SHA256SUMS.txt",
+              "size": 2035,
+              "downloadCount": 2,
+              "contentType": "text/plain; charset=utf-8"
+            }
+          ]
+        }
+      },
+      {
         "name": "harzva-skills-hub",
         "nameWithOwner": "Harzva/harzva-skills-hub",
         "url": "https://github.com/Harzva/harzva-skills-hub",
@@ -1991,7 +2215,7 @@
         "primaryLanguage": {
           "name": "Python"
         },
-        "pushedAt": "2026-11-21T11:01:09Z",
+        "pushedAt": "2026-11-22T11:24:54Z",
         "updatedAt": "2026-11-12T12:09:21Z",
         "createdAt": "2026-05-14T09:29:45Z",
         "defaultBranchRef": {
@@ -2013,75 +2237,6 @@
           "httpsEnforced": true
         },
         "latestRelease": null
-      },
-      {
-        "name": "bot-studio-plugins",
-        "nameWithOwner": "Harzva/bot-studio-plugins",
-        "url": "https://github.com/Harzva/bot-studio-plugins",
-        "description": "Optional game previews and avatar materials for Bot Studio",
-        "isPrivate": false,
-        "isArchived": false,
-        "isFork": false,
-        "primaryLanguage": null,
-        "pushedAt": "2026-11-20T00:54:03Z",
-        "updatedAt": "2026-11-19T23:19:52Z",
-        "createdAt": "2026-11-19T23:19:50Z",
-        "defaultBranchRef": {
-          "name": "main"
-        },
-        "homepageUrl": "",
-        "stargazerCount": 0,
-        "forkCount": 0,
-        "repositoryTopics": [],
-        "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/bot-studio-plugins",
-        "pages": {
-          "enabled": false
-        },
-        "latestRelease": {
-          "name": "Bot Studio 桌面插件 2026.11.20",
-          "tagName": "bot-studio-plugins-20261120.2",
-          "url": "https://github.com/Harzva/bot-studio-plugins/releases/tag/bot-studio-plugins-20261120.2",
-          "publishedAt": "2026-11-20T00:54:04Z",
-          "prerelease": false,
-          "draft": false,
-          "assets": [
-            {
-              "name": "desktop-plugin-catalog.json",
-              "url": "https://github.com/Harzva/bot-studio-plugins/releases/download/bot-studio-plugins-20261120.2/desktop-plugin-catalog.json",
-              "size": 61924,
-              "downloadCount": 7,
-              "contentType": "application/json"
-            },
-            {
-              "name": "openbot-dsh-desktop-capture-0.3.2.tgz",
-              "url": "https://github.com/Harzva/bot-studio-plugins/releases/download/bot-studio-plugins-20261120.2/openbot-dsh-desktop-capture-0.3.2.tgz",
-              "size": 245759,
-              "downloadCount": 4,
-              "contentType": "application/x-gtar"
-            },
-            {
-              "name": "openbot-dsh-superterminal-0.2.2.tgz",
-              "url": "https://github.com/Harzva/bot-studio-plugins/releases/download/bot-studio-plugins-20261120.2/openbot-dsh-superterminal-0.2.2.tgz",
-              "size": 154264,
-              "downloadCount": 4,
-              "contentType": "application/x-gtar"
-            },
-            {
-              "name": "openbot-virtual-office-0.1.0.tgz",
-              "url": "https://github.com/Harzva/bot-studio-plugins/releases/download/bot-studio-plugins-20261120.2/openbot-virtual-office-0.1.0.tgz",
-              "size": 291349,
-              "downloadCount": 4,
-              "contentType": "application/x-gtar"
-            },
-            {
-              "name": "SHA256SUMS.txt",
-              "url": "https://github.com/Harzva/bot-studio-plugins/releases/download/bot-studio-plugins-20261120.2/SHA256SUMS.txt",
-              "size": 399,
-              "downloadCount": 1,
-              "contentType": "text/plain; charset=utf-8"
-            }
-          ]
-        }
       },
       {
         "name": "dsh-wemedia-workbench",
@@ -2456,7 +2611,7 @@
               "name": "harzva-dsh-session-folders-0.1.0.tgz",
               "url": "https://github.com/Harzva/dsh-session-folders/releases/download/v0.1.0/harzva-dsh-session-folders-0.1.0.tgz",
               "size": 5503,
-              "downloadCount": 22,
+              "downloadCount": 23,
               "contentType": "application/x-gtar"
             }
           ]
@@ -2615,7 +2770,7 @@
               "name": "dsh-cli-store-0.3.0.tgz",
               "url": "https://github.com/Harzva/dsh-cli-store/releases/download/v0.3.0/dsh-cli-store-0.3.0.tgz",
               "size": 24798,
-              "downloadCount": 5405,
+              "downloadCount": 5461,
               "contentType": "application/x-gtar"
             }
           ]
@@ -2663,7 +2818,7 @@
               "name": "dsh-agent-project-sync-0.1.0.tgz",
               "url": "https://github.com/Harzva/dsh-agent-project-sync/releases/download/v0.1.0/dsh-agent-project-sync-0.1.0.tgz",
               "size": 14057,
-              "downloadCount": 5598,
+              "downloadCount": 5654,
               "contentType": "application/x-gtar"
             }
           ]
@@ -2708,7 +2863,7 @@
               "name": "harness-flow-dsh-voice-0.1.0.tgz",
               "url": "https://github.com/Harzva/dsh-voice/releases/download/v0.1.0/harness-flow-dsh-voice-0.1.0.tgz",
               "size": 47395,
-              "downloadCount": 17,
+              "downloadCount": 18,
               "contentType": "application/x-gtar"
             }
           ]
@@ -2753,7 +2908,7 @@
               "name": "dsh-control-plane-0.1.0.tgz",
               "url": "https://github.com/Harzva/dsh-control-plane/releases/download/v0.1.0/dsh-control-plane-0.1.0.tgz",
               "size": 106806,
-              "downloadCount": 4733,
+              "downloadCount": 4789,
               "contentType": "application/x-gtar"
             }
           ]
@@ -2874,7 +3029,7 @@
               "name": "harness-flow-dsh-uvm-0.1.0-alpha.1.tgz",
               "url": "https://github.com/Harzva/dsh-uvm/releases/download/v0.1.0-alpha.1/harness-flow-dsh-uvm-0.1.0-alpha.1.tgz",
               "size": 21023,
-              "downloadCount": 5646,
+              "downloadCount": 5702,
               "contentType": "application/x-gtar"
             }
           ]
@@ -2921,7 +3076,7 @@
               "name": "harness-flow-dsh-obsidian-0.1.0-alpha.0.tgz",
               "url": "https://github.com/Harzva/dsh-obsidian/releases/download/v0.1.0-alpha.0/harness-flow-dsh-obsidian-0.1.0-alpha.0.tgz",
               "size": 21393,
-              "downloadCount": 5112,
+              "downloadCount": 5168,
               "contentType": "application/x-gtar"
             }
           ]
@@ -5774,7 +5929,7 @@
       "assetName": "dsh-agent-project-sync-0.1.0.tgz",
       "assetUrl": "https://github.com/Harzva/dsh-agent-project-sync/releases/download/v0.1.0/dsh-agent-project-sync-0.1.0.tgz",
       "size": 14057,
-      "downloadCount": 5598,
+      "downloadCount": 5654,
       "kind": "Archive",
       "functionCategory": "AI Agent Systems",
       "releaseName": "dsh-agent-project-sync v0.1.0",
@@ -5861,16 +6016,16 @@
       "repoUrl": "https://github.com/Harzva/bot-studio-plugins",
       "description": "Optional game previews and avatar materials for Bot Studio",
       "language": "Mixed",
-      "assetName": "openbot-dsh-superterminal-0.2.2.tgz",
-      "assetUrl": "https://github.com/Harzva/bot-studio-plugins/releases/download/bot-studio-plugins-20261120.2/openbot-dsh-superterminal-0.2.2.tgz",
+      "assetName": "openbot-dsh-superterminal-0.2.3.tgz",
+      "assetUrl": "https://github.com/Harzva/bot-studio-plugins/releases/download/bot-studio-plugins-20261123.1/openbot-dsh-superterminal-0.2.3.tgz",
       "size": 154264,
-      "downloadCount": 4,
+      "downloadCount": 2,
       "kind": "Archive",
       "functionCategory": "CLI and Infrastructure",
-      "releaseName": "Bot Studio 桌面插件 2026.11.20",
-      "tagName": "bot-studio-plugins-20261120.2",
-      "releaseUrl": "https://github.com/Harzva/bot-studio-plugins/releases/tag/bot-studio-plugins-20261120.2",
-      "publishedAt": "2026-11-20T00:54:04Z",
+      "releaseName": "Bot Studio 插件与运行时扩展包 2026.11.23",
+      "tagName": "bot-studio-plugins-20261123.1",
+      "releaseUrl": "https://github.com/Harzva/bot-studio-plugins/releases/tag/bot-studio-plugins-20261123.1",
+      "publishedAt": "2026-11-23T03:16:23Z",
       "isFork": false
     },
     {
@@ -5882,7 +6037,7 @@
       "assetName": "dsh-cli-store-0.3.0.tgz",
       "assetUrl": "https://github.com/Harzva/dsh-cli-store/releases/download/v0.3.0/dsh-cli-store-0.3.0.tgz",
       "size": 24798,
-      "downloadCount": 5405,
+      "downloadCount": 5461,
       "kind": "Archive",
       "functionCategory": "CLI and Infrastructure",
       "releaseName": "dsh-cli-store v0.3.0",
@@ -5933,16 +6088,16 @@
       "repoUrl": "https://github.com/Harzva/bot-studio-plugins",
       "description": "Optional game previews and avatar materials for Bot Studio",
       "language": "Mixed",
-      "assetName": "desktop-plugin-catalog.json",
-      "assetUrl": "https://github.com/Harzva/bot-studio-plugins/releases/download/bot-studio-plugins-20261120.2/desktop-plugin-catalog.json",
-      "size": 61924,
-      "downloadCount": 7,
+      "assetName": "desktop-plugin-catalog-algorithm-lab.json",
+      "assetUrl": "https://github.com/Harzva/bot-studio-plugins/releases/download/bot-studio-plugins-20261123.1/desktop-plugin-catalog-algorithm-lab.json",
+      "size": 18316,
+      "downloadCount": 12,
       "kind": "Release Asset",
       "functionCategory": "Desktop Apps",
-      "releaseName": "Bot Studio 桌面插件 2026.11.20",
-      "tagName": "bot-studio-plugins-20261120.2",
-      "releaseUrl": "https://github.com/Harzva/bot-studio-plugins/releases/tag/bot-studio-plugins-20261120.2",
-      "publishedAt": "2026-11-20T00:54:04Z",
+      "releaseName": "Bot Studio 插件与运行时扩展包 2026.11.23",
+      "tagName": "bot-studio-plugins-20261123.1",
+      "releaseUrl": "https://github.com/Harzva/bot-studio-plugins/releases/tag/bot-studio-plugins-20261123.1",
+      "publishedAt": "2026-11-23T03:16:23Z",
       "isFork": false
     },
     {
@@ -5951,16 +6106,106 @@
       "repoUrl": "https://github.com/Harzva/bot-studio-plugins",
       "description": "Optional game previews and avatar materials for Bot Studio",
       "language": "Mixed",
-      "assetName": "openbot-dsh-desktop-capture-0.3.2.tgz",
-      "assetUrl": "https://github.com/Harzva/bot-studio-plugins/releases/download/bot-studio-plugins-20261120.2/openbot-dsh-desktop-capture-0.3.2.tgz",
-      "size": 245759,
-      "downloadCount": 4,
+      "assetName": "desktop-plugin-catalog-botbar.json",
+      "assetUrl": "https://github.com/Harzva/bot-studio-plugins/releases/download/bot-studio-plugins-20261123.1/desktop-plugin-catalog-botbar.json",
+      "size": 3658,
+      "downloadCount": 12,
+      "kind": "Release Asset",
+      "functionCategory": "Desktop Apps",
+      "releaseName": "Bot Studio 插件与运行时扩展包 2026.11.23",
+      "tagName": "bot-studio-plugins-20261123.1",
+      "releaseUrl": "https://github.com/Harzva/bot-studio-plugins/releases/tag/bot-studio-plugins-20261123.1",
+      "publishedAt": "2026-11-23T03:16:23Z",
+      "isFork": false
+    },
+    {
+      "repo": "Harzva/bot-studio-plugins",
+      "repoName": "bot-studio-plugins",
+      "repoUrl": "https://github.com/Harzva/bot-studio-plugins",
+      "description": "Optional game previews and avatar materials for Bot Studio",
+      "language": "Mixed",
+      "assetName": "desktop-plugin-catalog-mac-computer.json",
+      "assetUrl": "https://github.com/Harzva/bot-studio-plugins/releases/download/bot-studio-plugins-20261123.1/desktop-plugin-catalog-mac-computer.json",
+      "size": 5310,
+      "downloadCount": 12,
+      "kind": "Release Asset",
+      "functionCategory": "Desktop Apps",
+      "releaseName": "Bot Studio 插件与运行时扩展包 2026.11.23",
+      "tagName": "bot-studio-plugins-20261123.1",
+      "releaseUrl": "https://github.com/Harzva/bot-studio-plugins/releases/tag/bot-studio-plugins-20261123.1",
+      "publishedAt": "2026-11-23T03:16:23Z",
+      "isFork": false
+    },
+    {
+      "repo": "Harzva/bot-studio-plugins",
+      "repoName": "bot-studio-plugins",
+      "repoUrl": "https://github.com/Harzva/bot-studio-plugins",
+      "description": "Optional game previews and avatar materials for Bot Studio",
+      "language": "Mixed",
+      "assetName": "desktop-plugin-catalog-nas.json",
+      "assetUrl": "https://github.com/Harzva/bot-studio-plugins/releases/download/bot-studio-plugins-20261123.1/desktop-plugin-catalog-nas.json",
+      "size": 4844,
+      "downloadCount": 12,
+      "kind": "Release Asset",
+      "functionCategory": "Desktop Apps",
+      "releaseName": "Bot Studio 插件与运行时扩展包 2026.11.23",
+      "tagName": "bot-studio-plugins-20261123.1",
+      "releaseUrl": "https://github.com/Harzva/bot-studio-plugins/releases/tag/bot-studio-plugins-20261123.1",
+      "publishedAt": "2026-11-23T03:16:23Z",
+      "isFork": false
+    },
+    {
+      "repo": "Harzva/bot-studio-plugins",
+      "repoName": "bot-studio-plugins",
+      "repoUrl": "https://github.com/Harzva/bot-studio-plugins",
+      "description": "Optional game previews and avatar materials for Bot Studio",
+      "language": "Mixed",
+      "assetName": "desktop-plugin-catalog-openscreen.json",
+      "assetUrl": "https://github.com/Harzva/bot-studio-plugins/releases/download/bot-studio-plugins-20261123.1/desktop-plugin-catalog-openscreen.json",
+      "size": 2888,
+      "downloadCount": 12,
+      "kind": "Release Asset",
+      "functionCategory": "Desktop Apps",
+      "releaseName": "Bot Studio 插件与运行时扩展包 2026.11.23",
+      "tagName": "bot-studio-plugins-20261123.1",
+      "releaseUrl": "https://github.com/Harzva/bot-studio-plugins/releases/tag/bot-studio-plugins-20261123.1",
+      "publishedAt": "2026-11-23T03:16:23Z",
+      "isFork": false
+    },
+    {
+      "repo": "Harzva/bot-studio-plugins",
+      "repoName": "bot-studio-plugins",
+      "repoUrl": "https://github.com/Harzva/bot-studio-plugins",
+      "description": "Optional game previews and avatar materials for Bot Studio",
+      "language": "Mixed",
+      "assetName": "desktop-plugin-catalog.json",
+      "assetUrl": "https://github.com/Harzva/bot-studio-plugins/releases/download/bot-studio-plugins-20261123.1/desktop-plugin-catalog.json",
+      "size": 85612,
+      "downloadCount": 11,
+      "kind": "Release Asset",
+      "functionCategory": "Desktop Apps",
+      "releaseName": "Bot Studio 插件与运行时扩展包 2026.11.23",
+      "tagName": "bot-studio-plugins-20261123.1",
+      "releaseUrl": "https://github.com/Harzva/bot-studio-plugins/releases/tag/bot-studio-plugins-20261123.1",
+      "publishedAt": "2026-11-23T03:16:23Z",
+      "isFork": false
+    },
+    {
+      "repo": "Harzva/bot-studio-plugins",
+      "repoName": "bot-studio-plugins",
+      "repoUrl": "https://github.com/Harzva/bot-studio-plugins",
+      "description": "Optional game previews and avatar materials for Bot Studio",
+      "language": "Mixed",
+      "assetName": "openbot-dsh-desktop-capture-0.3.3.tgz",
+      "assetUrl": "https://github.com/Harzva/bot-studio-plugins/releases/download/bot-studio-plugins-20261123.1/openbot-dsh-desktop-capture-0.3.3.tgz",
+      "size": 245757,
+      "downloadCount": 2,
       "kind": "Archive",
       "functionCategory": "Desktop Apps",
-      "releaseName": "Bot Studio 桌面插件 2026.11.20",
-      "tagName": "bot-studio-plugins-20261120.2",
-      "releaseUrl": "https://github.com/Harzva/bot-studio-plugins/releases/tag/bot-studio-plugins-20261120.2",
-      "publishedAt": "2026-11-20T00:54:04Z",
+      "releaseName": "Bot Studio 插件与运行时扩展包 2026.11.23",
+      "tagName": "bot-studio-plugins-20261123.1",
+      "releaseUrl": "https://github.com/Harzva/bot-studio-plugins/releases/tag/bot-studio-plugins-20261123.1",
+      "publishedAt": "2026-11-23T03:16:23Z",
       "isFork": false
     },
     {
@@ -6126,6 +6371,24 @@
       "isFork": false
     },
     {
+      "repo": "Harzva/macos-gemini-antigravity-split-proxy",
+      "repoName": "macos-gemini-antigravity-split-proxy",
+      "repoUrl": "https://github.com/Harzva/macos-gemini-antigravity-split-proxy",
+      "description": "macOS 上用 ProxyBridge 和 Clash Party 为 Gemini、Antigravity 按应用分流，无需开启 TUN。",
+      "language": "Shell",
+      "assetName": "Gemini-Antigravity.pbprofile",
+      "assetUrl": "https://github.com/Harzva/macos-gemini-antigravity-split-proxy/releases/download/v1.0.0/Gemini-Antigravity.pbprofile",
+      "size": 1425,
+      "downloadCount": 3,
+      "kind": "Release Asset",
+      "functionCategory": "Desktop Apps",
+      "releaseName": "v1.0.0 · macOS 应用分流配置",
+      "tagName": "v1.0.0",
+      "releaseUrl": "https://github.com/Harzva/macos-gemini-antigravity-split-proxy/releases/tag/v1.0.0",
+      "publishedAt": "2026-11-23T03:28:52Z",
+      "isFork": false
+    },
+    {
       "repo": "Harzva/RepoAtlas",
       "repoName": "RepoAtlas",
       "repoUrl": "https://github.com/Harzva/RepoAtlas",
@@ -6167,16 +6430,214 @@
       "repoUrl": "https://github.com/Harzva/bot-studio-plugins",
       "description": "Optional game previews and avatar materials for Bot Studio",
       "language": "Mixed",
-      "assetName": "openbot-virtual-office-0.1.0.tgz",
-      "assetUrl": "https://github.com/Harzva/bot-studio-plugins/releases/download/bot-studio-plugins-20261120.2/openbot-virtual-office-0.1.0.tgz",
-      "size": 291349,
-      "downloadCount": 4,
+      "assetName": "openbot-algorithm-lab-0.1.0.tgz",
+      "assetUrl": "https://github.com/Harzva/bot-studio-plugins/releases/download/bot-studio-plugins-20261123.1/openbot-algorithm-lab-0.1.0.tgz",
+      "size": 5712,
+      "downloadCount": 11,
       "kind": "Archive",
       "functionCategory": "General Utilities",
-      "releaseName": "Bot Studio 桌面插件 2026.11.20",
-      "tagName": "bot-studio-plugins-20261120.2",
-      "releaseUrl": "https://github.com/Harzva/bot-studio-plugins/releases/tag/bot-studio-plugins-20261120.2",
-      "publishedAt": "2026-11-20T00:54:04Z",
+      "releaseName": "Bot Studio 插件与运行时扩展包 2026.11.23",
+      "tagName": "bot-studio-plugins-20261123.1",
+      "releaseUrl": "https://github.com/Harzva/bot-studio-plugins/releases/tag/bot-studio-plugins-20261123.1",
+      "publishedAt": "2026-11-23T03:16:23Z",
+      "isFork": false
+    },
+    {
+      "repo": "Harzva/bot-studio-plugins",
+      "repoName": "bot-studio-plugins",
+      "repoUrl": "https://github.com/Harzva/bot-studio-plugins",
+      "description": "Optional game previews and avatar materials for Bot Studio",
+      "language": "Mixed",
+      "assetName": "openbot-botbar-0.1.0.tgz",
+      "assetUrl": "https://github.com/Harzva/bot-studio-plugins/releases/download/bot-studio-plugins-20261123.1/openbot-botbar-0.1.0.tgz",
+      "size": 2670,
+      "downloadCount": 3,
+      "kind": "Archive",
+      "functionCategory": "General Utilities",
+      "releaseName": "Bot Studio 插件与运行时扩展包 2026.11.23",
+      "tagName": "bot-studio-plugins-20261123.1",
+      "releaseUrl": "https://github.com/Harzva/bot-studio-plugins/releases/tag/bot-studio-plugins-20261123.1",
+      "publishedAt": "2026-11-23T03:16:23Z",
+      "isFork": false
+    },
+    {
+      "repo": "Harzva/bot-studio-plugins",
+      "repoName": "bot-studio-plugins",
+      "repoUrl": "https://github.com/Harzva/bot-studio-plugins",
+      "description": "Optional game previews and avatar materials for Bot Studio",
+      "language": "Mixed",
+      "assetName": "openbot-dsh-nas-0.1.0.tgz",
+      "assetUrl": "https://github.com/Harzva/bot-studio-plugins/releases/download/bot-studio-plugins-20261123.1/openbot-dsh-nas-0.1.0.tgz",
+      "size": 1589,
+      "downloadCount": 2,
+      "kind": "Archive",
+      "functionCategory": "General Utilities",
+      "releaseName": "Bot Studio 插件与运行时扩展包 2026.11.23",
+      "tagName": "bot-studio-plugins-20261123.1",
+      "releaseUrl": "https://github.com/Harzva/bot-studio-plugins/releases/tag/bot-studio-plugins-20261123.1",
+      "publishedAt": "2026-11-23T03:16:23Z",
+      "isFork": false
+    },
+    {
+      "repo": "Harzva/bot-studio-plugins",
+      "repoName": "bot-studio-plugins",
+      "repoUrl": "https://github.com/Harzva/bot-studio-plugins",
+      "description": "Optional game previews and avatar materials for Bot Studio",
+      "language": "Mixed",
+      "assetName": "openbot-dsh-openscreen-0.2.0.tgz",
+      "assetUrl": "https://github.com/Harzva/bot-studio-plugins/releases/download/bot-studio-plugins-20261123.1/openbot-dsh-openscreen-0.2.0.tgz",
+      "size": 2110,
+      "downloadCount": 2,
+      "kind": "Archive",
+      "functionCategory": "General Utilities",
+      "releaseName": "Bot Studio 插件与运行时扩展包 2026.11.23",
+      "tagName": "bot-studio-plugins-20261123.1",
+      "releaseUrl": "https://github.com/Harzva/bot-studio-plugins/releases/tag/bot-studio-plugins-20261123.1",
+      "publishedAt": "2026-11-23T03:16:23Z",
+      "isFork": false
+    },
+    {
+      "repo": "Harzva/bot-studio-plugins",
+      "repoName": "bot-studio-plugins",
+      "repoUrl": "https://github.com/Harzva/bot-studio-plugins",
+      "description": "Optional game previews and avatar materials for Bot Studio",
+      "language": "Mixed",
+      "assetName": "openbot-mac-computer-0.3.0.tgz",
+      "assetUrl": "https://github.com/Harzva/bot-studio-plugins/releases/download/bot-studio-plugins-20261123.1/openbot-mac-computer-0.3.0.tgz",
+      "size": 611869,
+      "downloadCount": 2,
+      "kind": "Archive",
+      "functionCategory": "General Utilities",
+      "releaseName": "Bot Studio 插件与运行时扩展包 2026.11.23",
+      "tagName": "bot-studio-plugins-20261123.1",
+      "releaseUrl": "https://github.com/Harzva/bot-studio-plugins/releases/tag/bot-studio-plugins-20261123.1",
+      "publishedAt": "2026-11-23T03:16:23Z",
+      "isFork": false
+    },
+    {
+      "repo": "Harzva/bot-studio-plugins",
+      "repoName": "bot-studio-plugins",
+      "repoUrl": "https://github.com/Harzva/bot-studio-plugins",
+      "description": "Optional game previews and avatar materials for Bot Studio",
+      "language": "Mixed",
+      "assetName": "openbot-pack-browser-automation-1.62.1.tgz",
+      "assetUrl": "https://github.com/Harzva/bot-studio-plugins/releases/download/bot-studio-plugins-20261123.1/openbot-pack-browser-automation-1.62.1.tgz",
+      "size": 2770825,
+      "downloadCount": 3,
+      "kind": "Archive",
+      "functionCategory": "General Utilities",
+      "releaseName": "Bot Studio 插件与运行时扩展包 2026.11.23",
+      "tagName": "bot-studio-plugins-20261123.1",
+      "releaseUrl": "https://github.com/Harzva/bot-studio-plugins/releases/tag/bot-studio-plugins-20261123.1",
+      "publishedAt": "2026-11-23T03:16:23Z",
+      "isFork": false
+    },
+    {
+      "repo": "Harzva/bot-studio-plugins",
+      "repoName": "bot-studio-plugins",
+      "repoUrl": "https://github.com/Harzva/bot-studio-plugins",
+      "description": "Optional game previews and avatar materials for Bot Studio",
+      "language": "Mixed",
+      "assetName": "openbot-pack-cua-0.38.0-darwin-arm64.tgz",
+      "assetUrl": "https://github.com/Harzva/bot-studio-plugins/releases/download/bot-studio-plugins-20261123.1/openbot-pack-cua-0.38.0-darwin-arm64.tgz",
+      "size": 51590968,
+      "downloadCount": 3,
+      "kind": "Archive",
+      "functionCategory": "General Utilities",
+      "releaseName": "Bot Studio 插件与运行时扩展包 2026.11.23",
+      "tagName": "bot-studio-plugins-20261123.1",
+      "releaseUrl": "https://github.com/Harzva/bot-studio-plugins/releases/tag/bot-studio-plugins-20261123.1",
+      "publishedAt": "2026-11-23T03:16:23Z",
+      "isFork": false
+    },
+    {
+      "repo": "Harzva/bot-studio-plugins",
+      "repoName": "bot-studio-plugins",
+      "repoUrl": "https://github.com/Harzva/bot-studio-plugins",
+      "description": "Optional game previews and avatar materials for Bot Studio",
+      "language": "Mixed",
+      "assetName": "openbot-pack-feishu-channel-1.76.0.tgz",
+      "assetUrl": "https://github.com/Harzva/bot-studio-plugins/releases/download/bot-studio-plugins-20261123.1/openbot-pack-feishu-channel-1.76.0.tgz",
+      "size": 1741835,
+      "downloadCount": 3,
+      "kind": "Archive",
+      "functionCategory": "General Utilities",
+      "releaseName": "Bot Studio 插件与运行时扩展包 2026.11.23",
+      "tagName": "bot-studio-plugins-20261123.1",
+      "releaseUrl": "https://github.com/Harzva/bot-studio-plugins/releases/tag/bot-studio-plugins-20261123.1",
+      "publishedAt": "2026-11-23T03:16:23Z",
+      "isFork": false
+    },
+    {
+      "repo": "Harzva/bot-studio-plugins",
+      "repoName": "bot-studio-plugins",
+      "repoUrl": "https://github.com/Harzva/bot-studio-plugins",
+      "description": "Optional game previews and avatar materials for Bot Studio",
+      "language": "Mixed",
+      "assetName": "openbot-pack-local-voice-1.13.8-darwin-arm64.tgz",
+      "assetUrl": "https://github.com/Harzva/bot-studio-plugins/releases/download/bot-studio-plugins-20261123.1/openbot-pack-local-voice-1.13.8-darwin-arm64.tgz",
+      "size": 10147338,
+      "downloadCount": 10,
+      "kind": "Archive",
+      "functionCategory": "General Utilities",
+      "releaseName": "Bot Studio 插件与运行时扩展包 2026.11.23",
+      "tagName": "bot-studio-plugins-20261123.1",
+      "releaseUrl": "https://github.com/Harzva/bot-studio-plugins/releases/tag/bot-studio-plugins-20261123.1",
+      "publishedAt": "2026-11-23T03:16:23Z",
+      "isFork": false
+    },
+    {
+      "repo": "Harzva/bot-studio-plugins",
+      "repoName": "bot-studio-plugins",
+      "repoUrl": "https://github.com/Harzva/bot-studio-plugins",
+      "description": "Optional game previews and avatar materials for Bot Studio",
+      "language": "Mixed",
+      "assetName": "openbot-virtual-office-0.1.1.tgz",
+      "assetUrl": "https://github.com/Harzva/bot-studio-plugins/releases/download/bot-studio-plugins-20261123.1/openbot-virtual-office-0.1.1.tgz",
+      "size": 291352,
+      "downloadCount": 2,
+      "kind": "Archive",
+      "functionCategory": "General Utilities",
+      "releaseName": "Bot Studio 插件与运行时扩展包 2026.11.23",
+      "tagName": "bot-studio-plugins-20261123.1",
+      "releaseUrl": "https://github.com/Harzva/bot-studio-plugins/releases/tag/bot-studio-plugins-20261123.1",
+      "publishedAt": "2026-11-23T03:16:23Z",
+      "isFork": false
+    },
+    {
+      "repo": "Harzva/bot-studio-plugins",
+      "repoName": "bot-studio-plugins",
+      "repoUrl": "https://github.com/Harzva/bot-studio-plugins",
+      "description": "Optional game previews and avatar materials for Bot Studio",
+      "language": "Mixed",
+      "assetName": "optional-runtime-packs-catalog.json",
+      "assetUrl": "https://github.com/Harzva/bot-studio-plugins/releases/download/bot-studio-plugins-20261123.1/optional-runtime-packs-catalog.json",
+      "size": 15124,
+      "downloadCount": 2,
+      "kind": "Release Asset",
+      "functionCategory": "General Utilities",
+      "releaseName": "Bot Studio 插件与运行时扩展包 2026.11.23",
+      "tagName": "bot-studio-plugins-20261123.1",
+      "releaseUrl": "https://github.com/Harzva/bot-studio-plugins/releases/tag/bot-studio-plugins-20261123.1",
+      "publishedAt": "2026-11-23T03:16:23Z",
+      "isFork": false
+    },
+    {
+      "repo": "Harzva/bot-studio-plugins",
+      "repoName": "bot-studio-plugins",
+      "repoUrl": "https://github.com/Harzva/bot-studio-plugins",
+      "description": "Optional game previews and avatar materials for Bot Studio",
+      "language": "Mixed",
+      "assetName": "optional-runtime-packs-release.json",
+      "assetUrl": "https://github.com/Harzva/bot-studio-plugins/releases/download/bot-studio-plugins-20261123.1/optional-runtime-packs-release.json",
+      "size": 5434,
+      "downloadCount": 2,
+      "kind": "Release Asset",
+      "functionCategory": "General Utilities",
+      "releaseName": "Bot Studio 插件与运行时扩展包 2026.11.23",
+      "tagName": "bot-studio-plugins-20261123.1",
+      "releaseUrl": "https://github.com/Harzva/bot-studio-plugins/releases/tag/bot-studio-plugins-20261123.1",
+      "publishedAt": "2026-11-23T03:16:23Z",
       "isFork": false
     },
     {
@@ -6186,15 +6647,15 @@
       "description": "Optional game previews and avatar materials for Bot Studio",
       "language": "Mixed",
       "assetName": "SHA256SUMS.txt",
-      "assetUrl": "https://github.com/Harzva/bot-studio-plugins/releases/download/bot-studio-plugins-20261120.2/SHA256SUMS.txt",
-      "size": 399,
-      "downloadCount": 1,
+      "assetUrl": "https://github.com/Harzva/bot-studio-plugins/releases/download/bot-studio-plugins-20261123.1/SHA256SUMS.txt",
+      "size": 2035,
+      "downloadCount": 2,
       "kind": "Release Asset",
       "functionCategory": "General Utilities",
-      "releaseName": "Bot Studio 桌面插件 2026.11.20",
-      "tagName": "bot-studio-plugins-20261120.2",
-      "releaseUrl": "https://github.com/Harzva/bot-studio-plugins/releases/tag/bot-studio-plugins-20261120.2",
-      "publishedAt": "2026-11-20T00:54:04Z",
+      "releaseName": "Bot Studio 插件与运行时扩展包 2026.11.23",
+      "tagName": "bot-studio-plugins-20261123.1",
+      "releaseUrl": "https://github.com/Harzva/bot-studio-plugins/releases/tag/bot-studio-plugins-20261123.1",
+      "publishedAt": "2026-11-23T03:16:23Z",
       "isFork": false
     },
     {
@@ -6206,7 +6667,7 @@
       "assetName": "dsh-control-plane-0.1.0.tgz",
       "assetUrl": "https://github.com/Harzva/dsh-control-plane/releases/download/v0.1.0/dsh-control-plane-0.1.0.tgz",
       "size": 106806,
-      "downloadCount": 4733,
+      "downloadCount": 4789,
       "kind": "Archive",
       "functionCategory": "General Utilities",
       "releaseName": "dsh-control-plane v0.1.0",
@@ -6260,7 +6721,7 @@
       "assetName": "harzva-dsh-session-folders-0.1.0.tgz",
       "assetUrl": "https://github.com/Harzva/dsh-session-folders/releases/download/v0.1.0/harzva-dsh-session-folders-0.1.0.tgz",
       "size": 5503,
-      "downloadCount": 22,
+      "downloadCount": 23,
       "kind": "Archive",
       "functionCategory": "General Utilities",
       "releaseName": "dsh-session-folders v0.1.0",
@@ -6278,7 +6739,7 @@
       "assetName": "harness-flow-dsh-uvm-0.1.0-alpha.1.tgz",
       "assetUrl": "https://github.com/Harzva/dsh-uvm/releases/download/v0.1.0-alpha.1/harness-flow-dsh-uvm-0.1.0-alpha.1.tgz",
       "size": 21023,
-      "downloadCount": 5646,
+      "downloadCount": 5702,
       "kind": "Archive",
       "functionCategory": "General Utilities",
       "releaseName": "dsh-uvm v0.1.0-alpha.1",
@@ -6296,7 +6757,7 @@
       "assetName": "harness-flow-dsh-voice-0.1.0.tgz",
       "assetUrl": "https://github.com/Harzva/dsh-voice/releases/download/v0.1.0/harness-flow-dsh-voice-0.1.0.tgz",
       "size": 47395,
-      "downloadCount": 17,
+      "downloadCount": 18,
       "kind": "Archive",
       "functionCategory": "General Utilities",
       "releaseName": "dsh-voice v0.1.0",
@@ -6350,7 +6811,7 @@
       "assetName": "harness-flow-dsh-obsidian-0.1.0-alpha.0.tgz",
       "assetUrl": "https://github.com/Harzva/dsh-obsidian/releases/download/v0.1.0-alpha.0/harness-flow-dsh-obsidian-0.1.0-alpha.0.tgz",
       "size": 21393,
-      "downloadCount": 5112,
+      "downloadCount": 5168,
       "kind": "Archive",
       "functionCategory": "Learning and Knowledge",
       "releaseName": "dsh-obsidian v0.1.0-alpha.0",
@@ -6545,21 +7006,21 @@
     ],
     "Desktop Apps": [
       {
-        "repo": "Harzva/bot-studio-plugins",
-        "repoName": "bot-studio-plugins",
-        "repoUrl": "https://github.com/Harzva/bot-studio-plugins",
-        "description": "Optional game previews and avatar materials for Bot Studio",
-        "language": "Mixed",
-        "assetName": "desktop-plugin-catalog.json",
-        "assetUrl": "https://github.com/Harzva/bot-studio-plugins/releases/download/bot-studio-plugins-20261120.2/desktop-plugin-catalog.json",
-        "size": 61924,
-        "downloadCount": 7,
+        "repo": "Harzva/macos-gemini-antigravity-split-proxy",
+        "repoName": "macos-gemini-antigravity-split-proxy",
+        "repoUrl": "https://github.com/Harzva/macos-gemini-antigravity-split-proxy",
+        "description": "macOS 上用 ProxyBridge 和 Clash Party 为 Gemini、Antigravity 按应用分流，无需开启 TUN。",
+        "language": "Shell",
+        "assetName": "Gemini-Antigravity.pbprofile",
+        "assetUrl": "https://github.com/Harzva/macos-gemini-antigravity-split-proxy/releases/download/v1.0.0/Gemini-Antigravity.pbprofile",
+        "size": 1425,
+        "downloadCount": 3,
         "kind": "Release Asset",
         "functionCategory": "Desktop Apps",
-        "releaseName": "Bot Studio 桌面插件 2026.11.20",
-        "tagName": "bot-studio-plugins-20261120.2",
-        "releaseUrl": "https://github.com/Harzva/bot-studio-plugins/releases/tag/bot-studio-plugins-20261120.2",
-        "publishedAt": "2026-11-20T00:54:04Z",
+        "releaseName": "v1.0.0 · macOS 应用分流配置",
+        "tagName": "v1.0.0",
+        "releaseUrl": "https://github.com/Harzva/macos-gemini-antigravity-split-proxy/releases/tag/v1.0.0",
+        "publishedAt": "2026-11-23T03:28:52Z",
         "isFork": false
       },
       {
@@ -6568,16 +7029,124 @@
         "repoUrl": "https://github.com/Harzva/bot-studio-plugins",
         "description": "Optional game previews and avatar materials for Bot Studio",
         "language": "Mixed",
-        "assetName": "openbot-dsh-desktop-capture-0.3.2.tgz",
-        "assetUrl": "https://github.com/Harzva/bot-studio-plugins/releases/download/bot-studio-plugins-20261120.2/openbot-dsh-desktop-capture-0.3.2.tgz",
-        "size": 245759,
-        "downloadCount": 4,
+        "assetName": "desktop-plugin-catalog-algorithm-lab.json",
+        "assetUrl": "https://github.com/Harzva/bot-studio-plugins/releases/download/bot-studio-plugins-20261123.1/desktop-plugin-catalog-algorithm-lab.json",
+        "size": 18316,
+        "downloadCount": 12,
+        "kind": "Release Asset",
+        "functionCategory": "Desktop Apps",
+        "releaseName": "Bot Studio 插件与运行时扩展包 2026.11.23",
+        "tagName": "bot-studio-plugins-20261123.1",
+        "releaseUrl": "https://github.com/Harzva/bot-studio-plugins/releases/tag/bot-studio-plugins-20261123.1",
+        "publishedAt": "2026-11-23T03:16:23Z",
+        "isFork": false
+      },
+      {
+        "repo": "Harzva/bot-studio-plugins",
+        "repoName": "bot-studio-plugins",
+        "repoUrl": "https://github.com/Harzva/bot-studio-plugins",
+        "description": "Optional game previews and avatar materials for Bot Studio",
+        "language": "Mixed",
+        "assetName": "desktop-plugin-catalog-botbar.json",
+        "assetUrl": "https://github.com/Harzva/bot-studio-plugins/releases/download/bot-studio-plugins-20261123.1/desktop-plugin-catalog-botbar.json",
+        "size": 3658,
+        "downloadCount": 12,
+        "kind": "Release Asset",
+        "functionCategory": "Desktop Apps",
+        "releaseName": "Bot Studio 插件与运行时扩展包 2026.11.23",
+        "tagName": "bot-studio-plugins-20261123.1",
+        "releaseUrl": "https://github.com/Harzva/bot-studio-plugins/releases/tag/bot-studio-plugins-20261123.1",
+        "publishedAt": "2026-11-23T03:16:23Z",
+        "isFork": false
+      },
+      {
+        "repo": "Harzva/bot-studio-plugins",
+        "repoName": "bot-studio-plugins",
+        "repoUrl": "https://github.com/Harzva/bot-studio-plugins",
+        "description": "Optional game previews and avatar materials for Bot Studio",
+        "language": "Mixed",
+        "assetName": "desktop-plugin-catalog-mac-computer.json",
+        "assetUrl": "https://github.com/Harzva/bot-studio-plugins/releases/download/bot-studio-plugins-20261123.1/desktop-plugin-catalog-mac-computer.json",
+        "size": 5310,
+        "downloadCount": 12,
+        "kind": "Release Asset",
+        "functionCategory": "Desktop Apps",
+        "releaseName": "Bot Studio 插件与运行时扩展包 2026.11.23",
+        "tagName": "bot-studio-plugins-20261123.1",
+        "releaseUrl": "https://github.com/Harzva/bot-studio-plugins/releases/tag/bot-studio-plugins-20261123.1",
+        "publishedAt": "2026-11-23T03:16:23Z",
+        "isFork": false
+      },
+      {
+        "repo": "Harzva/bot-studio-plugins",
+        "repoName": "bot-studio-plugins",
+        "repoUrl": "https://github.com/Harzva/bot-studio-plugins",
+        "description": "Optional game previews and avatar materials for Bot Studio",
+        "language": "Mixed",
+        "assetName": "desktop-plugin-catalog-nas.json",
+        "assetUrl": "https://github.com/Harzva/bot-studio-plugins/releases/download/bot-studio-plugins-20261123.1/desktop-plugin-catalog-nas.json",
+        "size": 4844,
+        "downloadCount": 12,
+        "kind": "Release Asset",
+        "functionCategory": "Desktop Apps",
+        "releaseName": "Bot Studio 插件与运行时扩展包 2026.11.23",
+        "tagName": "bot-studio-plugins-20261123.1",
+        "releaseUrl": "https://github.com/Harzva/bot-studio-plugins/releases/tag/bot-studio-plugins-20261123.1",
+        "publishedAt": "2026-11-23T03:16:23Z",
+        "isFork": false
+      },
+      {
+        "repo": "Harzva/bot-studio-plugins",
+        "repoName": "bot-studio-plugins",
+        "repoUrl": "https://github.com/Harzva/bot-studio-plugins",
+        "description": "Optional game previews and avatar materials for Bot Studio",
+        "language": "Mixed",
+        "assetName": "desktop-plugin-catalog-openscreen.json",
+        "assetUrl": "https://github.com/Harzva/bot-studio-plugins/releases/download/bot-studio-plugins-20261123.1/desktop-plugin-catalog-openscreen.json",
+        "size": 2888,
+        "downloadCount": 12,
+        "kind": "Release Asset",
+        "functionCategory": "Desktop Apps",
+        "releaseName": "Bot Studio 插件与运行时扩展包 2026.11.23",
+        "tagName": "bot-studio-plugins-20261123.1",
+        "releaseUrl": "https://github.com/Harzva/bot-studio-plugins/releases/tag/bot-studio-plugins-20261123.1",
+        "publishedAt": "2026-11-23T03:16:23Z",
+        "isFork": false
+      },
+      {
+        "repo": "Harzva/bot-studio-plugins",
+        "repoName": "bot-studio-plugins",
+        "repoUrl": "https://github.com/Harzva/bot-studio-plugins",
+        "description": "Optional game previews and avatar materials for Bot Studio",
+        "language": "Mixed",
+        "assetName": "desktop-plugin-catalog.json",
+        "assetUrl": "https://github.com/Harzva/bot-studio-plugins/releases/download/bot-studio-plugins-20261123.1/desktop-plugin-catalog.json",
+        "size": 85612,
+        "downloadCount": 11,
+        "kind": "Release Asset",
+        "functionCategory": "Desktop Apps",
+        "releaseName": "Bot Studio 插件与运行时扩展包 2026.11.23",
+        "tagName": "bot-studio-plugins-20261123.1",
+        "releaseUrl": "https://github.com/Harzva/bot-studio-plugins/releases/tag/bot-studio-plugins-20261123.1",
+        "publishedAt": "2026-11-23T03:16:23Z",
+        "isFork": false
+      },
+      {
+        "repo": "Harzva/bot-studio-plugins",
+        "repoName": "bot-studio-plugins",
+        "repoUrl": "https://github.com/Harzva/bot-studio-plugins",
+        "description": "Optional game previews and avatar materials for Bot Studio",
+        "language": "Mixed",
+        "assetName": "openbot-dsh-desktop-capture-0.3.3.tgz",
+        "assetUrl": "https://github.com/Harzva/bot-studio-plugins/releases/download/bot-studio-plugins-20261123.1/openbot-dsh-desktop-capture-0.3.3.tgz",
+        "size": 245757,
+        "downloadCount": 2,
         "kind": "Archive",
         "functionCategory": "Desktop Apps",
-        "releaseName": "Bot Studio 桌面插件 2026.11.20",
-        "tagName": "bot-studio-plugins-20261120.2",
-        "releaseUrl": "https://github.com/Harzva/bot-studio-plugins/releases/tag/bot-studio-plugins-20261120.2",
-        "publishedAt": "2026-11-20T00:54:04Z",
+        "releaseName": "Bot Studio 插件与运行时扩展包 2026.11.23",
+        "tagName": "bot-studio-plugins-20261123.1",
+        "releaseUrl": "https://github.com/Harzva/bot-studio-plugins/releases/tag/bot-studio-plugins-20261123.1",
+        "publishedAt": "2026-11-23T03:16:23Z",
         "isFork": false
       },
       {
@@ -6804,16 +7373,16 @@
         "repoUrl": "https://github.com/Harzva/bot-studio-plugins",
         "description": "Optional game previews and avatar materials for Bot Studio",
         "language": "Mixed",
-        "assetName": "openbot-dsh-superterminal-0.2.2.tgz",
-        "assetUrl": "https://github.com/Harzva/bot-studio-plugins/releases/download/bot-studio-plugins-20261120.2/openbot-dsh-superterminal-0.2.2.tgz",
+        "assetName": "openbot-dsh-superterminal-0.2.3.tgz",
+        "assetUrl": "https://github.com/Harzva/bot-studio-plugins/releases/download/bot-studio-plugins-20261123.1/openbot-dsh-superterminal-0.2.3.tgz",
         "size": 154264,
-        "downloadCount": 4,
+        "downloadCount": 2,
         "kind": "Archive",
         "functionCategory": "CLI and Infrastructure",
-        "releaseName": "Bot Studio 桌面插件 2026.11.20",
-        "tagName": "bot-studio-plugins-20261120.2",
-        "releaseUrl": "https://github.com/Harzva/bot-studio-plugins/releases/tag/bot-studio-plugins-20261120.2",
-        "publishedAt": "2026-11-20T00:54:04Z",
+        "releaseName": "Bot Studio 插件与运行时扩展包 2026.11.23",
+        "tagName": "bot-studio-plugins-20261123.1",
+        "releaseUrl": "https://github.com/Harzva/bot-studio-plugins/releases/tag/bot-studio-plugins-20261123.1",
+        "publishedAt": "2026-11-23T03:16:23Z",
         "isFork": false
       },
       {
@@ -6825,7 +7394,7 @@
         "assetName": "dsh-cli-store-0.3.0.tgz",
         "assetUrl": "https://github.com/Harzva/dsh-cli-store/releases/download/v0.3.0/dsh-cli-store-0.3.0.tgz",
         "size": 24798,
-        "downloadCount": 5405,
+        "downloadCount": 5461,
         "kind": "Archive",
         "functionCategory": "CLI and Infrastructure",
         "releaseName": "dsh-cli-store v0.3.0",
@@ -7043,7 +7612,7 @@
         "assetName": "dsh-agent-project-sync-0.1.0.tgz",
         "assetUrl": "https://github.com/Harzva/dsh-agent-project-sync/releases/download/v0.1.0/dsh-agent-project-sync-0.1.0.tgz",
         "size": 14057,
-        "downloadCount": 5598,
+        "downloadCount": 5654,
         "kind": "Archive",
         "functionCategory": "AI Agent Systems",
         "releaseName": "dsh-agent-project-sync v0.1.0",
@@ -7153,7 +7722,7 @@
         "assetName": "harness-flow-dsh-obsidian-0.1.0-alpha.0.tgz",
         "assetUrl": "https://github.com/Harzva/dsh-obsidian/releases/download/v0.1.0-alpha.0/harness-flow-dsh-obsidian-0.1.0-alpha.0.tgz",
         "size": 21393,
-        "downloadCount": 5112,
+        "downloadCount": 5168,
         "kind": "Archive",
         "functionCategory": "Learning and Knowledge",
         "releaseName": "dsh-obsidian v0.1.0-alpha.0",
@@ -7170,16 +7739,214 @@
         "repoUrl": "https://github.com/Harzva/bot-studio-plugins",
         "description": "Optional game previews and avatar materials for Bot Studio",
         "language": "Mixed",
-        "assetName": "openbot-virtual-office-0.1.0.tgz",
-        "assetUrl": "https://github.com/Harzva/bot-studio-plugins/releases/download/bot-studio-plugins-20261120.2/openbot-virtual-office-0.1.0.tgz",
-        "size": 291349,
-        "downloadCount": 4,
+        "assetName": "openbot-algorithm-lab-0.1.0.tgz",
+        "assetUrl": "https://github.com/Harzva/bot-studio-plugins/releases/download/bot-studio-plugins-20261123.1/openbot-algorithm-lab-0.1.0.tgz",
+        "size": 5712,
+        "downloadCount": 11,
         "kind": "Archive",
         "functionCategory": "General Utilities",
-        "releaseName": "Bot Studio 桌面插件 2026.11.20",
-        "tagName": "bot-studio-plugins-20261120.2",
-        "releaseUrl": "https://github.com/Harzva/bot-studio-plugins/releases/tag/bot-studio-plugins-20261120.2",
-        "publishedAt": "2026-11-20T00:54:04Z",
+        "releaseName": "Bot Studio 插件与运行时扩展包 2026.11.23",
+        "tagName": "bot-studio-plugins-20261123.1",
+        "releaseUrl": "https://github.com/Harzva/bot-studio-plugins/releases/tag/bot-studio-plugins-20261123.1",
+        "publishedAt": "2026-11-23T03:16:23Z",
+        "isFork": false
+      },
+      {
+        "repo": "Harzva/bot-studio-plugins",
+        "repoName": "bot-studio-plugins",
+        "repoUrl": "https://github.com/Harzva/bot-studio-plugins",
+        "description": "Optional game previews and avatar materials for Bot Studio",
+        "language": "Mixed",
+        "assetName": "openbot-botbar-0.1.0.tgz",
+        "assetUrl": "https://github.com/Harzva/bot-studio-plugins/releases/download/bot-studio-plugins-20261123.1/openbot-botbar-0.1.0.tgz",
+        "size": 2670,
+        "downloadCount": 3,
+        "kind": "Archive",
+        "functionCategory": "General Utilities",
+        "releaseName": "Bot Studio 插件与运行时扩展包 2026.11.23",
+        "tagName": "bot-studio-plugins-20261123.1",
+        "releaseUrl": "https://github.com/Harzva/bot-studio-plugins/releases/tag/bot-studio-plugins-20261123.1",
+        "publishedAt": "2026-11-23T03:16:23Z",
+        "isFork": false
+      },
+      {
+        "repo": "Harzva/bot-studio-plugins",
+        "repoName": "bot-studio-plugins",
+        "repoUrl": "https://github.com/Harzva/bot-studio-plugins",
+        "description": "Optional game previews and avatar materials for Bot Studio",
+        "language": "Mixed",
+        "assetName": "openbot-dsh-nas-0.1.0.tgz",
+        "assetUrl": "https://github.com/Harzva/bot-studio-plugins/releases/download/bot-studio-plugins-20261123.1/openbot-dsh-nas-0.1.0.tgz",
+        "size": 1589,
+        "downloadCount": 2,
+        "kind": "Archive",
+        "functionCategory": "General Utilities",
+        "releaseName": "Bot Studio 插件与运行时扩展包 2026.11.23",
+        "tagName": "bot-studio-plugins-20261123.1",
+        "releaseUrl": "https://github.com/Harzva/bot-studio-plugins/releases/tag/bot-studio-plugins-20261123.1",
+        "publishedAt": "2026-11-23T03:16:23Z",
+        "isFork": false
+      },
+      {
+        "repo": "Harzva/bot-studio-plugins",
+        "repoName": "bot-studio-plugins",
+        "repoUrl": "https://github.com/Harzva/bot-studio-plugins",
+        "description": "Optional game previews and avatar materials for Bot Studio",
+        "language": "Mixed",
+        "assetName": "openbot-dsh-openscreen-0.2.0.tgz",
+        "assetUrl": "https://github.com/Harzva/bot-studio-plugins/releases/download/bot-studio-plugins-20261123.1/openbot-dsh-openscreen-0.2.0.tgz",
+        "size": 2110,
+        "downloadCount": 2,
+        "kind": "Archive",
+        "functionCategory": "General Utilities",
+        "releaseName": "Bot Studio 插件与运行时扩展包 2026.11.23",
+        "tagName": "bot-studio-plugins-20261123.1",
+        "releaseUrl": "https://github.com/Harzva/bot-studio-plugins/releases/tag/bot-studio-plugins-20261123.1",
+        "publishedAt": "2026-11-23T03:16:23Z",
+        "isFork": false
+      },
+      {
+        "repo": "Harzva/bot-studio-plugins",
+        "repoName": "bot-studio-plugins",
+        "repoUrl": "https://github.com/Harzva/bot-studio-plugins",
+        "description": "Optional game previews and avatar materials for Bot Studio",
+        "language": "Mixed",
+        "assetName": "openbot-mac-computer-0.3.0.tgz",
+        "assetUrl": "https://github.com/Harzva/bot-studio-plugins/releases/download/bot-studio-plugins-20261123.1/openbot-mac-computer-0.3.0.tgz",
+        "size": 611869,
+        "downloadCount": 2,
+        "kind": "Archive",
+        "functionCategory": "General Utilities",
+        "releaseName": "Bot Studio 插件与运行时扩展包 2026.11.23",
+        "tagName": "bot-studio-plugins-20261123.1",
+        "releaseUrl": "https://github.com/Harzva/bot-studio-plugins/releases/tag/bot-studio-plugins-20261123.1",
+        "publishedAt": "2026-11-23T03:16:23Z",
+        "isFork": false
+      },
+      {
+        "repo": "Harzva/bot-studio-plugins",
+        "repoName": "bot-studio-plugins",
+        "repoUrl": "https://github.com/Harzva/bot-studio-plugins",
+        "description": "Optional game previews and avatar materials for Bot Studio",
+        "language": "Mixed",
+        "assetName": "openbot-pack-browser-automation-1.62.1.tgz",
+        "assetUrl": "https://github.com/Harzva/bot-studio-plugins/releases/download/bot-studio-plugins-20261123.1/openbot-pack-browser-automation-1.62.1.tgz",
+        "size": 2770825,
+        "downloadCount": 3,
+        "kind": "Archive",
+        "functionCategory": "General Utilities",
+        "releaseName": "Bot Studio 插件与运行时扩展包 2026.11.23",
+        "tagName": "bot-studio-plugins-20261123.1",
+        "releaseUrl": "https://github.com/Harzva/bot-studio-plugins/releases/tag/bot-studio-plugins-20261123.1",
+        "publishedAt": "2026-11-23T03:16:23Z",
+        "isFork": false
+      },
+      {
+        "repo": "Harzva/bot-studio-plugins",
+        "repoName": "bot-studio-plugins",
+        "repoUrl": "https://github.com/Harzva/bot-studio-plugins",
+        "description": "Optional game previews and avatar materials for Bot Studio",
+        "language": "Mixed",
+        "assetName": "openbot-pack-cua-0.38.0-darwin-arm64.tgz",
+        "assetUrl": "https://github.com/Harzva/bot-studio-plugins/releases/download/bot-studio-plugins-20261123.1/openbot-pack-cua-0.38.0-darwin-arm64.tgz",
+        "size": 51590968,
+        "downloadCount": 3,
+        "kind": "Archive",
+        "functionCategory": "General Utilities",
+        "releaseName": "Bot Studio 插件与运行时扩展包 2026.11.23",
+        "tagName": "bot-studio-plugins-20261123.1",
+        "releaseUrl": "https://github.com/Harzva/bot-studio-plugins/releases/tag/bot-studio-plugins-20261123.1",
+        "publishedAt": "2026-11-23T03:16:23Z",
+        "isFork": false
+      },
+      {
+        "repo": "Harzva/bot-studio-plugins",
+        "repoName": "bot-studio-plugins",
+        "repoUrl": "https://github.com/Harzva/bot-studio-plugins",
+        "description": "Optional game previews and avatar materials for Bot Studio",
+        "language": "Mixed",
+        "assetName": "openbot-pack-feishu-channel-1.76.0.tgz",
+        "assetUrl": "https://github.com/Harzva/bot-studio-plugins/releases/download/bot-studio-plugins-20261123.1/openbot-pack-feishu-channel-1.76.0.tgz",
+        "size": 1741835,
+        "downloadCount": 3,
+        "kind": "Archive",
+        "functionCategory": "General Utilities",
+        "releaseName": "Bot Studio 插件与运行时扩展包 2026.11.23",
+        "tagName": "bot-studio-plugins-20261123.1",
+        "releaseUrl": "https://github.com/Harzva/bot-studio-plugins/releases/tag/bot-studio-plugins-20261123.1",
+        "publishedAt": "2026-11-23T03:16:23Z",
+        "isFork": false
+      },
+      {
+        "repo": "Harzva/bot-studio-plugins",
+        "repoName": "bot-studio-plugins",
+        "repoUrl": "https://github.com/Harzva/bot-studio-plugins",
+        "description": "Optional game previews and avatar materials for Bot Studio",
+        "language": "Mixed",
+        "assetName": "openbot-pack-local-voice-1.13.8-darwin-arm64.tgz",
+        "assetUrl": "https://github.com/Harzva/bot-studio-plugins/releases/download/bot-studio-plugins-20261123.1/openbot-pack-local-voice-1.13.8-darwin-arm64.tgz",
+        "size": 10147338,
+        "downloadCount": 10,
+        "kind": "Archive",
+        "functionCategory": "General Utilities",
+        "releaseName": "Bot Studio 插件与运行时扩展包 2026.11.23",
+        "tagName": "bot-studio-plugins-20261123.1",
+        "releaseUrl": "https://github.com/Harzva/bot-studio-plugins/releases/tag/bot-studio-plugins-20261123.1",
+        "publishedAt": "2026-11-23T03:16:23Z",
+        "isFork": false
+      },
+      {
+        "repo": "Harzva/bot-studio-plugins",
+        "repoName": "bot-studio-plugins",
+        "repoUrl": "https://github.com/Harzva/bot-studio-plugins",
+        "description": "Optional game previews and avatar materials for Bot Studio",
+        "language": "Mixed",
+        "assetName": "openbot-virtual-office-0.1.1.tgz",
+        "assetUrl": "https://github.com/Harzva/bot-studio-plugins/releases/download/bot-studio-plugins-20261123.1/openbot-virtual-office-0.1.1.tgz",
+        "size": 291352,
+        "downloadCount": 2,
+        "kind": "Archive",
+        "functionCategory": "General Utilities",
+        "releaseName": "Bot Studio 插件与运行时扩展包 2026.11.23",
+        "tagName": "bot-studio-plugins-20261123.1",
+        "releaseUrl": "https://github.com/Harzva/bot-studio-plugins/releases/tag/bot-studio-plugins-20261123.1",
+        "publishedAt": "2026-11-23T03:16:23Z",
+        "isFork": false
+      },
+      {
+        "repo": "Harzva/bot-studio-plugins",
+        "repoName": "bot-studio-plugins",
+        "repoUrl": "https://github.com/Harzva/bot-studio-plugins",
+        "description": "Optional game previews and avatar materials for Bot Studio",
+        "language": "Mixed",
+        "assetName": "optional-runtime-packs-catalog.json",
+        "assetUrl": "https://github.com/Harzva/bot-studio-plugins/releases/download/bot-studio-plugins-20261123.1/optional-runtime-packs-catalog.json",
+        "size": 15124,
+        "downloadCount": 2,
+        "kind": "Release Asset",
+        "functionCategory": "General Utilities",
+        "releaseName": "Bot Studio 插件与运行时扩展包 2026.11.23",
+        "tagName": "bot-studio-plugins-20261123.1",
+        "releaseUrl": "https://github.com/Harzva/bot-studio-plugins/releases/tag/bot-studio-plugins-20261123.1",
+        "publishedAt": "2026-11-23T03:16:23Z",
+        "isFork": false
+      },
+      {
+        "repo": "Harzva/bot-studio-plugins",
+        "repoName": "bot-studio-plugins",
+        "repoUrl": "https://github.com/Harzva/bot-studio-plugins",
+        "description": "Optional game previews and avatar materials for Bot Studio",
+        "language": "Mixed",
+        "assetName": "optional-runtime-packs-release.json",
+        "assetUrl": "https://github.com/Harzva/bot-studio-plugins/releases/download/bot-studio-plugins-20261123.1/optional-runtime-packs-release.json",
+        "size": 5434,
+        "downloadCount": 2,
+        "kind": "Release Asset",
+        "functionCategory": "General Utilities",
+        "releaseName": "Bot Studio 插件与运行时扩展包 2026.11.23",
+        "tagName": "bot-studio-plugins-20261123.1",
+        "releaseUrl": "https://github.com/Harzva/bot-studio-plugins/releases/tag/bot-studio-plugins-20261123.1",
+        "publishedAt": "2026-11-23T03:16:23Z",
         "isFork": false
       },
       {
@@ -7189,15 +7956,15 @@
         "description": "Optional game previews and avatar materials for Bot Studio",
         "language": "Mixed",
         "assetName": "SHA256SUMS.txt",
-        "assetUrl": "https://github.com/Harzva/bot-studio-plugins/releases/download/bot-studio-plugins-20261120.2/SHA256SUMS.txt",
-        "size": 399,
-        "downloadCount": 1,
+        "assetUrl": "https://github.com/Harzva/bot-studio-plugins/releases/download/bot-studio-plugins-20261123.1/SHA256SUMS.txt",
+        "size": 2035,
+        "downloadCount": 2,
         "kind": "Release Asset",
         "functionCategory": "General Utilities",
-        "releaseName": "Bot Studio 桌面插件 2026.11.20",
-        "tagName": "bot-studio-plugins-20261120.2",
-        "releaseUrl": "https://github.com/Harzva/bot-studio-plugins/releases/tag/bot-studio-plugins-20261120.2",
-        "publishedAt": "2026-11-20T00:54:04Z",
+        "releaseName": "Bot Studio 插件与运行时扩展包 2026.11.23",
+        "tagName": "bot-studio-plugins-20261123.1",
+        "releaseUrl": "https://github.com/Harzva/bot-studio-plugins/releases/tag/bot-studio-plugins-20261123.1",
+        "publishedAt": "2026-11-23T03:16:23Z",
         "isFork": false
       },
       {
@@ -7263,7 +8030,7 @@
         "assetName": "harzva-dsh-session-folders-0.1.0.tgz",
         "assetUrl": "https://github.com/Harzva/dsh-session-folders/releases/download/v0.1.0/harzva-dsh-session-folders-0.1.0.tgz",
         "size": 5503,
-        "downloadCount": 22,
+        "downloadCount": 23,
         "kind": "Archive",
         "functionCategory": "General Utilities",
         "releaseName": "dsh-session-folders v0.1.0",
@@ -7281,7 +8048,7 @@
         "assetName": "harness-flow-dsh-voice-0.1.0.tgz",
         "assetUrl": "https://github.com/Harzva/dsh-voice/releases/download/v0.1.0/harness-flow-dsh-voice-0.1.0.tgz",
         "size": 47395,
-        "downloadCount": 17,
+        "downloadCount": 18,
         "kind": "Archive",
         "functionCategory": "General Utilities",
         "releaseName": "dsh-voice v0.1.0",
@@ -7299,7 +8066,7 @@
         "assetName": "dsh-control-plane-0.1.0.tgz",
         "assetUrl": "https://github.com/Harzva/dsh-control-plane/releases/download/v0.1.0/dsh-control-plane-0.1.0.tgz",
         "size": 106806,
-        "downloadCount": 4733,
+        "downloadCount": 4789,
         "kind": "Archive",
         "functionCategory": "General Utilities",
         "releaseName": "dsh-control-plane v0.1.0",
@@ -7335,7 +8102,7 @@
         "assetName": "harness-flow-dsh-uvm-0.1.0-alpha.1.tgz",
         "assetUrl": "https://github.com/Harzva/dsh-uvm/releases/download/v0.1.0-alpha.1/harness-flow-dsh-uvm-0.1.0-alpha.1.tgz",
         "size": 21023,
-        "downloadCount": 5646,
+        "downloadCount": 5702,
         "kind": "Archive",
         "functionCategory": "General Utilities",
         "releaseName": "dsh-uvm v0.1.0-alpha.1",
@@ -7358,7 +8125,7 @@
       "primaryLanguage": {
         "name": "TypeScript"
       },
-      "pushedAt": "2026-11-22T07:59:17Z",
+      "pushedAt": "2026-11-23T09:05:00Z",
       "updatedAt": "2026-11-12T09:19:57Z",
       "createdAt": "2026-05-12T09:49:47Z",
       "defaultBranchRef": {
@@ -8292,7 +9059,7 @@
       "primaryLanguage": {
         "name": "Python"
       },
-      "pushedAt": "2026-11-21T11:05:09Z",
+      "pushedAt": "2026-11-22T11:27:56Z",
       "updatedAt": "2026-11-12T12:15:33Z",
       "createdAt": "2026-05-14T09:29:39Z",
       "defaultBranchRef": {
@@ -8326,7 +9093,7 @@
       "primaryLanguage": {
         "name": "Python"
       },
-      "pushedAt": "2026-11-22T11:23:27Z",
+      "pushedAt": "2026-11-23T12:37:39Z",
       "updatedAt": "2026-11-12T12:07:09Z",
       "createdAt": "2026-05-14T09:27:13Z",
       "defaultBranchRef": {
@@ -8360,7 +9127,7 @@
       "primaryLanguage": {
         "name": "Python"
       },
-      "pushedAt": "2026-11-21T11:16:50Z",
+      "pushedAt": "2026-11-22T11:35:35Z",
       "updatedAt": "2026-11-12T12:26:19Z",
       "createdAt": "2026-05-14T09:29:34Z",
       "defaultBranchRef": {
@@ -8394,7 +9161,7 @@
       "primaryLanguage": {
         "name": "Python"
       },
-      "pushedAt": "2026-11-21T11:01:09Z",
+      "pushedAt": "2026-11-22T11:24:54Z",
       "updatedAt": "2026-11-12T12:09:21Z",
       "createdAt": "2026-05-14T09:29:45Z",
       "defaultBranchRef": {
@@ -8545,7 +9312,7 @@
       "primaryLanguage": {
         "name": "TypeScript"
       },
-      "pushedAt": "2026-11-22T07:11:10Z",
+      "pushedAt": "2026-11-23T07:57:11Z",
       "updatedAt": "2026-11-15T16:07:43Z",
       "createdAt": "2026-04-01T03:55:26Z",
       "defaultBranchRef": {
@@ -9146,7 +9913,7 @@
       "isArchived": false,
       "isFork": false,
       "primaryLanguage": null,
-      "pushedAt": "2026-11-20T00:54:03Z",
+      "pushedAt": "2026-11-23T03:16:23Z",
       "updatedAt": "2026-11-19T23:19:52Z",
       "createdAt": "2026-11-19T23:19:50Z",
       "defaultBranchRef": {
@@ -9161,46 +9928,158 @@
         "enabled": false
       },
       "latestRelease": {
-        "name": "Bot Studio 桌面插件 2026.11.20",
-        "tagName": "bot-studio-plugins-20261120.2",
-        "url": "https://github.com/Harzva/bot-studio-plugins/releases/tag/bot-studio-plugins-20261120.2",
-        "publishedAt": "2026-11-20T00:54:04Z",
+        "name": "Bot Studio 插件与运行时扩展包 2026.11.23",
+        "tagName": "bot-studio-plugins-20261123.1",
+        "url": "https://github.com/Harzva/bot-studio-plugins/releases/tag/bot-studio-plugins-20261123.1",
+        "publishedAt": "2026-11-23T03:16:23Z",
         "prerelease": false,
         "draft": false,
         "assets": [
           {
-            "name": "desktop-plugin-catalog.json",
-            "url": "https://github.com/Harzva/bot-studio-plugins/releases/download/bot-studio-plugins-20261120.2/desktop-plugin-catalog.json",
-            "size": 61924,
-            "downloadCount": 7,
+            "name": "desktop-plugin-catalog-algorithm-lab.json",
+            "url": "https://github.com/Harzva/bot-studio-plugins/releases/download/bot-studio-plugins-20261123.1/desktop-plugin-catalog-algorithm-lab.json",
+            "size": 18316,
+            "downloadCount": 12,
             "contentType": "application/json"
           },
           {
-            "name": "openbot-dsh-desktop-capture-0.3.2.tgz",
-            "url": "https://github.com/Harzva/bot-studio-plugins/releases/download/bot-studio-plugins-20261120.2/openbot-dsh-desktop-capture-0.3.2.tgz",
-            "size": 245759,
-            "downloadCount": 4,
+            "name": "desktop-plugin-catalog-botbar.json",
+            "url": "https://github.com/Harzva/bot-studio-plugins/releases/download/bot-studio-plugins-20261123.1/desktop-plugin-catalog-botbar.json",
+            "size": 3658,
+            "downloadCount": 12,
+            "contentType": "application/json"
+          },
+          {
+            "name": "desktop-plugin-catalog-mac-computer.json",
+            "url": "https://github.com/Harzva/bot-studio-plugins/releases/download/bot-studio-plugins-20261123.1/desktop-plugin-catalog-mac-computer.json",
+            "size": 5310,
+            "downloadCount": 12,
+            "contentType": "application/json"
+          },
+          {
+            "name": "desktop-plugin-catalog-nas.json",
+            "url": "https://github.com/Harzva/bot-studio-plugins/releases/download/bot-studio-plugins-20261123.1/desktop-plugin-catalog-nas.json",
+            "size": 4844,
+            "downloadCount": 12,
+            "contentType": "application/json"
+          },
+          {
+            "name": "desktop-plugin-catalog-openscreen.json",
+            "url": "https://github.com/Harzva/bot-studio-plugins/releases/download/bot-studio-plugins-20261123.1/desktop-plugin-catalog-openscreen.json",
+            "size": 2888,
+            "downloadCount": 12,
+            "contentType": "application/json"
+          },
+          {
+            "name": "desktop-plugin-catalog.json",
+            "url": "https://github.com/Harzva/bot-studio-plugins/releases/download/bot-studio-plugins-20261123.1/desktop-plugin-catalog.json",
+            "size": 85612,
+            "downloadCount": 11,
+            "contentType": "application/json"
+          },
+          {
+            "name": "openbot-algorithm-lab-0.1.0.tgz",
+            "url": "https://github.com/Harzva/bot-studio-plugins/releases/download/bot-studio-plugins-20261123.1/openbot-algorithm-lab-0.1.0.tgz",
+            "size": 5712,
+            "downloadCount": 11,
             "contentType": "application/x-gtar"
           },
           {
-            "name": "openbot-dsh-superterminal-0.2.2.tgz",
-            "url": "https://github.com/Harzva/bot-studio-plugins/releases/download/bot-studio-plugins-20261120.2/openbot-dsh-superterminal-0.2.2.tgz",
+            "name": "openbot-botbar-0.1.0.tgz",
+            "url": "https://github.com/Harzva/bot-studio-plugins/releases/download/bot-studio-plugins-20261123.1/openbot-botbar-0.1.0.tgz",
+            "size": 2670,
+            "downloadCount": 3,
+            "contentType": "application/x-gtar"
+          },
+          {
+            "name": "openbot-dsh-desktop-capture-0.3.3.tgz",
+            "url": "https://github.com/Harzva/bot-studio-plugins/releases/download/bot-studio-plugins-20261123.1/openbot-dsh-desktop-capture-0.3.3.tgz",
+            "size": 245757,
+            "downloadCount": 2,
+            "contentType": "application/x-gtar"
+          },
+          {
+            "name": "openbot-dsh-nas-0.1.0.tgz",
+            "url": "https://github.com/Harzva/bot-studio-plugins/releases/download/bot-studio-plugins-20261123.1/openbot-dsh-nas-0.1.0.tgz",
+            "size": 1589,
+            "downloadCount": 2,
+            "contentType": "application/x-gtar"
+          },
+          {
+            "name": "openbot-dsh-openscreen-0.2.0.tgz",
+            "url": "https://github.com/Harzva/bot-studio-plugins/releases/download/bot-studio-plugins-20261123.1/openbot-dsh-openscreen-0.2.0.tgz",
+            "size": 2110,
+            "downloadCount": 2,
+            "contentType": "application/x-gtar"
+          },
+          {
+            "name": "openbot-dsh-superterminal-0.2.3.tgz",
+            "url": "https://github.com/Harzva/bot-studio-plugins/releases/download/bot-studio-plugins-20261123.1/openbot-dsh-superterminal-0.2.3.tgz",
             "size": 154264,
-            "downloadCount": 4,
+            "downloadCount": 2,
             "contentType": "application/x-gtar"
           },
           {
-            "name": "openbot-virtual-office-0.1.0.tgz",
-            "url": "https://github.com/Harzva/bot-studio-plugins/releases/download/bot-studio-plugins-20261120.2/openbot-virtual-office-0.1.0.tgz",
-            "size": 291349,
-            "downloadCount": 4,
+            "name": "openbot-mac-computer-0.3.0.tgz",
+            "url": "https://github.com/Harzva/bot-studio-plugins/releases/download/bot-studio-plugins-20261123.1/openbot-mac-computer-0.3.0.tgz",
+            "size": 611869,
+            "downloadCount": 2,
             "contentType": "application/x-gtar"
+          },
+          {
+            "name": "openbot-pack-browser-automation-1.62.1.tgz",
+            "url": "https://github.com/Harzva/bot-studio-plugins/releases/download/bot-studio-plugins-20261123.1/openbot-pack-browser-automation-1.62.1.tgz",
+            "size": 2770825,
+            "downloadCount": 3,
+            "contentType": "application/x-gtar"
+          },
+          {
+            "name": "openbot-pack-cua-0.38.0-darwin-arm64.tgz",
+            "url": "https://github.com/Harzva/bot-studio-plugins/releases/download/bot-studio-plugins-20261123.1/openbot-pack-cua-0.38.0-darwin-arm64.tgz",
+            "size": 51590968,
+            "downloadCount": 3,
+            "contentType": "application/x-gtar"
+          },
+          {
+            "name": "openbot-pack-feishu-channel-1.76.0.tgz",
+            "url": "https://github.com/Harzva/bot-studio-plugins/releases/download/bot-studio-plugins-20261123.1/openbot-pack-feishu-channel-1.76.0.tgz",
+            "size": 1741835,
+            "downloadCount": 3,
+            "contentType": "application/x-gtar"
+          },
+          {
+            "name": "openbot-pack-local-voice-1.13.8-darwin-arm64.tgz",
+            "url": "https://github.com/Harzva/bot-studio-plugins/releases/download/bot-studio-plugins-20261123.1/openbot-pack-local-voice-1.13.8-darwin-arm64.tgz",
+            "size": 10147338,
+            "downloadCount": 10,
+            "contentType": "application/x-gtar"
+          },
+          {
+            "name": "openbot-virtual-office-0.1.1.tgz",
+            "url": "https://github.com/Harzva/bot-studio-plugins/releases/download/bot-studio-plugins-20261123.1/openbot-virtual-office-0.1.1.tgz",
+            "size": 291352,
+            "downloadCount": 2,
+            "contentType": "application/x-gtar"
+          },
+          {
+            "name": "optional-runtime-packs-catalog.json",
+            "url": "https://github.com/Harzva/bot-studio-plugins/releases/download/bot-studio-plugins-20261123.1/optional-runtime-packs-catalog.json",
+            "size": 15124,
+            "downloadCount": 2,
+            "contentType": "application/json"
+          },
+          {
+            "name": "optional-runtime-packs-release.json",
+            "url": "https://github.com/Harzva/bot-studio-plugins/releases/download/bot-studio-plugins-20261123.1/optional-runtime-packs-release.json",
+            "size": 5434,
+            "downloadCount": 2,
+            "contentType": "application/json"
           },
           {
             "name": "SHA256SUMS.txt",
-            "url": "https://github.com/Harzva/bot-studio-plugins/releases/download/bot-studio-plugins-20261120.2/SHA256SUMS.txt",
-            "size": 399,
-            "downloadCount": 1,
+            "url": "https://github.com/Harzva/bot-studio-plugins/releases/download/bot-studio-plugins-20261123.1/SHA256SUMS.txt",
+            "size": 2035,
+            "downloadCount": 2,
             "contentType": "text/plain; charset=utf-8"
           }
         ]
@@ -9291,7 +10170,7 @@
             "name": "dsh-agent-project-sync-0.1.0.tgz",
             "url": "https://github.com/Harzva/dsh-agent-project-sync/releases/download/v0.1.0/dsh-agent-project-sync-0.1.0.tgz",
             "size": 14057,
-            "downloadCount": 5598,
+            "downloadCount": 5654,
             "contentType": "application/x-gtar"
           }
         ]
@@ -9336,7 +10215,7 @@
             "name": "dsh-cli-store-0.3.0.tgz",
             "url": "https://github.com/Harzva/dsh-cli-store/releases/download/v0.3.0/dsh-cli-store-0.3.0.tgz",
             "size": 24798,
-            "downloadCount": 5405,
+            "downloadCount": 5461,
             "contentType": "application/x-gtar"
           }
         ]
@@ -9381,7 +10260,7 @@
             "name": "dsh-control-plane-0.1.0.tgz",
             "url": "https://github.com/Harzva/dsh-control-plane/releases/download/v0.1.0/dsh-control-plane-0.1.0.tgz",
             "size": 106806,
-            "downloadCount": 4733,
+            "downloadCount": 4789,
             "contentType": "application/x-gtar"
           }
         ]
@@ -9640,7 +10519,7 @@
             "name": "harness-flow-dsh-obsidian-0.1.0-alpha.0.tgz",
             "url": "https://github.com/Harzva/dsh-obsidian/releases/download/v0.1.0-alpha.0/harness-flow-dsh-obsidian-0.1.0-alpha.0.tgz",
             "size": 21393,
-            "downloadCount": 5112,
+            "downloadCount": 5168,
             "contentType": "application/x-gtar"
           }
         ]
@@ -9685,7 +10564,7 @@
             "name": "harzva-dsh-session-folders-0.1.0.tgz",
             "url": "https://github.com/Harzva/dsh-session-folders/releases/download/v0.1.0/harzva-dsh-session-folders-0.1.0.tgz",
             "size": 5503,
-            "downloadCount": 22,
+            "downloadCount": 23,
             "contentType": "application/x-gtar"
           }
         ]
@@ -9730,7 +10609,7 @@
             "name": "harness-flow-dsh-uvm-0.1.0-alpha.1.tgz",
             "url": "https://github.com/Harzva/dsh-uvm/releases/download/v0.1.0-alpha.1/harness-flow-dsh-uvm-0.1.0-alpha.1.tgz",
             "size": 21023,
-            "downloadCount": 5646,
+            "downloadCount": 5702,
             "contentType": "application/x-gtar"
           }
         ]
@@ -9775,7 +10654,7 @@
             "name": "harness-flow-dsh-voice-0.1.0.tgz",
             "url": "https://github.com/Harzva/dsh-voice/releases/download/v0.1.0/harness-flow-dsh-voice-0.1.0.tgz",
             "size": 47395,
-            "downloadCount": 17,
+            "downloadCount": 18,
             "contentType": "application/x-gtar"
           }
         ]
@@ -10020,7 +10899,7 @@
       "primaryLanguage": {
         "name": "TypeScript"
       },
-      "pushedAt": "2026-11-22T07:11:10Z",
+      "pushedAt": "2026-11-23T07:57:11Z",
       "updatedAt": "2026-11-15T16:07:43Z",
       "createdAt": "2026-04-01T03:55:26Z",
       "defaultBranchRef": {
@@ -10060,6 +10939,49 @@
         "prerelease": false,
         "draft": false,
         "assets": []
+      }
+    },
+    {
+      "name": "macos-gemini-antigravity-split-proxy",
+      "nameWithOwner": "Harzva/macos-gemini-antigravity-split-proxy",
+      "url": "https://github.com/Harzva/macos-gemini-antigravity-split-proxy",
+      "description": "macOS 上用 ProxyBridge 和 Clash Party 为 Gemini、Antigravity 按应用分流，无需开启 TUN。",
+      "isPrivate": false,
+      "isArchived": false,
+      "isFork": false,
+      "primaryLanguage": {
+        "name": "Shell"
+      },
+      "pushedAt": "2026-11-23T03:28:52Z",
+      "updatedAt": "2026-11-23T03:28:39Z",
+      "createdAt": "2026-11-23T03:27:06Z",
+      "defaultBranchRef": {
+        "name": "main"
+      },
+      "homepageUrl": "",
+      "stargazerCount": 0,
+      "forkCount": 0,
+      "repositoryTopics": [],
+      "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/macos-gemini-antigravity-split-proxy",
+      "pages": {
+        "enabled": false
+      },
+      "latestRelease": {
+        "name": "v1.0.0 · macOS 应用分流配置",
+        "tagName": "v1.0.0",
+        "url": "https://github.com/Harzva/macos-gemini-antigravity-split-proxy/releases/tag/v1.0.0",
+        "publishedAt": "2026-11-23T03:28:52Z",
+        "prerelease": false,
+        "draft": false,
+        "assets": [
+          {
+            "name": "Gemini-Antigravity.pbprofile",
+            "url": "https://github.com/Harzva/macos-gemini-antigravity-split-proxy/releases/download/v1.0.0/Gemini-Antigravity.pbprofile",
+            "size": 1425,
+            "downloadCount": 3,
+            "contentType": "application/octet-stream"
+          }
+        ]
       }
     },
     {
@@ -10379,7 +11301,7 @@
       "isArchived": false,
       "isFork": false,
       "primaryLanguage": null,
-      "pushedAt": "2026-11-20T00:54:03Z",
+      "pushedAt": "2026-11-23T03:16:23Z",
       "updatedAt": "2026-11-19T23:19:52Z",
       "createdAt": "2026-11-19T23:19:50Z",
       "defaultBranchRef": {
@@ -10394,46 +11316,158 @@
         "enabled": false
       },
       "latestRelease": {
-        "name": "Bot Studio 桌面插件 2026.11.20",
-        "tagName": "bot-studio-plugins-20261120.2",
-        "url": "https://github.com/Harzva/bot-studio-plugins/releases/tag/bot-studio-plugins-20261120.2",
-        "publishedAt": "2026-11-20T00:54:04Z",
+        "name": "Bot Studio 插件与运行时扩展包 2026.11.23",
+        "tagName": "bot-studio-plugins-20261123.1",
+        "url": "https://github.com/Harzva/bot-studio-plugins/releases/tag/bot-studio-plugins-20261123.1",
+        "publishedAt": "2026-11-23T03:16:23Z",
         "prerelease": false,
         "draft": false,
         "assets": [
           {
-            "name": "desktop-plugin-catalog.json",
-            "url": "https://github.com/Harzva/bot-studio-plugins/releases/download/bot-studio-plugins-20261120.2/desktop-plugin-catalog.json",
-            "size": 61924,
-            "downloadCount": 7,
+            "name": "desktop-plugin-catalog-algorithm-lab.json",
+            "url": "https://github.com/Harzva/bot-studio-plugins/releases/download/bot-studio-plugins-20261123.1/desktop-plugin-catalog-algorithm-lab.json",
+            "size": 18316,
+            "downloadCount": 12,
             "contentType": "application/json"
           },
           {
-            "name": "openbot-dsh-desktop-capture-0.3.2.tgz",
-            "url": "https://github.com/Harzva/bot-studio-plugins/releases/download/bot-studio-plugins-20261120.2/openbot-dsh-desktop-capture-0.3.2.tgz",
-            "size": 245759,
-            "downloadCount": 4,
+            "name": "desktop-plugin-catalog-botbar.json",
+            "url": "https://github.com/Harzva/bot-studio-plugins/releases/download/bot-studio-plugins-20261123.1/desktop-plugin-catalog-botbar.json",
+            "size": 3658,
+            "downloadCount": 12,
+            "contentType": "application/json"
+          },
+          {
+            "name": "desktop-plugin-catalog-mac-computer.json",
+            "url": "https://github.com/Harzva/bot-studio-plugins/releases/download/bot-studio-plugins-20261123.1/desktop-plugin-catalog-mac-computer.json",
+            "size": 5310,
+            "downloadCount": 12,
+            "contentType": "application/json"
+          },
+          {
+            "name": "desktop-plugin-catalog-nas.json",
+            "url": "https://github.com/Harzva/bot-studio-plugins/releases/download/bot-studio-plugins-20261123.1/desktop-plugin-catalog-nas.json",
+            "size": 4844,
+            "downloadCount": 12,
+            "contentType": "application/json"
+          },
+          {
+            "name": "desktop-plugin-catalog-openscreen.json",
+            "url": "https://github.com/Harzva/bot-studio-plugins/releases/download/bot-studio-plugins-20261123.1/desktop-plugin-catalog-openscreen.json",
+            "size": 2888,
+            "downloadCount": 12,
+            "contentType": "application/json"
+          },
+          {
+            "name": "desktop-plugin-catalog.json",
+            "url": "https://github.com/Harzva/bot-studio-plugins/releases/download/bot-studio-plugins-20261123.1/desktop-plugin-catalog.json",
+            "size": 85612,
+            "downloadCount": 11,
+            "contentType": "application/json"
+          },
+          {
+            "name": "openbot-algorithm-lab-0.1.0.tgz",
+            "url": "https://github.com/Harzva/bot-studio-plugins/releases/download/bot-studio-plugins-20261123.1/openbot-algorithm-lab-0.1.0.tgz",
+            "size": 5712,
+            "downloadCount": 11,
             "contentType": "application/x-gtar"
           },
           {
-            "name": "openbot-dsh-superterminal-0.2.2.tgz",
-            "url": "https://github.com/Harzva/bot-studio-plugins/releases/download/bot-studio-plugins-20261120.2/openbot-dsh-superterminal-0.2.2.tgz",
+            "name": "openbot-botbar-0.1.0.tgz",
+            "url": "https://github.com/Harzva/bot-studio-plugins/releases/download/bot-studio-plugins-20261123.1/openbot-botbar-0.1.0.tgz",
+            "size": 2670,
+            "downloadCount": 3,
+            "contentType": "application/x-gtar"
+          },
+          {
+            "name": "openbot-dsh-desktop-capture-0.3.3.tgz",
+            "url": "https://github.com/Harzva/bot-studio-plugins/releases/download/bot-studio-plugins-20261123.1/openbot-dsh-desktop-capture-0.3.3.tgz",
+            "size": 245757,
+            "downloadCount": 2,
+            "contentType": "application/x-gtar"
+          },
+          {
+            "name": "openbot-dsh-nas-0.1.0.tgz",
+            "url": "https://github.com/Harzva/bot-studio-plugins/releases/download/bot-studio-plugins-20261123.1/openbot-dsh-nas-0.1.0.tgz",
+            "size": 1589,
+            "downloadCount": 2,
+            "contentType": "application/x-gtar"
+          },
+          {
+            "name": "openbot-dsh-openscreen-0.2.0.tgz",
+            "url": "https://github.com/Harzva/bot-studio-plugins/releases/download/bot-studio-plugins-20261123.1/openbot-dsh-openscreen-0.2.0.tgz",
+            "size": 2110,
+            "downloadCount": 2,
+            "contentType": "application/x-gtar"
+          },
+          {
+            "name": "openbot-dsh-superterminal-0.2.3.tgz",
+            "url": "https://github.com/Harzva/bot-studio-plugins/releases/download/bot-studio-plugins-20261123.1/openbot-dsh-superterminal-0.2.3.tgz",
             "size": 154264,
-            "downloadCount": 4,
+            "downloadCount": 2,
             "contentType": "application/x-gtar"
           },
           {
-            "name": "openbot-virtual-office-0.1.0.tgz",
-            "url": "https://github.com/Harzva/bot-studio-plugins/releases/download/bot-studio-plugins-20261120.2/openbot-virtual-office-0.1.0.tgz",
-            "size": 291349,
-            "downloadCount": 4,
+            "name": "openbot-mac-computer-0.3.0.tgz",
+            "url": "https://github.com/Harzva/bot-studio-plugins/releases/download/bot-studio-plugins-20261123.1/openbot-mac-computer-0.3.0.tgz",
+            "size": 611869,
+            "downloadCount": 2,
             "contentType": "application/x-gtar"
+          },
+          {
+            "name": "openbot-pack-browser-automation-1.62.1.tgz",
+            "url": "https://github.com/Harzva/bot-studio-plugins/releases/download/bot-studio-plugins-20261123.1/openbot-pack-browser-automation-1.62.1.tgz",
+            "size": 2770825,
+            "downloadCount": 3,
+            "contentType": "application/x-gtar"
+          },
+          {
+            "name": "openbot-pack-cua-0.38.0-darwin-arm64.tgz",
+            "url": "https://github.com/Harzva/bot-studio-plugins/releases/download/bot-studio-plugins-20261123.1/openbot-pack-cua-0.38.0-darwin-arm64.tgz",
+            "size": 51590968,
+            "downloadCount": 3,
+            "contentType": "application/x-gtar"
+          },
+          {
+            "name": "openbot-pack-feishu-channel-1.76.0.tgz",
+            "url": "https://github.com/Harzva/bot-studio-plugins/releases/download/bot-studio-plugins-20261123.1/openbot-pack-feishu-channel-1.76.0.tgz",
+            "size": 1741835,
+            "downloadCount": 3,
+            "contentType": "application/x-gtar"
+          },
+          {
+            "name": "openbot-pack-local-voice-1.13.8-darwin-arm64.tgz",
+            "url": "https://github.com/Harzva/bot-studio-plugins/releases/download/bot-studio-plugins-20261123.1/openbot-pack-local-voice-1.13.8-darwin-arm64.tgz",
+            "size": 10147338,
+            "downloadCount": 10,
+            "contentType": "application/x-gtar"
+          },
+          {
+            "name": "openbot-virtual-office-0.1.1.tgz",
+            "url": "https://github.com/Harzva/bot-studio-plugins/releases/download/bot-studio-plugins-20261123.1/openbot-virtual-office-0.1.1.tgz",
+            "size": 291352,
+            "downloadCount": 2,
+            "contentType": "application/x-gtar"
+          },
+          {
+            "name": "optional-runtime-packs-catalog.json",
+            "url": "https://github.com/Harzva/bot-studio-plugins/releases/download/bot-studio-plugins-20261123.1/optional-runtime-packs-catalog.json",
+            "size": 15124,
+            "downloadCount": 2,
+            "contentType": "application/json"
+          },
+          {
+            "name": "optional-runtime-packs-release.json",
+            "url": "https://github.com/Harzva/bot-studio-plugins/releases/download/bot-studio-plugins-20261123.1/optional-runtime-packs-release.json",
+            "size": 5434,
+            "downloadCount": 2,
+            "contentType": "application/json"
           },
           {
             "name": "SHA256SUMS.txt",
-            "url": "https://github.com/Harzva/bot-studio-plugins/releases/download/bot-studio-plugins-20261120.2/SHA256SUMS.txt",
-            "size": 399,
-            "downloadCount": 1,
+            "url": "https://github.com/Harzva/bot-studio-plugins/releases/download/bot-studio-plugins-20261123.1/SHA256SUMS.txt",
+            "size": 2035,
+            "downloadCount": 2,
             "contentType": "text/plain; charset=utf-8"
           }
         ]
@@ -10729,7 +11763,7 @@
             "name": "dsh-agent-project-sync-0.1.0.tgz",
             "url": "https://github.com/Harzva/dsh-agent-project-sync/releases/download/v0.1.0/dsh-agent-project-sync-0.1.0.tgz",
             "size": 14057,
-            "downloadCount": 5598,
+            "downloadCount": 5654,
             "contentType": "application/x-gtar"
           }
         ]
@@ -10774,7 +11808,7 @@
             "name": "dsh-cli-store-0.3.0.tgz",
             "url": "https://github.com/Harzva/dsh-cli-store/releases/download/v0.3.0/dsh-cli-store-0.3.0.tgz",
             "size": 24798,
-            "downloadCount": 5405,
+            "downloadCount": 5461,
             "contentType": "application/x-gtar"
           }
         ]
@@ -10819,7 +11853,7 @@
             "name": "dsh-control-plane-0.1.0.tgz",
             "url": "https://github.com/Harzva/dsh-control-plane/releases/download/v0.1.0/dsh-control-plane-0.1.0.tgz",
             "size": 106806,
-            "downloadCount": 4733,
+            "downloadCount": 4789,
             "contentType": "application/x-gtar"
           }
         ]
@@ -11063,7 +12097,7 @@
             "name": "harness-flow-dsh-obsidian-0.1.0-alpha.0.tgz",
             "url": "https://github.com/Harzva/dsh-obsidian/releases/download/v0.1.0-alpha.0/harness-flow-dsh-obsidian-0.1.0-alpha.0.tgz",
             "size": 21393,
-            "downloadCount": 5112,
+            "downloadCount": 5168,
             "contentType": "application/x-gtar"
           }
         ]
@@ -11296,7 +12330,7 @@
             "name": "harzva-dsh-session-folders-0.1.0.tgz",
             "url": "https://github.com/Harzva/dsh-session-folders/releases/download/v0.1.0/harzva-dsh-session-folders-0.1.0.tgz",
             "size": 5503,
-            "downloadCount": 22,
+            "downloadCount": 23,
             "contentType": "application/x-gtar"
           }
         ]
@@ -11411,7 +12445,7 @@
             "name": "harness-flow-dsh-uvm-0.1.0-alpha.1.tgz",
             "url": "https://github.com/Harzva/dsh-uvm/releases/download/v0.1.0-alpha.1/harness-flow-dsh-uvm-0.1.0-alpha.1.tgz",
             "size": 21023,
-            "downloadCount": 5646,
+            "downloadCount": 5702,
             "contentType": "application/x-gtar"
           }
         ]
@@ -11456,7 +12490,7 @@
             "name": "harness-flow-dsh-voice-0.1.0.tgz",
             "url": "https://github.com/Harzva/dsh-voice/releases/download/v0.1.0/harness-flow-dsh-voice-0.1.0.tgz",
             "size": 47395,
-            "downloadCount": 17,
+            "downloadCount": 18,
             "contentType": "application/x-gtar"
           }
         ]
@@ -11758,7 +12792,7 @@
       "primaryLanguage": {
         "name": "Python"
       },
-      "pushedAt": "2026-11-21T11:01:09Z",
+      "pushedAt": "2026-11-22T11:24:54Z",
       "updatedAt": "2026-11-12T12:09:21Z",
       "createdAt": "2026-05-14T09:29:45Z",
       "defaultBranchRef": {
