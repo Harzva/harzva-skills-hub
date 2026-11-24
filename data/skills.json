@@ -111,21 +111,21 @@
           "name": "desktop-plugin-catalog-algorithm-lab.json",
           "url": "https://github.com/Harzva/bot-studio-plugins/releases/download/bot-studio-plugins-20261123.1/desktop-plugin-catalog-algorithm-lab.json",
           "size": 18316,
-          "downloadCount": 12,
+          "downloadCount": 13,
           "contentType": "application/json"
         },
         {
           "name": "desktop-plugin-catalog-botbar.json",
           "url": "https://github.com/Harzva/bot-studio-plugins/releases/download/bot-studio-plugins-20261123.1/desktop-plugin-catalog-botbar.json",
           "size": 3658,
-          "downloadCount": 12,
+          "downloadCount": 13,
           "contentType": "application/json"
         },
         {
           "name": "desktop-plugin-catalog-mac-computer.json",
           "url": "https://github.com/Harzva/bot-studio-plugins/releases/download/bot-studio-plugins-20261123.1/desktop-plugin-catalog-mac-computer.json",
           "size": 5310,
-          "downloadCount": 12,
+          "downloadCount": 13,
           "contentType": "application/json"
         },
         {
@@ -547,7 +547,7 @@
           "name": "dsh-agent-project-sync-0.1.0.tgz",
           "url": "https://github.com/Harzva/dsh-agent-project-sync/releases/download/v0.1.0/dsh-agent-project-sync-0.1.0.tgz",
           "size": 14057,
-          "downloadCount": 5654,
+          "downloadCount": 5707,
           "contentType": "application/x-gtar"
         }
       ]
@@ -592,7 +592,7 @@
           "name": "dsh-cli-store-0.3.0.tgz",
           "url": "https://github.com/Harzva/dsh-cli-store/releases/download/v0.3.0/dsh-cli-store-0.3.0.tgz",
           "size": 24798,
-          "downloadCount": 5461,
+          "downloadCount": 5514,
           "contentType": "application/x-gtar"
         }
       ]
@@ -637,7 +637,7 @@
           "name": "dsh-control-plane-0.1.0.tgz",
           "url": "https://github.com/Harzva/dsh-control-plane/releases/download/v0.1.0/dsh-control-plane-0.1.0.tgz",
           "size": 106806,
-          "downloadCount": 4789,
+          "downloadCount": 4842,
           "contentType": "application/x-gtar"
         }
       ]
@@ -881,7 +881,7 @@
           "name": "harness-flow-dsh-obsidian-0.1.0-alpha.0.tgz",
           "url": "https://github.com/Harzva/dsh-obsidian/releases/download/v0.1.0-alpha.0/harness-flow-dsh-obsidian-0.1.0-alpha.0.tgz",
           "size": 21393,
-          "downloadCount": 5168,
+          "downloadCount": 5222,
           "contentType": "application/x-gtar"
         }
       ]
@@ -1229,7 +1229,7 @@
           "name": "harness-flow-dsh-uvm-0.1.0-alpha.1.tgz",
           "url": "https://github.com/Harzva/dsh-uvm/releases/download/v0.1.0-alpha.1/harness-flow-dsh-uvm-0.1.0-alpha.1.tgz",
           "size": 21023,
-          "downloadCount": 5702,
+          "downloadCount": 5755,
           "contentType": "application/x-gtar"
         }
       ]
@@ -1576,7 +1576,7 @@
     "primaryLanguage": {
       "name": "Python"
     },
-    "pushedAt": "2026-11-22T11:24:54Z",
+    "pushedAt": "2026-11-23T12:39:22Z",
     "updatedAt": "2026-11-12T12:09:21Z",
     "createdAt": "2026-05-14T09:29:45Z",
     "defaultBranchRef": {
