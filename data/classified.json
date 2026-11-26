@@ -1,6 +1,6 @@
 {
   "summary": {
-    "generatedAt": "2026-11-25T12:54:55.309895+00:00",
+    "generatedAt": "2026-11-26T12:33:29.880575+00:00",
     "owner": "Harzva",
     "mode": "skills",
     "publicRepositories": 168,
@@ -629,7 +629,7 @@
         "primaryLanguage": {
           "name": "TypeScript"
         },
-        "pushedAt": "2026-11-25T08:55:58Z",
+        "pushedAt": "2026-11-26T08:41:24Z",
         "updatedAt": "2026-11-15T16:07:43Z",
         "createdAt": "2026-04-01T03:55:26Z",
         "defaultBranchRef": {
@@ -682,7 +682,7 @@
         "primaryLanguage": {
           "name": "TypeScript"
         },
-        "pushedAt": "2026-11-24T23:00:55Z",
+        "pushedAt": "2026-11-25T22:31:59Z",
         "updatedAt": "2026-11-12T09:19:57Z",
         "createdAt": "2026-05-12T09:49:47Z",
         "defaultBranchRef": {
@@ -716,7 +716,7 @@
         "primaryLanguage": {
           "name": "Python"
         },
-        "pushedAt": "2026-11-24T13:53:26Z",
+        "pushedAt": "2026-11-25T13:06:37Z",
         "updatedAt": "2026-11-12T12:26:19Z",
         "createdAt": "2026-05-14T09:29:34Z",
         "defaultBranchRef": {
@@ -750,7 +750,7 @@
         "primaryLanguage": {
           "name": "Python"
         },
-        "pushedAt": "2026-11-24T13:46:55Z",
+        "pushedAt": "2026-11-25T12:59:03Z",
         "updatedAt": "2026-11-12T12:15:33Z",
         "createdAt": "2026-05-14T09:29:39Z",
         "defaultBranchRef": {
@@ -1653,7 +1653,7 @@
               "name": "RepoAtlas-v0.6.6-windows-x64.exe",
               "url": "https://github.com/Harzva/RepoAtlas/releases/download/v0.6.6/RepoAtlas-v0.6.6-windows-x64.exe",
               "size": 1945088,
-              "downloadCount": 8,
+              "downloadCount": 9,
               "contentType": "application/x-msdos-program"
             }
           ]
@@ -2034,7 +2034,7 @@
         "primaryLanguage": {
           "name": "Python"
         },
-        "pushedAt": "2026-11-24T13:42:45Z",
+        "pushedAt": "2026-11-25T12:54:56Z",
         "updatedAt": "2026-11-12T12:09:21Z",
         "createdAt": "2026-05-14T09:29:45Z",
         "defaultBranchRef": {
@@ -2770,7 +2770,7 @@
               "name": "dsh-cli-store-0.3.0.tgz",
               "url": "https://github.com/Harzva/dsh-cli-store/releases/download/v0.3.0/dsh-cli-store-0.3.0.tgz",
               "size": 24798,
-              "downloadCount": 5568,
+              "downloadCount": 5614,
               "contentType": "application/x-gtar"
             }
           ]
@@ -2818,7 +2818,7 @@
               "name": "dsh-agent-project-sync-0.1.0.tgz",
               "url": "https://github.com/Harzva/dsh-agent-project-sync/releases/download/v0.1.0/dsh-agent-project-sync-0.1.0.tgz",
               "size": 14057,
-              "downloadCount": 5761,
+              "downloadCount": 5807,
               "contentType": "application/x-gtar"
             }
           ]
@@ -2908,7 +2908,7 @@
               "name": "dsh-control-plane-0.1.0.tgz",
               "url": "https://github.com/Harzva/dsh-control-plane/releases/download/v0.1.0/dsh-control-plane-0.1.0.tgz",
               "size": 106806,
-              "downloadCount": 4896,
+              "downloadCount": 4942,
               "contentType": "application/x-gtar"
             }
           ]
@@ -3029,7 +3029,7 @@
               "name": "harness-flow-dsh-uvm-0.1.0-alpha.1.tgz",
               "url": "https://github.com/Harzva/dsh-uvm/releases/download/v0.1.0-alpha.1/harness-flow-dsh-uvm-0.1.0-alpha.1.tgz",
               "size": 21023,
-              "downloadCount": 5809,
+              "downloadCount": 5858,
               "contentType": "application/x-gtar"
             }
           ]
@@ -3076,7 +3076,7 @@
               "name": "harness-flow-dsh-obsidian-0.1.0-alpha.0.tgz",
               "url": "https://github.com/Harzva/dsh-obsidian/releases/download/v0.1.0-alpha.0/harness-flow-dsh-obsidian-0.1.0-alpha.0.tgz",
               "size": 21393,
-              "downloadCount": 5275,
+              "downloadCount": 5321,
               "contentType": "application/x-gtar"
             }
           ]
@@ -5929,7 +5929,7 @@
       "assetName": "dsh-agent-project-sync-0.1.0.tgz",
       "assetUrl": "https://github.com/Harzva/dsh-agent-project-sync/releases/download/v0.1.0/dsh-agent-project-sync-0.1.0.tgz",
       "size": 14057,
-      "downloadCount": 5761,
+      "downloadCount": 5807,
       "kind": "Archive",
       "functionCategory": "AI Agent Systems",
       "releaseName": "dsh-agent-project-sync v0.1.0",
@@ -6037,7 +6037,7 @@
       "assetName": "dsh-cli-store-0.3.0.tgz",
       "assetUrl": "https://github.com/Harzva/dsh-cli-store/releases/download/v0.3.0/dsh-cli-store-0.3.0.tgz",
       "size": 24798,
-      "downloadCount": 5568,
+      "downloadCount": 5614,
       "kind": "Archive",
       "functionCategory": "CLI and Infrastructure",
       "releaseName": "dsh-cli-store v0.3.0",
@@ -6415,7 +6415,7 @@
       "assetName": "RepoAtlas-v0.6.6-windows-x64.exe",
       "assetUrl": "https://github.com/Harzva/RepoAtlas/releases/download/v0.6.6/RepoAtlas-v0.6.6-windows-x64.exe",
       "size": 1945088,
-      "downloadCount": 8,
+      "downloadCount": 9,
       "kind": "Windows",
       "functionCategory": "Desktop Apps",
       "releaseName": "v0.6.6",
@@ -6667,7 +6667,7 @@
       "assetName": "dsh-control-plane-0.1.0.tgz",
       "assetUrl": "https://github.com/Harzva/dsh-control-plane/releases/download/v0.1.0/dsh-control-plane-0.1.0.tgz",
       "size": 106806,
-      "downloadCount": 4896,
+      "downloadCount": 4942,
       "kind": "Archive",
       "functionCategory": "General Utilities",
       "releaseName": "dsh-control-plane v0.1.0",
@@ -6739,7 +6739,7 @@
       "assetName": "harness-flow-dsh-uvm-0.1.0-alpha.1.tgz",
       "assetUrl": "https://github.com/Harzva/dsh-uvm/releases/download/v0.1.0-alpha.1/harness-flow-dsh-uvm-0.1.0-alpha.1.tgz",
       "size": 21023,
-      "downloadCount": 5809,
+      "downloadCount": 5858,
       "kind": "Archive",
       "functionCategory": "General Utilities",
       "releaseName": "dsh-uvm v0.1.0-alpha.1",
@@ -6811,7 +6811,7 @@
       "assetName": "harness-flow-dsh-obsidian-0.1.0-alpha.0.tgz",
       "assetUrl": "https://github.com/Harzva/dsh-obsidian/releases/download/v0.1.0-alpha.0/harness-flow-dsh-obsidian-0.1.0-alpha.0.tgz",
       "size": 21393,
-      "downloadCount": 5275,
+      "downloadCount": 5321,
       "kind": "Archive",
       "functionCategory": "Learning and Knowledge",
       "releaseName": "dsh-obsidian v0.1.0-alpha.0",
@@ -7356,7 +7356,7 @@
         "assetName": "RepoAtlas-v0.6.6-windows-x64.exe",
         "assetUrl": "https://github.com/Harzva/RepoAtlas/releases/download/v0.6.6/RepoAtlas-v0.6.6-windows-x64.exe",
         "size": 1945088,
-        "downloadCount": 8,
+        "downloadCount": 9,
         "kind": "Windows",
         "functionCategory": "Desktop Apps",
         "releaseName": "v0.6.6",
@@ -7394,7 +7394,7 @@
         "assetName": "dsh-cli-store-0.3.0.tgz",
         "assetUrl": "https://github.com/Harzva/dsh-cli-store/releases/download/v0.3.0/dsh-cli-store-0.3.0.tgz",
         "size": 24798,
-        "downloadCount": 5568,
+        "downloadCount": 5614,
         "kind": "Archive",
         "functionCategory": "CLI and Infrastructure",
         "releaseName": "dsh-cli-store v0.3.0",
@@ -7612,7 +7612,7 @@
         "assetName": "dsh-agent-project-sync-0.1.0.tgz",
         "assetUrl": "https://github.com/Harzva/dsh-agent-project-sync/releases/download/v0.1.0/dsh-agent-project-sync-0.1.0.tgz",
         "size": 14057,
-        "downloadCount": 5761,
+        "downloadCount": 5807,
         "kind": "Archive",
         "functionCategory": "AI Agent Systems",
         "releaseName": "dsh-agent-project-sync v0.1.0",
@@ -7722,7 +7722,7 @@
         "assetName": "harness-flow-dsh-obsidian-0.1.0-alpha.0.tgz",
         "assetUrl": "https://github.com/Harzva/dsh-obsidian/releases/download/v0.1.0-alpha.0/harness-flow-dsh-obsidian-0.1.0-alpha.0.tgz",
         "size": 21393,
-        "downloadCount": 5275,
+        "downloadCount": 5321,
         "kind": "Archive",
         "functionCategory": "Learning and Knowledge",
         "releaseName": "dsh-obsidian v0.1.0-alpha.0",
@@ -8066,7 +8066,7 @@
         "assetName": "dsh-control-plane-0.1.0.tgz",
         "assetUrl": "https://github.com/Harzva/dsh-control-plane/releases/download/v0.1.0/dsh-control-plane-0.1.0.tgz",
         "size": 106806,
-        "downloadCount": 4896,
+        "downloadCount": 4942,
         "kind": "Archive",
         "functionCategory": "General Utilities",
         "releaseName": "dsh-control-plane v0.1.0",
@@ -8102,7 +8102,7 @@
         "assetName": "harness-flow-dsh-uvm-0.1.0-alpha.1.tgz",
         "assetUrl": "https://github.com/Harzva/dsh-uvm/releases/download/v0.1.0-alpha.1/harness-flow-dsh-uvm-0.1.0-alpha.1.tgz",
         "size": 21023,
-        "downloadCount": 5809,
+        "downloadCount": 5858,
         "kind": "Archive",
         "functionCategory": "General Utilities",
         "releaseName": "dsh-uvm v0.1.0-alpha.1",
@@ -8125,7 +8125,7 @@
       "primaryLanguage": {
         "name": "TypeScript"
       },
-      "pushedAt": "2026-11-24T23:00:55Z",
+      "pushedAt": "2026-11-25T22:31:59Z",
       "updatedAt": "2026-11-12T09:19:57Z",
       "createdAt": "2026-05-12T09:49:47Z",
       "defaultBranchRef": {
@@ -9059,7 +9059,7 @@
       "primaryLanguage": {
         "name": "Python"
       },
-      "pushedAt": "2026-11-24T13:46:55Z",
+      "pushedAt": "2026-11-25T12:59:03Z",
       "updatedAt": "2026-11-12T12:15:33Z",
       "createdAt": "2026-05-14T09:29:39Z",
       "defaultBranchRef": {
@@ -9127,7 +9127,7 @@
       "primaryLanguage": {
         "name": "Python"
       },
-      "pushedAt": "2026-11-24T13:53:26Z",
+      "pushedAt": "2026-11-25T13:06:37Z",
       "updatedAt": "2026-11-12T12:26:19Z",
       "createdAt": "2026-05-14T09:29:34Z",
       "defaultBranchRef": {
@@ -9161,7 +9161,7 @@
       "primaryLanguage": {
         "name": "Python"
       },
-      "pushedAt": "2026-11-24T13:42:45Z",
+      "pushedAt": "2026-11-25T12:54:56Z",
       "updatedAt": "2026-11-12T12:09:21Z",
       "createdAt": "2026-05-14T09:29:45Z",
       "defaultBranchRef": {
@@ -9312,7 +9312,7 @@
       "primaryLanguage": {
         "name": "TypeScript"
       },
-      "pushedAt": "2026-11-25T08:55:58Z",
+      "pushedAt": "2026-11-26T08:41:24Z",
       "updatedAt": "2026-11-15T16:07:43Z",
       "createdAt": "2026-04-01T03:55:26Z",
       "defaultBranchRef": {
@@ -9650,7 +9650,7 @@
             "name": "RepoAtlas-v0.6.6-windows-x64.exe",
             "url": "https://github.com/Harzva/RepoAtlas/releases/download/v0.6.6/RepoAtlas-v0.6.6-windows-x64.exe",
             "size": 1945088,
-            "downloadCount": 8,
+            "downloadCount": 9,
             "contentType": "application/x-msdos-program"
           }
         ]
@@ -10170,7 +10170,7 @@
             "name": "dsh-agent-project-sync-0.1.0.tgz",
             "url": "https://github.com/Harzva/dsh-agent-project-sync/releases/download/v0.1.0/dsh-agent-project-sync-0.1.0.tgz",
             "size": 14057,
-            "downloadCount": 5761,
+            "downloadCount": 5807,
             "contentType": "application/x-gtar"
           }
         ]
@@ -10215,7 +10215,7 @@
             "name": "dsh-cli-store-0.3.0.tgz",
             "url": "https://github.com/Harzva/dsh-cli-store/releases/download/v0.3.0/dsh-cli-store-0.3.0.tgz",
             "size": 24798,
-            "downloadCount": 5568,
+            "downloadCount": 5614,
             "contentType": "application/x-gtar"
           }
         ]
@@ -10260,7 +10260,7 @@
             "name": "dsh-control-plane-0.1.0.tgz",
             "url": "https://github.com/Harzva/dsh-control-plane/releases/download/v0.1.0/dsh-control-plane-0.1.0.tgz",
             "size": 106806,
-            "downloadCount": 4896,
+            "downloadCount": 4942,
             "contentType": "application/x-gtar"
           }
         ]
@@ -10519,7 +10519,7 @@
             "name": "harness-flow-dsh-obsidian-0.1.0-alpha.0.tgz",
             "url": "https://github.com/Harzva/dsh-obsidian/releases/download/v0.1.0-alpha.0/harness-flow-dsh-obsidian-0.1.0-alpha.0.tgz",
             "size": 21393,
-            "downloadCount": 5275,
+            "downloadCount": 5321,
             "contentType": "application/x-gtar"
           }
         ]
@@ -10609,7 +10609,7 @@
             "name": "harness-flow-dsh-uvm-0.1.0-alpha.1.tgz",
             "url": "https://github.com/Harzva/dsh-uvm/releases/download/v0.1.0-alpha.1/harness-flow-dsh-uvm-0.1.0-alpha.1.tgz",
             "size": 21023,
-            "downloadCount": 5809,
+            "downloadCount": 5858,
             "contentType": "application/x-gtar"
           }
         ]
@@ -10899,7 +10899,7 @@
       "primaryLanguage": {
         "name": "TypeScript"
       },
-      "pushedAt": "2026-11-25T08:55:58Z",
+      "pushedAt": "2026-11-26T08:41:24Z",
       "updatedAt": "2026-11-15T16:07:43Z",
       "createdAt": "2026-04-01T03:55:26Z",
       "defaultBranchRef": {
@@ -11207,7 +11207,7 @@
             "name": "RepoAtlas-v0.6.6-windows-x64.exe",
             "url": "https://github.com/Harzva/RepoAtlas/releases/download/v0.6.6/RepoAtlas-v0.6.6-windows-x64.exe",
             "size": 1945088,
-            "downloadCount": 8,
+            "downloadCount": 9,
             "contentType": "application/x-msdos-program"
           }
         ]
@@ -11763,7 +11763,7 @@
             "name": "dsh-agent-project-sync-0.1.0.tgz",
             "url": "https://github.com/Harzva/dsh-agent-project-sync/releases/download/v0.1.0/dsh-agent-project-sync-0.1.0.tgz",
             "size": 14057,
-            "downloadCount": 5761,
+            "downloadCount": 5807,
             "contentType": "application/x-gtar"
           }
         ]
@@ -11808,7 +11808,7 @@
             "name": "dsh-cli-store-0.3.0.tgz",
             "url": "https://github.com/Harzva/dsh-cli-store/releases/download/v0.3.0/dsh-cli-store-0.3.0.tgz",
             "size": 24798,
-            "downloadCount": 5568,
+            "downloadCount": 5614,
             "contentType": "application/x-gtar"
           }
         ]
@@ -11853,7 +11853,7 @@
             "name": "dsh-control-plane-0.1.0.tgz",
             "url": "https://github.com/Harzva/dsh-control-plane/releases/download/v0.1.0/dsh-control-plane-0.1.0.tgz",
             "size": 106806,
-            "downloadCount": 4896,
+            "downloadCount": 4942,
             "contentType": "application/x-gtar"
           }
         ]
@@ -12097,7 +12097,7 @@
             "name": "harness-flow-dsh-obsidian-0.1.0-alpha.0.tgz",
             "url": "https://github.com/Harzva/dsh-obsidian/releases/download/v0.1.0-alpha.0/harness-flow-dsh-obsidian-0.1.0-alpha.0.tgz",
             "size": 21393,
-            "downloadCount": 5275,
+            "downloadCount": 5321,
             "contentType": "application/x-gtar"
           }
         ]
@@ -12445,7 +12445,7 @@
             "name": "harness-flow-dsh-uvm-0.1.0-alpha.1.tgz",
             "url": "https://github.com/Harzva/dsh-uvm/releases/download/v0.1.0-alpha.1/harness-flow-dsh-uvm-0.1.0-alpha.1.tgz",
             "size": 21023,
-            "downloadCount": 5809,
+            "downloadCount": 5858,
             "contentType": "application/x-gtar"
           }
         ]
@@ -12792,7 +12792,7 @@
       "primaryLanguage": {
         "name": "Python"
       },
-      "pushedAt": "2026-11-24T13:42:45Z",
+      "pushedAt": "2026-11-25T12:54:56Z",
       "updatedAt": "2026-11-12T12:09:21Z",
       "createdAt": "2026-05-14T09:29:45Z",
       "defaultBranchRef": {
